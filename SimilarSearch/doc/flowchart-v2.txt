@@ -1,0 +1,36 @@
+
+#Cleaning Data, 
+#especially for Solr content with a lot of web descriptions on the top.
+==>clean
+
+#Segments using Jieba
+==>segments
+
+#Merge Solr and Non Solr data
+Merge Solr and Non Solr
+Generate summary
+Generate signature vec
+==> merged
+
+#Clean the title
+Remove site specific information
+
+#Generate summary using title and content
+Split content into sentences
+Find the similarity between title and each sentence
+Find the top N (3) sentences for summary
+
+#Generate keywords usig title and summary
+Using jieba to generate keywords from title and summary
+
+#Calculate w2v centroid and Similarity
+Map each key word to N dimentional vector (250) using word2vec
+For each doc, generate the weighted of centroid using key word word2vec vector mappings 
+
+#Query
+Convert the query to N dimentional vector
+Calculate similarity between doc centroid and query vector.
+Find top N documents as query results
+
+
+

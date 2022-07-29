@@ -1,0 +1,17 @@
+
+#Cleaning Data, 
+#especially for Solr content with a lot of web descriptions on the top.
+==>clean
+
+#Segments using Jieba
+==>segments
+
+#Merge Solr and Non Solr data
+Merge Solr and Non Solr
+Generate summary
+Generate signature vec
+==> merged
+
+#Calculate 
+Singature and Similarity
+==> sim

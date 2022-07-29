@@ -1,0 +1,38 @@
+New iMac setup
+
+1). Setup Python add-on packages (see. ‘Install NumPy, SciPy, scikit-learn on Mac OS X for data miners’)
+2). Add the following PATH
+
+export PATH=/usr/local/bin:/usr/local/share/python:$PATH
+
+In ~/.bash_profile
+
+3). Instead of 
+brew install gofortran
+Using 
+brew install gcc  (this will take a while)
+
+
+4). sudo pip install pandas
+
+6). sudo pip install jiba
+
+7). sudo pip install beautifulsoup4
+
+8). sudo pip install nltk
+
+9). sudo pip install sklearn or
+sudo pip install sklearn --ignore-installed six
+
+10). sudo pip install gensim or
+sudo pip install gensim --ignore-installed six
+
+11). sudo easy_install readline pyzmq pygments tornado
+12). sudo pip install ipython 
+13). sudo easy_install python
+14). sudo easy_install notebook 
+15). sudo pip install flask
+16). sudo pip install matplotlib
+
+Using curl as wget
+curl -O http://ftp.gnu.org/gnu/wget/wget-1.15.tar.gz

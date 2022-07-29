@@ -1,0 +1,1 @@
+['atlanta', 'austin', 'boston', 'chicago', 'delaware', 'denver', 'fresno', 'hartford', 'honolulu', 'houston', 'la', 'lasvegas', 'miami', 'ny', 'oklahomacity', 'orangecounty', 'orlando', 'philadelphia', 'phoenix', 'sacramento', 'saltlakecity', 'sandiego', 'seattle', 'sfo', 'stockton']

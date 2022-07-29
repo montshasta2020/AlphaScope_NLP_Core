@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+  <head> 
+    <meta http-equiv="content-type" content="text/xhtml; charset=utf-8" /> 
+    <title>Used Car Price</title> 
+<script type="text/javascript">
+ //<![CDATA[ 
+ // array of possible countries in the same order as they appear in the country selection list 
+ var countryLists = new Array(47) 
+ countryLists["empty"] = ["Select a Country"]; 
+ countryLists["acura"] = ['mdx', 'nsx', 'rl', 'rsx', 'tl', 'tsx'];
+ countryLists['aston martin'] = ['db9', 'vanish s'];
+ countryLists["audi"] = ['a4', 'a6', 'a8', 'allroad', 's4', 'tt'], 
+ countryLists["bentley"] = ['arnage', 'continental'];
+ countryLists["bmw"] = ['3 series', '5 series', '6 series', '7 series', 'm3', 'x3', 'x5', 'z4'];
+ countryLists["buick"] = ['century', 'lacrosse', 'lasabre', 'park avenue', 'rainier', 'rendezvous', 'terraze'];
+ countryLists["cadillac"] = ['cts', 'deville', 'escalade', 'escalade esv', 'escalade ext', 'srx', 'sts', 'xlr'];
+
+ countryLists["chevrolet"]= ['astro cargo', 'astro passenger', 'avalanche 1500', 'aveo', 'blazer', 'cavalier',
+                         'classic', 'cobalt', 'colorado crew cal', 'colorado extendedcab', 'colorado regular cab',
+                         'covette', 'equinox', 'express 1500 cargo', 'express 1500 passenger', 'express 2500 cargo',
+                         'express 2500 passenger', 'express 3500 cargo', 'express 3500 passenger', 'impala',
+                         'malibu', 'monte carlo', 'silverado 1500 crew cab', 'silverado 1500 extendedcab', 
+                         'silverado 1500 hd crewd cab', 'silverado 1500 regular cab', 'silverado 2500 hd crew cab', 
+                         'silverado hd 2500 extendedcab', 'silverado 2500 hd regular cab', 'silverado 3500 crew cab', 
+                         'silverado 3500 extendedcab', 'silverado 3500 regular cab', 'ssr', 'suburban 1500', 
+                         'sbuurban 2500', 'tahoe', 'trailblazer', 'uplander cargo', 'uplander passenger', 
+                         'venture cargo', 'venture passenger']; 
+ countryLists["chrysler"] = ['300', 'crossfire', 'paficica', 'pt cruiser', 'sebring', 'town & country'];
+ countryLists["dodge"] = ['caravan cargo', 'caravan passenger', 'dakota club cab', 'dakota quad cab', 'durango', 
+                     'grand caravan cargo', 'grand caravan passenger', 'magnum', 'neon', 'ram 1500 quad cab',
+                     'ram 1500 regular cab', 'ram 2500 quad cab', 'ram 2500 super duty cab', 'ram 3500 quad cab',
+                     'ram 3500 regular cab', 'stratus', 'viper'];
+ 
+ countryLists["ford"] = ['crown victoria', 'e150 super duty cargo', 'e250 super duty passenger', 'e350 super duty cargo', 
+                     'e350 super duty passenger', 'escape', 'excursion', 'expedition', 'explorer', 'exlorer sport trac',
+                    'f150 regular cab', 'f150 super cab', 'f150 supercrew cab', 'f250 super duty crew cab', 
+                    'f250 super duty regular cab', 'f250 super duty super cab', 'f350 super duty regular cab', 
+                    'f350 super duty super cab', 'f350 super duty crew cab', 'five hundred', 'focus', 'freestar cargo',
+                    'freestar passenger', 'freestyle', 'gt', 'mustang', 'ranger regular cab', 'ranger super cab', 
+                    'taurus', 'thunderbird']; 
+
+ countryLists["gmc"] = ['canyon crew cab', 'canyon extended cab', 'canyon regular cab', 'envoy', 'envoy xl', 'envoy xuv',
+                        'safari cargo', 'safari passenger', 'savana 1500 cargo', 'savana 1500 passenger', 'savana 2500 cargo',
+                        'savana 2500 passenger', 'savana 3500 cargo', 'savana 3500 passenger', 'sierra 1500 crew cab',
+                        'sierra 1500 extended cab', 'sierra 1500 hd crew cab', 'sierra 1500 regular cab',
+                        'sierra 2500 hd extended cab', 'sierra 2500 hd crew cab', 'sierra 2500 hd regular cab',
+                        'sierra 3500 extended cab', 'sierra 3500 crew cab', 'sierra 3500 regular cab', 'yukon',
+                        'yukon xl 1500', 'yukon xl 2500', 'oldsmobile'];                 
+
+ countryLists["honda"] = ['accord', 'civic', 'cr-v', 'element', 'insight', 'oddssey', 'pilot', 's2000']; 
+
+ countryLists["hummer"] = ['h2'];
+ countryLists["hyundai"] = ['accent', 'elantra', 'santa fe', 'sonata', 'tiubuon', 'tucson', 'xg350'];
+
+countryLists["infiniti"] = ['fx', 'g', 'q', 'qx'];
+countryLists["isuzu"] = ['ascender'];
+countryLists["jaguar"] = ['s-type', 'xj series', 'xk series', 'x-type'];
+countryLists["jeep"] = ['grand cherokee', 'liberty', 'ranger'];
+countryLists["kia"] = ['amanti', 'optima', 'rio', 'sedona', 'sorento', 'spectra', 'sportage'];
+countryLists["land rover"] = ['freelander', 'lr3', 'range rover'];
+countryLists["lexus"] = ['es', 'gs', 'gx', 'is', 'ls', 'lx', 'rx', 'sc'];
+countryLists["lincoln"] = ['aviator', 'ls', 'navigator', 'town car'];
+countryLists["lotus"] = ['elise'];
+countryLists["maserati"] = ['coupe', 'gransport', 'quattroporte'];
+countryLists["maybach"] = ['57', '62'];
+
+countryLists["mazda"] = ['b-series extended cab', 'b-series regular cab', 'mazda3', 'mazda6', 'mpv', 'mx-5 miata', 'rx-8',
+                     'tribute'];
+
+countryLists["mercedes-benz"] = ['c-class', 'cl-class', 'clk-class', 'e-class', 'g-class', 'm-class', 's-class', 'sl-class',
+                             'slk-class', 'slr mclaren'];
+
+countryLists["mercury"] = ['grand marquis', 'mariner', 'montego', 'monterey', 'mountaineer', 'sable'];
+countryLists["mini"] = ['convertible', 'cooper'];
+countryLists["mitsubishi"] = ['eclipse', 'endeavor', 'galant', 'lancer', 'montero', 'outlander'];
+countryLists["nissan"] = ['350z', 'altima', 'armada', 'frontier crew cab', 'frontier king cab', 'maxima', 'murano', 
+                       'pathfinder', 'quest', 'sentra', 'titan crew cab', 'titan king cab', 'xterra']; 
+countryLists["panoz"] = ['esperante'];
+countryLists["pontiac"] = ['aztek', 'bonneville', 'g6', 'grand am', 'grand prix', 'gto', 'montana', 'montana sv6', 
+                       'sunfire', 'vibe'];
+
+ countryLists["porsche"] = ['911', 'boxter', 'carrera gt', 'cayenne'];
+ countryLists["rolls-royce"] = ['phantom'];
+ countryLists["saab"] = ['9-2x', '9-3', '9-5', '9-7x'];
+
+ countryLists["saturn"] = ['ion', 'l-series', 'relay', 'vue'];
+ countryLists["scion"] = ['tc', 'xa', 'xb'];
+ countryLists["subaru"] = ['baja', 'forester', 'impreza', 'legacy', 'outback'];
+ countryLists["suzuki"] = ['aerio', 'forenza', 'grand vitara', 'reno', 'verona', 'xl-7'];
+
+ countryLists["toyota"] = ['4runner', 'avalon', 'camry', 'celica', 'corolla', 'echo', 'highlander', 'land cruiser', 'matrix',
+                      'mr2', 'prius', 'rav4', 'sequoia', 'sienna', 'solara', 'tacoma access cab', 'tacoma double cab', 
+                      'tundra access cab', 'tundra double cab', 'tundra regular cab'];
+
+ countryLists['volkswagen'] = ['golf', 'gti', 'jetta', 'jetta(new)', 'new beetle', 'passat', 'phaeton', 'touareg'];
+ countryLists['volvo'] = ['s40', 's60', 's80', 'v50', 'v70', 'xc70', 'xc90'];
+ countryLists['fiat'] = ['fiat'];
+ countryLists['ferrari'] = ['ferrari'];
+  
+ 
+ /* CountryChange() is called from the onchange event of a select element. 
+ * param selectObj - the select object which fired the on change event. 
+ */ 
+ function makerChange(selectObj) { 
+ // get the index of the selected option 
+ var idx = selectObj.selectedIndex; 
+ // get the value of the selected option 
+ var which = selectObj.options[idx].value; 
+ // use the selected option value to retrieve the list of items from the countryLists array 
+ cList = countryLists[which]; 
+ // get the country select element via its known id 
+ var cSelect = document.getElementById("model"); 
+ // remove the current options from the country select 
+ var len=cSelect.options.length; 
+ while (cSelect.options.length > 0) { 
+ cSelect.remove(0); 
+ } 
+ var newOption; 
+ // create new options 
+ for (var i=0; i<cList.length; i++) { 
+ newOption = document.createElement("option"); 
+ newOption.value = cList[i];  // assumes option string and value are the same 
+ newOption.text=cList[i]; 
+ // add the new option 
+ try { 
+ cSelect.add(newOption);  // this will fail in DOM browsers but is needed for IE 
+ } 
+ catch (e) { 
+ cSelect.appendChild(newOption); 
+ } 
+ } 
+ } 
+
+//]]>
+</script>
+</head>
+<body>
+
+  <img src="/static/images/cars-007.jpg">
+
+  <noscript>This page requires JavaScript be available and enabled to function properly</noscript>
+  
+  <h1>Used Car Data</h1>
+  <form method="post" action="{{ url_for('price') }}">
+  <lable for "car_years">Year</label> 
+    <select name="car_years" id="Car-YearsID">
+      {% for y in years %}
+          <option value= "{{ y }}">{{y}}</option>
+      {% endfor %}
+    </select> <br/>
+  <label for="Manufactures">Manufacture</label>
+  <select id="Manufactures" name="car_makers" onchange="makerChange(this);">
+    <option value="empty">Select a Manufacture</option>
+      {% for y in makers %}
+          <option value= "{{ y }}">{{y}}</option>
+      {% endfor %}
+  </select>
+  <br/>
+  <label for="model">Model</label>
+  <select name="car_models" id="model">
+    <option value="0">Select a model</option>
+  </select> <br/> 
+    <label for="car_conditions">Condition</label>
+    <select name="car_conditions" id="Car-ConditionsID">
+      {% for y in conditions %}
+          <option value= "{{ y }}">{{y}}</option>
+      {% endfor %}
+    </select> <br/>
+    <label for="car_mileages">Mileage</label>
+    <select name="car_mileages" id="Car-MileagesID">
+      {% for y in mileages %}
+          <option value= "{{ y }}">{{y}}</option>
+      {% endfor %}
+    </select> <br/></form>
+  <hr>
+  <input type="submit" />
+
+  <hr>
+  <div class="title">
+      <h1>Estimated Price: 
+      {% if price is not none %}
+      <p>$11115</p>
+
+ <p>"BMW 5 series, Year 2007, Mileage under 80,000"</p>
+     
+      {% endif %}
+      </h1>
+  </div>
+
+  <hr>
+    <footer>
+        <p>&copy; Used Car Deal 2016</p>
+      </footer>
+
+
+</body>
+ </html>
