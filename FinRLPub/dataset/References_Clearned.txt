@@ -1,0 +1,1055 @@
+﻿
+[1] Pieter Abbeel and John Schulman. Deep Reinforcement Learning
+through Policy Optimization, 2016. Tutorial at NIPS 2016.
+
+[2] Kai Arulkumaran, Nat Dilokthanakul, Murray Shanahan, and Anil An-
+thony Bharath. Classifying Options for Deep Reinforcement Learning.
+In IJCAI Workshop on Deep Reinforcement Learning: Frontiers and
+Challenges, 2016.
+
+[3] Pierre-Luc Bacon, Jean Harb, and Doina Precup. The Option-Critic
+Architecture. In AAAI, 2017.
+
+[4] J Andrew Bagnell and Jeff Schneider. Covariant Policy Search. In
+IJCAI, 2003.
+
+[5] Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan
+Lowe, Joelle Pineau, Aaron Courville, and Yoshua Bengio. An Actor-
+Critic Algorithm for Sequence Prediction. In ICLR, 2017.
+
+[6] Leemon C Baird III. Advantage Updating. Technical report, DTIC,
+1993.
+
+[7] Nir Baram, Oron Anschel, and Shie Mannor. Model-Based Adver-
+sarial Imitation Learning. In NIPS Workshop on Deep Reinforcement
+Learning, 2016.
+
+[8] Andrew G Barto, Richard S Sutton, and Charles W Anderson. Neu-
+ronlike Adaptive Elements That Can Solve Difficult Learning Control
+Problems. IEEE Trans. on Systems, Man, and Cybernetics, (5):834–
+846, 1983.
+
+[9] Charles Beattie, Joel Z Leibo, Denis Teplyashin, Tom Ward, Marcus
+Wainwright, Heinrich Küttler, Andrew Lefrancq, Simon Green, Vı́ctor
+Valdés, Amir Sadik, et al. DeepMind Lab. ArXiv:1612.03801, 2016.
+
+[10] Marc G Bellemare, Yavar Naddaf, Joel Veness, and Michael Bowl-
+ing. The Arcade Learning Environment: An Evaluation Platform for
+General Agents. In IJCAI, 2015.
+
+[11] Marc G Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul,
+David Saxton, and Rémi Munos. Unifying Count-Based Exploration
+and Intrinsic Motivation. In NIPS, 2016.
+
+[12] Marc G Bellemare, Will Dabney, and Rémi Munos. A Distributional
+Perspective on Reinforcement Learning. In ICML, 2017.
+
+[13] Richard Bellman. On the Theory of Dynamic Programming. PNAS,
+38(8):716–719, 1952.
+
+[14] Yoshua Bengio, Jérôme Louradour, Ronan Collobert, and Jason We-
+ston. Curriculum Learning. In ICML, 2009.
+
+[15] Yoshua Bengio, Aaron Courville, and Pascal Vincent. Representation
+Learning: A Review and New Perspectives. IEEE Trans. on Pattern
+Analysis and Machine Intelligence, 35(8):1798–1828, 2013.
+
+[16] Dimitri P Bertsekas. Dynamic Programming and Suboptimal Control:
+A Survey from ADP to MPC. European Journal of Control, 11(4-5):
+310–334, 2005.
+
+[17] Greg Brockman, Vicki Cheung, Ludwig Pettersson, Jonas Schneider,
+John Schulman, Jie Tang, and Wojciech Zaremba. OpenAI Gym.
+ArXiv:1606.01540, 2016.
+
+[18] Lucian Busoniu, Robert Babuska, and Bart De Schutter. A Compre-
+hensive survey of Multiagent Reinforcement Learning. IEEE Trans. on
+Systems, Man, And Cybernetics, 2008.
+
+[19] Murray Campbell, A Joseph Hoane, and Feng-hsiung Hsu. Deep Blue.
+Artificial Intelligence, 134(1-2):57–83, 2002.
+
+[20] Rich Caruana. Multitask Learning. Machine Learning, 28(1):41–75,
+1997.
+
+[21] Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, and Shakir Mo-
+hamed. Recurrent Environment Simulators. In ICLR, 2017.
+
+[22] Paul Christiano, Zain Shah, Igor Mordatch, Jonas Schneider, Trevor
+Blackwell, Joshua Tobin, Pieter Abbeel, and Wojciech Zaremba. Trans-
+fer from Simulation to Real World through Learning Deep Inverse
+Dynamics Model. ArXiv:1610.03518, 2016.
+
+[23] Giuseppe Cuccu, Matthew Luciw, Jürgen Schmidhuber, and Faustino
+Gomez. Intrinsically Motivated Neuroevolution for Vision-Based
+Reinforcement Learning. In ICDL, volume 2, 2011.
+
+[24] Peter Dayan. Improving Generalization for Temporal Difference
+Learning: The Successor Representation. Neural Computation, 5(4):
+613–624, 1993.
+
+[25] Jeffrey Dean, Greg Corrado, Rajat Monga, Kai Chen, Matthieu Devin,
+Mark Mao, Andrew Senior, Paul Tucker, Ke Yang, Quoc V Le, et al.
+Large Scale Distributed Deep Networks. In NIPS, 2012.
+
+[26] Marc P Deisenroth, Gerhard Neumann, and Jan Peters. A Survey on
+Policy Search for Robotics. Foundations and Trends R in Robotics, 2
+(1–2), 2013.
+
+[27] Misha Denil, Pulkit Agrawal, Tejas D Kulkarni, Tom Erez, Peter
+Battaglia, and Nando de Freitas. Learning to Perform Physics Ex-
+periments via Deep Reinforcement Learning. In ICLR, 2017.
+
+[28] Yan Duan, Xi Chen, Rein Houthooft, John Schulman, and Pieter
+Abbeel. Benchmarking Deep Reinforcement Learning for Continuous
+Control. In ICML, 2016.
+
+[29] Yan Duan, John Schulman, Xi Chen, Peter L Bartlett, Ilya Sutskever,
+and Pieter Abbeel. RL 2 : Fast Reinforcement Learning via Slow
+Reinforcement Learning. In NIPS Workshop on Deep Reinforcement
+Learning, 2016.
+
+[30] Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sune-
+hag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane We-
+ber, Thomas Degris, and Ben Coppin. Deep Reinforcement Learning
+in Large Discrete Action Spaces. ArXiv:1512.07679, 2015.
+
+[31] David Ferrucci, Eric Brown, Jennifer Chu-Carroll, James Fan, David
+Gondek, Aditya A Kalyanpur, Adam Lally, J William Murdock, Eric
+Nyberg, John Prager, et al. Building Watson: An Overview of the
+DeepQA Project. AI Magazine, 31(3):59–79, 2010.
+
+[32] Chelsea Finn, Xin Yu Tan, Yan Duan, Trevor Darrell, Sergey Levine,
+and Pieter Abbeel. Deep Spatial Autoencoders for Visuomotor Learn-
+ing. In ICRA, 2016.
+
+[33] Jakob Foerster, Yannis M Assael, Nando de Freitas, and Shimon White-
+son. Learning to Communicate with Deep Multi-Agent Reinforcement
+Learning. In NIPS, 2016.
+
+[34] Michael C Fu. Gradient Estimation. Handbooks in Operations
+Research and Management Science, 13:575–616, 2006.
+
+[35] Marta Garnelo, Kai Arulkumaran, and Murray Shanahan. Towards
+Deep Symbolic Reinforcement Learning. In NIPS Workshop on Deep
+Reinforcement Learning, 2016.
+
+[36] Peter W Glynn. Likelihood Ratio Gradient Estimation for Stochastic
+Systems. Communications of the ACM, 33(10):75–84, 1990.
+
+[37] Faustino Gomez and Jürgen Schmidhuber. Evolving Modular Fast-
+Weight Networks for Control. In ICANN, 2005.
+
+[38] Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David
+Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+Generative Adversarial Nets. In NIPS, 2014.
+
+[39] Audrunas Gruslys, Mohammad Gheshlaghi Azar, Marc G Bellemare,
+and Rémi Munos. The Reactor: A Sample-Efficient Actor-Critic
+Architecture. ArXiv:1704.04651, 2017.
+
+[40] Shixiang Gu, Timothy Lillicrap, Ilya Sutskever, and Sergey Levine.
+Continuous Deep Q-Learning with Model-Based Acceleration. In
+ICLR, 2016.
+
+[41] Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E
+Turner, and Sergey Levine. Q-Prop: Sample-Efficient Policy Gradient
+with an Off-Policy Critic. In ICLR, 2017.
+
+[42] Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E
+Turner, Bernhard Schölkopf, and Sergey Levine. Interpolated Policy
+Gradient: Merging On-Policy and Off-Policy Gradient Estimation for
+Deep Reinforcement Learning. In NIPS, 2017.
+
+[43] Mance E Harmon and Leemon C Baird III. Multi-Player Residual
+Advantage Learning with General Function Approximation. Technical
+report, DTIC, 1996.
+
+[44] Matthew Hausknecht and Peter Stone. Deep Recurrent Q-Learning for
+Partially Observable MDPs. In AAAI Fall Symposium Series, 2015.
+
+[45] Nicolas Heess, Jonathan J Hunt, Timothy P Lillicrap, and David Silver.
+Memory-Based Control with Recurrent Neural Networks. In NIPS
+Workshop on Deep Reinforcement Learning, 2015.
+
+[46] Nicolas Heess, Gregory Wayne, David Silver, Tim Lillicrap, Tom Erez,
+and Yuval Tassa. Learning Continuous Control Policies by Stochastic
+Value Gradients. In NIPS, 2015.
+
+[47] Nicolas Heess, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg
+Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin
+Riedmiller, et al. Emergence of Locomotion Behaviours in Rich
+Environments. ArXiv:1707.02286, 2017.
+
+[48] Johannes Heinrich and David Silver. Deep Reinforcement Learning
+from Self-Play in Imperfect-Information Games. 2016.
+
+[49] Todd Hester, Matej Vecerik, Olivier Pietquin, Marc Lanctot, Tom
+Schaul, Bilal Piot, Andrew Sendonaris, Gabriel Dulac-Arnold, Ian
+Osband, John Agapiou, et al. Learning from Demonstrations for Real
+World Reinforcement Learning. ArXiv:1704.03732, 2017.
+
+[50] Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. Distilling the Knowl-
+edge in a Neural Network. 2014.
+
+[51] Jonathan Ho and Stefano Ermon. Generative Adversarial Imitation
+Learning. In NIPS, 2016.
+
+[52] Rein Houthooft, Xi Chen, Yan Duan, John Schulman, Filip De Turck,
+and Pieter Abbeel. VIME: Variational Information Maximizing Explo-
+ration. In NIPS, 2016.
+
+[53] Ahmed Hussein, Mohamed Medhat Gaber, and Eyad Elyan. Deep
+Active Learning for Autonomous Navigation. In EANN, 2016.
+
+[54] Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom
+Schaul, Joel Z Leibo, David Silver, and Koray Kavukcuoglu. Re-
+inforcement Learning with Unsupervised Auxiliary Tasks. In ICLR,
+2017.
+
+[55] Matthew Johnson, Katja Hofmann, Tim Hutton, and David Bignell.
+The Malmo Platform for Artificial Intelligence Experimentation. In
+IJCAI, 2016.
+
+[56] Leslie P Kaelbling, Michael L Littman, and Anthony R Cassandra.
+Planning and Acting in Partially Observable Stochastic Domains.
+Artificial Intelligence, 101(1):99–134, 1998.
+
+[57] Sham M Kakade. A Natural Policy Gradient. In NIPS, 2002.
+
+[58] Ken Kansky, Tom Silver, David A Mély, Mohamed Eldawy, Miguel
+Lázaro-Gredilla, Xinghua Lou, Nimrod Dorfman, Szymon Sidor, Scott
+Phoenix, and Dileep George. Schema Networks: Zero-Shot Transfer
+with a Generative Causal Model of Intuitive Physics. In ICML, 2017.
+
+[59] Hilbert J Kappen. Path Integrals and Symmetry Breaking for Optimal
+Control Theory. JSTAT, 2005(11):P11011, 2005.
+
+[60] Michał Kempka, Marek Wydmuch, Grzegorz Runc, Jakub Toczek, and
+Wojciech Jaśkowski. ViZDoom: A Doom-Based AI Research Platform
+for Visual Reinforcement Learning. In CIG, 2016.
+
+[61] Diederik P Kingma and Max Welling. Auto-Encoding Variational
+Bayes. In ICLR, 2014.
+
+[62] Nate Kohl and Peter Stone. Policy Gradient Reinforcement Learning
+for Fast Quadrupedal Locomotion. In ICRA, volume 3, 2004.
+
+[63] Vijay R Konda and John N Tsitsiklis. On Actor-Critic Algorithms.
+SICON, 42(4):1143–1166, 2003.
+
+[64] Jan Koutnı́k, Giuseppe Cuccu, Jürgen Schmidhuber, and Faustino
+Gomez. Evolving Large-Scale Neural Networks for Vision-Based
+Reinforcement Learning. In GECCO, 2013.
+
+[65] Tejas D Kulkarni, Karthik Narasimhan, Ardavan Saeedi, and Josh
+Tenenbaum. Hierarchical Deep Reinforcement Learning: Integrating
+Temporal Abstraction and Intrinsic Motivation. In NIPS, 2016.
+
+[66] Tejas D Kulkarni, Ardavan Saeedi, Simanta Gautam, and Samuel J Ger-
+shman. Deep Successor Reinforcement Learning. In NIPS Workshop
+on Deep Reinforcement Learning, 2016.
+
+[67] Tze Leung Lai and Herbert Robbins. Asymptotically Efficient Adaptive
+Allocation Rules. Advances in Applied Mathematics, 6(1):4–22, 1985.
+[68] Brenden M Lake, Tomer D Ullman, Joshua B Tenenbaum, and
+Samuel J Gershman. Building Machines That Learn and Think Like
+People. The Behavioral and Brain Sciences, page 1, 2016.
+
+[69] Sascha Lange, Martin Riedmiller, and Arne Voigtlander. Autonomous
+Reinforcement Learning on Raw Visual Input Data in a Real World
+Application. In IJCNN, 2012.
+
+[70] Yann LeCun, Yoshua Bengio, and Geoffrey Hinton. Deep Learning.
+Nature, 521(7553):436–444, 2015.
+
+[71] Joel Z Leibo, Vinicius Zambaldi, Marc Lanctot, Janusz Marecki, and
+Thore Graepel. Multi-Agent Reinforcement Learning in Sequential
+Social Dilemmas. In AAMAS, 2017.
+
+[72] Sergey Levine and Pieter Abbeel. Learning Neural Network Policies
+with Guided Policy Search under Unknown Dynamics. In NIPS, 2014.
+
+[73] Sergey Levine and Vladlen Koltun. Guided Policy Search. In ICLR,
+2013.
+
+[74] Sergey Levine, Chelsea Finn, Trevor Darrell, and Pieter Abbeel. End-
+to-End Training of Deep Visuomotor Policies. JMLR, 17(39):1–40,
+2016.
+
+[75] Sergey Levine, Peter Pastor, Alex Krizhevsky, and Deirdre Quillen.
+Learning Hand-Eye Coordination for Robotic Grasping with Deep
+Learning and Large-Scale Data Collection. In ISER, 2016.
+
+[76] Ke Li and Jitendra Malik. Learning to Optimize. 2017.
+
+[77] Xiujun Li, Lihong Li, Jianfeng Gao, Xiaodong He, Jianshu Chen,
+Li Deng, and Ji He. Recurrent Reinforcement Learning: A Hybrid
+Approach. ArXiv:1509.03044, 2015.
+
+[78] Yuxi Li. Deep Reinforcement Learning: An Overview.
+ArXiv:1701.07274, 2017.
+
+[79] Timothy P Lillicrap, Jonathan J Hunt, Alexander Pritzel, Nicolas Heess,
+Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. Continuous
+Control with Deep Reinforcement Learning. In ICLR, 2016.
+
+[80] Long-Ji Lin. Self-Improving Reactive Agents Based on Reinforcement
+Learning, Planning and Teaching. Machine Learning, 8(3–4):293–321,
+1992.
+
+[81] Luke Metz, Julian Ibarz, Navdeep Jaitly, and James Davidson. Dis-
+crete Sequential Prediction of Continuous Actions for Deep RL.
+ArXiv:1705.05035, 2017.
+
+[82] Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andy Bal-
+lard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray
+Kavukcuoglu, et al. Learning to Navigate in Complex Environments.
+In ICLR, 2017.
+
+Volodymyr Mnih, Nicolas Heess, Alex Graves, and Koray
+Kavukcuoglu. Recurrent Models of Visual Attention. In NIPS,
+2014.
+
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A Rusu,
+Joel Veness, Marc G Bellemare, Alex Graves, Martin Riedmiller,
+Andreas K Fidjeland, Georg Ostrovski, et al. Human-Level Control
+through Deep Reinforcement Learning. Nature, 518(7540):529–533,
+2015.
+
+Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex
+Graves, Timothy P Lillicrap, Tim Harley, David Silver, and Koray
+Kavukcuoglu. Asynchronous Methods for Deep Reinforcement Learn-
+ing. In ICLR, 2016.
+
+Shakir Mohamed and Danilo Jimenez Rezende. Variational Information
+Maximisation for Intrinsically Motivated Reinforcement Learning. In
+NIPS, 2015.
+
+Andrew William Moore. Efficient Memory-Based Learning for Robot
+Control. Technical report, University of Cambridge, Computer Labo-
+ratory, 1990.
+
+Rémi Munos, Tom Stepleton, Anna Harutyunyan, and Marc G Belle-
+mare. Safe and Efficient Off-Policy Reinforcement Learning. In NIPS,
+2016.
+
+Ofir Nachum, Mohammad Norouzi, Kelvin Xu, and Dale Schuurmans.
+Bridging the Gap Between Value and Policy Based Reinforcement
+Learning. ArXiv:1702.08892, 2017.
+
+Anusha Nagabandi, Gregory Kahn, Ronald S Fearing, and Sergey
+Levine. Neural Network Dynamics for Model-Based Deep Reinforce-
+ment Learning with Model-Free Fine-Tuning. ArXiv:1708.02596, 2017.
+
+Arun Nair, Praveen Srinivasan, Sam Blackwell, Cagdas Alcicek, Rory
+Fearon, Alessandro De Maria, Vedavyas Panneershelvam, Mustafa
+Suleyman, Charles Beattie, Stig Petersen, et al. Massively Parallel
+Methods for Deep Reinforcement Learning. In ICML Workshop on
+Deep Learning, 2015.
+
+Andrew Y Ng and Stuart J Russell. Algorithms for Inverse Reinforce-
+ment Learning. In ICML, 2000.
+
+Andrew Y Ng, Adam Coates, Mark Diel, Varun Ganapathi, Jamie
+Schulte, Ben Tse, Eric Berger, and Eric Liang. Autonomous Inverted
+Helicopter Flight via Reinforcement Learning. Experimental Robotics,
+pages 363–372, 2006.
+
+Brendan O’Donoghue, Rémi Munos, Koray Kavukcuoglu, and
+Volodymyr Mnih. PGQ: Combining Policy Gradient and Q-Learning.
+In ICLR, 2017.
+
+Junhyuk Oh, Xiaoxiao Guo, Honglak Lee, Richard L Lewis, and
+Satinder Singh. Action-Conditional Video Prediction using Deep
+Networks in Atari Games. In NIPS, 2015.
+
+Junhyuk Oh, Valliappa Chockalingam, Satinder Singh, and Honglak
+Lee. Control of Memory, Active Perception, and Action in Minecraft.
+In ICLR, 2016.
+
+Ian Osband, Charles Blundell, Alexander Pritzel, and Benjamin
+Van Roy. Deep Exploration via Bootstrapped DQN. In NIPS, 2016.
+
+Emilio Parisotto and Ruslan Salakhutdinov. Neural Map: Structured
+Memory for Deep Reinforcement Learning. ArXiv:1702.08360, 2017.
+
+Emilio Parisotto, Jimmy L Ba, and Ruslan Salakhutdinov. Actor-
+Mimic: Deep Multitask and Transfer Reinforcement Learning. In ICLR,
+2016.
+
+Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing,
+Sebastien Racanière, David Reichert, Théophane Weber, Daan Wier-
+stra, and Peter Battaglia. Learning Model-Based Planning from Scratch.
+ArXiv:1707.06170, 2017.
+
+Deepak Pathak, Pulkit Agrawal, Alexei A Efros, and Trevor Darrell.
+Curiosity-Driven Exploration by Self-supervised Prediction. In ICML,
+2017.
+
+Peng Peng, Ying Wen, Yaodong Yang, Quan Yuan, Zhenkun Tang,
+Haitao Long, and Jun Wang. Multiagent Bidirectionally-Coordinated
+Nets: Emergence of Human-level Coordination in Learning to Play
+StarCraft Combat Games. ArXiv:1703.10069, 2017.
+
+Jan Peters, Katharina Mülling, and Yasemin Altun. Relative Entropy
+Policy Search. In AAAI, 2010.
+
+Dean A Pomerleau. ALVINN, an Autonomous Land Vehicle in
+a Neural Network. Technical report, Carnegie Mellon University,
+Computer Science Department, 1989.
+
+Alexander Pritzel, Benigno Uria, Sriram Srinivasan, Adrià Puig-
+domènech, Oriol Vinyals, Demis Hassabis, Daan Wierstra, and Charles
+Blundell. Neural Episodic Control. In ICML, 2017.
+
+Marc’Aurelio Ranzato, Sumit Chopra, Michael Auli, and Wojciech
+Zaremba. Sequence Level Training with Recurrent Neural Networks
+In ICLR, 2016.
+
+[107] Benjamin Recht, Christopher Re, Stephen Wright, and Feng Niu.
+Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient
+Descent. In NIPS, 2011.
+
+[108] Danilo Jimenez Rezende, Shakir Mohamed, and Daan Wierstra.
+Stochastic Backpropagation and Approximate Inference in Deep Gen-
+erative Models. In ICML, 2014.
+
+[109] Martin Riedmiller. Neural Fitted Q Iteration—First Experiences with
+a Data Efficient Neural Reinforcement Learning Method. In ECML,
+2005.
+
+[110] Stéphane Ross, Geoffrey J Gordon, and Drew Bagnell. A Reduction
+of Imitation Learning and Structured Prediction to No-Regret Online
+Learning. In AISTATS, 2011.
+
+[111] David E Rumelhart, Geoffrey E Hinton, and Ronald J Williams. Learn-
+ing Representations by Back-Propagating Errors. Cognitive Modeling,
+5(3):1, 1988.
+
+[112] Gavin A Rummery and Mahesan Niranjan. On-line Q-learning using
+Connectionist Systems. University of Cambridge, Department of
+Engineering, 1994.
+
+[113] Andrei A Rusu, Sergio Gomez Colmenarejo, Caglar Gulcehre, Guil-
+laume Desjardins, James Kirkpatrick, Razvan Pascanu, Volodymyr
+Mnih, Koray Kavukcuoglu, and Raia Hadsell. Policy Distillation. In
+ICLR, 2016.
+
+[114] Andrei A Rusu, Neil C Rabinowitz, Guillaume Desjardins, Hubert
+Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, and
+Raia Hadsell. Progressive Neural Networks. ArXiv:1606.04671, 2016.
+
+[115] Andrei A Rusu, Matej Vecerik, Thomas Rothörl, Nicolas Heess, Razvan
+Pascanu, and Raia Hadsell. Sim-to-Real Robot Learning from Pixels
+with Progressive Nets. In CoRL, 2017.
+
+[116] Tim Salimans, Jonathan Ho, Xi Chen, and Ilya Sutskever. Evolu-
+tion Strategies as a Scalable Alternative to Reinforcement Learning.
+ArXiv:1703.03864, 2017.
+
+[117] Tom Schaul, Daniel Horgan, Karol Gregor, and David Silver. Universal
+Value Function Approximators. In ICML, 2015.
+
+[118] Tom Schaul, John Quan, Ioannis Antonoglou, and David Silver. Pri-
+oritized Experience Replay. In ICLR, 2016.
+
+[119] Jürgen Schmidhuber. A Possibility for Implementing Curiosity and
+Boredom in Model-Building Neural Controllers. In SAB, 1991.
+
+[120] Jürgen Schmidhuber and Rudolf Huber. Learning to Generate Artificial
+Fovea Trajectories for Target Detection. IJNS, 2(01n02):125–134,
+1991.
+
+[121] John Schulman, Nicolas Heess, Theophane Weber, and Pieter Abbeel.
+Gradient Estimation using Stochastic Computation Graphs. In NIPS,
+2015.
+
+[122] John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and
+Philipp Moritz. Trust Region Policy Optimization. In ICML, 2015.
+
+[123] John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, and
+Pieter Abbeel. High-Dimensional Continuous Control using General-
+ized Advantage Estimation. In ICLR, 2016.
+
+[124] John Schulman, Pieter Abbeel, and Xi Chen. Equivalence Between
+Policy Gradients and Soft Q-Learning. ArXiv:1704.06440, 2017.
+
+[125] John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford,
+and Oleg Klimov. Proximal Policy Optimization Algorithms.
+ArXiv:1707.06347, 2017.
+
+[126] Bobak Shahriari, Kevin Swersky, Ziyu Wang, Ryan P Adams, and
+Nando de Freitas. Taking the Human out of the Loop: A Review
+of Bayesian Optimization. Proc. of the IEEE, 104(1):148–175, 2016.
+
+[127] David Silver, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wier-
+stra, and Martin Riedmiller. Deterministic Policy Gradient Algorithms.
+In ICML, 2014.
+
+[128] David Silver, Aja Huang, Chris J Maddison, Arthur Guez, Lau-
+rent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis
+Antonoglou, Veda Panneershelvam, Marc Lanctot, et al. Mastering
+the Game of Go with Deep Neural Networks and Tree Search. Nature,
+529(7587):484–489, 2016.
+
+[129] Satinder Singh, Diane Litman, Michael Kearns, and Marilyn Walker.
+Optimizing Dialogue Management with Reinforcement Learning: Ex-
+periments with the NJFun System. JAIR, 16:105–133, 2002.
+
+[130] Ivan Sorokin, Alexey Seleznev, Mikhail Pavlov, Aleksandr Fedorov,
+and Anastasiia Ignateva. Deep Attention Recurrent Q-Network. In
+NIPS Workshop on Deep Reinforcement Learning, 2015.
+
+[131] Bradley C Stadie, Pieter Abbeel, and Ilya Sutskever. Third Person
+Imitation Learning. In ICLR, 2017.
+
+[132] Bradly C Stadie, Sergey Levine, and Pieter Abbeel. Incentivizing
+Exploration in Reinforcement Learning with Deep Predictive Models.
+In NIPS Workshop on Deep Reinforcement Learning, 2015.
+
+[133] Alexander L Strehl, Lihong Li, Eric Wiewiora, John Langford, and
+Michael L Littman. PAC Model-Free Reinforcement Learning. In
+ICML, 2006. 
+
+Sainbayar Sukhbaatar, Arthur Szlam, and Rob Fergus. Learning
+Multiagent Communication with Backpropagation. In NIPS, 2016.
+Richard S Sutton and Andrew G Barto. Reinforcement Learning: An
+Introduction. MIT Press, 1998.
+
+Richard S Sutton, Doina Precup, and Satinder Singh. Between
+MDPs and Semi-MDPs: A Framework for Temporal Abstraction in
+Reinforcement Learning. Artificial Intelligence, 112(1–2):181–211,
+1999.
+
+Gabriel Synnaeve, Nantas Nardelli, Alex Auvolat, Soumith Chintala,
+Timothée Lacroix, Zeming Lin, Florian Richoux, and Nicolas Usunier.
+TorchCraft: A Library for Machine Learning Research on Real-Time
+Strategy Games. ArXiv:1611.00625, 2016.
+
+Aviv Tamar, Yi Wu, Garrett Thomas, Sergey Levine, and Pieter Abbeel.
+Value Iteration Networks. In NIPS, 2016.
+
+Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi Chen,
+Yan Duan, John Schulman, Filip De Turck, and Pieter Abbeel. #Explo-
+ration: A Study of Count-Based Exploration for Deep Reinforcement
+Learning. In NIPS, 2017.
+
+Yee Whye Teh, Victor Bapst, Wojciech Marian Czarnecki, John Quan,
+James Kirkpatrick, Raia Hadsell, Nicolas Heess, and Razvan Pascanu.
+Distral: Robust Multitask Reinforcement Learning. In NIPS, 2017.
+
+Gerald Tesauro. Temporal Difference Learning and TD-Gammon.
+Communications of the ACM, 38(3):58–68, 1995.
+
+Gerald Tesauro, Rajarshi Das, Hoi Chan, Jeffrey Kephart, David
+Levine, Freeman Rawson, and Charles Lefurgy. Managing Power Con-
+sumption and Performance of Computing Systems using Reinforcement
+Learning. In NIPS, 2008.
+
+Chen Tessler, Shahar Givony, Tom Zahavy, Daniel J Mankowitz, and
+Shie Mannor. A Deep Hierarchical Approach to Lifelong Learning in
+Minecraft. In AAAI, 2017.
+
+Emanuel Todorov, Tom Erez, and Yuval Tassa. MuJoCo: A Physics
+Engine for Model-Based Control. In IROS, 2012.
+
+John N Tsitsiklis and Benjamin Van Roy. Analysis of Temporal-
+Difference Learning with Function Approximation. In NIPS, 1997.
+
+Eric Tzeng, Coline Devin, Judy Hoffman, Chelsea Finn, Xingchao
+Peng, Sergey Levine, Kate Saenko, and Trevor Darrell. Towards
+Adapting Deep Visuomotor Representations from Simulated to Real
+Environments. In WAFR, 2016.
+
+Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, and Soumith Chintala.
+Episodic Exploration for Deep Deterministic Policies: An Application
+to StarCraft Micromanagement Tasks. In ICLR, 2017.
+
+Hado van Hasselt. Double Q-Learning. In NIPS, 2010.
+
+Hado van Hasselt, Arthur Guez, and David Silver. Deep Reinforcement
+Learning with Double Q-Learning. In AAAI, 2016.
+
+Harm Vanseijen and Rich Sutton. A Deeper Look at Planning as
+Learning from Replay. In ICML, 2015.
+
+Alexander Vezhnevets, Volodymyr Mnih, Simon Osindero, Alex
+Graves, Oriol Vinyals, John Agapiou, and Koray Kavukcuoglu. Strate-
+gic Attentive Writer for Learning Macro-Actions. In NIPS, 2016.
+
+Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas
+Heess, Max Jaderberg, David Silver, and Koray Kavukcuoglu. FeUdal
+Networks for Hierarchical Reinforcement Learning. In ICML, 2017.
+
+Oriol Vinyals, Timo Ewalds, Sergey Bartunov, Petko Georgiev, Alexan-
+der Sasha Vezhnevets, Michelle Yeo, Alireza Makhzani, Heinrich
+Küttler, John Agapiou, Julian Schrittwieser, et al. StarCraft II: A New
+Challenge for Reinforcement Learning. ArXiv:1708.04782, 2017.
+
+Niklas Wahlström, Thomas B Schön, and Marc P Deisenroth. Learning
+Deep Dynamical Models from Image Pixels. IFAC SYSID, 48(28),
+2015.
+
+Niklas Wahlström, Thomas B Schön, and Marc P Deisenroth. From
+Pixels to Torques: Policy Learning with Deep Dynamical Models. In
+ICML Workshop on Deep Learning, 2015.
+
+Jane X Wang, Zeb Kurth-Nelson, Dhruva Tirumala, Hubert Soyer,
+Joel Z Leibo, Rémi Munos, Charles Blundell, Dharshan Kumaran, and
+Matt Botvinick. Learning to Reinforcement Learn. In CogSci, 2017.
+
+Ziyu Wang, Nando de Freitas, and Marc Lanctot. Dueling Network
+Architectures for Deep Reinforcement Learning. In ICLR, 2016.
+
+Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Rémi
+Munos, Koray Kavukcuoglu, and Nando de Freitas. Sample Efficient
+Actor-Critic with Experience Replay. In ICLR, 2017.
+
+Christopher JCH Watkins and Peter Dayan. Q-Learning. Machine
+Learning, 8(3-4):279–292, 1992.
+
+Manuel Watter, Jost Springenberg, Joschka Boedecker, and Martin
+Riedmiller. Embed to Control: A Locally Linear Latent Dynamics
+Model for Control from Raw Images. In NIPS, 2015.
+
+[161] Théophane Weber, Sébastien Racanière, David P Reichert, Lars
+Buesing, Arthur Guez, Danilo Jimenez Rezende, Adria Puigdomènech
+Badia, Oriol Vinyals, Nicolas Heess, Yujia Li, et al. Imagination-
+Augmented Agents for Deep Reinforcement Learning. In NIPS, 2017.
+
+[162] Paul John Werbos. Beyond Regression: New Tools for Prediction
+and Analysis in the Behavioral Sciences. Technical report, Harvard
+University, Applied Mathematics, 1974.
+
+[163] Daan Wierstra, Alexander Förster, Jan Peters, and Jürgen Schmidhuber.
+Recurrent Policy Gradients. Logic Journal of the IGPL, 18(5):620–634,
+2010.
+
+[164] Ronald J Williams. Simple Statistical Gradient-Following Algorithms
+for Connectionist Reinforcement Learning. Machine Learning, 8(3-4):
+229–256, 1992.
+
+[165] Markus Wulfmeier, Peter Ondruska, and Ingmar Posner. Maximum
+Entropy Deep Inverse Reinforcement Learning. In NIPS Workshop on
+Deep Reinforcement Learning, 2015.
+
+[166] Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron C
+Courville, Ruslan Salakhutdinov, Richard S Zemel, and Yoshua Bengio.
+Show, Attend and Tell: Neural Image Caption Generation with Visual
+Attention. In ICML, volume 14, 2015.
+
+[167] Yuke Zhu, Roozbeh Mottaghi, Eric Kolve, Joseph J Lim, Abhinav
+Gupta, Li Fei-Fei, and Ali Farhadi. Target-Driven Visual Navigation
+in Indoor Scenes using Deep Reinforcement Learning. In ICRA, 2017.
+
+[168] Barret Zoph and Quoc V Le. Neural Architecture Search with
+Reinforcement Learning. In ICLR, 2017.
+
+
+[1] Y. LeCun, Y. Bengio, G. Hinton, Deep learning, Nature 521 (7553) (2015)
+436–444.
+
+[2] J. Schmidhuber, Deep learning in neural networks: An overview, Neural
+Networks 61 (2015) 85–117.
+
+[3] D. E. Rumelhart, G. E. Hinton, R. J. Williams, et al., Learning represen-
+tations by back-propagating errors, Cognitive modeling 5 (3) (1988) 1.
+
+[4] G.-q. Bi, M.-m. Poo, Synaptic modifications in cultured hippocampal neu-
+rons: dependence on spike timing, synaptic strength, and postsynaptic cell
+type, J. Neurosci. 18 (24) (1998) 10464–10472.
+
+[5] N. Caporale, Y. Dan, Spike timing-dependent plasticity : A hebbian learn-
+ing rule, Annu . Rev . Neurosci 31 (2008) 25–46.
+
+[6] S. Song, K. D. Miller, L. F. Abbott, Competitive hebbian learning
+through spike-timing-dependent synaptic plasticity, Nature neuroscience
+3 (9) (2000) 919.
+
+[7] S. Hochreiter, J. Schmidhuber, Long short-term memory, Neural computa-
+tion 9 (8) (1997) 1735–1780.
+
+[8] K. Greff, R. K. Srivastava, J. Koutnı́k, B. R. Steunebrink, J. Schmidhuber,
+Lstm: A search space odyssey, IEEE transactions on neural networks and
+learning systems 28 (10) (2016) 2222–2232.
+
+[9] W. Maass, H. Markram, On the computational power of circuits of spiking
+neurons, J. Comput. Syst. Sci. 69 (4) (2004) 593–616.
+
+[10] A. Tavanaei, M. Ghodrati, S. R. Kheradpisheh, T. Masquelier, A. S. Maida,
+Deep learning in spiking neural networks, arXiv preprint arXiv:1804.08150.
+
+[11] Y. Wu, L. Deng, G. Li, J. Zhu, L. Shi, Spatio-temporal backpropaga-
+tion for training high-performance spiking neural networks, arXiv preprint
+arXiv:1706.02609.
+
+[12] Y. Cao, Y. Chen, D. Khosla, Spiking deep convolutional neural networks
+for energy-efficient object recognition, Int. J. Comput. Vision 113 (1) (2015)
+54–66.
+[13] E. Hunsberger, C. Eliasmith, Spiking deep networks with lif neurons, arXiv
+preprint arXiv:1510.08829.
+
+[14] P. U. Diehl, D. Neil, J. Binas, M. Cook, S.-C. Liu, M. Pfeiffer, Fast-
+classifying, high-accuracy spiking deep networks through weight and
+threshold balancing, in: IJCNN, IEEE, 2015, pp. 1–8.
+
+[15] S. K. Esser, R. Appuswamy, P. A. Merolla, J. V. Arthur, D. S.
+Modha, Backpropagation for energy-efficient neuromorphic computing,
+NIPS (2015) 1117–1125.
+
+[16] P. U. Diehl, G. Zarrella, A. Cassidy, B. U. Pedroni, E. Neftci, Conversion
+of artificial recurrent neural networks to spiking neural networks for low-
+power neuromorphic hardware, in: ICRC, IEEE, 2016, pp. 1–8.
+
+[17] D. Neil, S.-C. Liu, Effective sensor fusion with event-based sensors and
+deep network architectures, in: ISCAS, IEEE, 2016, pp. 2282–2285.
+
+[18] S. K. Esser, P. A. Merolla, J. V. Arthur, A. S. Cassidy, R. Appuswamy,
+A. Andreopoulos, D. J. Berg, J. L. Mckinstry, T. Melano, D. R, et al.,
+Convolutional networks for fast, energy-efficient neuromorphic computing,
+Proc. Natl. Acad. Sci. U. S. A. 113 (41) (2016) 11441–11446.
+
+[19] Y. Hu, H. Tang, Y. Wang, G. Pan, Spiking deep residual network, arXiv
+preprint arXiv:1805.01352.
+
+[20] J. H. Lee, T. Delbruck, M. Pfeiffer, Training deep spiking neural networks
+using backpropagation, Front. Neurosci. 10.
+
+[21] A. Samadi, T. P. Lillicrap, D. B. Tweed, Deep learning with dynamic
+spiking neurons and fixed feedback weights, Neural Comput. 29 (3) (2017)
+578–602.
+
+[22] A. Tavanaei, A. S. Maida, Bp-stdp: Approximating backpropagation using
+spike timing dependent plasticity, arXiv preprint arXiv:1711.04214.
+
+[23] T. Zhang, Y. Zeng, D. Zhao, M. Shi, A plasticity-centric approach to train
+the non-differential spiking neural networks, in: AAAI, 2018.
+
+[24] P. U. Diehl, M. Cook, Unsupervised learning of digit recognition using
+spike-timing-dependent plasticity, Front. Comput. Neurosci. 9.
+
+[25] S. R. Kheradpisheh, M. Ganjtabesh, S. J. Thorpe, T. Masquelier, Stdp-
+based spiking deep convolutional neural networks for object recognition,
+Neural Networks 99 (2018) 56–67.
+
+[26] M. Beyeler, N. D. Dutt, J. L. Krichmar, Categorization and decision-
+making in a neurobiologically plausible spiking network using a stdp-like
+learning rule, Neural Networks 48 (10) (2013) 109–124.
+
+[27] Z. Hu, T. Wang, X. Hu, An stdp-based supervised learning algorithm for
+spiking neural networks, in: ICONIP, Springer, 2017, pp. 92–100.
+
+[28] A. Shrestha, K. Ahmed, Y. Wang, Q. Qiu, Stable spike-timing depen-
+dent plasticity rule for multilayer unsupervised and supervised learning, in:
+Neural Networks (IJCNN), 2017 International Joint Conference on, IEEE,
+2017, pp. 1999–2006.
+
+[29] M. Mozafari, M. Ganjtabesh, A. Nowzari-Dalini, S. J. Thorpe, T. Masque-
+lier, Combining stdp and reward-modulated stdp in deep convolu-
+tional spiking neural networks for digit recognition, arXiv preprint
+arXiv:1804.00227.
+
+[30] J. C. Zhang, P. M. Lau, G. Q. Bi, C. F. Stevens, Gain in sensitivity and loss
+in temporal contrast of stdp by dopaminergic modulation at hippocampal
+synapses, Proc. Natl. Acad. Sci. U. S. A. 106 (31) (2009) 13028–13033.
+
+[31] H. Ruan, T. Saur, W.-D. Yao, Dopamine-enabled anti-Hebbian timing-
+dependent plasticity in prefrontal circuitry, Front. Neural Circuit. 8 (April)
+(2014) 1–12.
+
+[32] Z. Brzosko, W. Schultz, O. Paulsen, Retroactive modulation of spike
+timing-dependent plasticity by dopamine, Elife 4.
+
+[33] N. Masuda, H. Kori, Formation of feedforward networks and frequency
+synchrony by spike-timing-dependent plasticity, Journal of computational
+neuroscience 22 (3) (2007) 327–345.
+
+[34] H. Tanaka, T. Morie, K. Aihara, A cmos spiking neural network circuit with
+symmetric/asymmetric stdp function, IEICE transactions on fundamentals
+of electronics, communications and computer sciences 92 (7) (2009) 1690–
+1698.
+
+[35] T. Serrano-Gotarredona, T. Masquelier, T. Prodromakis, G. Indiveri,
+B. Linares-Barranco, Stdp and stdp variations with memristors for spiking
+neuromorphic learning systems, Front. Neurosci. 7 (2013) 2.
+
+[36] R. K. Mishra, S. Kim, S. J. Guzman, P. Jonas, Symmetric spike timing-
+dependent plasticity at ca3–ca3 synapses optimizes storage and recall in
+autoassociative networks, Nature communications 7 (2016) 11552.
+
+[37] G. G. Turrigiano, The self-tuning neuron: Synaptic scaling of excitatory
+synapses, Cell 135 (3) (2008) 422–435.
+
+[38] G. G. Turrigiano, K. R. Leslie, N. S. Desai, L. C. Rutherford, S. B. Nelson,
+Activity-dependent scaling of quantal amplitude in neocortical neurons,
+Nature 391 (6670) (1998) 892.
+
+[39] F. Effenberger, J. Jost, A. Levina, Self-organization in balanced state net-
+works by stdp and homeostatic plasticity, PLoS Comput. Biol. 11 (9).
+
+[40] T. P. Vogels, H. Sprekeler, F. Zenke, C. Clopath, W. Gerstner, Inhibitory
+plasticity balances excitation and inhibition in sensory pathways and mem-
+ory networks, Science 334 (6062) (2011) 1569–1573.
+
+[41] L. C. Yeung, H. Z. Shouval, B. S. Blais, L. N. Cooper, Synaptic homeostasis
+and input selectivity follow from a calcium-dependent plasticity model,
+Proceedings of the National Academy of Sciences 101 (41) (2004) 14943–
+14948.
+
+[42] Q.-Q. Sun, Experience-dependent intrinsic plasticity in interneurons of bar-
+rel cortex layer iv, Journal of Neurophysiology 102 (5) (2009) 2955–2973.
+
+[43] W. Zhang, D. J. Linden, The other side of the engram: experience-driven
+changes in neuronal intrinsic excitability, Nature Reviews Neuroscience
+4 (11) (2003) 885.
+
+[44] K. Pozo, Y. Goda, Unraveling mechanisms of homeostatic synaptic plas-
+ticity, Neuron 66 (3) (2010) 337–351.
+
+[45] L. N. Cooper, M. F. Bear, The bcm theory of synapse modification at
+30: interaction of theory with experiment, Nature Reviews Neuroscience
+13 (11) (2012) 798.
+
+[46] N. X. Tritsch, B. L. Sabatini, Dopaminergic modulation of synaptic trans-
+mission in cortex and striatum, Neuron 76 (1) (2012) 33–50.
+
+[47] G. W. Davis, Homeostatic control of neural activity: from phenomenology
+to molecular design, Annu. Rev. Neurosci. 29 (2006) 307–323.
+
+[48] A. Maffei, G. G. Turrigiano, Multiple modes of network homeostasis in
+visual cortical layer 2/3, Journal of Neuroscience 28 (17) (2008) 4377–4384.
+
+[49] T. Keck, G. B. Keller, R. I. Jacobsen, U. T. Eysel, T. Bonhoeffer,
+M. Hübener, Synaptic scaling and homeostatic plasticity in the mouse vi-
+sual cortex in vivo, Neuron 80 (2) (2013) 327–334.
+
+[50] K. B. Hengen, M. E. Lambo, S. D. Van Hooser, D. B. Katz, G. G. Turri-
+giano, Firing rate homeostasis in visual cortex of freely behaving rodents,
+Neuron 80 (2) (2013) 335–342.
+
+[51] E. Yavuz, J. Turner, T. Nowotny, Genn: a code generation framework for
+accelerated brain simulations, Scientific reports 6 (2016) 18854.
+
+[52] L. v. d. Maaten, G. Hinton, Visualizing data using t-sne, J. Mach. Learn.
+Res. 9 (Nov) (2008) 2579–2605.
+
+[53] C. Lee, P. Panda, G. Srinivasan, K. Roy, Training deep spiking convolu-
+tional neural networks with stdp-based unsupervised pre-training followed
+by supervised fine-tuning, Frontiers in Neuroscience 12 (2018) 435.
+
+[54] D. Querlioz, O. Bichler, P. Dollfus, C. Gamrat, Immunity to device varia-
+tions in a spiking neural network with memristive nanodevices, IEEE Trans.
+Nanotechnol. 12 (3) (2013) 288–295
+
+[55] Z. Lin, D. Ma, J. Meng, L. Chen, Relative ordering learning in spiking
+neural network for pattern recognition, Neurocomputing 275 (2018) 94–
+106.
+
+[56] I. Sporea, A. Grüning, Supervised learning in multilayer spiking neural
+networks, Neural computation 25 (2) (2013) 473–509.
+
+[57] Q. Xu, Y. Qi, H. Yu, J. Shen, H. Tang, G. Pan, Csnn: An augmented
+spiking based framework with perceptron-inception., in: IJCAI, 2018, pp.
+1646–1652.
+
+[58] H. Xiao, K. Rasul, R. Vollgraf, Fashion-mnist: a novel image
+dataset for benchmarking machine learning algorithms, arXiv preprint
+arXiv:1708.07747.
+
+[59] P. W. Glimcher, Understanding dopamine and reinforcement learning: the
+dopamine reward prediction error hypothesis, Proceedings of the National
+Academy of Sciences 108 (Supplement 3) (2011) 15647–15654.
+
+[60] C. B. Holroyd, M. G. Coles, The neural basis of human error processing:
+reinforcement learning, dopamine, and the error-related negativity., Psy-
+chological review 109 (4) (2002) 679.
+
+[61] R. A. Wise, Dopamine, learning and motivation, Nature reviews neuro-
+science 5 (6) (2004) 483.
+
+[62] P. Dayan, B. W. Balleine, Reward, motivation, and reinforcement learning,
+Neuron 36 (2) (2002) 285–298.
+
+[63] E. M. Izhikevich, Solving the distal reward problem through linkage of stdp
+and dopamine signaling, Cereb. Cortex 17 (10) (2007) 2443–2452.
+
+[64] W. Maass, T. Natschläger, H. Markram, Real-time computing without sta-
+ble states: A new framework for neural computation based on perturba-
+tions, Neural computation 14 (11) (2002) 2531–2560.
+
+[65] N. K. Kasabov, Neucube: A spiking neural network architecture for map-
+ping, learning and understanding of spatio-temporal brain data, Neural
+Networks 52 (2014) 62–76.
+
+[66] N. K. Kasabov, Time-Space, Spiking Neural Networks and Brain-Inspired
+Artificial Intelligence, Vol. 7, Springer, 2018.
+
+[67] H. Jaeger, The echo state approach to analysing and training recurrent neu-
+ral networks-with an erratum note, Bonn, Germany: German National Re-
+search Center for Information Technology GMD Technical Report 148 (34)
+(2001) 13.
+
+[68] H. Jaeger, H. Haas, Harnessing nonlinearity: Predicting chaotic systems
+and saving energy in wireless communication, science 304 (5667) (2004)
+78–80.
+
+[69] M. Lukoševičius, H. Jaeger, Reservoir computing approaches to recurrent
+neural network training, Comput. Sci. Rev. 3 (3) (2009) 127–149.
+
+[70] M. Lukoševičius, H. Jaeger, B. Schrauwen, Reservoir computing trends,
+KI-Künstliche Intelligenz 26 (4) (2012) 365–371.
+
+Adebiyi, A. A., Adewumi, A. O., and Ayo, C. K. (2014).
+Comparison of ARIMA and artificial neural networks
+models for stock price prediction. Journal of Applied
+Mathematics, 2014.
+
+Aghabozorgi, S., Shirkhorshidi, A. S., and Wah, T. Y.
+(2015). Time-series clustering–a decade review. In-
+formation Systems, 53:16–38.
+
+Al-Mahasneh, A. J., Anavatti, S. G., and Garratt, M. A.
+(2018).
+Review of Applications of Generalized
+Regression Neural Networks in Identification and
+Control of Dynamic Systems.
+arXiv preprint
+arXiv:1805.11236.
+
+Alfred, R. et al. (2015). A genetic-based backpropagation
+neural network for forecasting in time-series data. In
+2015 International Conference on Science in Informa-
+tion Technology (ICSITech), pages 158–163. IEEE.
+Alpaydin, E. (2014). Introduction to machine learning.
+MIT press.
+
+Althelaya, K. A., El-Alfy, E.-S. M., and Mohammed, S.
+(2018a). Evaluation of bidirectional LSTM for short-
+and long-term stock market prediction. In 2018 9th
+International Conference on Information and Com-
+munication Systems (ICICS), pages 151–156. IEEE.
+
+Althelaya, K. A., El-Alfy, E.-S. M., and Mohammed, S.
+(2018b). Stock Market Forecast Using Multivari-
+ate Analysis with Bidirectional and Stacked (LSTM,
+GRU). In 2018 21st Saudi Computer Society National
+Computer Conference (NCC), pages 1–7. IEEE.
+
+Archana, S. and Elangovan, K. (2014). Survey of classifi-
+cation techniques in data mining. International Jour-
+nal of Computer Science and Mobile Applications,
+2(2):65–71.
+
+Attigeri, G. V., MM, M. P., Pai, R. M., and Nayak, A.
+(2015). Stock market prediction: A big data approach.
+In TENCON 2015-2015 IEEE Region 10 Conference,
+pages 1–5. IEEE.
+
+Bai, S., Kolter, J. Z., and Koltun, V. (2018). An empiri-
+cal evaluation of generic convolutional and recurrent
+networks for sequence modeling. arXiv preprint
+arXiv:1803.01271.
+
+Belgacem, S., Chatelain, C., and Paquet, T. (2017).
+Gesture sequence recognition with one shot learned
+CRF/HMM hybrid model. Image and Vision Comput-
+ing, 61:12–21.
+
+Beyaz, E., Tekiner, F., Zeng, X.-j., and Keane, J. (2018).
+Comparing technical and fundamental indicators in
+stock price forecasting. In 2018 IEEE 20th In-
+ternational Conference on High Performance Com-
+puting and Communications; IEEE 16th Interna-
+tional Conference on Smart City; IEEE 4th Inter-
+national Conference on Data Science and Systems
+(HPCC/SmartCity/DSS), pages 1607–1613. IEEE.
+
+Bodie, Z., Kane, A., and Marcus, A. J. (2013). Investments
+and portfolio management. McGraw Hill Education
+(India) Private Limited.
+
+Bollen, J., Mao, H., and Zeng, X. (2011). Twitter mood
+predicts the stock market. Journal of computational
+science, 2(1):1–8
+
+Boomija, M. and Phil, M. (2008). Comparison of partition
+based clustering algorithms. Journal of Computer
+Applications, 1(4):18–21.
+
+Brown, B. (2017). The forward market in foreign exchange:
+a study in market-making, arbitrage and speculation.
+Routledge.
+
+Chou, J.-S. and Nguyen, T.-K. (2018). Forward Forecast
+of Stock Price Using Sliding-Window Metaheuristic-
+Optimized Machine-Learning Regression.
+IEEETransactions on Industrial Informatics, 14(7):3132–
+3142.
+
+Chourmouziadis, K. and Chatzoglou, P. D. (2016). An
+intelligent short term stock trading fuzzy system for
+assisting investors in portfolio management. Expert
+Systems with Applications, 43:298–311.
+
+Dang, M. and Duong, D. (2016). Improvement methods for
+stock market prediction using financial news articles.
+In 2016 3rd National Foundation for Science and
+Technology Development Conference on Information
+and Computer Science (NICS), pages 125–129. IEEE.
+
+Göçken, M., Özçalıcı, M., Boru, A., and Dosdoğru, A. T.
+(2016). Integrating metaheuristics and artificial neural
+networks for improved stock price prediction. Expert
+Systems with Applications, 44:320–331.
+
+Grover, N. (2014). A study of various Fuzzy Clustering
+Algorithms. In 3, editor, International Journal of
+Engineering Research, volume 3, pages 177–181.
+
+Hadavandi, E., Shavandi, H., and Ghanbari, A. (2010).
+Integration of genetic fuzzy systems and artificial neu-
+ral networks for stock price forecasting. Knowledge-
+Based Systems, 23(8):800–808.
+
+He, J., Cai, L., Cheng, P., and Fan, J. (2015). Opti-
+mal investment for retail company in electricity mar-
+ket. IEEE Transactions on Industrial Informatics,
+11(5):1210–1219.
+
+Hegazy, O., Soliman, O. S., and Salam, M. A. (2014). A
+machine learning model for stock market prediction.
+arXiv preprint arXiv:1402.7351.
+
+Hyndman, R. J. and Athanasopoulos, G. (2018). Forecast-
+ing: principles and practice. Otexts.
+
+Ijegwa, A. D., Rebecca, V. O., Olusegun, F., and Isaac,
+O. O. (2014). A predictive stock market technical
+analysis using fuzzy logic. Computer and information
+science, 7(3):1.
+
+Jadhav, S. D. and Channe, H. (2016). Comparative study
+of K-NN, naive Bayes and decision tree classification
+techniques. International Journal of Science and
+Research (IJSR), 5(1):1842–1845.
+
+Jeong, Y., Kim, S., and Yoon, B. (2018). An Algorithm
+for Supporting Decision Making in Stock Investment
+through Opinion Mining and Machine Learning. In
+2018 Portland International Conference on Man-
+agement of Engineering and Technology (PICMET),
+pages 1–10. IEEE.
+
+Khare, K., Darekar, O., Gupta, P., and Attar, V. (2017).
+Short term stock price prediction using deep learning.
+In 2017 2nd IEEE International Conference on Recent
+Trends in Electronics, Information & Communication
+Technology (RTEICT), pages 482–486. IEEE.
+
+
+
+
+
+
+
