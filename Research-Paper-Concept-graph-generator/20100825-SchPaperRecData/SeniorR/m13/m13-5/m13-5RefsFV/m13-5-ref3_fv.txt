@@ -1,0 +1,9 @@
+author 0.12
+journal 0.12
+month 0.04
+number 0.12
+page 0.12
+ref 0.12
+titl 0.12
+volum 0.12
+year 0.12

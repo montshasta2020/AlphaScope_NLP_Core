@@ -1,0 +1,165 @@
+Getting necessary keywords from file....
+{
+    "concepts": [
+        {
+            "concept": "Journal",
+            "occurrences": 463
+        },
+        {
+            "concept": "Informetrics",
+            "occurrences": 255
+        },
+        {
+            "concept": "B",
+            "occurrences": 260
+        },
+        {
+            "concept": "R",
+            "occurrences": 292
+        },
+        {
+            "concept": "Science",
+            "occurrences": 299
+        },
+        {
+            "concept": "j",
+            "occurrences": 371
+        },
+        {
+            "concept": "L",
+            "occurrences": 139
+        },
+        {
+            "concept": "citation",
+            "occurrences": 752
+        },
+        {
+            "concept": "Egghe",
+            "occurrences": 108
+        },
+        {
+            "concept": "Glanzel",
+            "occurrences": 81
+        },
+        {
+            "concept": "W",
+            "occurrences": 78
+        },
+        {
+            "concept": "Rousseau",
+            "occurrences": 75
+        },
+        {
+            "concept": "information",
+            "occurrences": 147
+        },
+        {
+            "concept": "Elsevier Ltd",
+            "occurrences": 34
+        },
+        {
+            "concept": "Scientometrics",
+            "occurrences": 73
+        },
+        {
+            "concept": "self",
+            "occurrences": 186
+        },
+        {
+            "concept": "distribution",
+            "occurrences": 220
+        },
+        {
+            "concept": "k",
+            "occurrences": 194
+        },
+        {
+            "concept": "values",
+            "occurrences": 158
+        },
+        {
+            "concept": "results",
+            "occurrences": 208
+        },
+        {
+            "concept": "papers",
+            "occurrences": 240
+        },
+        {
+            "concept": "term",
+            "occurrences": 231
+        },
+        {
+            "concept": "scientific",
+            "occurrences": 137
+        },
+        {
+            "concept": "analysis",
+            "occurrences": 110
+        },
+        {
+            "concept": "impact",
+            "occurrences": 117
+        },
+        {
+            "concept": "published",
+            "occurrences": 137
+        },
+        {
+            "concept": "rank",
+            "occurrences": 258
+        },
+        {
+            "concept": "V",
+            "occurrences": 50
+        },
+        {
+            "concept": "year",
+            "occurrences": 120
+        },
+        {
+            "concept": "based",
+            "occurrences": 120
+        },
+        {
+            "concept": "Schubert",
+            "occurrences": 28
+        },
+        {
+            "concept": "O",
+            "occurrences": 25
+        },
+        {
+            "concept": "process",
+            "occurrences": 118
+        },
+        {
+            "concept": "received",
+            "occurrences": 121
+        },
+        {
+            "concept": "U",
+            "occurrences": 24
+        },
+        {
+            "concept": "Introduction",
+            "occurrences": 26
+        },
+        {
+            "concept": "Pareto",
+            "occurrences": 26
+        },
+        {
+            "concept": "law",
+            "occurrences": 89
+        },
+        {
+            "concept": "score",
+            "occurrences": 116
+        },
+        {
+            "concept": "present",
+            "occurrences": 58
+        }
+    ]
+}

@@ -1,7 +1,0 @@
-
-2. The theory of ‘characteristic scores and scales’
-In what follows, we briefly summarise the definition of the characteristic scores and scales according to Glänzel &
-Schubert (1988a, 1988b). Consider a set of n papers published in a given subject field. The observed citations {Xi }ni=1
-received by each paper in a given time period are then ranked in descending order X1∗ ≥ X2∗ ≥ · · · ≥ Xn∗ , where X1∗
-denotes the citation rate of most frequently cited paper in the set and Xn∗ consequently the number of citations the least
-cited paper has received.
