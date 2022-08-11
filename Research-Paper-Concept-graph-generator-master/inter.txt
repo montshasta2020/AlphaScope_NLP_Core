@@ -1,0 +1,120 @@
+{
+    "concepts": [
+        {
+            "concept": "Xn",
+            "occurrences": 2
+        },
+        {
+            "concept": "Glänzel Schubert",
+            "occurrences": 1
+        },
+        {
+            "concept": "Consider",
+            "occurrences": 1
+        },
+        {
+            "concept": "paper",
+            "occurrences": 4
+        },
+        {
+            "concept": "Xi",
+            "occurrences": 1
+        },
+        {
+            "concept": "characteristic scores",
+            "occurrences": 2
+        },
+        {
+            "concept": "cited paper",
+            "occurrences": 2
+        },
+        {
+            "concept": "characteristic scores and scales",
+            "occurrences": 2
+        },
+        {
+            "concept": "citations",
+            "occurrences": 3
+        },
+        {
+            "concept": "given",
+            "occurrences": 2
+        },
+        {
+            "concept": "received",
+            "occurrences": 2
+        },
+        {
+            "concept": "set",
+            "occurrences": 2
+        },
+        {
+            "concept": "observed citations Xi ni",
+            "occurrences": 1
+        },
+        {
+            "concept": "frequently cited paper",
+            "occurrences": 1
+        },
+        {
+            "concept": "least cited paper",
+            "occurrences": 1
+        },
+        {
+            "concept": "given subject field",
+            "occurrences": 1
+        },
+        {
+            "concept": "given time period",
+            "occurrences": 1
+        },
+        {
+            "concept": "n papers published",
+            "occurrences": 1
+        },
+        {
+            "concept": "scales according",
+            "occurrences": 1
+        },
+        {
+            "concept": "briefly summarise",
+            "occurrences": 1
+        },
+        {
+            "concept": "citation rate",
+            "occurrences": 1
+        },
+        {
+            "concept": "Xn consequently",
+            "occurrences": 1
+        },
+        {
+            "concept": "descending order",
+            "occurrences": 1
+        },
+        {
+            "concept": "theory of characteristic scores and scales",
+            "occurrences": 1
+        },
+        {
+            "concept": "set and Xn consequently the number",
+            "occurrences": 1
+        },
+        {
+            "concept": "given time period are then ranked",
+            "occurrences": 1
+        },
+        {
+            "concept": "scores and scales In what follows",
+            "occurrences": 1
+        },
+        {
+            "concept": "summarise the definition of the characteristic",
+            "occurrences": 1
+        },
+        {
+            "concept": "denotes the citation rate",
+            "occurrences": 1
+        }
+    ]
+}
