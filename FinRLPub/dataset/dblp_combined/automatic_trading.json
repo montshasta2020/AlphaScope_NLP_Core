@@ -1,0 +1,152 @@
+{
+"result":{
+"query":"automatic* trading*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"2.28"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"20",
+"@dc":"20",
+"@oc":"20",
+"@id":"47204991",
+"text":"trading"
+}
+},
+"hits":{
+"@total":"20",
+"@computed":"20",
+"@sent":"20",
+"@first":"0",
+"hit":[{
+"@score":"2",
+"@id":"34368",
+"info":{"authors":{"author":[{"@pid":"66/4615-38","text":"Yong Zhang 0038"},{"@pid":"154/4114","text":"Weilong Liu"},{"@pid":"36/9818","text":"Xingyu Yang"}]},"title":"An automatic trading system for fuzzy portfolio optimization problem with sell orders.","venue":"Expert Syst. Appl.","volume":"187","pages":"115822","year":"2022","type":"Journal Articles","access":"closed","key":"journals/eswa/ZhangLY22","doi":"10.1016/J.ESWA.2021.115822","ee":"https://doi.org/10.1016/j.eswa.2021.115822","url":"https://dblp.org/rec/journals/eswa/ZhangLY22"},
+"url":"URL#34368"
+},
+{
+"@score":"2",
+"@id":"763183",
+"info":{"authors":{"author":[{"@pid":"257/0830","text":"Omar A. Bari"},{"@pid":"98/2199","text":"Arvin Agah"}]},"title":"Ensembles of Text and Time-Series Models for Automatic Generation of Financial Trading Signals from Social Media Content.","venue":"J. Intell. Syst.","volume":"29","number":"1","pages":"753-772","year":"2020","type":"Journal Articles","access":"open","key":"journals/jois/BariA20","doi":"10.1515/JISYS-2017-0567","ee":"https://doi.org/10.1515/jisys-2017-0567","url":"https://dblp.org/rec/journals/jois/BariA20"},
+"url":"URL#763183"
+},
+{
+"@score":"2",
+"@id":"1072240",
+"info":{"authors":{"author":{"@pid":"278/2435","text":"Tadeu A. Ferreira"}},"title":"Reinforced Deep Markov Models With Applications in Automatic Trading.","venue":"CoRR","volume":"abs/2011.04391","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2011-04391","ee":"https://arxiv.org/abs/2011.04391","url":"https://dblp.org/rec/journals/corr/abs-2011-04391"},
+"url":"URL#1072240"
+},
+{
+"@score":"2",
+"@id":"1474991",
+"info":{"authors":{"author":[{"@pid":"229/6497","text":"Wonsup Shin"},{"@pid":"201/1964","text":"Seok-Jun Bu"},{"@pid":"88/2576","text":"Sung-Bae Cho"}]},"title":"Automatic Financial Trading Agent for Low-risk Portfolio Management using Deep Reinforcement Learning.","venue":"CoRR","volume":"abs/1909.03278","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1909-03278","ee":"http://arxiv.org/abs/1909.03278","url":"https://dblp.org/rec/journals/corr/abs-1909-03278"},
+"url":"URL#1474991"
+},
+{
+"@score":"2",
+"@id":"1616017",
+"info":{"authors":{"author":[{"@pid":"99/4622","text":"Broderick Crawford"},{"@pid":"41/5788","text":"Ricardo Soto 0001"},{"@pid":"227/9575","text":"Marco Alarcón San Martín"},{"@pid":"03/10296","text":"Hanns de la Fuente Mella"},{"@pid":"02/3606-1","text":"Carlos Castro 0001"},{"@pid":"59/3482","text":"Fernando Paredes"}]},"title":"Automatic High-Frequency Trading: An Application to Emerging Chilean Stock Market.","venue":"Sci. Program.","volume":"2018","pages":"8721246:1-8721246:12","year":"2018","type":"Journal Articles","access":"open","key":"journals/sp/CrawfordSMMCP18","doi":"10.1155/2018/8721246","ee":"https://doi.org/10.1155/2018/8721246","url":"https://dblp.org/rec/journals/sp/CrawfordSMMCP18"},
+"url":"URL#1616017"
+},
+{
+"@score":"2",
+"@id":"1684163",
+"info":{"authors":{"author":{"@pid":"317/9241","text":"Serhii A. Rybalchenko"}},"title":"Big Data Automatic System of Analysis and Trading on Financial Markets.","venue":"DSMP","pages":"281-285","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/dsmp/Rybalchenko18","doi":"10.1109/DSMP.2018.8478497","ee":"https://doi.org/10.1109/DSMP.2018.8478497","url":"https://dblp.org/rec/conf/dsmp/Rybalchenko18"},
+"url":"URL#1684163"
+},
+{
+"@score":"2",
+"@id":"1796851",
+"info":{"authors":{"author":[{"@pid":"234/1184","text":"Wei-Lun Yeoh"},{"@pid":"234/0606","text":"Yi-Jhen Jhang"},{"@pid":"123/2654","text":"Shu-Yu Kuo"},{"@pid":"32/6076","text":"Yao-Hsin Chou"}]},"title":"Automatic Stock Trading System Combined with Short Selling Using Moving Average and GQTS Algorithm.","venue":"SMC","pages":"1570-1575","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/smc/YeohJKC18","doi":"10.1109/SMC.2018.00272","ee":"https://doi.org/10.1109/SMC.2018.00272","url":"https://dblp.org/rec/conf/smc/YeohJKC18"},
+"url":"URL#1796851"
+},
+{
+"@score":"2",
+"@id":"1898217",
+"info":{"authors":{"author":[{"@pid":"134/0882","text":"Rodrigo C. Brasileiro"},{"@pid":"134/0865","text":"Victor L. F. Souza"},{"@pid":"80/3742","text":"Adriano L. I. Oliveira"}]},"title":"Automatic trading method based on piecewise aggregate approximation and multi-swarm of improved self-adaptive particle swarm optimization with validation.","venue":"Decis. Support Syst.","volume":"104","pages":"79-91","year":"2017","type":"Journal Articles","access":"closed","key":"journals/dss/BrasileiroSO17","doi":"10.1016/J.DSS.2017.10.005","ee":"https://doi.org/10.1016/j.dss.2017.10.005","url":"https://dblp.org/rec/journals/dss/BrasileiroSO17"},
+"url":"URL#1898217"
+},
+{
+"@score":"2",
+"@id":"2707064",
+"info":{"authors":{"author":[{"@pid":"79/1552","text":"Chao Ma"},{"@pid":"93/2940-1","text":"Xun Liang 0001"}]},"title":"Mining gold in senior executives&apos; pockets: An online automatically trading strategy.","venue":"ICMLC","pages":"151-156","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/icmlc/MaL15","doi":"10.1109/ICMLC.2015.7340914","ee":"https://doi.org/10.1109/ICMLC.2015.7340914","url":"https://dblp.org/rec/conf/icmlc/MaL15"},
+"url":"URL#2707064"
+},
+{
+"@score":"2",
+"@id":"2712618",
+"info":{"authors":{"author":[{"@pid":"77/250","text":"Heriberto Cuayáhuitl"},{"@pid":"80/6099","text":"Simon Keizer"},{"@pid":"36/6352","text":"Oliver Lemon"}]},"title":"Learning Trading Negotiations Using Manually and Automatically Labelled Data.","venue":"ICTAI","pages":"904-911","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictai/CuayahuitlKL15","doi":"10.1109/ICTAI.2015.131","ee":"https://doi.org/10.1109/ICTAI.2015.131","url":"https://dblp.org/rec/conf/ictai/CuayahuitlKL15"},
+"url":"URL#2712618"
+},
+{
+"@score":"2",
+"@id":"3071030",
+"info":{"authors":{"author":[{"@pid":"156/6642","text":"Eduardo Jabbur"},{"@pid":"150/3930","text":"Everton Silva"},{"@pid":"146/6208","text":"Douglas Castilho"},{"@pid":"73/6430","text":"Adriano C. M. Pereira"},{"@pid":"150/4038","text":"Humberto Brandao"}]},"title":"Design and Evaluation of Automatic Agents for Stock Market Intraday Trading.","venue":"WI-IAT","pages":"396-403","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/webi/JabburSCPB14","doi":"10.1109/WI-IAT.2014.194","ee":"https://doi.org/10.1109/WI-IAT.2014.194","url":"https://dblp.org/rec/conf/webi/JabburSCPB14"},
+"url":"URL#3071030"
+},
+{
+"@score":"2",
+"@id":"3227242",
+"info":{"authors":{"author":[{"@pid":"134/0882","text":"Rodrigo C. Brasileiro"},{"@pid":"134/0865","text":"Victor L. F. Souza"},{"@pid":"139/8714","text":"Bruno J. T. Fernandes"},{"@pid":"80/3742","text":"Adriano L. I. Oliveira"}]},"title":"Automatic method for stock trading combining technical analysis and the Artificial Bee Colony Algorithm.","venue":"IEEE Congress on Evolutionary Computation","pages":"1810-1817","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/BrasileiroSFO13","doi":"10.1109/CEC.2013.6557780","ee":"https://doi.org/10.1109/CEC.2013.6557780","url":"https://dblp.org/rec/conf/cec/BrasileiroSFO13"},
+"url":"URL#3227242"
+},
+{
+"@score":"2",
+"@id":"3583768",
+"info":{"authors":{"author":[{"@pid":"73/2661","text":"Dmitriy Shutin"},{"@pid":"19/9876","text":"Thomas Buchgraber"}]},"title":"Trading approximation quality versus sparsity within incremental automatic relevance determination frameworks.","venue":"MLSP","pages":"1-6","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlsp/ShutinB12","doi":"10.1109/MLSP.2012.6349805","ee":"https://doi.org/10.1109/MLSP.2012.6349805","url":"https://dblp.org/rec/conf/mlsp/ShutinB12"},
+"url":"URL#3583768"
+},
+{
+"@score":"2",
+"@id":"3804806",
+"info":{"authors":{"author":[{"@pid":"39/10114","text":"Kraimon Maneesilp"},{"@pid":"79/2983","text":"Boontee Kruatrachue"},{"@pid":"26/1881","text":"Pitikhate Sooraksa"}]},"title":"Adaptive parameter forecasting for FOREX automatic trading system using fuzzy time series.","venue":"ICMLC","pages":"189-194","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/icmlc/ManeesilpKS11","doi":"10.1109/ICMLC.2011.6016678","ee":"https://doi.org/10.1109/ICMLC.2011.6016678","url":"https://dblp.org/rec/conf/icmlc/ManeesilpKS11"},
+"url":"URL#3804806"
+},
+{
+"@score":"2",
+"@id":"3916638",
+"info":{"authors":{"author":[{"@pid":"61/2889","text":"Lamartine Almeida Teixeira"},{"@pid":"80/3742","text":"Adriano Lorena Inácio de Oliveira"}]},"title":"A method for automatic stock trading combining technical analysis and nearest neighbor classification.","venue":"Expert Syst. Appl.","volume":"37","number":"10","pages":"6885-6890","year":"2010","type":"Journal Articles","access":"closed","key":"journals/eswa/TeixeiraO10","doi":"10.1016/J.ESWA.2010.03.033","ee":"https://doi.org/10.1016/j.eswa.2010.03.033","url":"https://dblp.org/rec/journals/eswa/TeixeiraO10"},
+"url":"URL#3916638"
+},
+{
+"@score":"2",
+"@id":"4248994",
+"info":{"authors":{"author":[{"@pid":"50/9923","text":"Ilya Raykhel"},{"@pid":"45/3183","text":"Dan Ventura"}]},"title":"Real-time Automatic Price Prediction for eBay Online Trading.","venue":"IAAI","year":"2009","type":"Conference and Workshop Papers","access":"open","key":"conf/iaai/RaykhelV09","ee":"http://aaai.org/ocs/index.php/IAAI/IAAI09/paper/view/264","url":"https://dblp.org/rec/conf/iaai/RaykhelV09"},
+"url":"URL#4248994"
+},
+{
+"@score":"2",
+"@id":"4459340",
+"info":{"authors":{"author":[{"@pid":"13/1367","text":"Ekaterina Shalamitskaya"},{"@pid":"47/3572","text":"Sviatlana Staleuskaya"},{"@pid":"33/5113","text":"Valery Tsourikov"}]},"title":"A.I. system for automatic synthesis of trading technologies and portfolios for investment funds.","venue":"IC-AI","pages":"275-279","year":"2008","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/icai/ShalamitskayaST08","url":"https://dblp.org/rec/conf/icai/ShalamitskayaST08"},
+"url":"URL#4459340"
+},
+{
+"@score":"2",
+"@id":"4901898",
+"info":{"authors":{"author":[{"@pid":"198/5030","text":"Malgorzata Snarska"},{"@pid":"198/5035","text":"Jakub Krzych"}]},"title":"Automatic Trading Agent. RMT based Portfolio Theory and Portfolio Selection.","venue":"CoRR","volume":"abs/physics/0608293","year":"2006","type":"Informal Publications","access":"open","key":"journals/corr/SnarskaK06","ee":"http://arxiv.org/abs/physics/0608293","url":"https://dblp.org/rec/journals/corr/SnarskaK06"},
+"url":"URL#4901898"
+},
+{
+"@score":"2",
+"@id":"5351402",
+"info":{"authors":{"author":[{"@pid":"59/1551","text":"Ian Dempsey"},{"@pid":"61/6483-1","text":"Michael O&apos;Neill 0001"},{"@pid":"76/829","text":"Anthony Brabazon"}]},"title":"Investigations into Market Index Trading Models Using Evolutionary Automatic Programming.","venue":"AICS","pages":"165-170","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/aics/DempseyOB02","doi":"10.1007/3-540-45750-X_21","ee":"https://doi.org/10.1007/3-540-45750-X_21","url":"https://dblp.org/rec/conf/aics/DempseyOB02"},
+"url":"URL#5351402"
+},
+{
+"@score":"2",
+"@id":"5403325",
+"info":{"authors":{"author":[{"@pid":"75/5540","text":"Marco Corazza"},{"@pid":"41/5490","text":"Paolo Vanni"},{"@pid":"57/3277","text":"Umberto Loschi"}]},"title":"Hybrid Automatic Trading Systems: Technical Analysis &amp; Group Method of Data Handling.","venue":"WIRN","pages":"47-55","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/wirn/CorazzaVL02","doi":"10.1007/3-540-45808-5_4","ee":"https://doi.org/10.1007/3-540-45808-5_4","url":"https://dblp.org/rec/conf/wirn/CorazzaVL02"},
+"url":"URL#5403325"
+}
+]
+}
+}
+}

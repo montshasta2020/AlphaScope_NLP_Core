@@ -1,0 +1,126 @@
+{
+"result":{
+"query":"transformer* stock*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"1.48"
+},
+"completions":{
+"@total":"3",
+"@computed":"3",
+"@sent":"3",
+"c":[
+{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"47124640",
+"text":"stock"
+},
+{
+"@sc":"2",
+"@dc":"2",
+"@oc":"2",
+"@id":"47124729",
+"text":"stockinger"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47124805",
+"text":"stocktwits"
+}
+]
+},
+"hits":{
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"2",
+"@id":"34372",
+"info":{"authors":{"author":[{"@pid":"228/6491","text":"Qiuyue Zhang"},{"@pid":"66/3363","text":"Chao Qin"},{"@pid":"98/3049","text":"Yunfeng Zhang"},{"@pid":"12/2309","text":"Fangxun Bao"},{"@pid":"12/1053","text":"Caiming Zhang"},{"@pid":"91/5865","text":"Peide Liu"}]},"title":"Transformer-based attention network for stock movement prediction.","venue":"Expert Syst. Appl.","volume":"202","pages":"117239","year":"2022","type":"Journal Articles","access":"closed","key":"journals/eswa/ZhangQZBZL22","doi":"10.1016/J.ESWA.2022.117239","ee":"https://doi.org/10.1016/j.eswa.2022.117239","url":"https://dblp.org/rec/journals/eswa/ZhangQZBZL22"},
+"url":"URL#34372"
+},
+{
+"@score":"2",
+"@id":"147697",
+"info":{"authors":{"author":[{"@pid":"118/7237","text":"Heyuan Wang"},{"@pid":"39/1084-3","text":"Tengjiao Wang 0003"},{"@pid":"12/5028","text":"Shun Li"},{"@pid":"243/2336","text":"Jiayi Zheng"},{"@pid":"268/2231","text":"Shijie Guan"},{"@pid":"c/WeiChen21","text":"Wei Chen 0021"}]},"title":"Adaptive Long-Short Pattern Transformer for Stock Investment Selection.","venue":"IJCAI","pages":"3970-3977","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/ijcai/Wang0LZG022","doi":"10.24963/IJCAI.2022/551","ee":"https://doi.org/10.24963/ijcai.2022/551","url":"https://dblp.org/rec/conf/ijcai/Wang0LZG022"},
+"url":"URL#147697"
+},
+{
+"@score":"2",
+"@id":"153252",
+"info":{"authors":{"author":[{"@pid":"325/7066","text":"Pongsatorn Harnmetta"},{"@pid":"160/0021","text":"Taweesak Samanchuen"}]},"title":"Sentiment Analysis of Thai Stock Reviews Using Transformer Models.","venue":"JCSSE","pages":"1-6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/jcsse/HarnmettaS22","doi":"10.1109/JCSSE54890.2022.9836278","ee":"https://doi.org/10.1109/JCSSE54890.2022.9836278","url":"https://dblp.org/rec/conf/jcsse/HarnmettaS22"},
+"url":"URL#153252"
+},
+{
+"@score":"2",
+"@id":"291887",
+"info":{"authors":{"author":{"@pid":"254/1057","text":"Jincheng Hu"}},"title":"Local-constraint transformer network for stock movement prediction.","venue":"Int. J. Comput. Sci. Eng.","volume":"24","number":"4","pages":"429-437","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ijcse/Hu21","doi":"10.1504/IJCSE.2021.117030","ee":"https://doi.org/10.1504/IJCSE.2021.117030","url":"https://dblp.org/rec/journals/ijcse/Hu21"},
+"url":"URL#291887"
+},
+{
+"@score":"2",
+"@id":"479224",
+"info":{"authors":{"author":[{"@pid":"220/3092","text":"Divyanshu Daiya"},{"@pid":"66/4850","text":"Che Lin"}]},"title":"Stock Movement Prediction and Portfolio Management via Multimodal Learning with Transformer.","venue":"ICASSP","pages":"3305-3309","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icassp/DaiyaL21","doi":"10.1109/ICASSP39728.2021.9414893","ee":"https://doi.org/10.1109/ICASSP39728.2021.9414893","url":"https://dblp.org/rec/conf/icassp/DaiyaL21"},
+"url":"URL#479224"
+},
+{
+"@score":"2",
+"@id":"487161",
+"info":{"authors":{"author":[{"@pid":"133/8631","text":"Benjamin Graham"},{"@pid":"215/4993","text":"Alaaeldin El-Nouby"},{"@pid":"243/3492","text":"Hugo Touvron"},{"@pid":"210/2208","text":"Pierre Stock"},{"@pid":"68/8653","text":"Armand Joulin"},{"@pid":"19/2115","text":"Hervé Jégou"},{"@pid":"64/5801","text":"Matthijs Douze"}]},"title":"LeViT: a Vision Transformer in ConvNet&apos;s Clothing for Faster Inference.","venue":"ICCV","pages":"12239-12249","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccv/GrahamETSJJD21","doi":"10.1109/ICCV48922.2021.01204","ee":"https://doi.org/10.1109/ICCV48922.2021.01204","url":"https://dblp.org/rec/conf/iccv/GrahamETSJJD21"},
+"url":"URL#487161"
+},
+{
+"@score":"2",
+"@id":"498807",
+"info":{"authors":{"author":[{"@pid":"123/4093","text":"Aysun Bozanta"},{"@pid":"312/6264","text":"Sabrina Angco"},{"@pid":"130/5636","text":"Mucahit Cevik"},{"@pid":"55/2997","text":"Ayse Basar"}]},"title":"Sentiment Analysis of StockTwits Using Transformer Models.","venue":"ICMLA","pages":"1253-1258","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icmla/BozantaACB21","doi":"10.1109/ICMLA52953.2021.00204","ee":"https://doi.org/10.1109/ICMLA52953.2021.00204","url":"https://dblp.org/rec/conf/icmla/BozantaACB21"},
+"url":"URL#498807"
+},
+{
+"@score":"2",
+"@id":"531029",
+"info":{"authors":{"author":[{"@pid":"211/2843","text":"Jaemin Yoo"},{"@pid":"299/4948","text":"Yejun Soun"},{"@pid":"274/1605","text":"Yong-chan Park"},{"@pid":"13/7122","text":"U Kang"}]},"title":"Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts.","venue":"KDD","pages":"2037-2045","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kdd/YooSPK21","doi":"10.1145/3447548.3467297","ee":"https://doi.org/10.1145/3447548.3467297","url":"https://dblp.org/rec/conf/kdd/YooSPK21"},
+"url":"URL#531029"
+},
+{
+"@score":"2",
+"@id":"598554",
+"info":{"authors":{"author":[{"@pid":"133/8631","text":"Benjamin Graham"},{"@pid":"215/4993","text":"Alaaeldin El-Nouby"},{"@pid":"243/3492","text":"Hugo Touvron"},{"@pid":"210/2208","text":"Pierre Stock"},{"@pid":"68/8653","text":"Armand Joulin"},{"@pid":"19/2115","text":"Hervé Jégou"},{"@pid":"64/5801","text":"Matthijs Douze"}]},"title":"LeViT: a Vision Transformer in ConvNet&apos;s Clothing for Faster Inference.","venue":"CoRR","volume":"abs/2104.01136","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2104-01136","ee":"https://arxiv.org/abs/2104.01136","url":"https://dblp.org/rec/journals/corr/abs-2104-01136"},
+"url":"URL#598554"
+},
+{
+"@score":"2",
+"@id":"858954",
+"info":{"authors":{"author":[{"@pid":"216/6008","text":"Matthew Caron"},{"@pid":"43/6309","text":"Oliver Müller"}]},"title":"Hardening Soft Information: A Transformer-Based Approach to Forecasting Stock Return Volatility.","venue":"IEEE BigData","pages":"4383-4391","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/bigdataconf/CaronM20","doi":"10.1109/BIGDATA50022.2020.9378134","ee":"https://doi.org/10.1109/BigData50022.2020.9378134","url":"https://dblp.org/rec/conf/bigdataconf/CaronM20"},
+"url":"URL#858954"
+},
+{
+"@score":"2",
+"@id":"887516",
+"info":{"authors":{"author":[{"@pid":"246/8500","text":"Ursin Brunner"},{"@pid":"38/5145","text":"Kurt Stockinger"}]},"title":"Entity Matching with Transformer Architectures - A Step Forward in Data Integration.","venue":"EDBT","pages":"463-473","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/edbt/BrunnerS20","doi":"10.5441/002/EDBT.2020.58","ee":"https://doi.org/10.5441/002/edbt.2020.58","url":"https://dblp.org/rec/conf/edbt/BrunnerS20"},
+"url":"URL#887516"
+},
+{
+"@score":"2",
+"@id":"942267",
+"info":{"authors":{"author":[{"@pid":"247/1295","text":"Qianggang Ding"},{"@pid":"229/5832","text":"Sifan Wu"},{"@pid":"82/2248","text":"Hao Sun"},{"@pid":"230/8562","text":"Jiadong Guo"},{"@pid":"96/2596","text":"Jian Guo"}]},"title":"Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction.","venue":"IJCAI","pages":"4640-4646","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/ijcai/DingWSGG20","doi":"10.24963/IJCAI.2020/640","ee":"https://doi.org/10.24963/ijcai.2020/640","url":"https://dblp.org/rec/conf/ijcai/DingWSGG20"},
+"url":"URL#942267"
+},
+{
+"@score":"2",
+"@id":"2444371",
+"info":{"authors":{"author":[{"@pid":"195/7643","text":"Robert Kostack"},{"@pid":"159/4164","text":"Christoph Tzschoppe"},{"@pid":"195/7822","text":"Herbert Stockinger"},{"@pid":"187/1116","text":"Udo Jörges"},{"@pid":"49/1035","text":"Frank Ellinger"}]},"title":"A 2 GHz low noise amplifier with transformer input matching in 28 nm CMOS.","venue":"NORCAS","pages":"1-6","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/norchip/KostackTSJE16","doi":"10.1109/NORCHIP.2016.7792903","ee":"https://doi.org/10.1109/NORCHIP.2016.7792903","url":"https://dblp.org/rec/conf/norchip/KostackTSJE16"},
+"url":"URL#2444371"
+}
+]
+}
+}
+}

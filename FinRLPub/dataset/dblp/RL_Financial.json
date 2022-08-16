@@ -1,0 +1,260 @@
+{
+"result":{
+"query":"reinforce* learning* financial*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"3.10"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"38",
+"@dc":"38",
+"@oc":"38",
+"@id":"46275674",
+"text":"financial"
+}
+},
+"hits":{
+"@total":"38",
+"@computed":"38",
+"@sent":"38",
+"@first":"0",
+"hit":[{
+"@score":"4",
+"@id":"34148",
+"info":{"authors":{"author":[{"@pid":"277/5373","text":"Mehran Taghian"},{"@pid":"243/7157","text":"Ahmad Asadi"},{"@pid":"44/839","text":"Reza Safabakhsh"}]},"title":"Learning financial asset-specific trading rules via deep reinforcement learning.","venue":"Expert Syst. Appl.","volume":"195","pages":"116523","year":"2022","type":"Journal Articles","access":"closed","key":"journals/eswa/TaghianAS22","doi":"10.1016/J.ESWA.2022.116523","ee":"https://doi.org/10.1016/j.eswa.2022.116523","url":"https://dblp.org/rec/journals/eswa/TaghianAS22"},
+"url":"URL#34148"
+},
+{
+"@score":"4",
+"@id":"241368",
+"info":{"authors":{"author":[{"@pid":"76/9834","text":"Jimin Lee"},{"@pid":"297/1492","text":"Hayeong Koh"},{"@pid":"35/802","text":"Hi Jun Choe"}]},"title":"Learning to trade in financial time series using high-frequency through wavelet transformation and deep reinforcement learning.","venue":"Appl. Intell.","volume":"51","number":"8","pages":"6202-6223","year":"2021","type":"Journal Articles","access":"closed","key":"journals/apin/LeeKC21","doi":"10.1007/S10489-021-02218-4","ee":"https://doi.org/10.1007/s10489-021-02218-4","url":"https://dblp.org/rec/journals/apin/LeeKC21"},
+"url":"URL#241368"
+},
+{
+"@score":"4",
+"@id":"277494",
+"info":{"authors":{"author":[{"@pid":"211/8506","text":"Badr Hirchoua"},{"@pid":"89/10502","text":"Brahim Ouhbi"},{"@pid":"66/10502","text":"Bouchra Frikh"}]},"title":"Deep reinforcement learning based trading agents: Risk curiosity driven learning for financial rules-based policy.","venue":"Expert Syst. Appl.","volume":"170","pages":"114553","year":"2021","type":"Journal Articles","access":"closed","key":"journals/eswa/HirchouaOF21","doi":"10.1016/J.ESWA.2020.114553","ee":"https://doi.org/10.1016/j.eswa.2020.114553","url":"https://dblp.org/rec/journals/eswa/HirchouaOF21"},
+"url":"URL#277494"
+},
+{
+"@score":"4",
+"@id":"738604",
+"info":{"authors":{"author":[{"@pid":"184/4020","text":"J. M. Calabuig"},{"@pid":"241/5975","text":"Hervé Falciani"},{"@pid":"170/7397","text":"Enrique Alfonso Sánchez-Pérez"}]},"title":"Dreaming machine learning: Lipschitz extensions for reinforcement learning on financial markets.","venue":"Neurocomputing","volume":"398","pages":"172-184","year":"2020","type":"Journal Articles","access":"closed","key":"journals/ijon/CalabuigFS20","doi":"10.1016/J.NEUCOM.2020.02.052","ee":"https://doi.org/10.1016/j.neucom.2020.02.052","url":"https://dblp.org/rec/journals/ijon/CalabuigFS20"},
+"url":"URL#738604"
+},
+{
+"@score":"4",
+"@id":"1069432",
+"info":{"authors":{"author":[{"@pid":"277/5373","text":"Mehran Taghian"},{"@pid":"243/7157","text":"Ahmad Asadi"},{"@pid":"44/839","text":"Reza Safabakhsh"}]},"title":"Learning Financial Asset-Specific Trading Rules via Deep Reinforcement Learning.","venue":"CoRR","volume":"abs/2010.14194","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2010-14194","ee":"https://arxiv.org/abs/2010.14194","url":"https://dblp.org/rec/journals/corr/abs-2010-14194"},
+"url":"URL#1069432"
+},
+{
+"@score":"4",
+"@id":"1269623",
+"info":{"authors":{"author":[{"@pid":"62/675","text":"Rui Miao"},{"@pid":"98/480","text":"Xia Zhang"},{"@pid":"86/1423","text":"Hongfei Yan"},{"@pid":"63/713-3","text":"Chong Chen 0003"}]},"title":"A Dynamic Financial Knowledge Graph Based on Reinforcement Learning and Transfer Learning.","venue":"IEEE BigData","pages":"5370-5378","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/bigdataconf/MiaoZYC19","doi":"10.1109/BIGDATA47090.2019.9005691","ee":"https://doi.org/10.1109/BigData47090.2019.9005691","url":"https://dblp.org/rec/conf/bigdataconf/MiaoZYC19"},
+"url":"URL#1269623"
+},
+{
+"@score":"4",
+"@id":"1466927",
+"info":{"authors":{"author":[{"@pid":"184/4020","text":"J. M. Calabuig"},{"@pid":"241/5975","text":"Hervé Falciani"},{"@pid":"170/7397","text":"Enrique Alfonso Sánchez-Pérez"}]},"title":"Dreaming machine learning: Lipschitz extensions for reinforcement learning on financial markets.","venue":"CoRR","volume":"abs/1907.05697","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1907-05697","ee":"http://arxiv.org/abs/1907.05697","url":"https://dblp.org/rec/journals/corr/abs-1907-05697"},
+"url":"URL#1466927"
+},
+{
+"@score":"3",
+"@id":"84755",
+"info":{"authors":{"author":[{"@pid":"48/1593","text":"Sebastian Jaimungal"},{"@pid":"232/6362","text":"Silvana M. Pesenti"},{"@pid":"300/4016","text":"Ye Sheng Wang"},{"@pid":"300/4198","text":"Hariom Tatsat"}]},"title":"Robust Risk-Aware Reinforcement Learning.","venue":"SIAM J. Financial Math.","volume":"13","number":"1","pages":"213-226","year":"2022","type":"Journal Articles","access":"closed","key":"journals/siamfm/JaimungalPWT22","doi":"10.1137/21M144640X","ee":"https://doi.org/10.1137/21m144640x","url":"https://dblp.org/rec/journals/siamfm/JaimungalPWT22"},
+"url":"URL#84755"
+},
+{
+"@score":"3",
+"@id":"177771",
+"info":{"authors":{"author":[{"@pid":"124/1948","text":"Yun-Cheng Tsai"},{"@pid":"273/8113","text":"Fu-Min Szu"},{"@pid":"01/1285","text":"Jun Hao Chen"},{"@pid":"244/2264","text":"Samuel Yen-Chi Chen"}]},"title":"Financial Vision Based Reinforcement Learning Trading Strategy.","venue":"CoRR","volume":"abs/2202.04115","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2202-04115","ee":"https://arxiv.org/abs/2202.04115","url":"https://dblp.org/rec/journals/corr/abs-2202-04115"},
+"url":"URL#177771"
+},
+{
+"@score":"3",
+"@id":"217257",
+"info":{"authors":{"author":[{"@pid":"308/2343","text":"Leonardo Kanashiro Felizardo"},{"@pid":"139/5729","text":"Elia Yathie Matsumoto"},{"@pid":"53/384","text":"Emilio Del-Moral-Hernandez"}]},"title":"Solving the optimal stopping problem with reinforcement learning: an application in financial option exercise.","venue":"CoRR","volume":"abs/2208.00765","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2208-00765","doi":"10.48550/ARXIV.2208.00765","ee":"https://doi.org/10.48550/arXiv.2208.00765","url":"https://dblp.org/rec/journals/corr/abs-2208-00765"},
+"url":"URL#217257"
+},
+{
+"@score":"3",
+"@id":"278180",
+"info":{"authors":{"author":[{"@pid":"246/8608","text":"Farzan Soleymani"},{"@pid":"78/1634","text":"Eric Paquet"}]},"title":"Deep graph convolutional reinforcement learning for financial portfolio management - DeepPocket.","venue":"Expert Syst. Appl.","volume":"182","pages":"115127","year":"2021","type":"Journal Articles","access":"closed","key":"journals/eswa/SoleymaniP21","doi":"10.1016/J.ESWA.2021.115127","ee":"https://doi.org/10.1016/j.eswa.2021.115127","url":"https://dblp.org/rec/journals/eswa/SoleymaniP21"},
+"url":"URL#278180"
+},
+{
+"@score":"3",
+"@id":"341925",
+"info":{"authors":{"author":[{"@pid":"205/4619","text":"Avraam Tsantekidis"},{"@pid":"166/5186","text":"Nikolaos Passalis"},{"@pid":"22/6949","text":"Anastasios Tefas"}]},"title":"Diversity-driven knowledge distillation for financial trading using Deep Reinforcement Learning.","venue":"Neural Networks","volume":"140","pages":"193-202","year":"2021","type":"Journal Articles","access":"closed","key":"journals/nn/TsantekidisPT21","doi":"10.1016/J.NEUNET.2021.02.026","ee":"https://doi.org/10.1016/j.neunet.2021.02.026","url":"https://dblp.org/rec/journals/nn/TsantekidisPT21"},
+"url":"URL#341925"
+},
+{
+"@score":"3",
+"@id":"400879",
+"info":{"authors":{"author":[{"@pid":"205/4619","text":"Avraam Tsantekidis"},{"@pid":"166/5186","text":"Nikolaos Passalis"},{"@pid":"291/9113","text":"Anastasia-Sotiria Toufa"},{"@pid":"243/6513","text":"Konstantinos Saitas Zarkias"},{"@pid":"204/6474","text":"Stergios Chairistanidis"},{"@pid":"22/6949","text":"Anastasios Tefas"}]},"title":"Price Trailing for Financial Trading Using Deep Reinforcement Learning.","venue":"IEEE Trans. Neural Networks Learn. Syst.","volume":"32","number":"7","pages":"2837-2846","year":"2021","type":"Journal Articles","access":"closed","key":"journals/tnn/TsantekidisPTZC21","doi":"10.1109/TNNLS.2020.2997523","ee":"https://doi.org/10.1109/TNNLS.2020.2997523","url":"https://dblp.org/rec/journals/tnn/TsantekidisPTZC21"},
+"url":"URL#400879"
+},
+{
+"@score":"3",
+"@id":"441679",
+"info":{"authors":{"author":[{"@pid":"148/9655","text":"Zihao Wang"},{"@pid":"223/9894","text":"Fudong Wang"},{"@pid":"74/6343","text":"Haipeng Zhang"},{"@pid":"63/6144","text":"Minghui Yang"},{"@pid":"169/1773","text":"Shaosheng Cao"},{"@pid":"260/0351","text":"Zujie Wen"},{"@pid":"87/5809","text":"Zhe Zhang"}]},"title":"&apos;Could You Describe the Reason for the Transfer?&apos;: A Reinforcement Learning Based Voice-Enabled Bot Protecting Customers from Financial Frauds.","venue":"CIKM","pages":"4214-4223","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cikm/WangWZYCWZ21","doi":"10.1145/3459637.3481906","ee":"https://doi.org/10.1145/3459637.3481906","url":"https://dblp.org/rec/conf/cikm/WangWZYCWZ21"},
+"url":"URL#441679"
+},
+{
+"@score":"3",
+"@id":"523741",
+"info":{"authors":{"author":{"@pid":"73/2252","text":"Lin Li"}},"title":"Financial Trading with Feature Preprocessing and Recurrent Reinforcement Learning.","venue":"ISKE","pages":"162-169","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/iske/Li21","doi":"10.1109/ISKE54062.2021.9755374","ee":"https://doi.org/10.1109/ISKE54062.2021.9755374","url":"https://dblp.org/rec/conf/iske/Li21"},
+"url":"URL#523741"
+},
+{
+"@score":"3",
+"@id":"538230",
+"info":{"authors":{"author":[{"@pid":"306/8815","text":"Angelos Nalmpantis"},{"@pid":"166/5186","text":"Nikolaos Passalis"},{"@pid":"205/4619","text":"Avraam Tsantekidis"},{"@pid":"22/6949","text":"Anastasios Tefas"}]},"title":"Improving Deep Reinforcement Learning for Financial Trading Using Deep Adaptive Group-Based Normalization.","venue":"MLSP","pages":"1-6","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlsp/NalmpantisPTT21","doi":"10.1109/MLSP52302.2021.9596155","ee":"https://doi.org/10.1109/MLSP52302.2021.9596155","url":"https://dblp.org/rec/conf/mlsp/NalmpantisPTT21"},
+"url":"URL#538230"
+},
+{
+"@score":"3",
+"@id":"586114",
+"info":{"authors":{"author":[{"@pid":"284/9181","text":"Zhenhan Huang"},{"@pid":"96/4418","text":"Fumihide Tanaka"}]},"title":"A Modularized and Scalable Multi-Agent Reinforcement Learning-based System for Financial Portfolio Management.","venue":"CoRR","volume":"abs/2102.03502","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2102-03502","ee":"https://arxiv.org/abs/2102.03502","url":"https://dblp.org/rec/journals/corr/abs-2102-03502"},
+"url":"URL#586114"
+},
+{
+"@score":"3",
+"@id":"608431",
+"info":{"authors":{"author":[{"@pid":"246/8608","text":"Farzan Soleymani"},{"@pid":"78/1634","text":"Eric Paquet"}]},"title":"Deep Graph Convolutional Reinforcement Learning for Financial Portfolio Management - DeepPocket.","venue":"CoRR","volume":"abs/2105.08664","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2105-08664","ee":"https://arxiv.org/abs/2105.08664","url":"https://dblp.org/rec/journals/corr/abs-2105-08664"},
+"url":"URL#608431"
+},
+{
+"@score":"3",
+"@id":"608514",
+"info":{"authors":{"author":[{"@pid":"293/6969","text":"Abderrahim Fathan"},{"@pid":"26/1546","text":"Erick Delage"}]},"title":"Deep Reinforcement Learning for Optimal Stopping with Application in Financial Engineering.","venue":"CoRR","volume":"abs/2105.08877","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2105-08877","ee":"https://arxiv.org/abs/2105.08877","url":"https://dblp.org/rec/journals/corr/abs-2105-08877"},
+"url":"URL#608514"
+},
+{
+"@score":"3",
+"@id":"642722",
+"info":{"authors":{"author":[{"@pid":"304/8532","text":"Shareefuddin Mohammed"},{"@pid":"304/9016","text":"Rusty Bealer"},{"@pid":"25/6142","text":"Jason Cohen"}]},"title":"Embracing advanced AI/ML to help investors achieve success: Vanguard Reinforcement Learning for Financial Goal Planning.","venue":"CoRR","volume":"abs/2110.12003","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2110-12003","ee":"https://arxiv.org/abs/2110.12003","url":"https://dblp.org/rec/journals/corr/abs-2110-12003"},
+"url":"URL#642722"
+},
+{
+"@score":"3",
+"@id":"667243",
+"info":{"authors":{"author":[{"@pid":"256/1437","text":"Fengqian Ding"},{"@pid":"46/6375-1","text":"Chao Luo 0001"}]},"title":"An Adaptive Financial Trading System Using Deep Reinforcement Learning With Candlestick Decomposing Features.","venue":"IEEE Access","volume":"8","pages":"63666-63678","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/DingL20","doi":"10.1109/ACCESS.2020.2982662","ee":"https://doi.org/10.1109/ACCESS.2020.2982662","url":"https://dblp.org/rec/journals/access/DingL20"},
+"url":"URL#667243"
+},
+{
+"@score":"3",
+"@id":"718570",
+"info":{"authors":{"author":[{"@pid":"64/9060","text":"Kai Lei"},{"@pid":"74/2272","text":"Bing Zhang"},{"@pid":"34/2997","text":"Yu Li"},{"@pid":"02/1640-7","text":"Min Yang 0007"},{"@pid":"01/8558-1","text":"Ying Shen 0001"}]},"title":"Time-driven feature-aware jointly deep reinforcement learning for financial signal representation and algorithmic trading.","venue":"Expert Syst. Appl.","volume":"140","year":"2020","type":"Journal Articles","access":"closed","key":"journals/eswa/LeiZLYS20","doi":"10.1016/J.ESWA.2019.112872","ee":"https://doi.org/10.1016/j.eswa.2019.112872","url":"https://dblp.org/rec/journals/eswa/LeiZLYS20"},
+"url":"URL#718570"
+},
+{
+"@score":"3",
+"@id":"718825",
+"info":{"authors":{"author":[{"@pid":"246/8608","text":"Farzan Soleymani"},{"@pid":"78/1634","text":"Eric Paquet"}]},"title":"Financial portfolio optimization with online deep reinforcement learning and restricted stacked autoencoder - DeepBreath.","venue":"Expert Syst. Appl.","volume":"156","pages":"113456","year":"2020","type":"Journal Articles","access":"open","key":"journals/eswa/SoleymaniP20","doi":"10.1016/J.ESWA.2020.113456","ee":"https://doi.org/10.1016/j.eswa.2020.113456","url":"https://dblp.org/rec/journals/eswa/SoleymaniP20"},
+"url":"URL#718825"
+},
+{
+"@score":"3",
+"@id":"969034",
+"info":{"authors":{"author":[{"@pid":"205/4619","text":"Avraam Tsantekidis"},{"@pid":"166/5186","text":"Nikolaos Passalis"},{"@pid":"22/6949","text":"Anastasios Tefas"}]},"title":"Improving Deep Reinforcement Learning for Financial Trading Using Neural Network Distillation.","venue":"MLSP","pages":"1-6","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlsp/TsantekidisPT20","doi":"10.1109/MLSP49062.2020.9231849","ee":"https://doi.org/10.1109/MLSP49062.2020.9231849","url":"https://dblp.org/rec/conf/mlsp/TsantekidisPT20"},
+"url":"URL#969034"
+},
+{
+"@score":"3",
+"@id":"1132988",
+"info":{"authors":{"author":[{"@pid":"253/5631","text":"Terry Lingze Meng"},{"@pid":"212/0065","text":"Matloob Khushi"}]},"title":"Reinforcement Learning in Financial Markets.","venue":"Data","volume":"4","number":"3","pages":"110","year":"2019","type":"Journal Articles","access":"open","key":"journals/data/MengK19","doi":"10.3390/DATA4030110","ee":"https://doi.org/10.3390/data4030110","url":"https://dblp.org/rec/journals/data/MengK19"},
+"url":"URL#1132988"
+},
+{
+"@score":"3",
+"@id":"1325379",
+"info":{"authors":{"author":[{"@pid":"243/6513","text":"Konstantinos Saitas Zarkias"},{"@pid":"166/5186","text":"Nikolaos Passalis"},{"@pid":"205/4619","text":"Avraam Tsantekidis"},{"@pid":"22/6949","text":"Anastasios Tefas"}]},"title":"Deep Reinforcement Learning for Financial Trading Using Price Trailing.","venue":"ICASSP","pages":"3067-3071","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/icassp/ZarkiasPTT19","doi":"10.1109/ICASSP.2019.8683161","ee":"https://doi.org/10.1109/ICASSP.2019.8683161","url":"https://dblp.org/rec/conf/icassp/ZarkiasPTT19"},
+"url":"URL#1325379"
+},
+{
+"@score":"3",
+"@id":"1419497",
+"info":{"authors":{"author":[{"@pid":"197/9568","text":"Michel C. R. Leles"},{"@pid":"220/8910","text":"Elton Felipe Sbruzzi"},{"@pid":"50/4449","text":"José M. P. de Oliveira"},{"@pid":"54/3258","text":"Cairo L. Nascimento Jr."}]},"title":"Trading Switching Setup Based on Reinforcement Learning Applied to a Multiagent System Simulation of Financial Markets.","venue":"SysCon","pages":"1-8","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/syscon/LelesSON19","doi":"10.1109/SYSCON.2019.8836887","ee":"https://doi.org/10.1109/SYSCON.2019.8836887","url":"https://dblp.org/rec/conf/syscon/LelesSON19"},
+"url":"URL#1419497"
+},
+{
+"@score":"3",
+"@id":"1452192",
+"info":{"authors":{"author":{"@pid":"57/6084","text":"Yoshiharu Sato"}},"title":"Model-Free Reinforcement Learning for Financial Portfolios: A Brief Survey.","venue":"CoRR","volume":"abs/1904.04973","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1904-04973","ee":"http://arxiv.org/abs/1904.04973","url":"https://dblp.org/rec/journals/corr/abs-1904-04973"},
+"url":"URL#1452192"
+},
+{
+"@score":"3",
+"@id":"1466433",
+"info":{"authors":{"author":{"@pid":"171/6059","text":"Souradeep Chakraborty"}},"title":"Deep Reinforcement Learning in Financial Markets.","venue":"CoRR","volume":"abs/1907.04373","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1907-04373","ee":"http://arxiv.org/abs/1907.04373","url":"https://dblp.org/rec/journals/corr/abs-1907-04373"},
+"url":"URL#1466433"
+},
+{
+"@score":"3",
+"@id":"1474991",
+"info":{"authors":{"author":[{"@pid":"229/6497","text":"Wonsup Shin"},{"@pid":"201/1964","text":"Seok-Jun Bu"},{"@pid":"88/2576","text":"Sung-Bae Cho"}]},"title":"Automatic Financial Trading Agent for Low-risk Portfolio Management using Deep Reinforcement Learning.","venue":"CoRR","volume":"abs/1909.03278","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1909-03278","ee":"http://arxiv.org/abs/1909.03278","url":"https://dblp.org/rec/journals/corr/abs-1909-03278"},
+"url":"URL#1474991"
+},
+{
+"@score":"3",
+"@id":"1541069",
+"info":{"authors":{"author":[{"@pid":"29/3030","text":"Parag C. Pendharkar"},{"@pid":"218/7450","text":"Patrick Cusatis"}]},"title":"Trading financial indices with reinforcement learning agents.","venue":"Expert Syst. Appl.","volume":"103","pages":"1-13","year":"2018","type":"Journal Articles","access":"closed","key":"journals/eswa/PendharkarC18","doi":"10.1016/J.ESWA.2018.02.032","ee":"https://doi.org/10.1016/j.eswa.2018.02.032","url":"https://dblp.org/rec/journals/eswa/PendharkarC18"},
+"url":"URL#1541069"
+},
+{
+"@score":"3",
+"@id":"1842823",
+"info":{"authors":{"author":{"@pid":"61/7430","text":"Chien-Yi Huang"}},"title":"Financial Trading as a Game: A Deep Reinforcement Learning Approach.","venue":"CoRR","volume":"abs/1807.02787","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1807-02787","ee":"http://arxiv.org/abs/1807.02787","url":"https://dblp.org/rec/journals/corr/abs-1807-02787"},
+"url":"URL#1842823"
+},
+{
+"@score":"3",
+"@id":"1986776",
+"info":{"authors":{"author":[{"@pid":"35/8109-1","text":"Yue Deng 0001"},{"@pid":"46/1953-2","text":"Feng Bao 0002"},{"@pid":"154/7641","text":"Youyong Kong"},{"@pid":"135/5243","text":"Zhiquan Ren"},{"@pid":"39/4543","text":"Qionghai Dai"}]},"title":"Deep Direct Reinforcement Learning for Financial Signal Representation and Trading.","venue":"IEEE Trans. Neural Networks Learn. Syst.","volume":"28","number":"3","pages":"653-664","year":"2017","type":"Journal Articles","access":"closed","key":"journals/tnn/DengBKRD17","doi":"10.1109/TNNLS.2016.2522401","ee":"https://doi.org/10.1109/TNNLS.2016.2522401","url":"https://dblp.org/rec/journals/tnn/DengBKRD17"},
+"url":"URL#1986776"
+},
+{
+"@score":"3",
+"@id":"2175663",
+"info":{"authors":{"author":[{"@pid":"192/2020","text":"Zhengyao Jiang"},{"@pid":"202/9576","text":"Dixing Xu"},{"@pid":"192/1632","text":"Jinjun Liang"}]},"title":"A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.","venue":"CoRR","volume":"abs/1706.10059","year":"2017","type":"Informal Publications","access":"open","key":"journals/corr/JiangXL17","ee":"http://arxiv.org/abs/1706.10059","url":"https://dblp.org/rec/journals/corr/JiangXL17"},
+"url":"URL#2175663"
+},
+{
+"@score":"3",
+"@id":"2380174",
+"info":{"authors":{"author":[{"@pid":"160/9792","text":"Nicolas Prollochs"},{"@pid":"125/0630","text":"Stefan Feuerriegel"},{"@pid":"90/1401","text":"Dirk Neumann 0001"}]},"title":"Detecting Negation Scopes for Financial News Sentiment Using Reinforcement Learning.","venue":"HICSS","pages":"1164-1173","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/hicss/ProllochsFN16","doi":"10.1109/HICSS.2016.147","ee":"https://doi.org/10.1109/HICSS.2016.147","url":"https://dblp.org/rec/conf/hicss/ProllochsFN16"},
+"url":"URL#2380174"
+},
+{
+"@score":"3",
+"@id":"3354053",
+"info":{"authors":{"author":[{"@pid":"73/1038","text":"Francesco Bertoluzzo"},{"@pid":"75/5540","text":"Marco Corazza"}]},"title":"Reinforcement Learning for Automated Financial Trading: Basics and Applications.","venue":"WIRN","pages":"197-213","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/wirn/BertoluzzoC13","doi":"10.1007/978-3-319-04129-2_20","ee":"https://doi.org/10.1007/978-3-319-04129-2_20","url":"https://dblp.org/rec/conf/wirn/BertoluzzoC13"},
+"url":"URL#3354053"
+},
+{
+"@score":"3",
+"@id":"3669399",
+"info":{"authors":{"author":[{"@pid":"38/1264","text":"Zhiyong Tan"},{"@pid":"q/HiokChaiQuek","text":"Chai Quek"},{"@pid":"18/5638-2","text":"Philip Y. K. Cheng"}]},"title":"Stock trading with cycles: A financial application of ANFIS and reinforcement learning.","venue":"Expert Syst. Appl.","volume":"38","number":"5","pages":"4741-4755","year":"2011","type":"Journal Articles","access":"closed","key":"journals/eswa/TanQC11","doi":"10.1016/J.ESWA.2010.09.001","ee":"https://doi.org/10.1016/j.eswa.2010.09.001","url":"https://dblp.org/rec/journals/eswa/TanQC11"},
+"url":"URL#3669399"
+},
+{
+"@score":"3",
+"@id":"4689038",
+"info":{"authors":{"author":[{"@pid":"73/1038","text":"Francesco Bertoluzzo"},{"@pid":"75/5540","text":"Marco Corazza"}]},"title":"Making Financial Trading by Recurrent Reinforcement Learning.","venue":"KES","pages":"619-626","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/kes/BertoluzzoC07","doi":"10.1007/978-3-540-74827-4_78","ee":"https://doi.org/10.1007/978-3-540-74827-4_78","url":"https://dblp.org/rec/conf/kes/BertoluzzoC07"},
+"url":"URL#4689038"
+}
+]
+}
+}
+}

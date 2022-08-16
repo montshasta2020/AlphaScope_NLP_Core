@@ -1,0 +1,467 @@
+{
+"result":{
+"query":"machine* learning* models* comparison*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"9.88"
+},
+"completions":{
+"@total":"2",
+"@computed":"2",
+"@sent":"2",
+"c":[
+{
+"@sc":"69",
+"@dc":"69",
+"@oc":"69",
+"@id":"46103135",
+"text":"comparison"
+},
+{
+"@sc":"2",
+"@dc":"2",
+"@oc":"2",
+"@id":"46103138",
+"text":"comparisons"
+}
+]
+},
+"hits":{
+"@total":"71",
+"@computed":"71",
+"@sent":"71",
+"@first":"0",
+"hit":[{
+"@score":"5",
+"@id":"216135",
+"info":{"authors":{"author":{"@pid":"325/5428","text":"Soham Bhosale"}},"title":"Comparison of Deep Learning and Machine Learning Models and Frameworks for Skin Lesion Classification.","venue":"CoRR","volume":"abs/2207.12715","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2207-12715","doi":"10.48550/ARXIV.2207.12715","ee":"https://doi.org/10.48550/arXiv.2207.12715","url":"https://dblp.org/rec/journals/corr/abs-2207-12715"},
+"url":"URL#216135"
+},
+{
+"@score":"5",
+"@id":"684993",
+"info":{"authors":{"author":[{"@pid":"230/1801","text":"Andrea Maria Nogueira Cavalcanti Ribeiro"},{"@pid":"260/3737","text":"Pedro Rafael X. do Carmo"},{"@pid":"249/8180","text":"Iago Richard Rodrigues Silva"},{"@pid":"s/DjamelSadok","text":"Djamel Sadok"},{"@pid":"135/3110","text":"Theo Lynn"},{"@pid":"18/8101","text":"Patricia Takako Endo"}]},"title":"Short-Term Firm-Level Energy-Consumption Forecasting for Energy-Intensive Manufacturing: A Comparison of Machine Learning and Deep Learning Models.","venue":"Algorithms","volume":"13","number":"11","pages":"274","year":"2020","type":"Journal Articles","access":"open","key":"journals/algorithms/RibeiroCSSLE20","doi":"10.3390/A13110274","ee":"https://doi.org/10.3390/a13110274","url":"https://dblp.org/rec/journals/algorithms/RibeiroCSSLE20"},
+"url":"URL#684993"
+},
+{
+"@score":"5",
+"@id":"721244",
+"info":{"authors":{"author":[{"@pid":"276/9661","text":"Niraj Thapa"},{"@pid":"68/649","text":"Zhipeng Liu"},{"@pid":"276/9644","text":"Dukka B. KC"},{"@pid":"61/8963","text":"Balakrishna Gokaraju"},{"@pid":"r/KaushikRoy3","text":"Kaushik Roy 0003"}]},"title":"Comparison of Machine Learning and Deep Learning Models for Network Intrusion Detection Systems.","venue":"Future Internet","volume":"12","number":"10","pages":"167","year":"2020","type":"Journal Articles","access":"open","key":"journals/fi/ThapaLKGR20","doi":"10.3390/FI12100167","ee":"https://doi.org/10.3390/fi12100167","url":"https://dblp.org/rec/journals/fi/ThapaLKGR20"},
+"url":"URL#721244"
+},
+{
+"@score":"5",
+"@id":"752423",
+"info":{"authors":{"author":[{"@pid":"241/9514","text":"Matthew C. Robinson"},{"@pid":"12/431","text":"Robert C. Glen"},{"@pid":"217/1660","text":"Alpha A. Lee"}]},"title":"Validating the validation: reanalyzing a large-scale comparison of deep learning and machine learning models for bioactivity prediction.","venue":"J. Comput. Aided Mol. Des.","volume":"34","number":"7","pages":"717-730","year":"2020","type":"Journal Articles","access":"open","key":"journals/jcamd/RobinsonGL20","doi":"10.1007/S10822-019-00274-0","ee":"https://doi.org/10.1007/s10822-019-00274-0","url":"https://dblp.org/rec/journals/jcamd/RobinsonGL20"},
+"url":"URL#752423"
+},
+{
+"@score":"5",
+"@id":"755536",
+"info":{"authors":{"author":[{"@pid":"87/7018","text":"Andrea Caroppo"},{"@pid":"81/3239","text":"Alessandro Leone"},{"@pid":"46/5521","text":"Pietro Siciliano"}]},"title":"Comparison Between Deep Learning Models and Traditional Machine Learning Approaches for Facial Expression Recognition in Ageing Adults.","venue":"J. Comput. Sci. Technol.","volume":"35","number":"5","pages":"1127-1146","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jcst/CaroppoLS20","doi":"10.1007/S11390-020-9665-4","ee":"https://doi.org/10.1007/s11390-020-9665-4","url":"https://dblp.org/rec/journals/jcst/CaroppoLS20"},
+"url":"URL#755536"
+},
+{
+"@score":"5",
+"@id":"845360",
+"info":{"authors":{"author":[{"@pid":"221/9030","text":"Salam Hamdan"},{"@pid":"52/2190","text":"Sufyan Almajali"},{"@pid":"04/255","text":"Moussa Ayyash"}]},"title":"Comparison study between conventional machine learning and distributed multi-task learning models.","venue":"ACIT","pages":"1-5","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/acit3/HamdanAA20","doi":"10.1109/ACIT50332.2020.9300096","ee":"https://doi.org/10.1109/ACIT50332.2020.9300096","url":"https://dblp.org/rec/conf/acit3/HamdanAA20"},
+"url":"URL#845360"
+},
+{
+"@score":"5",
+"@id":"981915",
+"info":{"authors":{"author":[{"@pid":"256/5429","text":"Son T. Luu"},{"@pid":"258/0941","text":"Hung P. Nguyen"},{"@pid":"174/4526","text":"Kiet Van Nguyen"},{"@pid":"174/4407","text":"Ngan Luu-Thuy Nguyen"}]},"title":"Comparison Between Traditional Machine Learning Models And Neural Network Models For Vietnamese Hate Speech Detection.","venue":"RIVF","pages":"1-6","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/rivf/LuuNNN20","doi":"10.1109/RIVF48685.2020.9140745","ee":"https://doi.org/10.1109/RIVF48685.2020.9140745","url":"https://dblp.org/rec/conf/rivf/LuuNNN20"},
+"url":"URL#981915"
+},
+{
+"@score":"5",
+"@id":"1016195",
+"info":{"authors":{"author":[{"@pid":"256/5429","text":"Son T. Luu"},{"@pid":"258/0941","text":"Hung P. Nguyen"},{"@pid":"174/4526","text":"Kiet Van Nguyen"},{"@pid":"174/4407","text":"Ngan Luu-Thuy Nguyen"}]},"title":"Comparison Between Traditional Machine Learning Models And Neural Network Models For Vietnamese Hate Speech Detection.","venue":"CoRR","volume":"abs/2002.00759","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2002-00759","ee":"https://arxiv.org/abs/2002.00759","url":"https://dblp.org/rec/journals/corr/abs-2002-00759"},
+"url":"URL#1016195"
+},
+{
+"@score":"5",
+"@id":"1459183",
+"info":{"authors":{"author":[{"@pid":"241/9514","text":"Matthew C. Robinson"},{"@pid":"12/431","text":"Robert C. Glen"},{"@pid":"217/1660","text":"Alpha A. Lee"}]},"title":"Validating the Validation: Reanalyzing a large-scale comparison of Deep Learning and Machine Learning models for bioactivity prediction.","venue":"CoRR","volume":"abs/1905.11681","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1905-11681","ee":"http://arxiv.org/abs/1905.11681","url":"https://dblp.org/rec/journals/corr/abs-1905-11681"},
+"url":"URL#1459183"
+},
+{
+"@score":"5",
+"@id":"2843554",
+"info":{"authors":{"author":[{"@pid":"79/7578","text":"Hyejin Park"},{"@pid":"99/7578","text":"Namhyoung Kim"},{"@pid":"39/4985-1","text":"Jaewook Lee 0001"}]},"title":"Parametric models and non-parametric machine learning models for predicting option prices: Empirical comparison study over KOSPI 200 Index options.","venue":"Expert Syst. Appl.","volume":"41","number":"11","pages":"5227-5237","year":"2014","type":"Journal Articles","access":"closed","key":"journals/eswa/ParkKL14","doi":"10.1016/J.ESWA.2014.01.032","ee":"https://doi.org/10.1016/j.eswa.2014.01.032","url":"https://dblp.org/rec/journals/eswa/ParkKL14"},
+"url":"URL#2843554"
+},
+{
+"@score":"4",
+"@id":"19923",
+"info":{"authors":{"author":[{"@pid":"198/7881","text":"Merylin Monaro"},{"@pid":"312/5426","text":"Stéphanie Maldera"},{"@pid":"03/11392","text":"Cristina Scarpazza"},{"@pid":"88/8273","text":"Giuseppe Sartori"},{"@pid":"118/3303","text":"Nicolò Navarin"}]},"title":"Detecting deception through facial expressions in a dataset of videotaped interviews: A comparison between human judges and machine learning models.","venue":"Comput. Hum. Behav.","volume":"127","pages":"107063","year":"2022","type":"Journal Articles","access":"closed","key":"journals/chb/MonaroMSSN22","doi":"10.1016/J.CHB.2021.107063","ee":"https://doi.org/10.1016/j.chb.2021.107063","url":"https://dblp.org/rec/journals/chb/MonaroMSSN22"},
+"url":"URL#19923"
+},
+{
+"@score":"4",
+"@id":"23716",
+"info":{"authors":{"author":[{"@pid":"321/8959","text":"Paulo Infante"},{"@pid":"33/5824","text":"Gonçalo Jacinto"},{"@pid":"165/8734","text":"Anabela Afonso"},{"@pid":"321/8214","text":"Leonor Rego"},{"@pid":"224/1966","text":"Vítor Nogueira"},{"@pid":"73/4272","text":"Paulo Quaresma"},{"@pid":"13/6489","text":"José Saias"},{"@pid":"69/6262","text":"Daniel Santos"},{"@pid":"126/4175","text":"Pedro Nogueira"},{"@pid":"154/2707","text":"Marcelo Silva"},{"@pid":"321/8029","text":"Rosalina Pisco Costa"},{"@pid":"321/8434","text":"Patrícia Gois"},{"@pid":"321/8360","text":"Paulo Rebelo Manuel"}]},"title":"Comparison of Statistical and Machine-Learning Models on Road Traffic Accident Severity Classification.","venue":"Comput.","volume":"11","number":"5","pages":"80","year":"2022","type":"Journal Articles","access":"open","key":"journals/computers/InfanteJARNQSSN22","doi":"10.3390/COMPUTERS11050080","ee":"https://doi.org/10.3390/computers11050080","url":"https://dblp.org/rec/journals/computers/InfanteJARNQSSN22"},
+"url":"URL#23716"
+},
+{
+"@score":"4",
+"@id":"36695",
+"info":{"authors":{"author":[{"@pid":"259/7647","text":"Francesco Bossi"},{"@pid":"318/0541","text":"Francesco Di Gruttola"},{"@pid":"318/0824","text":"Antonio Mastrogiorgio"},{"@pid":"318/0313","text":"Sonia D&apos;Arcangelo"},{"@pid":"198/7413","text":"Nicola Lattanzi"},{"@pid":"318/0696","text":"Andrea P. Malizia"},{"@pid":"93/460","text":"Emiliano Ricciardi"}]},"title":"Estimating Successful Internal Mobility: A Comparison Between Structural Equation Models and Machine Learning Algorithms.","venue":"Frontiers Artif. Intell.","volume":"5","pages":"848015","year":"2022","type":"Journal Articles","access":"open","key":"journals/frai/BossiGMDLMR22","doi":"10.3389/FRAI.2022.848015","ee":"https://doi.org/10.3389/frai.2022.848015","url":"https://dblp.org/rec/journals/frai/BossiGMDLMR22"},
+"url":"URL#36695"
+},
+{
+"@score":"4",
+"@id":"43608",
+"info":{"authors":{"author":[{"@pid":"303/0054","text":"John Adeoye"},{"@pid":"308/3299","text":"Liuling Hui"},{"@pid":"49/11497","text":"Mohamad Koohi-Moghadam"},{"@pid":"303/0178","text":"Jia Yan Tan"},{"@pid":"302/9947","text":"Siu-Wai Choi"},{"@pid":"67/4549","text":"Peter Thomson"}]},"title":"Comparison of time-to-event machine learning models in predicting oral cavity cancer prognosis.","venue":"Int. J. Medical Informatics","volume":"157","pages":"104635","year":"2022","type":"Journal Articles","access":"closed","key":"journals/ijmi/AdeoyeHKTCT22","doi":"10.1016/J.IJMEDINF.2021.104635","ee":"https://doi.org/10.1016/j.ijmedinf.2021.104635","url":"https://dblp.org/rec/journals/ijmi/AdeoyeHKTCT22"},
+"url":"URL#43608"
+},
+{
+"@score":"4",
+"@id":"51819",
+"info":{"authors":{"author":[{"@pid":"136/0913","text":"Nasim Ahmed"},{"@pid":"87/4743","text":"Andre L. C. Barczak"},{"@pid":"281/3353","text":"Mohammed A. Rashid"},{"@pid":"57/7231","text":"Teo Susnjak"}]},"title":"Runtime prediction of big data jobs: performance comparison of machine learning algorithms and analytical models.","venue":"J. Big Data","volume":"9","number":"1","pages":"67","year":"2022","type":"Journal Articles","access":"open","key":"journals/jbd/AhmedBRS22","doi":"10.1186/S40537-022-00623-1","ee":"https://doi.org/10.1186/s40537-022-00623-1","url":"https://dblp.org/rec/journals/jbd/AhmedBRS22"},
+"url":"URL#51819"
+},
+{
+"@score":"4",
+"@id":"79614",
+"info":{"authors":{"author":[{"@pid":"313/8500","text":"Jessica Krepel"},{"@pid":"313/8076","text":"Magdalena Kircher"},{"@pid":"190/7181","text":"Moritz Kohls"},{"@pid":"77/8318","text":"Klaus Jung"}]},"title":"Comparison of merging strategies for building machine learning models on multiple independent gene expression data sets.","venue":"Stat. Anal. Data Min.","volume":"15","number":"1","pages":"112-124","year":"2022","type":"Journal Articles","access":"closed","key":"journals/sadm/KrepelKKJ22","doi":"10.1002/SAM.11549","ee":"https://doi.org/10.1002/sam.11549","url":"https://dblp.org/rec/journals/sadm/KrepelKKJ22"},
+"url":"URL#79614"
+},
+{
+"@score":"4",
+"@id":"101524",
+"info":{"authors":{"author":[{"@pid":"298/5900","text":"Federico Delussu"},{"@pid":"314/9590","text":"Davide Manzione"},{"@pid":"m/RosaMeo","text":"Rosa Meo"},{"@pid":"314/9874","text":"Gabriele Ottino"},{"@pid":"315/0340","text":"Mark Asare"}]},"title":"Experiments and Comparison of Digital Twinning of Photovoltaic Panels by Machine Learning Models and a Cyber-Physical Model in Modelica.","venue":"IEEE Trans. Ind. Informatics","volume":"18","number":"6","pages":"4018-4028","year":"2022","type":"Journal Articles","access":"closed","key":"journals/tii/DelussuMMOA22","doi":"10.1109/TII.2021.3108688","ee":"https://doi.org/10.1109/TII.2021.3108688","url":"https://dblp.org/rec/journals/tii/DelussuMMOA22"},
+"url":"URL#101524"
+},
+{
+"@score":"4",
+"@id":"127393",
+"info":{"authors":{"author":[{"@pid":"00/3616","text":"Francisco José Lacueva-Pérez"},{"@pid":"60/6762","text":"Sergio Ilarri"},{"@pid":"279/1800","text":"Juan José Barriuso Vargas"},{"@pid":"83/5134","text":"Joaquín B. Ordieres Meré"},{"@pid":"279/1423","text":"Gorka Labata Lezaun"},{"@pid":"17/1605","text":"Rafael del-Hoyo"}]},"title":"Grapevine Phenology Prediction: A Comparison of Physical and Machine Learning Models.","venue":"DaWaK","pages":"263-269","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/dawak/Lacueva-PerezIV22","doi":"10.1007/978-3-031-12670-3_24","ee":"https://doi.org/10.1007/978-3-031-12670-3_24","url":"https://dblp.org/rec/conf/dawak/Lacueva-PerezIV22"},
+"url":"URL#127393"
+},
+{
+"@score":"4",
+"@id":"210358",
+"info":{"authors":{"author":[{"@pid":"230/0053","text":"Christof Imhof"},{"@pid":"76/10523","text":"Ioan-Sorin Comsa"},{"@pid":"141/8921","text":"Martin Hlosta"},{"@pid":"296/6586","text":"Behnam Parsaeifard"},{"@pid":"229/9946","text":"Ivan Moser"},{"@pid":"158/6761","text":"Per Bergamin"}]},"title":"Prediction of Dilatory Behavior in eLearning: A Comparison of Multiple Machine Learning Models.","venue":"CoRR","volume":"abs/2206.15079","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2206-15079","doi":"10.48550/ARXIV.2206.15079","ee":"https://doi.org/10.48550/arXiv.2206.15079","url":"https://dblp.org/rec/journals/corr/abs-2206-15079"},
+"url":"URL#210358"
+},
+{
+"@score":"4",
+"@id":"258896",
+"info":{"authors":{"author":[{"@pid":"287/9756","text":"Hasitha Wimalarathna"},{"@pid":"228/1079","text":"Sangamanatha Ankmnal Veeranna"},{"@pid":"51/2159","text":"Chris Allan"},{"@pid":"35/8115","text":"Sumit K. Agrawal"},{"@pid":"228/0953","text":"Prudence Allen"},{"@pid":"75/4355","text":"Jagath Samarabandu"},{"@pid":"77/860","text":"Hanif M. Ladak"}]},"title":"Comparison of machine learning models to classify Auditory Brainstem Responses recorded from children with Auditory Processing Disorder.","venue":"Comput. Methods Programs Biomed.","volume":"200","pages":"105942","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cmpb/WimalarathnaVAA21","doi":"10.1016/J.CMPB.2021.105942","ee":"https://doi.org/10.1016/j.cmpb.2021.105942","url":"https://dblp.org/rec/journals/cmpb/WimalarathnaVAA21"},
+"url":"URL#258896"
+},
+{
+"@score":"4",
+"@id":"282540",
+"info":{"authors":{"author":[{"@pid":"85/819","text":"Daniel L. Weller"},{"@pid":"161/7819","text":"Tanzy M. T. Love"},{"@pid":"161/5223","text":"Martin Wiedmann"}]},"title":"Interpretability Versus Accuracy: A Comparison of Machine Learning Models Built Using Different Algorithms, Performance Measures, and Features to Predict E. coli Levels in Agricultural Water.","venue":"Frontiers Artif. Intell.","volume":"4","pages":"628441","year":"2021","type":"Journal Articles","access":"open","key":"journals/frai/WellerLW21","doi":"10.3389/FRAI.2021.628441","ee":"https://doi.org/10.3389/frai.2021.628441","url":"https://dblp.org/rec/journals/frai/WellerLW21"},
+"url":"URL#282540"
+},
+{
+"@score":"4",
+"@id":"297030",
+"info":{"authors":{"author":[{"@pid":"21/5658","text":"Xuan Song"},{"@pid":"93/8587","text":"Xinyan Liu"},{"@pid":"64/1350","text":"Fei Liu"},{"@pid":"239/3587","text":"Chunting Wang"}]},"title":"Comparison of machine learning and logistic regression models in predicting acute kidney injury: A systematic review and meta-analysis.","venue":"Int. J. Medical Informatics","volume":"151","pages":"104484","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ijmi/SongLLW21","doi":"10.1016/J.IJMEDINF.2021.104484","ee":"https://doi.org/10.1016/j.ijmedinf.2021.104484","url":"https://dblp.org/rec/journals/ijmi/SongLLW21"},
+"url":"URL#297030"
+},
+{
+"@score":"4",
+"@id":"311353",
+"info":{"authors":{"author":[{"@pid":"259/0609","text":"Thomas M. Sutter"},{"@pid":"288/9179","text":"Jan A. Roth"},{"@pid":"266/9689","text":"Kieran Chin-Cheong"},{"@pid":"288/8922","text":"Balthasar L. Hug"},{"@pid":"13/8412","text":"Julia E. Vogt"}]},"title":"A comparison of general and disease-specific machine learning models for the prediction of unplanned hospital readmissions.","venue":"J. Am. Medical Informatics Assoc.","volume":"28","number":"4","pages":"868-873","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jamia/SutterRCHV21","doi":"10.1093/JAMIA/OCAA299","ee":"https://doi.org/10.1093/jamia/ocaa299","url":"https://dblp.org/rec/journals/jamia/SutterRCHV21"},
+"url":"URL#311353"
+},
+{
+"@score":"4",
+"@id":"316558",
+"info":{"authors":{"author":[{"@pid":"305/7720","text":"Peian Hu"},{"@pid":"09/3666","text":"Lei Chen"},{"@pid":"40/10888","text":"Zhengrong Zhou"}]},"title":"Machine Learning in the Differentiation of Soft Tissue Neoplasms: Comparison of Fat-Suppressed T2WI and Apparent Diffusion Coefficient (ADC) Features-Based Models.","venue":"J. Digit. Imaging","volume":"34","number":"5","pages":"1146-1155","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jdi/HuCZ21","doi":"10.1007/S10278-021-00513-7","ee":"https://doi.org/10.1007/s10278-021-00513-7","url":"https://dblp.org/rec/journals/jdi/HuCZ21"},
+"url":"URL#316558"
+},
+{
+"@score":"4",
+"@id":"351991",
+"info":{"authors":{"author":[{"@pid":"300/6891","text":"Xueyuan Bai"},{"@pid":"46/1728","text":"Zhenhai Li"},{"@pid":"64/6025","text":"Wei Li"},{"@pid":"57/2056","text":"Yu Zhao"},{"@pid":"214/0721","text":"Meixuan Li"},{"@pid":"48/3975","text":"Hongyan Chen"},{"@pid":"300/6366","text":"Shaochong Wei"},{"@pid":"300/6393","text":"Yuanmao Jiang"},{"@pid":"85/8021","text":"Guijun Yang"},{"@pid":"163/8034","text":"Xicun Zhu"}]},"title":"Comparison of Machine-Learning and CASA Models for Predicting Apple Fruit Yields from Time-Series Planet Imageries.","venue":"Remote. Sens.","volume":"13","number":"16","pages":"3073","year":"2021","type":"Journal Articles","access":"open","key":"journals/remotesensing/BaiLLZLCWJYZ21","doi":"10.3390/RS13163073","ee":"https://doi.org/10.3390/rs13163073","url":"https://dblp.org/rec/journals/remotesensing/BaiLLZLCWJYZ21"},
+"url":"URL#351991"
+},
+{
+"@score":"4",
+"@id":"354210",
+"info":{"authors":{"author":[{"@pid":"150/4295","text":"Yan Liu"},{"@pid":"185/5822","text":"Sha Zhang"},{"@pid":"66/8999","text":"Jiahua Zhang"},{"@pid":"60/8984","text":"Lili Tang"},{"@pid":"45/1950-5","text":"Yun Bai 0005"}]},"title":"Assessment and Comparison of Six Machine Learning Models in Estimating Evapotranspiration over Croplands Using Remote Sensing and Meteorological Factors.","venue":"Remote. Sens.","volume":"13","number":"19","pages":"3838","year":"2021","type":"Journal Articles","access":"open","key":"journals/remotesensing/LiuZZTB21","doi":"10.3390/RS13193838","ee":"https://doi.org/10.3390/rs13193838","url":"https://dblp.org/rec/journals/remotesensing/LiuZZTB21"},
+"url":"URL#354210"
+},
+{
+"@score":"4",
+"@id":"355385",
+"info":{"authors":{"author":[{"@pid":"59/1815","text":"Chao Song"},{"@pid":"02/1438-8","text":"Xiaohong Chen 0008"}]},"title":"Performance Comparison of Machine Learning Models for Annual Precipitation Prediction Using Different Decomposition Methods.","venue":"Remote. Sens.","volume":"13","number":"5","pages":"1018","year":"2021","type":"Journal Articles","access":"open","key":"journals/remotesensing/SongC21","doi":"10.3390/RS13051018","ee":"https://doi.org/10.3390/rs13051018","url":"https://dblp.org/rec/journals/remotesensing/SongC21"},
+"url":"URL#355385"
+},
+{
+"@score":"4",
+"@id":"422440",
+"info":{"authors":{"author":[{"@pid":"316/5772","text":"Giorgio Lazzarinetti"},{"@pid":"285/3433","text":"Nicola Massarenti"},{"@pid":"316/6138","text":"Stefania Mantisi"},{"@pid":"316/5940","text":"Onofrio Sasso"}]},"title":"A Comparison of Machine Learning Algorithms and Tools in Prognostic Predictive Maintenance: a Focus on Siamese Neural Network models.","venue":"AIABI@AI*IA","year":"2021","type":"Conference and Workshop Papers","access":"open","key":"conf/aiia/LazzarinettiMMS21","ee":"http://ceur-ws.org/Vol-3102/paper11.pdf","url":"https://dblp.org/rec/conf/aiia/LazzarinettiMMS21"},
+"url":"URL#422440"
+},
+{
+"@score":"4",
+"@id":"532400",
+"info":{"authors":{"author":[{"@pid":"320/7766","text":"José Fernando de Toledo"},{"@pid":"320/7444","text":"Patrícia Teixeira Leite Assano"},{"@pid":"117/3028","text":"Hugo Valadares Siqueira"},{"@pid":"92/2936","text":"Rodrigo Sacchi"}]},"title":"Performance comparison of machine learning models for streamflow forecasting.","venue":"LA-CCI","pages":"1-6","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/lacci/ToledoASS21","doi":"10.1109/LA-CCI48322.2021.9769829","ee":"https://doi.org/10.1109/LA-CCI48322.2021.9769829","url":"https://dblp.org/rec/conf/lacci/ToledoASS21"},
+"url":"URL#532400"
+},
+{
+"@score":"4",
+"@id":"555515",
+"info":{"authors":{"author":[{"@pid":"298/0213","text":"Filip Wieslaw Bartoszewski"},{"@pid":"03/3777","text":"Mike Just"},{"@pid":"53/2965","text":"Michael A. Lones"},{"@pid":"04/7791","text":"Oleksii Mandrychenko"}]},"title":"Anomaly Detection for Insider Threats: An Objective Comparison of Machine Learning Models and Ensembles.","venue":"SEC","pages":"367-381","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/sec/BartoszewskiJLM21","doi":"10.1007/978-3-030-78120-0_24","ee":"https://doi.org/10.1007/978-3-030-78120-0_24","url":"https://dblp.org/rec/conf/sec/BartoszewskiJLM21"},
+"url":"URL#555515"
+},
+{
+"@score":"4",
+"@id":"559958",
+"info":{"authors":{"author":[{"@pid":"138/0596","text":"Pinar Cihan"},{"@pid":"20/4334","text":"Hakan Coskun"}]},"title":"Performance Comparison of Machine Learning Models for Diabetes Prediction.","venue":"SIU","pages":"1-4","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/siu/CihanC21","doi":"10.1109/SIU53274.2021.9477824","ee":"https://doi.org/10.1109/SIU53274.2021.9477824","url":"https://dblp.org/rec/conf/siu/CihanC21"},
+"url":"URL#559958"
+},
+{
+"@score":"4",
+"@id":"686084",
+"info":{"authors":{"author":[{"@pid":"279/5727","text":"Mario Lovric"},{"@pid":"151/7426","text":"Richard Meister"},{"@pid":"279/5764","text":"Thomas Steck"},{"@pid":"260/5274","text":"Leon Fadljevic"},{"@pid":"279/5899","text":"Johann Gerdenitsch"},{"@pid":"81/4298","text":"Stefan Schuster"},{"@pid":"279/5943","text":"Lukas Schiefermüller"},{"@pid":"95/3263","text":"Stefanie N. Lindstaedt"},{"@pid":"85/6799","text":"Roman Kern"}]},"title":"Parasitic resistance as a predictor of faulty anodes in electro galvanizing: a comparison of machine learning, physical and hybrid models.","venue":"Adv. Model. Simul. Eng. Sci.","volume":"7","number":"1","pages":"46","year":"2020","type":"Journal Articles","access":"open","key":"journals/amses/LovricMSFGSSLK20","doi":"10.1186/S40323-020-00184-Z","ee":"https://doi.org/10.1186/s40323-020-00184-z","url":"https://dblp.org/rec/journals/amses/LovricMSFGSSLK20"},
+"url":"URL#686084"
+},
+{
+"@score":"4",
+"@id":"723925",
+"info":{"authors":{"author":[{"@pid":"81/7083","text":"Muhammad Faisal"},{"@pid":"268/1794","text":"Andy Scally"},{"@pid":"268/1860","text":"Robin Howes"},{"@pid":"268/1755","text":"Kevin Beatson"},{"@pid":"35/9933","text":"Donald Richardson"},{"@pid":"91/8981","text":"Mohammed A. Mohammed"}]},"title":"A comparison of logistic regression models with alternative machine learning methods to predict the risk of in-hospital mortality in emergency medical admissions via external validation.","venue":"Health Informatics J.","volume":"26","number":"1","year":"2020","type":"Journal Articles","access":"closed","key":"journals/hij/FaisalSHBRM20","doi":"10.1177/1460458218813600","ee":"https://doi.org/10.1177/1460458218813600","url":"https://dblp.org/rec/journals/hij/FaisalSHBRM20"},
+"url":"URL#723925"
+},
+{
+"@score":"4",
+"@id":"743162",
+"info":{"authors":{"author":[{"@pid":"258/6911","text":"S. R. Sannasi Chakravarthy"},{"@pid":"142/4437","text":"Harikumar Rajaguru"}]},"title":"Detection and classification of microcalcification from digital mammograms with firefly algorithm, extreme learning machine and non-linear regression models: A comparison.","venue":"Int. J. Imaging Syst. Technol.","volume":"30","number":"1","pages":"126-146","year":"2020","type":"Journal Articles","access":"closed","key":"journals/imst/ChakravarthyR20","doi":"10.1002/IMA.22364","ee":"https://doi.org/10.1002/ima.22364","url":"https://dblp.org/rec/journals/imst/ChakravarthyR20"},
+"url":"URL#743162"
+},
+{
+"@score":"4",
+"@id":"744013",
+"info":{"authors":{"author":{"@pid":"198/3825","text":"Radmila Jankovic"}},"title":"Machine Learning Models for Cultural Heritage Image Classification: Comparison Based on Attribute Selection.","venue":"Inf.","volume":"11","number":"1","pages":"12","year":"2020","type":"Journal Articles","access":"open","key":"journals/information/Jankovic20","doi":"10.3390/INFO11010012","ee":"https://doi.org/10.3390/info11010012","url":"https://dblp.org/rec/journals/information/Jankovic20"},
+"url":"URL#744013"
+},
+{
+"@score":"4",
+"@id":"770432",
+"info":{"authors":{"author":[{"@pid":"254/8178","text":"Farahnaz Hajipour"},{"@pid":"130/4119","text":"Mohammad Jafari Jozani"},{"@pid":"11/7522","text":"Zahra Moussavi"}]},"title":"A comparison of regularized logistic regression and random forest machine learning models for daytime diagnosis of obstructive sleep apnea.","venue":"Medical Biol. Eng. Comput.","volume":"58","number":"10","pages":"2517-2529","year":"2020","type":"Journal Articles","access":"closed","key":"journals/mbec/HajipourJM20","doi":"10.1007/S11517-020-02206-9","ee":"https://doi.org/10.1007/s11517-020-02206-9","url":"https://dblp.org/rec/journals/mbec/HajipourJM20"},
+"url":"URL#770432"
+},
+{
+"@score":"4",
+"@id":"776421",
+"info":{"authors":{"author":[{"@pid":"251/7083","text":"Jui-Chan Huang"},{"@pid":"251/6806","text":"Kuo-Min Ko"},{"@pid":"77/3428","text":"Ming-Hung Shu"},{"@pid":"79/182","text":"Bi-Min Hsu"}]},"title":"Application and comparison of several machine learning algorithms and their integration models in regression problems.","venue":"Neural Comput. Appl.","volume":"32","number":"10","pages":"5461-5469","year":"2020","type":"Journal Articles","access":"closed","key":"journals/nca/HuangKSH20","doi":"10.1007/S00521-019-04644-5","ee":"https://doi.org/10.1007/s00521-019-04644-5","url":"https://dblp.org/rec/journals/nca/HuangKSH20"},
+"url":"URL#776421"
+},
+{
+"@score":"4",
+"@id":"788717",
+"info":{"authors":{"author":[{"@pid":"259/2031","text":"Zhilu Chang"},{"@pid":"205/7475","text":"Zhen Du"},{"@pid":"21/3626","text":"Fan Zhang"},{"@pid":"259/2967","text":"Faming Huang"},{"@pid":"59/2255","text":"Jiawu Chen"},{"@pid":"27/1736","text":"Wenbin Li"},{"@pid":"216/3002","text":"Zizheng Guo"}]},"title":"Landslide Susceptibility Prediction Based on Remote Sensing Images and GIS: Comparisons of Supervised and Unsupervised Machine Learning Models.","venue":"Remote. Sens.","volume":"12","number":"3","pages":"502","year":"2020","type":"Journal Articles","access":"open","key":"journals/remotesensing/ChangDZHCLG20","doi":"10.3390/RS12030502","ee":"https://doi.org/10.3390/rs12030502","url":"https://dblp.org/rec/journals/remotesensing/ChangDZHCLG20"},
+"url":"URL#788717"
+},
+{
+"@score":"4",
+"@id":"795542",
+"info":{"authors":{"author":[{"@pid":"270/8001","text":"Matthew N. Ahmadi"},{"@pid":"270/8169","text":"Margaret E. O&apos;Neil"},{"@pid":"270/8315","text":"Emmah Baque"},{"@pid":"174/1930","text":"Roslyn N. Boyd"},{"@pid":"133/1898","text":"Stewart G. Trost"}]},"title":"Machine Learning to Quantify Physical Activity in Children with Cerebral Palsy: Comparison of Group, Group-Personalized, and Fully-Personalized Activity Classification Models.","venue":"Sensors","volume":"20","number":"14","pages":"3976","year":"2020","type":"Journal Articles","access":"open","key":"journals/sensors/AhmadiOBBT20","doi":"10.3390/S20143976","ee":"https://doi.org/10.3390/s20143976","url":"https://dblp.org/rec/journals/sensors/AhmadiOBBT20"},
+"url":"URL#795542"
+},
+{
+"@score":"4",
+"@id":"815421",
+"info":{"authors":{"author":[{"@pid":"39/10448","text":"Jinyu Xie"},{"@pid":"75/5723","text":"Qian Wang"}]},"title":"Benchmarking Machine Learning Algorithms on Blood Glucose Prediction for Type I Diabetes in Comparison With Classical Time-Series Models.","venue":"IEEE Trans. Biomed. Eng.","volume":"67","number":"11","pages":"3101-3124","year":"2020","type":"Journal Articles","access":"closed","key":"journals/tbe/XieW20","doi":"10.1109/TBME.2020.2975959","ee":"https://doi.org/10.1109/TBME.2020.2975959","url":"https://dblp.org/rec/journals/tbe/XieW20"},
+"url":"URL#815421"
+},
+{
+"@score":"4",
+"@id":"854369",
+"info":{"authors":{"author":[{"@pid":"260/4744","text":"Jong-Wouk Kim"},{"@pid":"277/3141","text":"Juhong Namgung"},{"@pid":"13/4420","text":"Yang-Sae Moon"},{"@pid":"c/MiJunChoi","text":"Mi-Jung Choi"}]},"title":"Experimental Comparison of Machine Learning Models in Malware Packing Detection.","venue":"APNOMS","pages":"377-380","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/apnoms/KimNMC20","doi":"10.23919/APNOMS50412.2020.9237007","ee":"https://doi.org/10.23919/APNOMS50412.2020.9237007","url":"https://dblp.org/rec/conf/apnoms/KimNMC20"},
+"url":"URL#854369"
+},
+{
+"@score":"4",
+"@id":"968465",
+"info":{"authors":{"author":[{"@pid":"269/2733","text":"Daniel Röchert"},{"@pid":"132/2538","text":"German Neubaum"},{"@pid":"80/3271","text":"Stefan Stieglitz"}]},"title":"Identifying Political Sentiments on YouTube: A Systematic Comparison Regarding the Accuracy of Recurrent Neural Network and Machine Learning Models.","venue":"MISDOOM","pages":"107-121","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/misdoom/RochertNS20","doi":"10.1007/978-3-030-61841-4_8","ee":"https://doi.org/10.1007/978-3-030-61841-4_8","url":"https://dblp.org/rec/conf/misdoom/RochertNS20"},
+"url":"URL#968465"
+},
+{
+"@score":"4",
+"@id":"976124",
+"info":{"authors":{"author":[{"@pid":"209/3272","text":"Qirui Fan"},{"@pid":"252/9846","text":"Jianing Lu"},{"@pid":"265/0626","text":"Gai Zhou"},{"@pid":"265/1022","text":"Derek Zeng"},{"@pid":"138/0171","text":"Changjian Guo"},{"@pid":"265/1393","text":"Linyue Lu"},{"@pid":"08/2185","text":"Jianqiang Li"},{"@pid":"60/7397","text":"Chongjin Xie"},{"@pid":"57/6192-1","text":"Chao Lu 0001"},{"@pid":"14/9609","text":"Faisal Nadeem Khan"},{"@pid":"50/4813","text":"Alan Pak Tao Lau"}]},"title":"Experimental Comparisons between Machine Learning and Analytical Models for QoT Estimations in WDM Systems.","venue":"OFC","pages":"1-3","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ofc/FanLZZGLLXLKL30","ee":"https://ieeexplore.ieee.org/document/9083411","url":"https://dblp.org/rec/conf/ofc/FanLZZGLLXLKL30"},
+"url":"URL#976124"
+},
+{
+"@score":"4",
+"@id":"997905",
+"info":{"authors":{"author":[{"@pid":"264/4072","text":"Tapan Kumar"},{"@pid":"284/4403","text":"Pradyumn Sharma"},{"@pid":"58/2823","text":"Nupur Prakash"}]},"title":"Comparison of Machine learning models for Parkinson&apos;s Disease prediction.","venue":"UEMCON","pages":"195-199","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/uemcom/KumarSP20","doi":"10.1109/UEMCON51285.2020.9298033","ee":"https://doi.org/10.1109/UEMCON51285.2020.9298033","url":"https://dblp.org/rec/conf/uemcom/KumarSP20"},
+"url":"URL#997905"
+},
+{
+"@score":"4",
+"@id":"1007019",
+"info":{"authors":{"author":[{"@pid":"261/4950","text":"William Peters"},{"@pid":"54/8100","text":"Ali Dehghantanha"},{"@pid":"13/4425","text":"Reza M. Parizi"},{"@pid":"57/9993","text":"Gautam Srivastava"}]},"title":"A Comparison of State-of-the-Art Machine Learning Models for OpCode-Based IoT Malware Detection.","venue":"Handbook of Big Data Privacy","pages":"109-120","year":"2020","type":"Parts in Books or Collections","access":"closed","key":"books/sp/20/PetersDPS20","doi":"10.1007/978-3-030-38557-6_6","ee":"https://doi.org/10.1007/978-3-030-38557-6_6","url":"https://dblp.org/rec/books/sp/20/PetersDPS20"},
+"url":"URL#1007019"
+},
+{
+"@score":"4",
+"@id":"1020756",
+"info":{"authors":{"author":[{"@pid":"259/3208","text":"Hossen Teimoorinia"},{"@pid":"259/3127","text":"Robert D. Toyonaga"},{"@pid":"259/3217","text":"Sebastien Fabbro"},{"@pid":"259/3061","text":"Connor Bottrell"}]},"title":"Comparison of Multi-Class and Binary Classification Machine Learning Models in Identifying Strong Gravitational Lenses.","venue":"CoRR","volume":"abs/2002.11849","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2002-11849","ee":"https://arxiv.org/abs/2002.11849","url":"https://dblp.org/rec/journals/corr/abs-2002-11849"},
+"url":"URL#1020756"
+},
+{
+"@score":"4",
+"@id":"1024623",
+"info":{"authors":{"author":[{"@pid":"261/3081","text":"Camila Fernandez"},{"@pid":"30/1446","text":"Chung Shue Chen"},{"@pid":"25/2131","text":"Pierre Gaillard"},{"@pid":"34/152","text":"Alonso Silva"}]},"title":"Experimental Comparison of Semi-parametric, Parametric, and Machine Learning Models for Time-to-Event Analysis Through the Concordance Index.","venue":"CoRR","volume":"abs/2003.08820","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2003-08820","ee":"https://arxiv.org/abs/2003.08820","url":"https://dblp.org/rec/journals/corr/abs-2003-08820"},
+"url":"URL#1024623"
+},
+{
+"@score":"4",
+"@id":"1027818",
+"info":{"authors":{"author":[{"@pid":"262/3257","text":"Jasmin Hundall"},{"@pid":"262/3804","text":"Benson A. Babu"}]},"title":"Computer Vision and Abnormal Patient Gait Assessment a Comparison of Machine Learning Models.","venue":"CoRR","volume":"abs/2004.02810","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2004-02810","ee":"https://arxiv.org/abs/2004.02810","url":"https://dblp.org/rec/journals/corr/abs-2004-02810"},
+"url":"URL#1027818"
+},
+{
+"@score":"4",
+"@id":"1111218",
+"info":{"authors":{"author":[{"@pid":"216/7624","text":"Carly A. Bobak"},{"@pid":"184/4890","text":"Alexander J. Titus"},{"@pid":"216/7937","text":"Jane E. Hill"}]},"title":"Comparison of common machine learning models for classification of tuberculosis using transcriptional biomarkers from integrated datasets.","venue":"Appl. Soft Comput.","volume":"74","pages":"264-273","year":"2019","type":"Journal Articles","access":"closed","key":"journals/asc/BobakTH19","doi":"10.1016/J.ASOC.2018.10.005","ee":"https://doi.org/10.1016/j.asoc.2018.10.005","url":"https://dblp.org/rec/journals/asc/BobakTH19"},
+"url":"URL#1111218"
+},
+{
+"@score":"4",
+"@id":"1207759",
+"info":{"authors":{"author":[{"@pid":"171/3497","text":"Omid Rahmati"},{"@pid":"235/5296","text":"Omid Ghorbanzadeh"},{"@pid":"248/0837","text":"Teimur Teimurian"},{"@pid":"256/5905","text":"Farnoush Mohammadi"},{"@pid":"256/5670","text":"John P. Tiefenbacher"},{"@pid":"256/5877","text":"Fatemeh Falah"},{"@pid":"171/3161","text":"Saied Pirasteh"},{"@pid":"231/6745","text":"Phuong-Thao Thi Ngo"},{"@pid":"116/7714","text":"Dieu Tien Bui"}]},"title":"Spatial Modeling of Snow Avalanche Using Machine Learning Models and Geo-Environmental Factors: Comparison of Effectiveness in Two Mountain Regions.","venue":"Remote. Sens.","volume":"11","number":"24","pages":"2995","year":"2019","type":"Journal Articles","access":"open","key":"journals/remotesensing/RahmatiGTMTFPNB19","doi":"10.3390/RS11242995","ee":"https://doi.org/10.3390/rs11242995","url":"https://dblp.org/rec/journals/remotesensing/RahmatiGTMTFPNB19"},
+"url":"URL#1207759"
+},
+{
+"@score":"4",
+"@id":"1219119",
+"info":{"authors":{"author":[{"@pid":"257/5999","text":"Dennis Leser"},{"@pid":"257/5975","text":"Matthias Wastian"},{"@pid":"130/8611-1","text":"Matthias Rößler 0001"},{"@pid":"145/9276","text":"Michael Landsiedl"},{"@pid":"257/5690","text":"Edmond Hajrizi"}]},"title":"Comparison of Prediction Models for Delays of Freight Trains by Using Data Mining and Machine Learning Methods.","venue":"Simul. Notes Eur.","volume":"29","number":"1","pages":"45-47","year":"2019","type":"Journal Articles","access":"open","key":"journals/simeuro/LeserWRLH19","doi":"10.11128/SNE.29.SN.10467","ee":"https://doi.org/10.11128/sne.29.sn.10467","url":"https://dblp.org/rec/journals/simeuro/LeserWRLH19"},
+"url":"URL#1219119"
+},
+{
+"@score":"4",
+"@id":"1358264",
+"info":{"authors":{"author":[{"@pid":"248/1415","text":"Yaning Yi"},{"@pid":"66/5132","text":"Zhijie Zhang"},{"@pid":"49/9909","text":"Wanchang Zhang"},{"@pid":"34/117","text":"Chi Xu"}]},"title":"Comparison of Different Machine Learning Models For Landslide Susceptibility Mapping.","venue":"IGARSS","pages":"9318-9321","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/igarss/YiZZX19","doi":"10.1109/IGARSS.2019.8898208","ee":"https://doi.org/10.1109/IGARSS.2019.8898208","url":"https://dblp.org/rec/conf/igarss/YiZZX19"},
+"url":"URL#1358264"
+},
+{
+"@score":"4",
+"@id":"1363647",
+"info":{"authors":{"author":[{"@pid":"192/7205","text":"Abímbólá Rhoda Ìyàndá"},{"@pid":"247/7109","text":"Omolayo Abegunde"}]},"title":"Predicting Sentiment in Yorùbá Written Texts: A Comparison of Machine Learning Models.","venue":"IntelliSys","pages":"416-431","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/intellisys/IyandaA19","doi":"10.1007/978-3-030-29513-4_30","ee":"https://doi.org/10.1007/978-3-030-29513-4_30","url":"https://dblp.org/rec/conf/intellisys/IyandaA19"},
+"url":"URL#1363647"
+},
+{
+"@score":"4",
+"@id":"1389301",
+"info":{"authors":{"author":[{"@pid":"08/7991","text":"Milan Cisty"},{"@pid":"255/0200","text":"Frantisek Cyprich"},{"@pid":"222/7057","text":"Veronika Soldanova"}]},"title":"A comparison of linear and machine learning models for the simulation of soil moisture.","venue":"MLDM","pages":"104-116","year":"2019","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/mldm/CistyCS19","url":"https://dblp.org/rec/conf/mldm/CistyCS19"},
+"url":"URL#1389301"
+},
+{
+"@score":"4",
+"@id":"1408997",
+"info":{"authors":{"author":[{"@pid":"161/8257","text":"Zhaofeng Liu"},{"@pid":"06/180","text":"Zhen Jia"},{"@pid":"41/2305","text":"Wenlian Lu"}]},"title":"Security Comparison of Machine Learning Models Facing Different Attack Targets.","venue":"SciSec","pages":"77-91","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/scisec/LiuJL19","doi":"10.1007/978-3-030-34637-9_6","ee":"https://doi.org/10.1007/978-3-030-34637-9_6","url":"https://dblp.org/rec/conf/scisec/LiuJL19"},
+"url":"URL#1408997"
+},
+{
+"@score":"4",
+"@id":"1422611",
+"info":{"authors":{"author":[{"@pid":"194/4991","text":"Yash Parikh"},{"@pid":"39/8183","text":"Eman Abdelfattah"}]},"title":"Comparison of Machine Learning Models to Predict Twitter Buzz.","venue":"UEMCON","pages":"69-73","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/uemcom/ParikhA19","doi":"10.1109/UEMCON47517.2019.8993082","ee":"https://doi.org/10.1109/UEMCON47517.2019.8993082","url":"https://dblp.org/rec/conf/uemcom/ParikhA19"},
+"url":"URL#1422611"
+},
+{
+"@score":"4",
+"@id":"1457529",
+"info":{"authors":{"author":[{"@pid":"241/6875","text":"Manokamna Singh"},{"@pid":"81/9464","text":"Katarina Domijan"}]},"title":"Comparison of Machine Learning Models in Food Authentication Studies.","venue":"CoRR","volume":"abs/1905.07302","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1905-07302","ee":"http://arxiv.org/abs/1905.07302","url":"https://dblp.org/rec/journals/corr/abs-1905-07302"},
+"url":"URL#1457529"
+},
+{
+"@score":"4",
+"@id":"1593523",
+"info":{"authors":{"author":[{"@pid":"224/9825","text":"Volkan Ülke"},{"@pid":"225/0136","text":"Afsin Sahin"},{"@pid":"61/6291","text":"Abdulhamit Subasi"}]},"title":"A comparison of time series and machine learning models for inflation forecasting: empirical evidence from the USA.","venue":"Neural Comput. Appl.","volume":"30","number":"5","pages":"1519-1527","year":"2018","type":"Journal Articles","access":"closed","key":"journals/nca/UlkeSS18","doi":"10.1007/S00521-016-2766-X","ee":"https://doi.org/10.1007/s00521-016-2766-x","url":"https://dblp.org/rec/journals/nca/UlkeSS18"},
+"url":"URL#1593523"
+},
+{
+"@score":"4",
+"@id":"1728955",
+"info":{"authors":{"author":[{"@pid":"217/2869","text":"Rawya Al-Akam"},{"@pid":"p/DietrichPaulus","text":"Dietrich Paulus"}]},"title":"Comparison of different machine learning models on feature extraction for human activity recognition from RGB-depth datasets.","venue":"ICMV","pages":"1104128","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/icmv/Al-AkamP18","doi":"10.1117/12.2522680","ee":"https://doi.org/10.1117/12.2522680","url":"https://dblp.org/rec/conf/icmv/Al-AkamP18"},
+"url":"URL#1728955"
+},
+{
+"@score":"4",
+"@id":"1729340",
+"info":{"authors":{"author":[{"@pid":"225/3704","text":"Md. Shohel Rana"},{"@pid":"237/2429","text":"Charan Gudla"},{"@pid":"79/1202","text":"Andrew H. Sung"}]},"title":"Evaluating Machine Learning Models for Android Malware Detection: A Comparison Study.","venue":"ICNCC","pages":"17-21","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/icncc/RanaGS18","doi":"10.1145/3301326.3301390","ee":"https://doi.org/10.1145/3301326.3301390","url":"https://dblp.org/rec/conf/icncc/RanaGS18"},
+"url":"URL#1729340"
+},
+{
+"@score":"4",
+"@id":"1735226",
+"info":{"authors":{"author":[{"@pid":"231/8949","text":"Usman Malik"},{"@pid":"44/10109","text":"Mukesh Barange"},{"@pid":"28/3027","text":"Julien Saunier"},{"@pid":"86/4531","text":"Alexandre Pauchet"}]},"title":"Performance Comparison of Machine Learning Models Trained on Manual vs ASR Transcriptions for Dialogue Act Annotation.","venue":"ICTAI","pages":"1013-1017","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictai/MalikBSP18","doi":"10.1109/ICTAI.2018.00156","ee":"https://doi.org/10.1109/ICTAI.2018.00156","url":"https://dblp.org/rec/conf/ictai/MalikBSP18"},
+"url":"URL#1735226"
+},
+{
+"@score":"4",
+"@id":"1784178",
+"info":{"authors":{"author":[{"@pid":"194/8610","text":"Irena Orsolic"},{"@pid":"64/7282","text":"Mirko Suznjevic"},{"@pid":"19/6614","text":"Lea Skorin-Kapov"}]},"title":"YouTube QoE Estimation from Encrypted Traffic: Comparison of Test Methodologies and Machine Learning Based Models.","venue":"QoMEX","pages":"1-6","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/qomex/OrsolicSS18","doi":"10.1109/QOMEX.2018.8463379","ee":"https://doi.org/10.1109/QoMEX.2018.8463379","url":"https://dblp.org/rec/conf/qomex/OrsolicSS18"},
+"url":"URL#1784178"
+},
+{
+"@score":"4",
+"@id":"1856294",
+"info":{"authors":{"author":[{"@pid":"202/4015","text":"Xilei Zhao"},{"@pid":"31/1501","text":"Xiang Yan"},{"@pid":"192/3359","text":"Alan Yu"},{"@pid":"h/PVHentenryck","text":"Pascal Van Hentenryck"}]},"title":"Modeling Stated Preference for Mobility-on-Demand Transit: A Comparison of Machine Learning and Logit Models.","venue":"CoRR","volume":"abs/1811.01315","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1811-01315","ee":"http://arxiv.org/abs/1811.01315","url":"https://dblp.org/rec/journals/corr/abs-1811-01315"},
+"url":"URL#1856294"
+},
+{
+"@score":"4",
+"@id":"2067427",
+"info":{"authors":{"author":[{"@pid":"205/4725","text":"Todor K. Avramov"},{"@pid":"63/10786","text":"Dong Si"}]},"title":"Comparison of Feature Reduction Methods and Machine Learning Models for Breast Cancer Diagnosis.","venue":"ICCDA","pages":"69-74","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccda/AvramovS17","doi":"10.1145/3093241.3093290","ee":"https://doi.org/10.1145/3093241.3093290","url":"https://dblp.org/rec/conf/iccda/AvramovS17"},
+"url":"URL#2067427"
+},
+{
+"@score":"4",
+"@id":"2096679",
+"info":{"authors":{"author":[{"@pid":"81/4168","text":"Bogdan Trawinski"},{"@pid":"36/2851","text":"Zbigniew Telec"},{"@pid":"204/7750","text":"Jacek Krasnoborski"},{"@pid":"204/7739","text":"Mateusz Piwowarczyk"},{"@pid":"204/7734","text":"Michal Talaga"},{"@pid":"41/881","text":"Tadeusz Lasota"},{"@pid":"160/1587","text":"Edward Sawilow"}]},"title":"Comparison of expert algorithms with machine learning models for real estate appraisal.","venue":"INISTA","pages":"51-54","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/inista/TrawinskiTKPTLS17","doi":"10.1109/INISTA.2017.8001131","ee":"https://doi.org/10.1109/INISTA.2017.8001131","url":"https://dblp.org/rec/conf/inista/TrawinskiTKPTLS17"},
+"url":"URL#2096679"
+},
+{
+"@score":"4",
+"@id":"2103613",
+"info":{"authors":{"author":[{"@pid":"44/10823","text":"Neda Abdelhamid"},{"@pid":"77/778","text":"Fadi A. Thabtah"},{"@pid":"08/1666","text":"Hussein Abdel-jaber"}]},"title":"Phishing detection: A recent intelligent machine learning comparison based on models content and features.","venue":"ISI","pages":"72-77","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/isi/AbdelhamidTA17","doi":"10.1109/ISI.2017.8004877","ee":"https://doi.org/10.1109/ISI.2017.8004877","url":"https://dblp.org/rec/conf/isi/AbdelhamidTA17"},
+"url":"URL#2103613"
+},
+{
+"@score":"4",
+"@id":"2141986",
+"info":{"authors":{"author":[{"@pid":"211/0912","text":"Jorge Alarcón Flores"},{"@pid":"211/0917","text":"Jiam Lopez Malca"},{"@pid":"211/0911","text":"Luiz Ruiz Saldarriaga"},{"@pid":"211/0909","text":"Christian Sarmiento Román"}]},"title":"Analysis and Comparison of Machine Learning Classification Models Applied to Credit Approval.","venue":"SIMBig","pages":"225-226","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/simbig/FloresMSR17","ee":"http://ceur-ws.org/Vol-2029/op2.pdf","url":"https://dblp.org/rec/conf/simbig/FloresMSR17"},
+"url":"URL#2141986"
+},
+{
+"@score":"4",
+"@id":"2147369",
+"info":{"authors":{"author":[{"@pid":"74/4038","text":"Zhenyu Liu"},{"@pid":"72/5816","text":"Huanhuan Chen"}]},"title":"A predictive performance comparison of machine learning models for judicial cases.","venue":"SSCI","pages":"1-6","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/ssci/LiuC17","doi":"10.1109/SSCI.2017.8285436","ee":"https://doi.org/10.1109/SSCI.2017.8285436","url":"https://dblp.org/rec/conf/ssci/LiuC17"},
+"url":"URL#2147369"
+},
+{
+"@score":"4",
+"@id":"2200590",
+"info":{"title":"Financial Series Prediction: Comparison Between Precision of Time Series Models and Machine Learning Methods.","venue":"CoRR","volume":"abs/1706.00948","year":"2017","type":"Withdrawn Items","access":"withdrawn","key":"journals/corr/QianG17","ee":"http://arxiv.org/abs/1706.00948","url":"https://dblp.org/rec/journals/corr/QianG17"},
+"url":"URL#2200590"
+},
+{
+"@score":"4",
+"@id":"2720550",
+"info":{"authors":{"author":[{"@pid":"10/5878","text":"Kurosh Madani"},{"@pid":"172/8243","text":"Hossam Fraihat"},{"@pid":"56/5304","text":"Christophe Sabourin"}]},"title":"Machine-Learning-Based Visual Objects&apos; Distances Evaluation: A Comparison of ANFIS, MLP, SVR and Bilinear Interpolation Models.","venue":"IJCCI","pages":"462-479","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcci/MadaniFS15","doi":"10.1007/978-3-319-48506-5_24","ee":"https://doi.org/10.1007/978-3-319-48506-5_24","url":"https://dblp.org/rec/conf/ijcci/MadaniFS15"},
+"url":"URL#2720550"
+},
+{
+"@score":"4",
+"@id":"5169202",
+"info":{"authors":{"author":[{"@pid":"15/2546","text":"Xiaowei Song"},{"@pid":"19/4490","text":"Arnold Mitnitski"},{"@pid":"58/7365","text":"Jafna Cox"},{"@pid":"58/3518","text":"Kenneth Rockwood"}]},"title":"Comparison of Machine Learning Techniques with Classical Statistical Models in Predicting Health Outcomes.","venue":"MedInfo","pages":"736-740","year":"2004","type":"Conference and Workshop Papers","access":"open","key":"conf/medinfo/SongMCR04","doi":"10.3233/978-1-60750-949-3-736","ee":"https://doi.org/10.3233/978-1-60750-949-3-736","url":"https://dblp.org/rec/conf/medinfo/SongMCR04"},
+"url":"URL#5169202"
+}
+]
+}
+}
+}

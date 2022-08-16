@@ -1,0 +1,506 @@
+{
+"result":{
+"query":"automated* trading*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"35.62"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"79",
+"@dc":"79",
+"@oc":"79",
+"@id":"47204991",
+"text":"trading"
+}
+},
+"hits":{
+"@total":"79",
+"@computed":"79",
+"@sent":"79",
+"@first":"0",
+"hit":[{
+"@score":"2",
+"@id":"33921",
+"info":{"authors":{"author":[{"@pid":"320/0531","text":"Faruk Ozer"},{"@pid":"35/8527","text":"Cemal Okan Sakar"}]},"title":"An automated cryptocurrency trading system based on the detection of unusual price movements with a Time-Series Clustering-Based approach.","venue":"Expert Syst. Appl.","volume":"200","pages":"117017","year":"2022","type":"Journal Articles","access":"closed","key":"journals/eswa/OzerS22","doi":"10.1016/J.ESWA.2022.117017","ee":"https://doi.org/10.1016/j.eswa.2022.117017","url":"https://dblp.org/rec/journals/eswa/OzerS22"},
+"url":"URL#33921"
+},
+{
+"@score":"2",
+"@id":"138740",
+"info":{"authors":{"author":[{"@pid":"323/5217","text":"Shuangge Wang"},{"@pid":"87/2250","text":"Bhaskar Krishnamachari"}]},"title":"Optimal Trading on a Dynamic Curve Automated Market Maker.","venue":"ICBC","pages":"1-5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icbc2/WangK22","doi":"10.1109/ICBC54727.2022.9805489","ee":"https://doi.org/10.1109/ICBC54727.2022.9805489","url":"https://dblp.org/rec/conf/icbc2/WangK22"},
+"url":"URL#138740"
+},
+{
+"@score":"2",
+"@id":"206611",
+"info":{"authors":{"author":[{"@pid":"89/7833","text":"Jinan Zou"},{"@pid":"322/6033","text":"Haiyao Cao"},{"@pid":"45/7776","text":"Lingqiao Liu"},{"@pid":"207/4665","text":"Yuhao Lin"},{"@pid":"30/11191","text":"Ehsan Abbasnejad"},{"@pid":"51/5804","text":"Javen Qinfeng Shi"}]},"title":"Astock: A New Dataset and Automated Stock Trading based on Stock-specific News Analyzing Model.","venue":"CoRR","volume":"abs/2206.06606","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2206-06606","doi":"10.48550/ARXIV.2206.06606","ee":"https://doi.org/10.48550/arXiv.2206.06606","url":"https://dblp.org/rec/journals/corr/abs-2206-06606"},
+"url":"URL#206611"
+},
+{
+"@score":"2",
+"@id":"277199",
+"info":{"authors":{"author":[{"@pid":"272/6329","text":"Jagdish Chakole"},{"@pid":"278/9384","text":"Mugdha S. Kolhe"},{"@pid":"278/9581","text":"Grishma D. Mahapurush"},{"@pid":"278/9584","text":"Anushka Yadav"},{"@pid":"168/3405","text":"Manish P. Kurhekar"}]},"title":"A Q-learning agent for automated trading in equity stock markets.","venue":"Expert Syst. Appl.","volume":"163","pages":"113761","year":"2021","type":"Journal Articles","access":"closed","key":"journals/eswa/ChakoleKMYK21","doi":"10.1016/J.ESWA.2020.113761","ee":"https://doi.org/10.1016/j.eswa.2020.113761","url":"https://dblp.org/rec/journals/eswa/ChakoleKMYK21"},
+"url":"URL#277199"
+},
+{
+"@score":"2",
+"@id":"285157",
+"info":{"authors":{"author":[{"@pid":"308/5988","text":"Thijs Willems"},{"@pid":"172/7530","text":"Ella Hafermalz"}]},"title":"Distributed seeing: Algorithms and the reconfiguration of the workplace, a case of &apos;automated&apos; trading.","venue":"Inf. Organ.","volume":"31","number":"4","pages":"100376","year":"2021","type":"Journal Articles","access":"closed","key":"journals/iando/WillemsH21","doi":"10.1016/J.INFOANDORG.2021.100376","ee":"https://doi.org/10.1016/j.infoandorg.2021.100376","url":"https://dblp.org/rec/journals/iando/WillemsH21"},
+"url":"URL#285157"
+},
+{
+"@score":"2",
+"@id":"344221",
+"info":{"authors":{"author":[{"@pid":"286/0372","text":"Rasha AbdelKawy"},{"@pid":"286/0606","text":"Walid M. Abdelmoez"},{"@pid":"46/5176","text":"Amin A. Shoukry"}]},"title":"A synchronous deep reinforcement learning model for automated multi-stock trading.","venue":"Prog. Artif. Intell.","volume":"10","number":"1","pages":"83-97","year":"2021","type":"Journal Articles","access":"closed","key":"journals/pai/AbdelKawyAS21","doi":"10.1007/S13748-020-00225-Z","ee":"https://doi.org/10.1007/s13748-020-00225-z","url":"https://dblp.org/rec/journals/pai/AbdelKawyAS21"},
+"url":"URL#344221"
+},
+{
+"@score":"2",
+"@id":"416023",
+"info":{"authors":{"author":{"@pid":"314/8681","text":"Martin Pellon Consunji"}},"title":"EvoTrader: Automated Bitcoin Trading Using Neuroevolutionary Algorithms on Technical Analysis and Social Sentiment Data.","venue":"ACAI","pages":"106:1-106:9","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/acai2/Consunji21","doi":"10.1145/3508546.3508652","ee":"https://doi.org/10.1145/3508546.3508652","url":"https://dblp.org/rec/conf/acai2/Consunji21"},
+"url":"URL#416023"
+},
+{
+"@score":"2",
+"@id":"461866",
+"info":{"authors":{"author":[{"@pid":"302/4461","text":"Nik Alexandrov"},{"@pid":"47/5766","text":"Dave Cliff"},{"@pid":"302/3720","text":"Charlie Figuero"}]},"title":"Exploring Coevolutionary Dynamics Between Infinitely Diverse Heterogenous Adaptive Automated Trading Agents.","venue":"ESSA","pages":"93-104","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/essa/AlexandrovCF21","doi":"10.1007/978-3-030-92843-8_8","ee":"https://doi.org/10.1007/978-3-030-92843-8_8","url":"https://dblp.org/rec/conf/essa/AlexandrovCF21"},
+"url":"URL#461866"
+},
+{
+"@score":"2",
+"@id":"477145",
+"info":{"authors":{"author":[{"@pid":"19/5112","text":"Zhen Zhang"},{"@pid":"47/5766","text":"Dave Cliff"}]},"title":"Market Impact in Trader-agents: Adding Multi-level Order-flow Imbalance-sensitivity to Automated Trading Systems.","venue":"ICAART","pages":"426-436","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaart/ZhangC21","doi":"10.5220/0010391004260436","ee":"https://doi.org/10.5220/0010391004260436","url":"https://dblp.org/rec/conf/icaart/ZhangC21"},
+"url":"URL#477145"
+},
+{
+"@score":"2",
+"@id":"477410",
+"info":{"authors":{"author":{"@pid":"73/2252","text":"Lin Li"}},"title":"An automated portfolio trading system with feature preprocessing and recurrent reinforcement learning.","venue":"ICAIF","pages":"11:1-11:8","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaif/Li21","doi":"10.1145/3490354.3494376","ee":"https://doi.org/10.1145/3490354.3494376","url":"https://dblp.org/rec/conf/icaif/Li21"},
+"url":"URL#477410"
+},
+{
+"@score":"2",
+"@id":"512264",
+"info":{"authors":{"author":[{"@pid":"245/3220","text":"Dawei Qiu"},{"@pid":"35/8546","text":"Jianhong Wang"},{"@pid":"153/4541","text":"Junkai Wang"},{"@pid":"11/10502","text":"Goran Strbac"}]},"title":"Multi-Agent Reinforcement Learning for Automated Peer-to-Peer Energy Trading in Double-Side Auction Market.","venue":"IJCAI","pages":"2913-2920","year":"2021","type":"Conference and Workshop Papers","access":"open","key":"conf/ijcai/QiuWWS21","doi":"10.24963/IJCAI.2021/401","ee":"https://doi.org/10.24963/ijcai.2021/401","url":"https://dblp.org/rec/conf/ijcai/QiuWWS21"},
+"url":"URL#512264"
+},
+{
+"@score":"2",
+"@id":"595933",
+"info":{"authors":{"author":[{"@pid":"256/9052","text":"Artur Sokolovsky"},{"@pid":"205/8141","text":"Luca Arnaboldi"},{"@pid":"75/3693","text":"Jaume Bacardit"},{"@pid":"g/ThomasGross","text":"Thomas Gross 0001"}]},"title":"Interpretable ML-driven Strategy for Automated Trading Pattern Extraction.","venue":"CoRR","volume":"abs/2103.12419","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2103-12419","ee":"https://arxiv.org/abs/2103.12419","url":"https://dblp.org/rec/journals/corr/abs-2103-12419"},
+"url":"URL#595933"
+},
+{
+"@score":"2",
+"@id":"821611",
+"info":{"authors":{"author":[{"@pid":"35/2378","text":"Qinghua Huang"},{"@pid":"12/1198","text":"Jie Yang"},{"@pid":"240/4897","text":"Xiangfei Feng"},{"@pid":"76/2013","text":"Alan Wee-Chung Liew"},{"@pid":"l/XuelongLi","text":"Xuelong Li 0001"}]},"title":"Automated Trading Point Forecasting Based on Bicluster Mining and Fuzzy Inference.","venue":"IEEE Trans. Fuzzy Syst.","volume":"28","number":"2","pages":"259-272","year":"2020","type":"Journal Articles","access":"closed","key":"journals/tfs/HuangYFLL20","doi":"10.1109/TFUZZ.2019.2904920","ee":"https://doi.org/10.1109/TFUZZ.2019.2904920","url":"https://dblp.org/rec/journals/tfs/HuangYFLL20"},
+"url":"URL#821611"
+},
+{
+"@score":"2",
+"@id":"828648",
+"info":{"authors":{"author":[{"@pid":"267/1038","text":"Sein Myung"},{"@pid":"l/JongHyoukLee","text":"Jong-Hyouk Lee"}]},"title":"Ethereum smart contract-based automated power trading algorithm in a microgrid environment.","venue":"J. Supercomput.","volume":"76","number":"7","pages":"4904-4914","year":"2020","type":"Journal Articles","access":"closed","key":"journals/tjs/MyungL20","doi":"10.1007/S11227-018-2697-7","ee":"https://doi.org/10.1007/s11227-018-2697-7","url":"https://dblp.org/rec/journals/tjs/MyungL20"},
+"url":"URL#828648"
+},
+{
+"@score":"2",
+"@id":"908175",
+"info":{"authors":{"author":[{"@pid":"255/7639","text":"Henry Hanifan"},{"@pid":"66/6821","text":"John Cartlidge"}]},"title":"Fools Rush In: Competitive Effects of Reaction Time in Automated Trading.","venue":"ICAART","pages":"82-93","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaart/HanifanC20","doi":"10.5220/0008973700820093","ee":"https://doi.org/10.5220/0008973700820093","url":"https://dblp.org/rec/conf/icaart/HanifanC20"},
+"url":"URL#908175"
+},
+{
+"@score":"2",
+"@id":"908768",
+"info":{"authors":{"author":[{"@pid":"226/0938","text":"Hongyang Yang"},{"@pid":"125/9849","text":"Xiao-Yang Liu"},{"@pid":"94/1198","text":"Shan Zhong"},{"@pid":"75/6446","text":"Anwar Walid"}]},"title":"Deep reinforcement learning for automated stock trading: an ensemble strategy.","venue":"ICAIF","pages":"31:1-31:8","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaif/YangLZW20","doi":"10.1145/3383455.3422540","ee":"https://doi.org/10.1145/3383455.3422540","url":"https://dblp.org/rec/conf/icaif/YangLZW20"},
+"url":"URL#908768"
+},
+{
+"@score":"2",
+"@id":"943973",
+"info":{"authors":{"author":[{"@pid":"275/7286","text":"Thalita R. Silva"},{"@pid":"205/3848","text":"Audeliano Wolian Li"},{"@pid":"275/7264","text":"Edson O. Pamplona"}]},"title":"Automated Trading System for Stock Index Using LSTM Neural Networks and Risk Management.","venue":"IJCNN","pages":"1-8","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/SilvaLP20","doi":"10.1109/IJCNN48605.2020.9207278","ee":"https://doi.org/10.1109/IJCNN48605.2020.9207278","url":"https://dblp.org/rec/conf/ijcnn/SilvaLP20"},
+"url":"URL#943973"
+},
+{
+"@score":"2",
+"@id":"1074401",
+"info":{"authors":{"author":[{"@pid":"125/9849","text":"Xiao-Yang Liu"},{"@pid":"226/0938","text":"Hongyang Yang"},{"@pid":"11/1394","text":"Qian Chen"},{"@pid":"250/0635","text":"Runjia Zhang"},{"@pid":"52/6918","text":"Liuqing Yang"},{"@pid":"255/6487","text":"Bowen Xiao"},{"@pid":"246/4851","text":"Christina Dan Wang"}]},"title":"FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.","venue":"CoRR","volume":"abs/2011.09607","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2011-09607","ee":"https://arxiv.org/abs/2011.09607","url":"https://dblp.org/rec/journals/corr/abs-2011-09607"},
+"url":"URL#1074401"
+},
+{
+"@score":"2",
+"@id":"1081630",
+"info":{"authors":{"author":[{"@pid":"19/5112","text":"Zhen Zhang"},{"@pid":"47/5766","text":"Dave Cliff"}]},"title":"Market Impact in Trader-Agents: Adding Multi-Level Order-Flow Imbalance-Sensitivity to Automated Trading Systems.","venue":"CoRR","volume":"abs/2012.12555","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2012-12555","ee":"https://arxiv.org/abs/2012.12555","url":"https://dblp.org/rec/journals/corr/abs-2012-12555"},
+"url":"URL#1081630"
+},
+{
+"@score":"2",
+"@id":"1136086",
+"info":{"authors":{"author":[{"@pid":"232/8080","text":"Boming Huang"},{"@pid":"167/8478","text":"Yuxiang Huan"},{"@pid":"70/2433","text":"Li Da Xu"},{"@pid":"15/7206","text":"Lirong Zheng 0001"},{"@pid":"39/3602","text":"Zhuo Zou"}]},"title":"Automated trading systems statistical and machine learning methods and hardware implementation: a survey.","venue":"Enterp. Inf. Syst.","volume":"13","number":"1","pages":"132-144","year":"2019","type":"Journal Articles","access":"closed","key":"journals/eis/HuangHXZZ19","doi":"10.1080/17517575.2018.1493145","ee":"https://doi.org/10.1080/17517575.2018.1493145","url":"https://dblp.org/rec/journals/eis/HuangHXZZ19"},
+"url":"URL#1136086"
+},
+{
+"@score":"2",
+"@id":"1317537",
+"info":{"authors":{"author":[{"@pid":"238/5284","text":"Danya Huang"},{"@pid":"96/7563","text":"Xusen Cheng"},{"@pid":"75/10343","text":"Tingting Hou"},{"@pid":"06/2592","text":"Kun Liu"},{"@pid":"238/5133","text":"Chengyao Li"}]},"title":"Exploring Evaluation Factors and Framework for the Object of Automated Trading System.","venue":"HICSS","pages":"1-10","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/hicss/HuangCHLL19","ee":"https://hdl.handle.net/10125/59564","url":"https://dblp.org/rec/conf/hicss/HuangCHLL19"},
+"url":"URL#1317537"
+},
+{
+"@score":"2",
+"@id":"1355517",
+"info":{"authors":{"author":[{"@pid":"44/6299","text":"Giorgio Lucarelli"},{"@pid":"87/8816","text":"Matteo Borrotti"}]},"title":"A Deep Reinforcement Learning Approach for Automated Cryptocurrency Trading.","venue":"AIAI","pages":"247-258","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/ifip12/LucarelliB19","doi":"10.1007/978-3-030-19823-7_20","ee":"https://doi.org/10.1007/978-3-030-19823-7_20","url":"https://dblp.org/rec/conf/ifip12/LucarelliB19"},
+"url":"URL#1355517"
+},
+{
+"@score":"2",
+"@id":"1490426",
+"info":{"authors":{"author":[{"@pid":"255/7639","text":"Henry Hanifan"},{"@pid":"66/6821","text":"John Cartlidge"}]},"title":"Fools Rush In: Competitive Effects of Reaction Time in Automated Trading.","venue":"CoRR","volume":"abs/1912.02775","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1912-02775","ee":"http://arxiv.org/abs/1912.02775","url":"https://dblp.org/rec/journals/corr/abs-1912-02775"},
+"url":"URL#1490426"
+},
+{
+"@score":"2",
+"@id":"1689003",
+"info":{"authors":{"author":{"@pid":"207/1707","text":"Siddharth Das"}},"title":"An Automated Stock Trading Heuristic, Dependent on Volatility, for Common People.","venue":"EIT","pages":"681-686","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/eit/Das18","doi":"10.1109/EIT.2018.8500139","ee":"https://doi.org/10.1109/EIT.2018.8500139","url":"https://dblp.org/rec/conf/eit/Das18"},
+"url":"URL#1689003"
+},
+{
+"@score":"2",
+"@id":"1796072",
+"info":{"authors":{"author":[{"@pid":"77/10127","text":"Andre P. Ortega"},{"@pid":"79/2874","text":"Geoff V. Merrett"},{"@pid":"81/1719","text":"Sarvapali D. Ramchurn"}]},"title":"Automated Negotiation for Opportunistic Energy Trading Between Neighbouring Wireless Sensor Networks.","venue":"SmartGridComm","pages":"1-6","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/smartgridcomm/OrtegaMR18","doi":"10.1109/SMARTGRIDCOMM.2018.8587470","ee":"https://doi.org/10.1109/SmartGridComm.2018.8587470","url":"https://dblp.org/rec/conf/smartgridcomm/OrtegaMR18"},
+"url":"URL#1796072"
+},
+{
+"@score":"2",
+"@id":"1814475",
+"info":{"authors":{"author":[{"@pid":"c/ICervesato","text":"Iliano Cervesato"},{"@pid":"239/5209","text":"Sharjeel Khan"},{"@pid":"72/9473","text":"Giselle Reis"},{"@pid":"34/9992","text":"Dragisa Zunic"}]},"title":"Formalization of Automated Trading Systems in a Concurrent Linear Framework.","venue":"Linearity-TLLA@FLoC","pages":"1-14","year":"2018","type":"Conference and Workshop Papers","access":"open","key":"journals/corr/abs-1904-06844","doi":"10.4204/EPTCS.292.1","ee":"https://doi.org/10.4204/EPTCS.292.1","url":"https://dblp.org/rec/journals/corr/abs-1904-06844"},
+"url":"URL#1814475"
+},
+{
+"@score":"2",
+"@id":"1903677",
+"info":{"authors":{"author":[{"@pid":"176/8872","text":"Anastasios Petropoulos"},{"@pid":"25/6133","text":"Sotirios P. Chatzis"},{"@pid":"206/6737","text":"Vasilis Siakoulis"},{"@pid":"220/3618","text":"Nikos E. Vlachogiannakis"}]},"title":"A stacked generalization system for automated FOREX portfolio trading.","venue":"Expert Syst. Appl.","volume":"90","pages":"290-302","year":"2017","type":"Journal Articles","access":"closed","key":"journals/eswa/PetropoulosCSV17","doi":"10.1016/J.ESWA.2017.08.011","ee":"https://doi.org/10.1016/j.eswa.2017.08.011","url":"https://dblp.org/rec/journals/eswa/PetropoulosCSV17"},
+"url":"URL#1903677"
+},
+{
+"@score":"2",
+"@id":"1907670",
+"info":{"authors":{"author":[{"@pid":"162/0569","text":"Matthias Christoph Utesch"},{"@pid":"197/1378","text":"Andreas Hauer"},{"@pid":"123/4031","text":"Robert Heininger"},{"@pid":"k/HelmutKrcmar","text":"Helmut Krcmar"}]},"title":"Automated Stock Trading - Developing the Serious Game FSTG to Teach the Topic of Finite State Machines.","venue":"Int. J. Eng. Pedagog.","volume":"7","number":"1","pages":"17-33","year":"2017","type":"Journal Articles","access":"closed","key":"journals/i-jep/UteschHHK17","doi":"10.3991/IJEP.V7I1.6524","ee":"https://doi.org/10.3991/ijep.v7i1.6524","url":"https://dblp.org/rec/journals/i-jep/UteschHHK17"},
+"url":"URL#1907670"
+},
+{
+"@score":"2",
+"@id":"1936547",
+"info":{"authors":{"author":[{"@pid":"06/10794","text":"Iván Contreras"},{"@pid":"91/5449","text":"José Ignacio Hidalgo"},{"@pid":"03/6390","text":"Laura Núñez-Letamendia"}]},"title":"A hybrid automated trading system based on multi-objective grammatical evolution.","venue":"J. Intell. Fuzzy Syst.","volume":"32","number":"3","pages":"2461-2475","year":"2017","type":"Journal Articles","access":"closed","key":"journals/jifs/ContrerasHN17","doi":"10.3233/JIFS-16435","ee":"https://doi.org/10.3233/JIFS-16435","url":"https://dblp.org/rec/journals/jifs/ContrerasHN17"},
+"url":"URL#1936547"
+},
+{
+"@score":"2",
+"@id":"2019753",
+"info":{"authors":{"author":{"@pid":"207/1707","text":"Siddharth Das"}},"title":"A volatility-driven stock trading framework based on automated, short-term recommendation method.","venue":"CCWC","pages":"1-6","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/ccwc/Das17","doi":"10.1109/CCWC.2017.7868472","ee":"https://doi.org/10.1109/CCWC.2017.7868472","url":"https://dblp.org/rec/conf/ccwc/Das17"},
+"url":"URL#2019753"
+},
+{
+"@score":"2",
+"@id":"2203160",
+"info":{"authors":{"author":{"@pid":"140/1577","text":"Ash Booth"}},"title":"Automated algorithmic trading: machine learning and agent-based modelling in complex adaptive financial markets.","year":"2016","type":"Books and Theses","access":"closed","key":"phd/ethos/Booth16","ee":"https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.690300","url":"https://dblp.org/rec/phd/ethos/Booth16"},
+"url":"URL#2203160"
+},
+{
+"@score":"2",
+"@id":"2342882",
+"info":{"authors":{"author":[{"@pid":"77/5015","text":"Giuseppe Carlo Calafiore"},{"@pid":"192/3298","text":"Luca Poletti"},{"@pid":"190/7118","text":"Alessandro Preziosi"}]},"title":"MatTrader: An automated trading and financial data analysis framework for Matlab and Java.","venue":"CDC","pages":"7561-7566","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/cdc/CalafiorePP16","doi":"10.1109/CDC.2016.7799437","ee":"https://doi.org/10.1109/CDC.2016.7799437","url":"https://dblp.org/rec/conf/cdc/CalafiorePP16"},
+"url":"URL#2342882"
+},
+{
+"@score":"2",
+"@id":"2385611",
+"info":{"authors":{"author":[{"@pid":"12/1198","text":"Jie Yang"},{"@pid":"35/2378","text":"Qinghua Huang"}]},"title":"Automated trading based on biclustering mining and fuzzy modeling.","venue":"ICARM","pages":"591-596","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/icarm/YangH16","doi":"10.1109/ICARM.2016.7606987","ee":"https://doi.org/10.1109/ICARM.2016.7606987","url":"https://dblp.org/rec/conf/icarm/YangH16"},
+"url":"URL#2385611"
+},
+{
+"@score":"2",
+"@id":"2624379",
+"info":{"authors":{"author":[{"@pid":"142/3799","text":"Mario Lopez-Martinez"},{"@pid":"21/930","text":"Juan J. Alcaraz"},{"@pid":"03/6062","text":"Javier Vales-Alonso"},{"@pid":"19/1519","text":"Joan García-Haro"}]},"title":"Automated spectrum trading mechanisms: understanding the big picture.","venue":"Wirel. Networks","volume":"21","number":"2","pages":"685-708","year":"2015","type":"Journal Articles","access":"closed","key":"journals/winet/Lopez-MartinezAVG15","doi":"10.1007/S11276-014-0812-0","ee":"https://doi.org/10.1007/s11276-014-0812-0","url":"https://dblp.org/rec/journals/winet/Lopez-MartinezAVG15"},
+"url":"URL#2624379"
+},
+{
+"@score":"2",
+"@id":"2839102",
+"info":{"authors":{"author":[{"@pid":"13/7219","text":"Sven S. Groth"},{"@pid":"97/11056","text":"Michael Siering"},{"@pid":"00/1341","text":"Peter Gomber"}]},"title":"How to enable automated trading engines to cope with news-related liquidity shocks? Extracting signals from unstructured data.","venue":"Decis. Support Syst.","volume":"62","pages":"32-42","year":"2014","type":"Journal Articles","access":"closed","key":"journals/dss/GrothSG14","doi":"10.1016/J.DSS.2014.03.002","ee":"https://doi.org/10.1016/j.dss.2014.03.002","url":"https://dblp.org/rec/journals/dss/GrothSG14"},
+"url":"URL#2839102"
+},
+{
+"@score":"2",
+"@id":"2843118",
+"info":{"authors":{"author":[{"@pid":"140/1577","text":"Ash Booth"},{"@pid":"g/EnricoGerding","text":"Enrico H. Gerding"},{"@pid":"119/0536","text":"Frank McGroarty"}]},"title":"Automated trading with performance weighted random forests and seasonality.","venue":"Expert Syst. Appl.","volume":"41","number":"8","pages":"3651-3661","year":"2014","type":"Journal Articles","access":"closed","key":"journals/eswa/BoothGM14","doi":"10.1016/J.ESWA.2013.12.009","ee":"https://doi.org/10.1016/j.eswa.2013.12.009","url":"https://dblp.org/rec/journals/eswa/BoothGM14"},
+"url":"URL#2843118"
+},
+{
+"@score":"2",
+"@id":"2913707",
+"info":{"authors":{"author":[{"@pid":"143/9593","text":"Wijnand Nuij"},{"@pid":"36/2712","text":"Viorel Milea"},{"@pid":"50/7979","text":"Frederik Hogenboom"},{"@pid":"30/2592","text":"Flavius Frasincar"},{"@pid":"k/UzayKaymak","text":"Uzay Kaymak"}]},"title":"An Automated Framework for Incorporating News into Stock Trading Strategies.","venue":"IEEE Trans. Knowl. Data Eng.","volume":"26","number":"4","pages":"823-835","year":"2014","type":"Journal Articles","access":"closed","key":"journals/tkde/NuijMHFK14","doi":"10.1109/TKDE.2013.133","ee":"https://doi.org/10.1109/TKDE.2013.133","url":"https://dblp.org/rec/journals/tkde/NuijMHFK14"},
+"url":"URL#2913707"
+},
+{
+"@score":"2",
+"@id":"2936438",
+"info":{"authors":{"author":{"@pid":"93/76","text":"Dymitr Ruta"}},"title":"Automated Trading with Machine Learning on Big Data.","venue":"BigData Congress","pages":"824-830","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/bigdata/Ruta14","doi":"10.1109/BIGDATA.CONGRESS.2014.143","ee":"https://doi.org/10.1109/BigData.Congress.2014.143","url":"https://dblp.org/rec/conf/bigdata/Ruta14"},
+"url":"URL#2936438"
+},
+{
+"@score":"2",
+"@id":"3054664",
+"info":{"authors":{"author":[{"@pid":"16/2731","text":"Vassilios Vassiliadis"},{"@pid":"38/1549","text":"Georgios Dounias"}]},"title":"Nature-Inspired Intelligent Techniques for Automated Trading: A Distributional Analysis.","venue":"SETN","pages":"264-272","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/setn/VassiliadisD14","doi":"10.1007/978-3-319-07064-3_21","ee":"https://doi.org/10.1007/978-3-319-07064-3_21","url":"https://dblp.org/rec/conf/setn/VassiliadisD14"},
+"url":"URL#3054664"
+},
+{
+"@score":"2",
+"@id":"3198957",
+"info":{"authors":{"author":{"@pid":"r/SRaudys","text":"Sarunas Raudys"}},"title":"Portfolio of Automated Trading Systems: Complexity and Learning Set Size Issues.","venue":"IEEE Trans. Neural Networks Learn. Syst.","volume":"24","number":"3","pages":"448-459","year":"2013","type":"Journal Articles","access":"closed","key":"journals/tnn/Raudys13","doi":"10.1109/TNNLS.2012.2230405","ee":"https://doi.org/10.1109/TNNLS.2012.2230405","url":"https://dblp.org/rec/journals/tnn/Raudys13"},
+"url":"URL#3198957"
+},
+{
+"@score":"2",
+"@id":"3311473",
+"info":{"authors":{"author":[{"@pid":"141/5686","text":"Barry Laffoy"},{"@pid":"134/5489","text":"Saraansh Dave"},{"@pid":"15/5883","text":"Mahesh Sooriyabandara"}]},"title":"Automated Trading for Smart Grids: Can It Work?","venue":"IWSOS","pages":"1-13","year":"2013","type":"Conference and Workshop Papers","access":"open","key":"conf/iwsos/LaffoyDS13","doi":"10.1007/978-3-642-54140-7_1","ee":"https://doi.org/10.1007/978-3-642-54140-7_1","url":"https://dblp.org/rec/conf/iwsos/LaffoyDS13"},
+"url":"URL#3311473"
+},
+{
+"@score":"2",
+"@id":"3334336",
+"info":{"authors":{"author":[{"@pid":"126/6265","text":"Anamaria Berea"},{"@pid":"44/6068","text":"Charles Twardy"}]},"title":"Automated Trading in Prediction Markets.","venue":"SBP","pages":"111-122","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/sbp/BereaT13","doi":"10.1007/978-3-642-37210-0_13","ee":"https://doi.org/10.1007/978-3-642-37210-0_13","url":"https://dblp.org/rec/conf/sbp/BereaT13"},
+"url":"URL#3334336"
+},
+{
+"@score":"2",
+"@id":"3334549",
+"info":{"authors":{"author":[{"@pid":"164/8960","text":"Fábio Daros Freitas"},{"@pid":"175/6377","text":"Christian Daros Freitas"},{"@pid":"82/3659","text":"Alberto Ferreira de Souza"}]},"title":"System architecture for on-line optimization of automated trading strategies.","venue":"WHPCF@SC","pages":"4:1-4:8","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/sc/FreitasFS13","doi":"10.1145/2535557.2535563","ee":"https://doi.org/10.1145/2535557.2535563","url":"https://dblp.org/rec/conf/sc/FreitasFS13"},
+"url":"URL#3334549"
+},
+{
+"@score":"2",
+"@id":"3354053",
+"info":{"authors":{"author":[{"@pid":"73/1038","text":"Francesco Bertoluzzo"},{"@pid":"75/5540","text":"Marco Corazza"}]},"title":"Reinforcement Learning for Automated Financial Trading: Basics and Applications.","venue":"WIRN","pages":"197-213","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/wirn/BertoluzzoC13","doi":"10.1007/978-3-319-04129-2_20","ee":"https://doi.org/10.1007/978-3-319-04129-2_20","url":"https://dblp.org/rec/conf/wirn/BertoluzzoC13"},
+"url":"URL#3354053"
+},
+{
+"@score":"2",
+"@id":"3408092",
+"info":{"authors":{"author":[{"@pid":"50/2205","text":"Simon Fong 0001"},{"@pid":"37/3034","text":"Yain-Whar Si"},{"@pid":"19/8393","text":"Jackie Tai"}]},"title":"Trend following algorithms in automated derivatives market trading.","venue":"Expert Syst. Appl.","volume":"39","number":"13","pages":"11378-11390","year":"2012","type":"Journal Articles","access":"closed","key":"journals/eswa/FongST12","doi":"10.1016/J.ESWA.2012.03.048","ee":"https://doi.org/10.1016/j.eswa.2012.03.048","url":"https://dblp.org/rec/journals/eswa/FongST12"},
+"url":"URL#3408092"
+},
+{
+"@score":"2",
+"@id":"3522852",
+"info":{"authors":{"author":[{"@pid":"125/0359","text":"Nicolai Bohn"},{"@pid":"63/1104","text":"Fethi A. Rabhi"},{"@pid":"26/4979","text":"Dennis Kundisch"},{"@pid":"82/3828","text":"Lawrence Yao"},{"@pid":"125/0421","text":"Tobias Mutter"}]},"title":"Towards Automated Event Studies Using High Frequency News and Trading Data.","venue":"FinanceCom","pages":"20-41","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/financecom/BohnRKYM12","doi":"10.1007/978-3-642-36219-4_2","ee":"https://doi.org/10.1007/978-3-642-36219-4_2","url":"https://dblp.org/rec/conf/financecom/BohnRKYM12"},
+"url":"URL#3522852"
+},
+{
+"@score":"2",
+"@id":"3568677",
+"info":{"authors":{"author":[{"@pid":"125/1586","text":"Rui Maciel Casanova Pinto"},{"@pid":"125/1598","text":"João Carlos Marques Silva"}]},"title":"Strategic methods for automated trading in Forex.","venue":"ISDA","pages":"34-39","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/isda/PintoS12","doi":"10.1109/ISDA.2012.6416509","ee":"https://doi.org/10.1109/ISDA.2012.6416509","url":"https://dblp.org/rec/conf/isda/PintoS12"},
+"url":"URL#3568677"
+},
+{
+"@score":"2",
+"@id":"3624284",
+"info":{"authors":{"author":[{"@pid":"53/8571","text":"Dietmar Maringer"},{"@pid":"59/7966","text":"Tikesh Ramtohul"}]},"title":"Regime-Switching Recurrent Reinforcement Learning in Automated Trading.","venue":"Natural Computing in Computational Finance","pages":"93-121","year":"2012","type":"Parts in Books or Collections","access":"closed","key":"series/sci/MaringerR12","doi":"10.1007/978-3-642-23336-4_6","ee":"https://doi.org/10.1007/978-3-642-23336-4_6","url":"https://dblp.org/rec/series/sci/MaringerR12"},
+"url":"URL#3624284"
+},
+{
+"@score":"2",
+"@id":"3767729",
+"info":{"authors":{"author":[{"@pid":"135/5277","text":"Arne Koors"},{"@pid":"p/BerndPage","text":"Bernd Page"}]},"title":"A Hierarchical Simulation Based Software Architecture For Back-Testing And Automated Trading.","venue":"ECMS","pages":"275-282","year":"2011","type":"Conference and Workshop Papers","access":"open","key":"conf/ecms/KoorsP11","doi":"10.7148/2011-0275-0282","ee":"https://doi.org/10.7148/2011-0275-0282","url":"https://dblp.org/rec/conf/ecms/KoorsP11"},
+"url":"URL#3767729"
+},
+{
+"@score":"2",
+"@id":"3834467",
+"info":{"authors":{"author":{"@pid":"86/1137","text":"Michael Mayo"}},"title":"Hybridizing Data Stream Mining and Technical Indicators in Automated Trading Systems.","venue":"MDAI","pages":"79-90","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/mdai/Mayo11","doi":"10.1007/978-3-642-22589-5_9","ee":"https://doi.org/10.1007/978-3-642-22589-5_9","url":"https://dblp.org/rec/conf/mdai/Mayo11"},
+"url":"URL#3834467"
+},
+{
+"@score":"2",
+"@id":"3923602",
+"info":{"authors":{"author":[{"@pid":"48/2103","text":"Madhu Lata Goyal"},{"@pid":"55/2919","text":"Saroj Kaushik"},{"@pid":"60/9053","text":"Preetinder Kaur"}]},"title":"Automated Fuzzy Bidding Strategy for Continuous Double Auctions Using Trading Agent&apos;s Attitude and Market Competition.","venue":"Int. J. Agent Technol. Syst.","volume":"2","number":"4","pages":"56-74","year":"2010","type":"Journal Articles","access":"closed","key":"journals/ijats/GoyalKK10","doi":"10.4018/JATS.2010100105","ee":"https://doi.org/10.4018/jats.2010100105","url":"https://dblp.org/rec/journals/ijats/GoyalKK10"},
+"url":"URL#3923602"
+},
+{
+"@score":"2",
+"@id":"3989676",
+"info":{"authors":{"author":{"@pid":"74/5403","text":"Petr Tucník"}},"title":"Optimization of Automated Trading System&apos;s Interaction with Market Environment.","venue":"BIR","pages":"55-61","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bir/Tucnik10","doi":"10.1007/978-3-642-16101-8_5","ee":"https://doi.org/10.1007/978-3-642-16101-8_5","url":"https://dblp.org/rec/conf/bir/Tucnik10"},
+"url":"URL#3989676"
+},
+{
+"@score":"2",
+"@id":"4007485",
+"info":{"authors":{"author":{"@pid":"13/7219","text":"Sven S. Groth"}},"title":"Enhancing Automated Trading Engines To Cope With News-Related Liquidity Shocks.","venue":"ECIS","pages":"111","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/ecis/Groth10","ee":"http://aisel.aisnet.org/ecis2010/111","url":"https://dblp.org/rec/conf/ecis/Groth10"},
+"url":"URL#4007485"
+},
+{
+"@score":"2",
+"@id":"4012214",
+"info":{"authors":{"author":[{"@pid":"53/8571","text":"Dietmar Maringer"},{"@pid":"59/7966","text":"Tikesh Ramtohul"}]},"title":"Threshold Recurrent Reinforcement Learning Model for Automated Trading.","venue":"EvoApplications","pages":"212-221","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/evoW/MaringerR10","doi":"10.1007/978-3-642-12242-2_22","ee":"https://doi.org/10.1007/978-3-642-12242-2_22","url":"https://dblp.org/rec/conf/evoW/MaringerR10"},
+"url":"URL#4012214"
+},
+{
+"@score":"2",
+"@id":"4082944",
+"info":{"authors":{"author":[{"@pid":"39/8694","text":"Carlos Henrique Dejavite Araújo"},{"@pid":"52/4700","text":"Paulo André Lima de Castro"}]},"title":"Towards Automated Trading Based on Fundamentalist and Technical Data.","venue":"SBIA","pages":"112-121","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/sbia/AraujoC10","doi":"10.1007/978-3-642-16138-4_12","ee":"https://doi.org/10.1007/978-3-642-16138-4_12","url":"https://dblp.org/rec/conf/sbia/AraujoC10"},
+"url":"URL#4082944"
+},
+{
+"@score":"2",
+"@id":"4083283",
+"info":{"authors":{"author":[{"@pid":"10/649","text":"Héctor Allende-Cid"},{"@pid":"82/5463","text":"Enrique Canessa"},{"@pid":"94/9459","text":"Ariel Quezada"}]},"title":"An Improved Fuzzy Rule-Based Automated Trading Agent.","venue":"SCCC","pages":"146-151","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/sccc/Allende-CidCQ10","doi":"10.1109/SCCC.2010.33","ee":"https://doi.org/10.1109/SCCC.2010.33","url":"https://dblp.org/rec/conf/sccc/Allende-CidCQ10"},
+"url":"URL#4083283"
+},
+{
+"@score":"2",
+"@id":"4139299",
+"info":{"authors":{"author":[{"@pid":"83/670","text":"Fenghui Ren"},{"@pid":"52/1742","text":"Minjie Zhang"},{"@pid":"96/6844","text":"Kwang Mong Sim"}]},"title":"Adaptive conceding strategies for automated trading agents in dynamic, open markets.","venue":"Decis. Support Syst.","volume":"46","number":"3","pages":"704-716","year":"2009","type":"Journal Articles","access":"closed","key":"journals/dss/RenZS09","doi":"10.1016/J.DSS.2008.11.005","ee":"https://doi.org/10.1016/j.dss.2008.11.005","url":"https://dblp.org/rec/journals/dss/RenZS09"},
+"url":"URL#4139299"
+},
+{
+"@score":"2",
+"@id":"4156101",
+"info":{"authors":{"author":[{"@pid":"10/3765","text":"Kiyoshi Izumi"},{"@pid":"02/6698","text":"Fujio Toriumi"},{"@pid":"05/3202","text":"Hiroki Matsui"}]},"title":"Evaluation of automated-trading strategies using an artificial market.","venue":"Neurocomputing","volume":"72","number":"16-18","pages":"3469-3476","year":"2009","type":"Journal Articles","access":"closed","key":"journals/ijon/IzumiTM09","doi":"10.1016/J.NEUCOM.2008.07.020","ee":"https://doi.org/10.1016/j.neucom.2008.07.020","url":"https://dblp.org/rec/journals/ijon/IzumiTM09"},
+"url":"URL#4156101"
+},
+{
+"@score":"2",
+"@id":"4240650",
+"info":{"authors":{"author":[{"@pid":"06/255","text":"Zhihong Liu"},{"@pid":"17/1411","text":"Deyun Xiao"}]},"title":"An Automated Trading System with Multi-indicator Fusion Based on D-S Evidence Theory in Forex Market.","venue":"FSKD","pages":"239-243","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/fskd/LiuX09","doi":"10.1109/FSKD.2009.395","ee":"https://doi.org/10.1109/FSKD.2009.395","url":"https://dblp.org/rec/conf/fskd/LiuX09"},
+"url":"URL#4240650"
+},
+{
+"@score":"2",
+"@id":"4449495",
+"info":{"authors":{"author":[{"@pid":"40/6847","text":"Antonia Azzini"},{"@pid":"t/AndreaTettamanzi","text":"Andrea Tettamanzi"}]},"title":"Evolutionary Single-Position Automated Trading.","venue":"EvoWorkshops","pages":"62-72","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/evoW/AzziniT08","doi":"10.1007/978-3-540-78761-7_7","ee":"https://doi.org/10.1007/978-3-540-78761-7_7","url":"https://dblp.org/rec/conf/evoW/AzziniT08"},
+"url":"URL#4449495"
+},
+{
+"@score":"2",
+"@id":"4450848",
+"info":{"authors":{"author":[{"@pid":"35/9189","text":"Andreas Storkenmaier"},{"@pid":"66/4925","text":"Ryan Riordan"}]},"title":"The Effect of Automated Trading on Market Quality: Evidence from the New York Stock Exchange.","venue":"FinanceCom","pages":"11-30","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/financecom/StorkenmaierR08","doi":"10.1007/978-3-642-01197-9_2","ee":"https://doi.org/10.1007/978-3-642-01197-9_2","url":"https://dblp.org/rec/conf/financecom/StorkenmaierR08"},
+"url":"URL#4450848"
+},
+{
+"@score":"2",
+"@id":"4453904",
+"info":{"authors":{"author":{"@pid":"97/5301","text":"Tomoyasu Oya"}},"title":"Evaluating Automated Trading Systems Using Random Walk Securities.","venue":"GEM","pages":"174-178","year":"2008","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/gem/Oya08","url":"https://dblp.org/rec/conf/gem/Oya08"},
+"url":"URL#4453904"
+},
+{
+"@score":"2",
+"@id":"4646844",
+"info":{"authors":{"author":[{"@pid":"40/6847","text":"Antonia Azzini"},{"@pid":"t/AndreaTettamanzi","text":"Andrea Tettamanzi"}]},"title":"Automated trading on financial instruments with evolved neural networks.","venue":"GECCO","pages":"2252","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/AzziniT07","doi":"10.1145/1276958.1277387","ee":"https://doi.org/10.1145/1276958.1277387","url":"https://dblp.org/rec/conf/gecco/AzziniT07"},
+"url":"URL#4646844"
+},
+{
+"@score":"2",
+"@id":"4750578",
+"info":{"authors":{"author":[{"@pid":"13/3880","text":"M. A. H. Dempster"},{"@pid":"86/769","text":"V. Leemans"}]},"title":"An automated FX trading system using adaptive reinforcement learning.","venue":"Expert Syst. Appl.","volume":"30","number":"3","pages":"543-552","year":"2006","type":"Journal Articles","access":"closed","key":"journals/eswa/DempsterL06","doi":"10.1016/J.ESWA.2005.10.012","ee":"https://doi.org/10.1016/j.eswa.2005.10.012","url":"https://dblp.org/rec/journals/eswa/DempsterL06"},
+"url":"URL#4750578"
+},
+{
+"@score":"2",
+"@id":"4799375",
+"info":{"authors":{"author":{"@pid":"d/JohnKDebenham","text":"John K. Debenham"}},"title":"Automated Trading - Making It Happen.","venue":"Artificial Intelligence and Applications","pages":"1-6","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/aia/Debenham06","doi":"10.5555/1166890.1166891","ee":"https://dl.acm.org/doi/10.5555/1166890.1166891","url":"https://dblp.org/rec/conf/aia/Debenham06"},
+"url":"URL#4799375"
+},
+{
+"@score":"2",
+"@id":"4820555",
+"info":{"authors":{"author":[{"@pid":"90/1401","text":"Dirk Neumann 0001"},{"@pid":"71/758","text":"Steffen Lamparter"},{"@pid":"s/BjornSchnizler","text":"Björn Schnizler"}]},"title":"Automated bidding for trading grid services.","venue":"ECIS","pages":"1307-1315","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/ecis/NeumannLS06","ee":"http://aisel.aisnet.org/ecis2006/184","url":"https://dblp.org/rec/conf/ecis/NeumannLS06"},
+"url":"URL#4820555"
+},
+{
+"@score":"2",
+"@id":"4821039",
+"info":{"authors":{"author":[{"@pid":"d/JohnKDebenham","text":"John K. Debenham"},{"@pid":"39/1218","text":"Simeon J. Simoff"}]},"title":"Making Informed Automated Trading a Reality.","venue":"EC-Web","pages":"193-202","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/ecweb/DebenhamS06","doi":"10.1007/11823865_20","ee":"https://doi.org/10.1007/11823865_20","url":"https://dblp.org/rec/conf/ecweb/DebenhamS06"},
+"url":"URL#4821039"
+},
+{
+"@score":"2",
+"@id":"4829834",
+"info":{"authors":{"author":[{"@pid":"61/1157","text":"Harish Subramanian"},{"@pid":"97/5598","text":"Subramanian Ramamoorthy"},{"@pid":"s/PeterStone","text":"Peter Stone"},{"@pid":"k/BenjaminKuipers","text":"Benjamin Kuipers"}]},"title":"Designing safe, profitable automated stock trading agents using evolutionary algorithms.","venue":"GECCO","pages":"1777-1784","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/SubramanianRSK06","doi":"10.1145/1143997.1144285","ee":"https://doi.org/10.1145/1143997.1144285","url":"https://dblp.org/rec/conf/gecco/SubramanianRSK06"},
+"url":"URL#4829834"
+},
+{
+"@score":"2",
+"@id":"4842958",
+"info":{"authors":{"author":[{"@pid":"41/3443","text":"Manuel Resinas"},{"@pid":"f/PabloFernandez","text":"Pablo Fernandez 0001"},{"@pid":"73/3776","text":"Rafael Corchuelo"}]},"title":"Towards Automated Service Trading.","venue":"ICETE","pages":"3-14","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/icete/Resinas0C06","doi":"10.1007/978-3-540-70760-8_1","ee":"https://doi.org/10.1007/978-3-540-70760-8_1","url":"https://dblp.org/rec/conf/icete/Resinas0C06"},
+"url":"URL#4842958"
+},
+{
+"@score":"2",
+"@id":"4842959",
+"info":{"authors":{"author":[{"@pid":"41/3443","text":"Manuel Resinas"},{"@pid":"f/PabloFernandez","text":"Pablo Fernandez 0001"},{"@pid":"73/3776","text":"Rafael Corchuelo"}]},"title":"Towards Automated Service Trading.","venue":"ICE-B","pages":"38-45","year":"2006","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/icete/ResinasFC06","url":"https://dblp.org/rec/conf/icete/ResinasFC06"},
+"url":"URL#4842959"
+},
+{
+"@score":"2",
+"@id":"4852468",
+"info":{"authors":{"author":[{"@pid":"d/JohnKDebenham","text":"John K. Debenham"},{"@pid":"39/1218","text":"Simeon J. Simoff"}]},"title":"Three Technologies for Automated Trading.","venue":"IFIP AI","pages":"405-414","year":"2006","type":"Conference and Workshop Papers","access":"open","key":"conf/ifip12/DebenhamS06","doi":"10.1007/978-0-387-34747-9_42","ee":"https://doi.org/10.1007/978-0-387-34747-9_42","url":"https://dblp.org/rec/conf/ifip12/DebenhamS06"},
+"url":"URL#4852468"
+},
+{
+"@score":"2",
+"@id":"4868939",
+"info":{"authors":{"author":[{"@pid":"f/PabloFernandez","text":"Pablo Fernandez 0001"},{"@pid":"41/3443","text":"Manuel Resinas"},{"@pid":"73/3776","text":"Rafael Corchuelo"}]},"title":"A Conceptual Framework for Automated Service Trading.","venue":"JISBD","pages":"273-282","year":"2006","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/jisbd/FernandezRC06","url":"https://dblp.org/rec/conf/jisbd/FernandezRC06"},
+"url":"URL#4868939"
+},
+{
+"@score":"2",
+"@id":"4983658",
+"info":{"authors":{"author":{"@pid":"d/JohnKDebenham","text":"John K. Debenham"}},"title":"Foundations for Automated Trading - Its the Information That Matters.","venue":"DEXA","pages":"534-543","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/dexa/Debenham05","doi":"10.1007/11546924_52","ee":"https://doi.org/10.1007/11546924_52","url":"https://dblp.org/rec/conf/dexa/Debenham05"},
+"url":"URL#4983658"
+},
+{
+"@score":"2",
+"@id":"5069900",
+"info":{"authors":{"author":{"@pid":"52/2456","text":"David W. Ash"}},"title":"Empowering Automated Trading in Multi-Agent Environments.","venue":"Comput. Intell.","volume":"20","number":"4","pages":"562-583","year":"2004","type":"Journal Articles","access":"closed","key":"journals/ci/Ash04","doi":"10.1111/J.0824-7935.2004.00254.X","ee":"https://doi.org/10.1111/j.0824-7935.2004.00254.x","url":"https://dblp.org/rec/journals/ci/Ash04"},
+"url":"URL#5069900"
+},
+{
+"@score":"2",
+"@id":"5114574",
+"info":{"authors":{"author":[{"@pid":"93/259","text":"Alexander A. Sherstov"},{"@pid":"s/PeterStone","text":"Peter Stone"}]},"title":"Three Automated Stock-Trading Agents: A Comparative Study.","venue":"AMEC","pages":"173-187","year":"2004","type":"Conference and Workshop Papers","access":"closed","key":"conf/amec/SherstovS04","doi":"10.1007/11575726_13","ee":"https://doi.org/10.1007/11575726_13","url":"https://dblp.org/rec/conf/amec/SherstovS04"},
+"url":"URL#5114574"
+},
+{
+"@score":"2",
+"@id":"5209048",
+"info":{"authors":{"author":[{"@pid":"78/6858","text":"Michael J. Kearns"},{"@pid":"09/6719","text":"Luis E. Ortiz"}]},"title":"The Penn-Lehman Automated Trading Project.","venue":"IEEE Intell. Syst.","volume":"18","number":"6","pages":"22-31","year":"2003","type":"Journal Articles","access":"closed","key":"journals/expert/KearnsO03","doi":"10.1109/MIS.2003.1249166","ee":"https://doi.org/10.1109/MIS.2003.1249166","url":"https://dblp.org/rec/journals/expert/KearnsO03"},
+"url":"URL#5209048"
+},
+{
+"@score":"2",
+"@id":"5212972",
+"info":{"authors":{"author":[{"@pid":"02/4315","text":"Nir Vulkan"},{"@pid":"30/6478","text":"Chris Preist"}]},"title":"Automated Trading in Agent-Based Markets for Communication Bandwidth.","venue":"Int. J. Electron. Commer.","volume":"7","number":"4","pages":"119-150","year":"2003","type":"Journal Articles","access":"closed","key":"journals/ijecommerce/VulkanP03","doi":"10.1080/10864415.2003.11044278","ee":"https://doi.org/10.1080/10864415.2003.11044278","url":"https://dblp.org/rec/journals/ijecommerce/VulkanP03"},
+"url":"URL#5212972"
+},
+{
+"@score":"2",
+"@id":"5240809",
+"info":{"authors":{"author":[{"@pid":"67/4426","text":"Ronggang Yu"},{"@pid":"s/PeterStone","text":"Peter Stone"}]},"title":"Performance analysis of a counter-intuitive automated stock-trading agent.","venue":"ICEC","pages":"40-46","year":"2003","type":"Conference and Workshop Papers","access":"closed","key":"conf/ACMicec/YuS03","doi":"10.1145/948005.948011","ee":"https://doi.org/10.1145/948005.948011","url":"https://dblp.org/rec/conf/ACMicec/YuS03"},
+"url":"URL#5240809"
+},
+{
+"@score":"2",
+"@id":"5585371",
+"info":{"authors":{"author":[{"@pid":"51/4105","text":"Prabhudev Konana"},{"@pid":"17/3798","text":"Sudha Ram"}]},"title":"Semantics-Based Transaction Processing for Real-Time Databases: The Case of Automated Stock Trading.","venue":"INFORMS J. Comput.","volume":"11","number":"3","pages":"299-315","year":"1999","type":"Journal Articles","access":"closed","key":"journals/informs/KonanaR99","doi":"10.1287/IJOC.11.3.299","ee":"https://doi.org/10.1287/ijoc.11.3.299","url":"https://dblp.org/rec/journals/informs/KonanaR99"},
+"url":"URL#5585371"
+}
+]
+}
+}
+}

@@ -1,0 +1,317 @@
+{
+"result":{
+"query":"data* mining* finance*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"44.68"
+},
+"completions":{
+"@total":"2",
+"@computed":"2",
+"@sent":"2",
+"c":[
+{
+"@sc":"46",
+"@dc":"45",
+"@oc":"46",
+"@id":"46275665",
+"text":"finance"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"46275668",
+"text":"financeira"
+}
+]
+},
+"hits":{
+"@total":"46",
+"@computed":"46",
+"@sent":"46",
+"@first":"0",
+"hit":[{
+"@score":"5",
+"@id":"4723038",
+"info":{"authors":{"author":[{"@pid":"18/2176","text":"Ildar Z. Batyrshin"},{"@pid":"123/4977","text":"Leonid Sheremetov"},{"@pid":"55/1958","text":"Raúl Herrera-Avelar"}]},"title":"Perception Based Patterns in Time Series Data Mining.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"85-118","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/BatyrshinSH07","doi":"10.1007/978-3-540-36247-0_3","ee":"https://doi.org/10.1007/978-3-540-36247-0_3","url":"https://dblp.org/rec/series/sci/BatyrshinSH07"},
+"url":"URL#4723038"
+},
+{
+"@score":"5",
+"@id":"4723200",
+"info":{"authors":{"author":[{"@pid":"k/JanuszKacprzyk","text":"Janusz Kacprzyk"},{"@pid":"67/241","text":"Slawomir Zadrozny"}]},"title":"Towards Human-Consistent Data-Driven Decision Support Systems via Fuzzy Linguistic Data Summaries.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"37-54","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/KacprzykZ07","doi":"10.1007/978-3-540-36247-0_1","ee":"https://doi.org/10.1007/978-3-540-36247-0_1","url":"https://dblp.org/rec/series/sci/KacprzykZ07"},
+"url":"URL#4723200"
+},
+{
+"@score":"4",
+"@id":"2686835",
+"info":{"authors":{"author":[{"@pid":"24/6914","text":"Hong Zhang"},{"@pid":"22/1805","text":"Ying Li"},{"@pid":"77/9957","text":"Chuanhe Shen"},{"@pid":"134/5988","text":"Hongfeng Sun"},{"@pid":"58/1822","text":"Yanchun Yang"}]},"title":"The Application of Data Mining In Finance Industry Based on Big Data Background.","venue":"HPCC/CSS/ICESS","pages":"1536-1539","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/hpcc/ZhangLSSY15","doi":"10.1109/HPCC-CSS-ICESS.2015.198","ee":"https://doi.org/10.1109/HPCC-CSS-ICESS.2015.198","url":"https://dblp.org/rec/conf/hpcc/ZhangLSSY15"},
+"url":"URL#2686835"
+},
+{
+"@score":"4",
+"@id":"3222070",
+"info":{"authors":{"author":[{"@pid":"125/0979","text":"Darius Tamasauskas"},{"@pid":"119/6574","text":"Marius Liutvinavicius"},{"@pid":"41/3941","text":"Virgilijus Sakalauskas"},{"@pid":"11/3621","text":"Dalia Kriksciuniene"}]},"title":"Research of Conventional Data Mining Tools for Big Data Handling in Finance Institutions.","venue":"BIS","pages":"35-46","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/bis/TamasauskasLSK13","doi":"10.1007/978-3-642-41687-3_5","ee":"https://doi.org/10.1007/978-3-642-41687-3_5","url":"https://dblp.org/rec/conf/bis/TamasauskasLSK13"},
+"url":"URL#3222070"
+},
+{
+"@score":"4",
+"@id":"4723035",
+"info":{"authors":{"author":[{"@pid":"18/2176","text":"Ildar Z. Batyrshin"},{"@pid":"55/1958","text":"Raúl Herrera-Avelar"},{"@pid":"123/4977","text":"Leonid Sheremetov"},{"@pid":"81/5294","text":"Aleksandra Panova"}]},"title":"Moving Approximation Transform and Local Trend Associations inTime Series Data Bases.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"55-83","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/BatyrshinHSP07","doi":"10.1007/978-3-540-36247-0_2","ee":"https://doi.org/10.1007/978-3-540-36247-0_2","url":"https://dblp.org/rec/series/sci/BatyrshinHSP07"},
+"url":"URL#4723035"
+},
+{
+"@score":"4",
+"@id":"4723201",
+"info":{"authors":{"author":[{"@pid":"47/3681","text":"Toshihiro Kaino"},{"@pid":"20/6509","text":"Kaoru Hirota"}]},"title":"Nonstochastic Model-Based Finance Engineering.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"303-330","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/KainoH07","doi":"10.1007/978-3-540-36247-0_12","ee":"https://doi.org/10.1007/978-3-540-36247-0_12","url":"https://dblp.org/rec/series/sci/KainoH07"},
+"url":"URL#4723201"
+},
+{
+"@score":"4",
+"@id":"4723392",
+"info":{"authors":{"author":[{"@pid":"71/3314","text":"Vitaly Schetinin"},{"@pid":"58/6726","text":"Jonathan E. Fieldsend"},{"@pid":"p/DerekPartridge","text":"Derek Partridge"},{"@pid":"42/6144","text":"Wojtek J. Krzanowski"},{"@pid":"07/6331","text":"Richard M. Everson"},{"@pid":"30/5141","text":"Trevor C. Bailey"},{"@pid":"04/3323","text":"Adolfo Hernandez"}]},"title":"Estimating Classification Uncertainty of Bayesian Decision TreeTechnique on Financial Data.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"155-179","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/SchetininFPKEBH07","doi":"10.1007/978-3-540-36247-0_6","ee":"https://doi.org/10.1007/978-3-540-36247-0_6","url":"https://dblp.org/rec/series/sci/SchetininFPKEBH07"},
+"url":"URL#4723392"
+},
+{
+"@score":"3",
+"@id":"339088",
+"info":{"authors":{"author":[{"@pid":"291/1987","text":"Hongyu Shang"},{"@pid":"291/1564","text":"Duan Lu"},{"@pid":"60/7717","text":"Qingyuan Zhou"}]},"title":"Early warning of enterprise finance risk of big data mining in internet of things based on fuzzy association rules.","venue":"Neural Comput. Appl.","volume":"33","number":"9","pages":"3901-3909","year":"2021","type":"Journal Articles","access":"closed","key":"journals/nca/ShangLZ21","doi":"10.1007/S00521-020-05510-5","ee":"https://doi.org/10.1007/s00521-020-05510-5","url":"https://dblp.org/rec/journals/nca/ShangLZ21"},
+"url":"URL#339088"
+},
+{
+"@score":"3",
+"@id":"730187",
+"info":{"authors":{"author":[{"@pid":"98/217","text":"Marco Spruit"},{"@pid":"252/0848","text":"Drilon Ferati"}]},"title":"Text Mining Business Policy Documents: Applied Data Science in Finance.","venue":"Int. J. Bus. Intell. Res.","volume":"11","number":"2","pages":"1-19","year":"2020","type":"Journal Articles","access":"closed","key":"journals/ijbir/SpruitF20","doi":"10.4018/IJBIR.20200701.OA1","ee":"https://doi.org/10.4018/IJBIR.20200701.oa1","url":"https://dblp.org/rec/journals/ijbir/SpruitF20"},
+"url":"URL#730187"
+},
+{
+"@score":"3",
+"@id":"1166764",
+"info":{"authors":{"author":[{"@pid":"248/6563","text":"M. Fevzi Esen"},{"@pid":"164/0055","text":"Emrah Bilgic"},{"@pid":"248/6699","text":"Ulkem Basdas"}]},"title":"How to detect illegal corporate insider trading? A data mining approach for detecting suspicious insider transactions.","venue":"Intell. Syst. Account. Finance Manag.","volume":"26","number":"2","pages":"60-70","year":"2019","type":"Journal Articles","access":"closed","key":"journals/isafm/EsenBB19","doi":"10.1002/ISAF.1446","ee":"https://doi.org/10.1002/isaf.1446","url":"https://dblp.org/rec/journals/isafm/EsenBB19"},
+"url":"URL#1166764"
+},
+{
+"@score":"3",
+"@id":"1335248",
+"info":{"authors":{"author":[{"@pid":"98/10212","text":"Chenyu Wang"},{"@pid":"160/5976","text":"Zhongchen Miao"},{"@pid":"23/11148","text":"Yuefeng Lin"},{"@pid":"02/563","text":"Jian Gao"}]},"title":"User and Topic Hybrid Context Embedding for Finance-Related Text Data Mining.","venue":"ICDM Workshops","pages":"751-760","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdm/WangMLG19","doi":"10.1109/ICDMW.2019.00112","ee":"https://doi.org/10.1109/ICDMW.2019.00112","url":"https://dblp.org/rec/conf/icdm/WangMLG19"},
+"url":"URL#1335248"
+},
+{
+"@score":"3",
+"@id":"1514230",
+"info":{"authors":{"author":[{"@pid":"84/3419","text":"Chien-Cheng Lin"},{"@pid":"01/1471","text":"Chun-Sheng Chen"},{"@pid":"47/6336","text":"An-Pin Chen"}]},"title":"Using intelligent computing and data stream mining for behavioral finance associated with market profile and financial physics.","venue":"Appl. Soft Comput.","volume":"68","pages":"756-764","year":"2018","type":"Journal Articles","access":"closed","key":"journals/asc/LinCC18","doi":"10.1016/J.ASOC.2017.08.008","ee":"https://doi.org/10.1016/j.asoc.2017.08.008","url":"https://dblp.org/rec/journals/asc/LinCC18"},
+"url":"URL#1514230"
+},
+{
+"@score":"3",
+"@id":"2034432",
+"info":{"authors":{"author":[{"@pid":"98/9045","text":"Munir Majdalawieh"},{"@pid":"95/1864","text":"Farhi Marir"},{"@pid":"217/8585","text":"Issam Tlemsani"}]},"title":"Developing Adaptive Islamic Law Business Processes Models for Islamic Finance and Banking by Text Mining the Holy Qur&apos;an and Hadith.","venue":"DASC/PiCom/DataCom/CyberSciTech","pages":"1278-1283","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/dasc/MajdalawiehMT17","doi":"10.1109/DASC-PICOM-DATACOM-CYBERSCITEC.2017.205","ee":"https://doi.org/10.1109/DASC-PICom-DataCom-CyberSciTec.2017.205","url":"https://dblp.org/rec/conf/dasc/MajdalawiehMT17"},
+"url":"URL#2034432"
+},
+{
+"@score":"3",
+"@id":"2167113",
+"info":{"authors":{"author":[{"@pid":"92/8573","text":"Serafín Martínez-Jaramillo"},{"@pid":"60/439","text":"Tonatiuh Peña Centeno"},{"@pid":"80/3114","text":"Biliana Alexandrova-Kabadjova"}]},"title":"Evolutionary Computation in Finance.","venue":"Encyclopedia of Machine Learning and Data Mining","pages":"435-444","year":"2017","type":"Reference Works","access":"closed","key":"reference/ml/Martinez-JaramilloCA17","doi":"10.1007/978-1-4899-7687-1_88","ee":"https://doi.org/10.1007/978-1-4899-7687-1_88","url":"https://dblp.org/rec/reference/ml/Martinez-JaramilloCA17"},
+"url":"URL#2167113"
+},
+{
+"@score":"3",
+"@id":"2257104",
+"info":{"authors":{"author":{"@pid":"66/9850","text":"Salim Lahmiri"}},"title":"Features selection, data mining and finacial risk classification: a comparative study.","venue":"Intell. Syst. Account. Finance Manag.","volume":"23","number":"4","pages":"265-275","year":"2016","type":"Journal Articles","access":"closed","key":"journals/isafm/Lahmiri16","doi":"10.1002/ISAF.1395","ee":"https://doi.org/10.1002/isaf.1395","url":"https://dblp.org/rec/journals/isafm/Lahmiri16"},
+"url":"URL#2257104"
+},
+{
+"@score":"3",
+"@id":"2514806",
+"info":{"authors":{"author":{"@pid":"123/4550","text":"Joe Staines"}},"title":"Mining text and time series data with applications in finance.","year":"2015","type":"Books and Theses","access":"closed","key":"phd/ethos/Staines15","ee":"http://discovery.ucl.ac.uk/1461987/","url":"https://dblp.org/rec/phd/ethos/Staines15"},
+"url":"URL#2514806"
+},
+{
+"@score":"3",
+"@id":"2707026",
+"info":{"authors":{"author":[{"@pid":"172/9289","text":"Zhi-Wang Jiang"},{"@pid":"172/9236","text":"Hong-Xia Zhang"}]},"title":"Abnormal objective recognition in video based on data mining of finance industry.","venue":"ICMLC","pages":"838-842","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/icmlc/JiangZ15","doi":"10.1109/ICMLC.2015.7340662","ee":"https://doi.org/10.1109/ICMLC.2015.7340662","url":"https://dblp.org/rec/conf/icmlc/JiangZ15"},
+"url":"URL#2707026"
+},
+{
+"@score":"3",
+"@id":"3151001",
+"info":{"authors":{"author":[{"@pid":"34/10129","text":"Ding-Wen Tan"},{"@pid":"97/4283-2","text":"William Yeoh 0002"},{"@pid":"75/7665","text":"Yee Ling Boo"},{"@pid":"92/4025","text":"Soung-Yue Liew"}]},"title":"The Impact of Feature Selection: a Data-Mining Application in Direct Marketing.","venue":"Intell. Syst. Account. Finance Manag.","volume":"20","number":"1","pages":"23-38","year":"2013","type":"Journal Articles","access":"closed","key":"journals/isafm/TanYBL13","doi":"10.1002/ISAF.1335","ee":"https://doi.org/10.1002/isaf.1335","url":"https://dblp.org/rec/journals/isafm/TanYBL13"},
+"url":"URL#3151001"
+},
+{
+"@score":"3",
+"@id":"3308878",
+"info":{"authors":{"author":[{"@pid":"50/6759","text":"Liang Zhang"},{"@pid":"45/4933","text":"Lingling Zhang 0001"},{"@pid":"130/9976","text":"Weili Teng"},{"@pid":"99/5858","text":"Yibing Chen"}]},"title":"Based on Information Fusion Technique with Data Mining in the Application of Finance Early-Warning.","venue":"ITQM","pages":"695-703","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/itqm/ZhangZTC13","doi":"10.1016/J.PROCS.2013.05.090","ee":"https://doi.org/10.1016/j.procs.2013.05.090","url":"https://dblp.org/rec/conf/itqm/ZhangZTC13"},
+"url":"URL#3308878"
+},
+{
+"@score":"3",
+"@id":"4240767",
+"info":{"authors":{"author":[{"@pid":"91/5380","text":"Ying Su"},{"@pid":"04/7821","text":"Gongqian Peng"},{"@pid":"79/5742","text":"Zhanming Jin"}]},"title":"Assuring the Information Quality in Data Mining for a Finance Company.","venue":"FSKD","pages":"188-191","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/fskd/SuPJ09","doi":"10.1109/FSKD.2009.842","ee":"https://doi.org/10.1109/FSKD.2009.842","url":"https://dblp.org/rec/conf/fskd/SuPJ09"},
+"url":"URL#4240767"
+},
+{
+"@score":"3",
+"@id":"4251512",
+"info":{"authors":{"author":{"@pid":"81/7631","text":"Liu Xiang"}},"title":"Context-Aware Data Mining Methodology for Supply Chain Finance Cooperative Systems.","venue":"ICAS","pages":"301-306","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/icas/Xiang09","doi":"10.1109/ICAS.2009.48","ee":"https://doi.org/10.1109/ICAS.2009.48","url":"https://dblp.org/rec/conf/icas/Xiang09"},
+"url":"URL#4251512"
+},
+{
+"@score":"3",
+"@id":"4266013",
+"info":{"authors":{"author":{"@pid":"81/7631","text":"Liu Xiang"}},"title":"Integrating Context-Aware and Fuzzy Rule to Data Mining Model for Supply Chain Finance Cooperative Systems.","venue":"ICSEA","pages":"471-476","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/icsea/Xiang09","doi":"10.1109/ICSEA.2009.75","ee":"https://doi.org/10.1109/ICSEA.2009.75","url":"https://dblp.org/rec/conf/icsea/Xiang09"},
+"url":"URL#4266013"
+},
+{
+"@score":"3",
+"@id":"4342496",
+"info":{"authors":{"author":{"@pid":"203/9807","text":"Eduardo Chaves Ferreira"}},"title":"Data mining applied to the Sistema Integrado de Administração Financeira do Governo Federal SIAFI: auditing the application of federal funds.","year":"2008","type":"Books and Theses","access":"closed","key":"phd/ndltd/Ferreira08","ee":"http://www.lncc.br/tdmc/tde_busca/arquivo.php?codArquivo=163","url":"https://dblp.org/rec/phd/ndltd/Ferreira08"},
+"url":"URL#4342496"
+},
+{
+"@score":"3",
+"@id":"4469828",
+"info":{"authors":{"author":{"@pid":"31/5736","text":"Xiang Liu"}},"title":"An Agent-Based Architecture for Supply Chain Finance Cooperative Context-Aware Distributed Data Mining Systems.","venue":"ICIW","pages":"261-266","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/iciw/Liu08","doi":"10.1109/ICIW.2008.31","ee":"https://doi.org/10.1109/ICIW.2008.31","url":"https://dblp.org/rec/conf/iciw/Liu08"},
+"url":"URL#4469828"
+},
+{
+"@score":"3",
+"@id":"4533156",
+"info":{"authors":{"author":[{"@pid":"50/4846","text":"Carlos Soares"},{"@pid":"80/2725","text":"Yonghong Peng"},{"@pid":"24/438","text":"Jun Meng"},{"@pid":"w/TakashiWashio","text":"Takashi Washio"},{"@pid":"z/ZhiHuaZhou","text":"Zhi-Hua Zhou"}]},"title":"Applications of Data Mining in E-Business and Finance","venue":["DMBiz@PAKDD","Frontiers in Artificial Intelligence and Applications"],"volume":"177","publisher":"IOS Press","year":"2008","type":"Editorship","key":"conf/pakdd/2007dmbiz","ee":"http://www.booksonline.iospress.nl/Content/View.aspx?piid=9889","url":"https://dblp.org/rec/conf/pakdd/2007dmbiz"},
+"url":"URL#4533156"
+},
+{
+"@score":"3",
+"@id":"4698485",
+"info":{"authors":{"author":[{"@pid":"50/4846","text":"Carlos Soares"},{"@pid":"80/2725","text":"Yonghong Peng"},{"@pid":"24/438","text":"Jun Meng"},{"@pid":"w/TakashiWashio","text":"Takashi Washio"},{"@pid":"z/ZhiHuaZhou","text":"Zhi-Hua Zhou"}]},"title":"Applications of Data Mining in E-Business Finance: Introduction.","venue":"DMBiz@PAKDD","pages":"1-9","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/pakdd/SoaresPMWZ07","ee":"http://www.booksonline.iospress.nl/Content/View.aspx?piid=9890","url":"https://dblp.org/rec/conf/pakdd/SoaresPMWZ07"},
+"url":"URL#4698485"
+},
+{
+"@score":"3",
+"@id":"4723010",
+"info":{"authors":{"author":{"@pid":"56/248","text":"Antonio Carlos Pinto Dias Alves"}},"title":"Fuzzy Models in Credit Risk Analysis.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"353-367","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/Alves07","doi":"10.1007/978-3-540-36247-0_14","ee":"https://doi.org/10.1007/978-3-540-36247-0_14","url":"https://dblp.org/rec/series/sci/Alves07"},
+"url":"URL#4723010"
+},
+{
+"@score":"3",
+"@id":"4723025",
+"info":{"authors":{"author":[{"@pid":"96/4375","text":"Bernard De Baets"},{"@pid":"97/3699","text":"Hans E. De Meyer"}]},"title":"Toward Graded and Nongraded Variants of Stochastic Dominance.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"261-274","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/BaetsM07","doi":"10.1007/978-3-540-36247-0_10","ee":"https://doi.org/10.1007/978-3-540-36247-0_10","url":"https://dblp.org/rec/series/sci/BaetsM07"},
+"url":"URL#4723025"
+},
+{
+"@score":"3",
+"@id":"4723036",
+"info":{"authors":{"author":[{"@pid":"18/2176","text":"Ildar Z. Batyrshin"},{"@pid":"01/5310","text":"Tamas Rudas"}]},"title":"Invariant Hierarchical Clustering Schemes.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"181-206","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/BatyrshinR07","doi":"10.1007/978-3-540-36247-0_7","ee":"https://doi.org/10.1007/978-3-540-36247-0_7","url":"https://dblp.org/rec/series/sci/BatyrshinR07"},
+"url":"URL#4723036"
+},
+{
+"@score":"3",
+"@id":"4723037",
+"info":{"authors":{"author":[{"@pid":"18/2176","text":"Ildar Z. Batyrshin"},{"@pid":"123/4977","text":"Leonid Sheremetov"}]},"title":"Perception-Based Functions in Qualitative Forecasting.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"119-134","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/BatyrshinS07","doi":"10.1007/978-3-540-36247-0_4","ee":"https://doi.org/10.1007/978-3-540-36247-0_4","url":"https://dblp.org/rec/series/sci/BatyrshinS07"},
+"url":"URL#4723037"
+},
+{
+"@score":"3",
+"@id":"4723286",
+"info":{"authors":{"author":{"@pid":"52/3955","text":"Milan Mares"}},"title":"Fuzzy Components of Cooperative Markets.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"209-239","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/Mares07","doi":"10.1007/978-3-540-36247-0_8","ee":"https://doi.org/10.1007/978-3-540-36247-0_8","url":"https://dblp.org/rec/series/sci/Mares07"},
+"url":"URL#4723286"
+},
+{
+"@score":"3",
+"@id":"4723312",
+"info":{"authors":{"author":[{"@pid":"15/5089","text":"Silvia Muzzioli"},{"@pid":"54/5488","text":"Huguette Reynaerts"}]},"title":"Option Pricing in the Presence of Uncertainty.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"275-301","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/MuzzioliR07","doi":"10.1007/978-3-540-36247-0_11","ee":"https://doi.org/10.1007/978-3-540-36247-0_11","url":"https://dblp.org/rec/series/sci/MuzzioliR07"},
+"url":"URL#4723312"
+},
+{
+"@score":"3",
+"@id":"4723378",
+"info":{"authors":{"author":[{"@pid":"80/5723","text":"Luis E. Rocha-Mier"},{"@pid":"123/4977","text":"Leonid Sheremetov"},{"@pid":"59/3653","text":"Francisco Villarreal"}]},"title":"Collective Intelligence in Multiagent Systems: Interbank PaymentSystems Application.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"331-351","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/Rocha-MierSV07","doi":"10.1007/978-3-540-36247-0_13","ee":"https://doi.org/10.1007/978-3-540-36247-0_13","url":"https://dblp.org/rec/series/sci/Rocha-MierSV07"},
+"url":"URL#4723378"
+},
+{
+"@score":"3",
+"@id":"4723382",
+"info":{"authors":{"author":{"@pid":"93/76","text":"Dymitr Ruta"}},"title":"Towards Automated Share Investment System.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"135-153","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/Ruta07","doi":"10.1007/978-3-540-36247-0_5","ee":"https://doi.org/10.1007/978-3-540-36247-0_5","url":"https://dblp.org/rec/series/sci/Ruta07"},
+"url":"URL#4723382"
+},
+{
+"@score":"3",
+"@id":"4723486",
+"info":{"authors":{"author":{"@pid":"10/229","text":"Alexander V. Yazenin"}},"title":"Possibilistic-Probabilistic Models and Methods of Portfolio Optimization.","venue":"Perception-based Data Mining and Decision Making in Economics and Finance","pages":"241-259","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/Yazenin07","doi":"10.1007/978-3-540-36247-0_9","ee":"https://doi.org/10.1007/978-3-540-36247-0_9","url":"https://dblp.org/rec/series/sci/Yazenin07"},
+"url":"URL#4723486"
+},
+{
+"@score":"3",
+"@id":"4725390",
+"info":{"authors":{"author":[{"@pid":"18/2176","text":"Ildar Z. Batyrshin"},{"@pid":"k/JanuszKacprzyk","text":"Janusz Kacprzyk"},{"@pid":"123/4977","text":"Leonid Sheremetov"},{"@pid":"z/LAZadeh","text":"Lotfi A. Zadeh"}]},"title":"Perception-based Data Mining and Decision Making in Economics and Finance","venue":"Studies in Computational Intelligence","volume":"36","publisher":"Springer","year":"2007","type":"Editorship","access":"unavailable","key":"series/sci/2007-36","url":"https://dblp.org/rec/series/sci/2007-36"},
+"url":"URL#4725390"
+},
+{
+"@score":"3",
+"@id":"4761937",
+"info":{"authors":{"author":[{"@pid":"56/6066","text":"Chen-Fu Chien"},{"@pid":"38/6702","text":"Huan-Chung Li"},{"@pid":"89/4382","text":"Angus Jeang"}]},"title":"Data mining for improving the solder bumping process in the semiconductor packaging industry.","venue":"Intell. Syst. Account. Finance Manag.","volume":"14","number":"1-2","pages":"43-57","year":"2006","type":"Journal Articles","access":"closed","key":"journals/isafm/ChienLJ06","doi":"10.1002/ISAF.273","ee":"https://doi.org/10.1002/isaf.273","url":"https://dblp.org/rec/journals/isafm/ChienLJ06"},
+"url":"URL#4761937"
+},
+{
+"@score":"3",
+"@id":"4932948",
+"info":{"authors":{"author":{"@pid":"k/AshwaniKumar","text":"Ashwani Kumar"}},"title":"Interpretability and mean-square error performance of fuzzy inference systems For Data Mining.","venue":"Intell. Syst. Account. Finance Manag.","volume":"13","number":"4","pages":"185-196","year":"2005","type":"Journal Articles","access":"closed","key":"journals/isafm/Kumar05","doi":"10.1002/ISAF.263","ee":"https://doi.org/10.1002/isaf.263","url":"https://dblp.org/rec/journals/isafm/Kumar05"},
+"url":"URL#4932948"
+},
+{
+"@score":"3",
+"@id":"5084918",
+"info":{"authors":{"author":[{"@pid":"61/6631","text":"Antonina Kloptchenko"},{"@pid":"64/6206","text":"Tomas Eklund"},{"@pid":"90/320-4","text":"Jonas Karlsson 0004"},{"@pid":"84/5419","text":"Barbro Back"},{"@pid":"06/2775","text":"Hannu Vanharanta"},{"@pid":"93/2553","text":"Ari Visa"}]},"title":"Combining data and text mining techniques for analysing financial reports.","venue":"Intell. Syst. Account. Finance Manag.","volume":"12","number":"1","pages":"29-41","year":"2004","type":"Journal Articles","access":"closed","key":"journals/isafm/KloptchenkoEKBVV04","doi":"10.1002/ISAF.239","ee":"https://doi.org/10.1002/isaf.239","url":"https://dblp.org/rec/journals/isafm/KloptchenkoEKBVV04"},
+"url":"URL#5084918"
+},
+{
+"@score":"3",
+"@id":"5422045",
+"info":{"authors":{"author":{"@pid":"97/1910","text":"Krzysztof J. Cios"}},"title":"Data Mining in Finance: Advances in Relational and Hybrid Methods. Boris Kovalerchuk and Evgenii Vityaev, Kluwer, Dordrecht, 2000, 308 pp., ISBN 0-7923-7804-0.","venue":"Neurocomputing","volume":"36","number":"1-4","pages":"245-246","year":"2001","type":"Journal Articles","access":"closed","key":"journals/ijon/Cios01a","doi":"10.1016/S0925-2312(00)00356-8","ee":"https://doi.org/10.1016/S0925-2312(00)00356-8","url":"https://dblp.org/rec/journals/ijon/Cios01a"},
+"url":"URL#5422045"
+},
+{
+"@score":"3",
+"@id":"5423969",
+"info":{"authors":{"author":[{"@pid":"72/4986","text":"Randall S. Sexton"},{"@pid":"67/3915","text":"Naheel A. Sikander"}]},"title":"Data mining using a genetic algorithm-trained neural network.","venue":"Intell. Syst. Account. Finance Manag.","volume":"10","number":"4","pages":"201-210","year":"2001","type":"Journal Articles","access":"closed","key":"journals/isafm/SextonS01","doi":"10.1002/ISAF.205","ee":"https://doi.org/10.1002/isaf.205","url":"https://dblp.org/rec/journals/isafm/SextonS01"},
+"url":"URL#5423969"
+},
+{
+"@score":"3",
+"@id":"5423973",
+"info":{"authors":{"author":[{"@pid":"59/9570","text":"Zoran Vojinovic 0002"},{"@pid":"62/3062","text":"Vojislav Kecman"},{"@pid":"71/3627","text":"Rainer Seidel"}]},"title":"A data mining approach to financial time series modelling and forecasting.","venue":"Intell. Syst. Account. Finance Manag.","volume":"10","number":"4","pages":"225-239","year":"2001","type":"Journal Articles","access":"closed","key":"journals/isafm/VojinovicKS01","doi":"10.1002/ISAF.207","ee":"https://doi.org/10.1002/isaf.207","url":"https://dblp.org/rec/journals/isafm/VojinovicKS01"},
+"url":"URL#5423973"
+},
+{
+"@score":"3",
+"@id":"5444333",
+"info":{"authors":{"author":[{"@pid":"52/2478","text":"Hans C. Jessen"},{"@pid":"55/2039","text":"Georgios Paliouras"}]},"title":"Data Mining in Economics, Finance, and Marketing.","venue":"Machine Learning and Its Applications","pages":"295-299","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/ac/JessenP01","doi":"10.1007/3-540-44673-7_18","ee":"https://doi.org/10.1007/3-540-44673-7_18","url":"https://dblp.org/rec/conf/ac/JessenP01"},
+"url":"URL#5444333"
+},
+{
+"@score":"3",
+"@id":"5511695",
+"info":{"authors":{"author":{"@pid":"64/6841","text":"Steven H. Kim"}},"title":"An Architecture for Advanced Services in Cyberspace Through Data Mining: A Framework With Case Studies in Finance and Engineering.","venue":"J. Organ. Comput. Electron. Commer.","volume":"10","number":"4","pages":"257-270","year":"2000","type":"Journal Articles","access":"closed","key":"journals/jocec/Kim00","doi":"10.1207/S15327744JOCE1004_04","ee":"https://doi.org/10.1207/S15327744JOCE1004_04","url":"https://dblp.org/rec/journals/jocec/Kim00"},
+"url":"URL#5511695"
+},
+{
+"@score":"3",
+"@id":"5655159",
+"info":{"authors":{"author":{"@pid":"12/4193","text":"Vasant Dhar"}},"title":"Data Mining in Finance: Using Counterfactuals to Generate Knowledge from Organizational Information Systems.","venue":"Inf. Syst.","volume":"23","number":"7","pages":"423-437","year":"1998","type":"Journal Articles","access":"closed","key":"journals/is/Dhar98","doi":"10.1016/S0306-4379(98)00021-0","ee":"https://doi.org/10.1016/S0306-4379(98)00021-0","url":"https://dblp.org/rec/journals/is/Dhar98"},
+"url":"URL#5655159"
+},
+{
+"@score":"3",
+"@id":"5655189",
+"info":{"authors":{"author":[{"@pid":"03/9574","text":"Sharon Kay Heatley"},{"@pid":"17/7524","text":"James R. Otto"}]},"title":"Data mining computer audit logs to detect computer misuse.","venue":"Intell. Syst. Account. Finance Manag.","volume":"7","number":"3","pages":"125-134","year":"1998","type":"Journal Articles","access":"closed","key":"journals/isafm/HeatleyO98","doi":"10.1002/(SICI)1099-1174(199809)7:3&lt;125::AID-ISAF146&gt;3.0.CO;2-L","ee":"https://doi.org/10.1002/(SICI)1099-1174(199809)7:3&lt;125::AID-ISAF146&gt;3.0.CO;2-L","url":"https://dblp.org/rec/journals/isafm/HeatleyO98"},
+"url":"URL#5655189"
+}
+]
+}
+}
+}

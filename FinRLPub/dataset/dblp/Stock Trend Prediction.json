@@ -1,0 +1,683 @@
+{
+"result":{
+"query":"stock* trend* prediction*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"16.68"
+},
+"completions":{
+"@total":"2",
+"@computed":"2",
+"@sent":"2",
+"c":[
+{
+"@sc":"105",
+"@dc":"104",
+"@oc":"105",
+"@id":"46899141",
+"text":"prediction"
+},
+{
+"@sc":"3",
+"@dc":"3",
+"@oc":"3",
+"@id":"46899150",
+"text":"predictions"
+}
+]
+},
+"hits":{
+"@total":"107",
+"@computed":"107",
+"@sent":"107",
+"@first":"0",
+"hit":[{
+"@score":"4",
+"@id":"688440",
+"info":{"authors":{"author":[{"@pid":"248/6494","text":"Jiawei Long"},{"@pid":"63/8729","text":"Zhaopeng Chen"},{"@pid":"267/1750","text":"Weibing He"},{"@pid":"267/1860","text":"Taiyu Wu"},{"@pid":"24/117","text":"Jiangtao Ren"}]},"title":"An integrated framework of deep learning and knowledge graph for prediction of stock price trend: An application in Chinese stock exchange market.","venue":"Appl. Soft Comput.","volume":"91","pages":"106205","year":"2020","type":"Journal Articles","access":"closed","key":"journals/asc/LongCHWR20","doi":"10.1016/J.ASOC.2020.106205","ee":"https://doi.org/10.1016/j.asoc.2020.106205","url":"https://dblp.org/rec/journals/asc/LongCHWR20"},
+"url":"URL#688440"
+},
+{
+"@score":"4",
+"@id":"1381339",
+"info":{"authors":{"author":[{"@pid":"21/1794","text":"Chi Chen"},{"@pid":"97/4708-7","text":"Li Zhao 0007"},{"@pid":"09/851-2","text":"Jiang Bian 0002"},{"@pid":"x/ChunxiaoXing","text":"Chunxiao Xing"},{"@pid":"l/TieYanLiu","text":"Tie-Yan Liu"}]},"title":"Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction.","venue":"KDD","pages":"2376-2384","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/kdd/ChenZBXL19","doi":"10.1145/3292500.3330663","ee":"https://doi.org/10.1145/3292500.3330663","url":"https://dblp.org/rec/conf/kdd/ChenZBXL19"},
+"url":"URL#1381339"
+},
+{
+"@score":"4",
+"@id":"1753476",
+"info":{"authors":{"author":[{"@pid":"59/3260","text":"Heng Liu"},{"@pid":"134/9712","text":"Bowen Song"}]},"title":"Stock Price Trend Prediction Model Based on Deep Residual Network and Stock Price Graph.","venue":"ISCID","pages":"328-331","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/iscid/LiuS18","doi":"10.1109/ISCID.2018.10176","ee":"https://doi.org/10.1109/ISCID.2018.10176","url":"https://dblp.org/rec/conf/iscid/LiuS18"},
+"url":"URL#1753476"
+},
+{
+"@score":"4",
+"@id":"3800849",
+"info":{"authors":{"author":[{"@pid":"72/10703","text":"Maha Mahmoud Abd ElAal"},{"@pid":"18/10703","text":"Gamal Selim"},{"@pid":"20/6565","text":"Waleed Fakhr"}]},"title":"Stock Market Trend Prediction Model for the Egyptian Stock Market Using Neural Networks and Fuzzy Logic.","venue":"ICIC","pages":"85-90","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/icic/ElAalSF11","doi":"10.1007/978-3-642-24553-4_13","ee":"https://doi.org/10.1007/978-3-642-24553-4_13","url":"https://dblp.org/rec/conf/icic/ElAalSF11"},
+"url":"URL#3800849"
+},
+{
+"@score":"4",
+"@id":"4466970",
+"info":{"authors":{"author":{"@pid":"154/2325","text":"Pritam Radheshyam Charkha"}},"title":"Stock Price Prediction and Trend Prediction Using Neural Networks.","venue":"ICETET","pages":"592-594","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/icetet/Charkha08","doi":"10.1109/ICETET.2008.223","ee":"https://doi.org/10.1109/ICETET.2008.223","url":"https://dblp.org/rec/conf/icetet/Charkha08"},
+"url":"URL#4466970"
+},
+{
+"@score":"3",
+"@id":"42889",
+"info":{"authors":{"author":[{"@pid":"31/1762","text":"Chun-Hao Chen"},{"@pid":"317/9336","text":"Po-Yeh Chen"},{"@pid":"41/912","text":"Jerry Chun-Wei Lin"}]},"title":"An Ensemble Classifier for Stock Trend Prediction Using Sentence-Level Chinese News Sentiment and Technical Indicators.","venue":"Int. J. Interact. Multim. Artif. Intell.","volume":"7","number":"3","pages":"53","year":"2022","type":"Journal Articles","access":"open","key":"journals/ijimai/ChenCL22","doi":"10.9781/IJIMAI.2022.02.004","ee":"https://doi.org/10.9781/ijimai.2022.02.004","url":"https://dblp.org/rec/journals/ijimai/ChenCL22"},
+"url":"URL#42889"
+},
+{
+"@score":"3",
+"@id":"57696",
+"info":{"authors":{"author":[{"@pid":"319/5553","text":"Siddhant Sinha"},{"@pid":"305/4757","text":"Shambhavi Mishra"},{"@pid":"138/1219","text":"Vipul Kumar Mishra"},{"@pid":"57/11428","text":"Tanveer Ahmed"}]},"title":"Sector influence aware stock trend prediction using 3D convolutional neural network.","venue":"J. King Saud Univ. Comput. Inf. Sci.","volume":"34","number":"4","pages":"1511-1522","year":"2022","type":"Journal Articles","access":"open","key":"journals/jksucis/SinhaMMA22","doi":"10.1016/J.JKSUCI.2022.02.008","ee":"https://doi.org/10.1016/j.jksuci.2022.02.008","url":"https://dblp.org/rec/journals/jksucis/SinhaMMA22"},
+"url":"URL#57696"
+},
+{
+"@score":"3",
+"@id":"87437",
+"info":{"authors":{"author":[{"@pid":"16/1041","text":"Yue Qiu"},{"@pid":"314/4872","text":"Zhewei Song"},{"@pid":"160/5999-1","text":"Zhensong Chen 0001"}]},"title":"Short-term stock trends prediction based on sentiment analysis and machine learning.","venue":"Soft Comput.","volume":"26","number":"5","pages":"2209-2224","year":"2022","type":"Journal Articles","access":"closed","key":"journals/soco/QiuSC22","doi":"10.1007/S00500-021-06602-7","ee":"https://doi.org/10.1007/s00500-021-06602-7","url":"https://dblp.org/rec/journals/soco/QiuSC22"},
+"url":"URL#87437"
+},
+{
+"@score":"3",
+"@id":"230050",
+"info":{"authors":{"author":[{"@pid":"161/4426","text":"Yaohu Lin"},{"@pid":"02/7650","text":"Shancun Liu"},{"@pid":"68/854","text":"Haijun Yang"},{"@pid":"64/2928","text":"Harris Wu"}]},"title":"Stock Trend Prediction Using Candlestick Charting and Ensemble Machine Learning Techniques With a Novelty Feature Engineering Scheme.","venue":"IEEE Access","volume":"9","pages":"101433-101446","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/LinLYW21","doi":"10.1109/ACCESS.2021.3096825","ee":"https://doi.org/10.1109/ACCESS.2021.3096825","url":"https://dblp.org/rec/journals/access/LinLYW21"},
+"url":"URL#230050"
+},
+{
+"@score":"3",
+"@id":"256489",
+"info":{"authors":{"author":[{"@pid":"313/7561","text":"Bailin Lv"},{"@pid":"132/8904","text":"Yizhang Jiang"}]},"title":"Prediction of Short-Term Stock Price Trend Based on Multiview RBF Neural Network.","venue":"Comput. Intell. Neurosci.","volume":"2021","pages":"8495288:1-8495288:13","year":"2021","type":"Journal Articles","access":"open","key":"journals/cin/LvJ21","doi":"10.1155/2021/8495288","ee":"https://doi.org/10.1155/2021/8495288","url":"https://dblp.org/rec/journals/cin/LvJ21"},
+"url":"URL#256489"
+},
+{
+"@score":"3",
+"@id":"297856",
+"info":{"authors":{"author":[{"@pid":"313/1358","text":"Pradeepta Kumar Sarangi"},{"@pid":"232/8601","text":"Kalpna Guleria"},{"@pid":"185/3837","text":"Devendra Prasad"},{"@pid":"289/6879","text":"Deepak Kumar Verma"}]},"title":"Stock movement prediction using neuro genetic hybrid approach and impact on growth trend due to COVID-19.","venue":"Int. J. Netw. Virtual Organisations","volume":"25","number":"3/4","pages":"333-352","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ijnvo/SarangiGPV21","doi":"10.1504/IJNVO.2021.120172","ee":"https://doi.org/10.1504/IJNVO.2021.120172","url":"https://dblp.org/rec/journals/ijnvo/SarangiGPV21"},
+"url":"URL#297856"
+},
+{
+"@score":"3",
+"@id":"303781",
+"info":{"authors":{"author":[{"@pid":"296/8303","text":"Kittisak Prachyachuwong"},{"@pid":"59/3496","text":"Peerapon Vateekul"}]},"title":"Stock Trend Prediction Using Deep Learning Approach on Technical Indicator and Industrial Specific Information.","venue":"Inf.","volume":"12","number":"6","pages":"250","year":"2021","type":"Journal Articles","access":"open","key":"journals/information/PrachyachuwongV21","doi":"10.3390/INFO12060250","ee":"https://doi.org/10.3390/info12060250","url":"https://dblp.org/rec/journals/information/PrachyachuwongV21"},
+"url":"URL#303781"
+},
+{
+"@score":"3",
+"@id":"307200",
+"info":{"authors":{"author":[{"@pid":"c/WeiChen-61","text":"Wei Chen 0061"},{"@pid":"262/7404","text":"Manrui Jiang"},{"@pid":"33/301","text":"Wei-Guo Zhang"},{"@pid":"160/5999-1","text":"Zhensong Chen 0001"}]},"title":"A novel graph convolutional feature based convolutional neural network for stock trend prediction.","venue":"Inf. Sci.","volume":"556","pages":"67-94","year":"2021","type":"Journal Articles","access":"closed","key":"journals/isci/ChenJZ021","doi":"10.1016/J.INS.2020.12.068","ee":"https://doi.org/10.1016/j.ins.2020.12.068","url":"https://dblp.org/rec/journals/isci/ChenJZ021"},
+"url":"URL#307200"
+},
+{
+"@score":"3",
+"@id":"310780",
+"info":{"authors":{"author":[{"@pid":"11/8078","text":"Jinghua Zhao"},{"@pid":"150/7317","text":"Da-Lin Zeng"},{"@pid":"20/1080","text":"Shuang Liang"},{"@pid":"277/5404","text":"Huilin Kang"},{"@pid":"164/4376","text":"Qinming Liu"}]},"title":"Prediction model for stock price trend based on recurrent neural network.","venue":"J. Ambient Intell. Humaniz. Comput.","volume":"12","number":"1","pages":"745-753","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jaihc/ZhaoZLKL21","doi":"10.1007/S12652-020-02057-0","ee":"https://doi.org/10.1007/s12652-020-02057-0","url":"https://dblp.org/rec/journals/jaihc/ZhaoZLKL21"},
+"url":"URL#310780"
+},
+{
+"@score":"3",
+"@id":"328620",
+"info":{"authors":{"author":[{"@pid":"22/9939","text":"Yusheng Huang"},{"@pid":"76/8471","text":"Xiaoyan Mao"},{"@pid":"66/3604-1","text":"Yong Deng 0001"}]},"title":"Natural visibility encoding for time series and its application in stock trend prediction.","venue":"Knowl. Based Syst.","volume":"232","pages":"107478","year":"2021","type":"Journal Articles","access":"closed","key":"journals/kbs/HuangMD21","doi":"10.1016/J.KNOSYS.2021.107478","ee":"https://doi.org/10.1016/j.knosys.2021.107478","url":"https://dblp.org/rec/journals/kbs/HuangMD21"},
+"url":"URL#328620"
+},
+{
+"@score":"3",
+"@id":"339155",
+"info":{"authors":{"author":[{"@pid":"162/5712","text":"Ankit Thakkar"},{"@pid":"28/1282","text":"Dhaval Patel"},{"@pid":"232/7564","text":"Preet Shah"}]},"title":"Pearson Correlation Coefficient-based performance enhancement of Vanilla Neural Network for stock trend prediction.","venue":"Neural Comput. Appl.","volume":"33","number":"24","pages":"16985-17000","year":"2021","type":"Journal Articles","access":"closed","key":"journals/nca/ThakkarPS21","doi":"10.1007/S00521-021-06290-2","ee":"https://doi.org/10.1007/s00521-021-06290-2","url":"https://dblp.org/rec/journals/nca/ThakkarPS21"},
+"url":"URL#339155"
+},
+{
+"@score":"3",
+"@id":"412390",
+"info":{"authors":{"author":[{"@pid":"293/5886","text":"Huihui Ni"},{"@pid":"49/11315","text":"Shuting Wang"},{"@pid":"76/185-3","text":"Peng Cheng 0003"}]},"title":"A hybrid approach for stock trend prediction based on tweets embedding and historical prices.","venue":"World Wide Web","volume":"24","number":"3","pages":"849-868","year":"2021","type":"Journal Articles","access":"closed","key":"journals/www/NiWC21","doi":"10.1007/S11280-021-00880-9","ee":"https://doi.org/10.1007/s11280-021-00880-9","url":"https://dblp.org/rec/journals/www/NiWC21"},
+"url":"URL#412390"
+},
+{
+"@score":"3",
+"@id":"441371",
+"info":{"authors":{"author":[{"@pid":"15/6301","text":"Min Hou"},{"@pid":"97/2966-8","text":"Chang Xu 0008"},{"@pid":"51/3710","text":"Yang Liu"},{"@pid":"127/2089","text":"Weiqing Liu"},{"@pid":"09/851-2","text":"Jiang Bian 0002"},{"@pid":"121/4234","text":"Le Wu"},{"@pid":"43/3166","text":"Zhi Li"},{"@pid":"07/258","text":"Enhong Chen"},{"@pid":"l/TieYanLiu","text":"Tie-Yan Liu"}]},"title":"Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion.","venue":"CIKM","pages":"700-709","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cikm/Hou0LL0WLCL21","doi":"10.1145/3459637.3482483","ee":"https://doi.org/10.1145/3459637.3482483","url":"https://dblp.org/rec/conf/cikm/Hou0LL0WLCL21"},
+"url":"URL#441371"
+},
+{
+"@score":"3",
+"@id":"485324",
+"info":{"authors":{"author":[{"@pid":"317/9121","text":"Boyi Wan"},{"@pid":"14/4412","text":"Yun Shen"}]},"title":"Stock Trend Prediction of Communication Industry Based on LSTM Neural Network Algorithm and Research of Industry Development Strategy: - A Case Study of Zhongxing Telecommunication Equipment Corporation.","venue":"ICCMB","pages":"102-106","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccmb/WanS21","doi":"10.1145/3450588.3450606","ee":"https://doi.org/10.1145/3450588.3450606","url":"https://dblp.org/rec/conf/iccmb/WanS21"},
+"url":"URL#485324"
+},
+{
+"@score":"3",
+"@id":"511590",
+"info":{"authors":{"author":[{"@pid":"303/7108","text":"Vasilis Karlis"},{"@pid":"131/7137","text":"Katerina Lepenioti"},{"@pid":"150/0318","text":"Alexandros Bousdekis"},{"@pid":"m/GMentzas","text":"Gregoris Mentzas"}]},"title":"Stock Trend Prediction by Fusing Prices and Indices with LSTM Neural Networks.","venue":"IISA","pages":"1-7","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/iisa/KarlisLBM21","doi":"10.1109/IISA52424.2021.9555506","ee":"https://doi.org/10.1109/IISA52424.2021.9555506","url":"https://dblp.org/rec/conf/iisa/KarlisLBM21"},
+"url":"URL#511590"
+},
+{
+"@score":"3",
+"@id":"512385",
+"info":{"authors":{"author":[{"@pid":"118/7237","text":"Heyuan Wang"},{"@pid":"12/5028","text":"Shun Li"},{"@pid":"39/1084-3","text":"Tengjiao Wang 0003"},{"@pid":"243/2336","text":"Jiayi Zheng"}]},"title":"Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction.","venue":"IJCAI","pages":"3691-3698","year":"2021","type":"Conference and Workshop Papers","access":"open","key":"conf/ijcai/WangL0Z21","doi":"10.24963/IJCAI.2021/508","ee":"https://doi.org/10.24963/ijcai.2021/508","url":"https://dblp.org/rec/conf/ijcai/WangL0Z21"},
+"url":"URL#512385"
+},
+{
+"@score":"3",
+"@id":"530305",
+"info":{"authors":{"author":[{"@pid":"03/2326","text":"Jenq-Haur Wang"},{"@pid":"315/9804","text":"Hsin-Wen Liu"}]},"title":"A Deep Fusion Model Combining News Content and Historical Prices for Stock Trend Prediction.","venue":"JSAI","pages":"13-26","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/jsai/WangL21","doi":"10.1007/978-3-030-96451-1_2","ee":"https://doi.org/10.1007/978-3-030-96451-1_2","url":"https://dblp.org/rec/conf/jsai/WangL21"},
+"url":"URL#530305"
+},
+{
+"@score":"3",
+"@id":"532112",
+"info":{"authors":{"author":[{"@pid":"299/7155","text":"Xuerui Lv"},{"@pid":"89/5992-4","text":"Li Zhang 0004"}]},"title":"Residual Gated Recurrent Unit-Based Stacked Network for Stock Trend Prediction from Limit Order Book.","venue":"KSEM","pages":"351-363","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/ksem/LvZ21","doi":"10.1007/978-3-030-82147-0_29","ee":"https://doi.org/10.1007/978-3-030-82147-0_29","url":"https://dblp.org/rec/conf/ksem/LvZ21"},
+"url":"URL#532112"
+},
+{
+"@score":"3",
+"@id":"556763",
+"info":{"authors":{"author":[{"@pid":"05/11437","text":"Hongyu Jiang"},{"@pid":"27/3203","text":"Chunyang Ye"},{"@pid":"298/9181","text":"Shanyan Lai"},{"@pid":"55/1832","text":"Hui Zhou"}]},"title":"Event Attention Network for Stock Trend Prediction.","venue":"ICSS","pages":"70-75","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/service/JiangYLZ21","doi":"10.1109/ICSS53362.2021.00019","ee":"https://doi.org/10.1109/ICSS53362.2021.00019","url":"https://dblp.org/rec/conf/service/JiangYLZ21"},
+"url":"URL#556763"
+},
+{
+"@score":"3",
+"@id":"560842",
+"info":{"authors":{"author":[{"@pid":"98/709","text":"Shin-Hung Chang"},{"@pid":"293/8308","text":"Cheng-Wen Hsu"},{"@pid":"293/8421","text":"Hsing-Ying Li"},{"@pid":"120/6786","text":"Wei-Sheng Zeng"},{"@pid":"89/1350","text":"Jan-Ming Ho"}]},"title":"Short-Term Stock Price-Trend Prediction Using Meta-Learning.","venue":"SMC","pages":"2900-2905","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/smc/ChangHLZH21","doi":"10.1109/SMC52423.2021.9658607","ee":"https://doi.org/10.1109/SMC52423.2021.9658607","url":"https://dblp.org/rec/conf/smc/ChangHLZH21"},
+"url":"URL#560842"
+},
+{
+"@score":"3",
+"@id":"561361",
+"info":{"authors":{"author":[{"@pid":"298/9181","text":"Shanyan Lai"},{"@pid":"27/3203","text":"Chunyang Ye"},{"@pid":"05/11437","text":"Hongyu Jiang"},{"@pid":"55/1832","text":"Hui Zhou"}]},"title":"Chinese stock trend prediction based on multi-feature learning and model fusion.","venue":"SMDS","pages":"18-23","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/smds/LaiYJZ21","doi":"10.1109/SMDS53860.2021.00013","ee":"https://doi.org/10.1109/SMDS53860.2021.00013","url":"https://dblp.org/rec/conf/smds/LaiYJZ21"},
+"url":"URL#561361"
+},
+{
+"@score":"3",
+"@id":"610458",
+"info":{"authors":{"author":[{"@pid":"98/709","text":"Shin-Hung Chang"},{"@pid":"293/8308","text":"Cheng-Wen Hsu"},{"@pid":"293/8421","text":"Hsing-Ying Li"},{"@pid":"120/6786","text":"Wei-Sheng Zeng"},{"@pid":"89/1350","text":"Jan-Ming Ho"}]},"title":"Short-Term Stock Price-Trend Prediction Using Meta-Learning.","venue":"CoRR","volume":"abs/2105.13599","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2105-13599","ee":"https://arxiv.org/abs/2105.13599","url":"https://dblp.org/rec/journals/corr/abs-2105-13599"},
+"url":"URL#610458"
+},
+{
+"@score":"3",
+"@id":"624527",
+"info":{"authors":{"author":[{"@pid":"23/8313","text":"Chaoran Cui"},{"@pid":"85/6319","text":"Xiaojie Li"},{"@pid":"10/1178","text":"Juan Du"},{"@pid":"153/0702","text":"Chunyun Zhang"},{"@pid":"03/8117","text":"Xiushan Nie"},{"@pid":"93/6765","text":"Meng Wang"},{"@pid":"94/458","text":"Yilong Yin"}]},"title":"Temporal-Relational Hypergraph Tri-Attention Networks for Stock Trend Prediction.","venue":"CoRR","volume":"abs/2107.14033","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2107-14033","ee":"https://arxiv.org/abs/2107.14033","url":"https://dblp.org/rec/journals/corr/abs-2107-14033"},
+"url":"URL#624527"
+},
+{
+"@score":"3",
+"@id":"659658",
+"info":{"title":"Stock market analysis using candlestick regression and market trend prediction (CKRM).","venue":"J. Ambient Intell. Humaniz. Comput.","volume":"12","number":"5","pages":"4819-4826","year":"2021","type":"Withdrawn Items","access":"withdrawn","key":"journals/jaihc/AnanthiV21","doi":"10.1007/S12652-020-01892-5","ee":"https://doi.org/10.1007/s12652-020-01892-5","url":"https://dblp.org/rec/journals/jaihc/AnanthiV21"},
+"url":"URL#659658"
+},
+{
+"@score":"3",
+"@id":"704926",
+"info":{"authors":{"author":[{"@pid":"69/10238","text":"Xiao Teng"},{"@pid":"22/1899","text":"Tuo Wang"},{"@pid":"91/4353-8","text":"Xiang Zhang 0008"},{"@pid":"124/2136","text":"Long Lan"},{"@pid":"02/2039","text":"Zhigang Luo"}]},"title":"Enhancing Stock Price Trend Prediction via a Time-Sensitive Data Augmentation Method.","venue":"Complex.","volume":"2020","pages":"6737951:1-6737951:8","year":"2020","type":"Journal Articles","access":"open","key":"journals/complexity/TengWZLL20","doi":"10.1155/2020/6737951","ee":"https://doi.org/10.1155/2020/6737951","url":"https://dblp.org/rec/journals/complexity/TengWZLL20"},
+"url":"URL#704926"
+},
+{
+"@score":"3",
+"@id":"751415",
+"info":{"authors":{"author":[{"@pid":"201/0736","text":"Jingyi Shen"},{"@pid":"47/5921","text":"M. Omair Shafiq"}]},"title":"Short-term stock market price trend prediction using a comprehensive deep learning system.","venue":"J. Big Data","volume":"7","number":"1","pages":"66","year":"2020","type":"Journal Articles","access":"open","key":"journals/jbd/ShenS20","doi":"10.1186/S40537-020-00333-6","ee":"https://doi.org/10.1186/s40537-020-00333-6","url":"https://dblp.org/rec/journals/jbd/ShenS20"},
+"url":"URL#751415"
+},
+{
+"@score":"3",
+"@id":"758631",
+"info":{"authors":{"author":[{"@pid":"32/4253","text":"Hongbo Lin"},{"@pid":"11/8078","text":"Jinghua Zhao"},{"@pid":"20/1080","text":"Shuang Liang"},{"@pid":"277/5404","text":"Huilin Kang"}]},"title":"Prediction model for stock price trend based on convolution neural network.","venue":"J. Intell. Fuzzy Syst.","volume":"39","number":"4","pages":"4999-5008","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jifs/LinZLK20","doi":"10.3233/JIFS-179985","ee":"https://doi.org/10.3233/JIFS-179985","url":"https://dblp.org/rec/journals/jifs/LinZLK20"},
+"url":"URL#758631"
+},
+{
+"@score":"3",
+"@id":"907772",
+"info":{"authors":{"author":[{"@pid":"60/6198-2","text":"Feng Wei 0002"},{"@pid":"51/635","text":"Uyen Trang Nguyen"}]},"title":"Stock Trend Prediction using Financial Market News and BERT.","venue":"KDIR","pages":"325-332","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ic3k/0002N20","doi":"10.5220/0010172103250332","ee":"https://doi.org/10.5220/0010172103250332","url":"https://dblp.org/rec/conf/ic3k/0002N20"},
+"url":"URL#907772"
+},
+{
+"@score":"3",
+"@id":"911778",
+"info":{"authors":{"author":[{"@pid":"284/2893","text":"Mingze Shi"},{"@pid":"51/1660","text":"Qiangfu Zhao"}]},"title":"Stock Market Trend Prediction and Investment Strategy by Deep Neural Networks.","venue":"iCAST","pages":"1-6","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icawst/ShiZ20","doi":"10.1109/ICAST51195.2020.9319488","ee":"https://doi.org/10.1109/iCAST51195.2020.9319488","url":"https://dblp.org/rec/conf/icawst/ShiZ20"},
+"url":"URL#911778"
+},
+{
+"@score":"3",
+"@id":"912073",
+"info":{"authors":{"author":[{"@pid":"202/9329","text":"Jiannan Chen"},{"@pid":"13/1151","text":"Junping Du"},{"@pid":"116/7294","text":"Zhe Xue"},{"@pid":"223/2313","text":"Feifei Kou"}]},"title":"Prediction of Financial Big Data Stock Trends Based on Attention Mechanism.","venue":"ICKG","pages":"152-156","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icbk/ChenDXK20","doi":"10.1109/ICBK50248.2020.00031","ee":"https://doi.org/10.1109/ICBK50248.2020.00031","url":"https://dblp.org/rec/conf/icbk/ChenDXK20"},
+"url":"URL#912073"
+},
+{
+"@score":"3",
+"@id":"942514",
+"info":{"authors":{"author":[{"@pid":"04/8808-7","text":"Guang Liu 0007"},{"@pid":"206/8835","text":"Yuzhao Mao"},{"@pid":"05/4187","text":"Qi Sun"},{"@pid":"07/6870","text":"Hailong Huang"},{"@pid":"07/2810","text":"Weiguo Gao"},{"@pid":"64/5016","text":"Xuan Li"},{"@pid":"99/1208","text":"Jianping Shen"},{"@pid":"60/5628","text":"Ruifan Li"},{"@pid":"99/7033-6","text":"Xiaojie Wang 0006"}]},"title":"Multi-scale Two-way Deep Neural Network for Stock Trend Prediction.","venue":"IJCAI","pages":"4555-4561","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/ijcai/LiuMSHGLSLW20","doi":"10.24963/IJCAI.2020/628","ee":"https://doi.org/10.24963/ijcai.2020/628","url":"https://dblp.org/rec/conf/ijcai/LiuMSHGLSLW20"},
+"url":"URL#942514"
+},
+{
+"@score":"3",
+"@id":"955211",
+"info":{"authors":{"author":[{"@pid":"37/7895","text":"Yuemei Xu"},{"@pid":"276/7466","text":"Weihang Lin"},{"@pid":"161/4963","text":"Yiran Hu"}]},"title":"Stock Trend Prediction using Historical Data and Financial Online News.","venue":"ISPA/BDCloud/SocialCom/SustainCom","pages":"1507-1512","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ispa/XuLH20","doi":"10.1109/ISPA-BDCLOUD-SOCIALCOM-SUSTAINCOM51426.2020.00227","ee":"https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom51426.2020.00227","url":"https://dblp.org/rec/conf/ispa/XuLH20"},
+"url":"URL#955211"
+},
+{
+"@score":"3",
+"@id":"1091656",
+"info":{"authors":{"author":[{"@pid":"251/6565","text":"Yingxuan Chen"},{"@pid":"53/282","text":"Weiwei Lin"},{"@pid":"w/JamesZijunWang","text":"James Z. Wang 0002"}]},"title":"A Dual-Attention-Based Stock Price Trend Prediction Model With Dual Features.","venue":"IEEE Access","volume":"7","pages":"148047-148058","year":"2019","type":"Journal Articles","access":"open","key":"journals/access/ChenLW19b","doi":"10.1109/ACCESS.2019.2946223","ee":"https://doi.org/10.1109/ACCESS.2019.2946223","url":"https://dblp.org/rec/journals/access/ChenLW19b"},
+"url":"URL#1091656"
+},
+{
+"@score":"3",
+"@id":"1102057",
+"info":{"authors":{"author":[{"@pid":"13/1824","text":"Min Wen"},{"@pid":"62/5860-24","text":"Ping Li 0024"},{"@pid":"68/6887","text":"Lingfei Zhang"},{"@pid":"88/2827","text":"Yan Chen"}]},"title":"Stock Market Trend Prediction Using High-Order Information of Time Series.","venue":"IEEE Access","volume":"7","pages":"28299-28308","year":"2019","type":"Journal Articles","access":"open","key":"journals/access/WenLZC19","doi":"10.1109/ACCESS.2019.2901842","ee":"https://doi.org/10.1109/ACCESS.2019.2901842","url":"https://dblp.org/rec/journals/access/WenLZC19"},
+"url":"URL#1102057"
+},
+{
+"@score":"3",
+"@id":"1121446",
+"info":{"authors":{"author":[{"@pid":"71/3321","text":"Mu-Yen Chen"},{"@pid":"08/9465","text":"Chien Hsiang Liao"},{"@pid":"252/3309","text":"Ren-Pao Hsieh"}]},"title":"Modeling public mood and emotion: Stock market trend prediction with anticipatory computing approach.","venue":"Comput. Hum. Behav.","volume":"101","pages":"402-408","year":"2019","type":"Journal Articles","access":"closed","key":"journals/chb/ChenLH19","doi":"10.1016/J.CHB.2019.03.021","ee":"https://doi.org/10.1016/j.chb.2019.03.021","url":"https://dblp.org/rec/journals/chb/ChenLH19"},
+"url":"URL#1121446"
+},
+{
+"@score":"3",
+"@id":"1125385",
+"info":{"authors":{"author":[{"@pid":"30/7413","text":"Muhammad Zubair Asghar"},{"@pid":"248/4950","text":"Fazal Rahman"},{"@pid":"183/6410","text":"Fazal Masud Kundi"},{"@pid":"36/6213","text":"Shakeel Ahmad"}]},"title":"Development of stock market trend prediction system using multiple regression.","venue":"Comput. Math. Organ. Theory","volume":"25","number":"3","pages":"271-301","year":"2019","type":"Journal Articles","access":"closed","key":"journals/cmot/AsgharRKA19","doi":"10.1007/S10588-019-09292-7","ee":"https://doi.org/10.1007/s10588-019-09292-7","url":"https://dblp.org/rec/journals/cmot/AsgharRKA19"},
+"url":"URL#1125385"
+},
+{
+"@score":"3",
+"@id":"1135302",
+"info":{"authors":{"author":[{"@pid":"193/2510-6","text":"Guang Liu 0006"},{"@pid":"99/7033-6","text":"Xiaojie Wang 0006"}]},"title":"A new metric for individual stock trend prediction.","venue":"Eng. Appl. Artif. Intell.","volume":"82","pages":"1-12","year":"2019","type":"Journal Articles","access":"closed","key":"journals/eaai/LiuW19","doi":"10.1016/J.ENGAPPAI.2019.03.019","ee":"https://doi.org/10.1016/j.engappai.2019.03.019","url":"https://dblp.org/rec/journals/eaai/LiuW19"},
+"url":"URL#1135302"
+},
+{
+"@score":"3",
+"@id":"1140495",
+"info":{"authors":{"author":[{"@pid":"84/2005","text":"Wen Long"},{"@pid":"201/6231","text":"Linqiu Song"},{"@pid":"221/1255","text":"Ying-jie Tian"}]},"title":"A new graphic kernel method of stock price trend prediction based on financial news semantic and structural similarity.","venue":"Expert Syst. Appl.","volume":"118","pages":"411-424","year":"2019","type":"Journal Articles","access":"closed","key":"journals/eswa/LongST19","doi":"10.1016/J.ESWA.2018.10.008","ee":"https://doi.org/10.1016/j.eswa.2018.10.008","url":"https://dblp.org/rec/journals/eswa/LongST19"},
+"url":"URL#1140495"
+},
+{
+"@score":"3",
+"@id":"1140829",
+"info":{"authors":{"author":[{"@pid":"21/6430","text":"Feng Zhou"},{"@pid":"74/7614-1","text":"Haomin Zhou 0001"},{"@pid":"31/4676","text":"Zhihua Yang"},{"@pid":"89/2086","text":"Lihua Yang"}]},"title":"EMD2FNN: A strategy combining empirical mode decomposition and factorization machine based neural network for stock market trend prediction.","venue":"Expert Syst. Appl.","volume":"115","pages":"136-151","year":"2019","type":"Journal Articles","access":"closed","key":"journals/eswa/ZhouZYY19","doi":"10.1016/J.ESWA.2018.07.065","ee":"https://doi.org/10.1016/j.eswa.2018.07.065","url":"https://dblp.org/rec/journals/eswa/ZhouZYY19"},
+"url":"URL#1140829"
+},
+{
+"@score":"3",
+"@id":"1152098",
+"info":{"authors":{"author":[{"@pid":"19/4180","text":"Varun Gupta"},{"@pid":"264/3192","text":"Mujahid Ahmad"}]},"title":"Stock price trend prediction with long short-term memory neural networks.","venue":"Int. J. Comput. Intell. Stud.","volume":"8","number":"4","pages":"289-298","year":"2019","type":"Journal Articles","access":"closed","key":"journals/ijcistudies/GuptaA19","doi":"10.1504/IJCISTUDIES.2019.103619","ee":"https://doi.org/10.1504/IJCISTUDIES.2019.103619","url":"https://dblp.org/rec/journals/ijcistudies/GuptaA19"},
+"url":"URL#1152098"
+},
+{
+"@score":"3",
+"@id":"1267508",
+"info":{"authors":{"author":[{"@pid":"31/1175","text":"Tao Yan"},{"@pid":"88/3973","text":"Chongzhao Han"},{"@pid":"76/4362","text":"Yong Jia"}]},"title":"A Fused Intelligent Computing Approach Using Stock Big Data for Near Future Trend Prediction.","venue":"BDCAT","pages":"113-116","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/bdc/YanHJ19","doi":"10.1145/3365109.3368775","ee":"https://doi.org/10.1145/3365109.3368775","url":"https://dblp.org/rec/conf/bdc/YanHJ19"},
+"url":"URL#1267508"
+},
+{
+"@score":"3",
+"@id":"1269312",
+"info":{"authors":{"author":[{"@pid":"259/6216","text":"Arvand Fazeli"},{"@pid":"70/4682","text":"Sheridan K. Houghten"}]},"title":"Deep Learning for the Prediction of Stock Market Trends.","venue":"IEEE BigData","pages":"5513-5521","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/bigdataconf/FazeliH19","doi":"10.1109/BIGDATA47090.2019.9005523","ee":"https://doi.org/10.1109/BigData47090.2019.9005523","url":"https://dblp.org/rec/conf/bigdataconf/FazeliH19"},
+"url":"URL#1269312"
+},
+{
+"@score":"3",
+"@id":"1277900",
+"info":{"authors":{"author":[{"@pid":"31/1762","text":"Chun-Hao Chen"},{"@pid":"246/6899","text":"Ping Shih"}]},"title":"A Stock Trend Prediction Approach based on Chinese News and Technical Indicator Using Genetic Algorithms.","venue":"CEC","pages":"1468-1472","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/ChenS19","doi":"10.1109/CEC.2019.8790177","ee":"https://doi.org/10.1109/CEC.2019.8790177","url":"https://dblp.org/rec/conf/cec/ChenS19"},
+"url":"URL#1277900"
+},
+{
+"@score":"3",
+"@id":"1409949",
+"info":{"authors":{"author":[{"@pid":"214/3283","text":"Wen Xin Cheng"},{"@pid":"s/PNSuganthan","text":"Ponnuthurai N. Suganthan"},{"@pid":"159/2785","text":"Xueheng Qiu"},{"@pid":"201/6326","text":"Rakesh Katuwal"}]},"title":"Classification of Stock Market Trends with Confidence-Based Selective Predictions.","venue":"SEMCCO/FANCCO","pages":"93-104","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/semcco/ChengSQK19","doi":"10.1007/978-3-030-37838-7_9","ee":"https://doi.org/10.1007/978-3-030-37838-7_9","url":"https://dblp.org/rec/conf/semcco/ChengSQK19"},
+"url":"URL#1409949"
+},
+{
+"@score":"3",
+"@id":"1416697",
+"info":{"authors":{"author":[{"@pid":"63/2017","text":"Asad Masood Khattak"},{"@pid":"141/9981","text":"Habib Ullah"},{"@pid":"255/9754","text":"Hassan Ali Khalid"},{"@pid":"180/5806","text":"Ammara Habib"},{"@pid":"30/7413","text":"Muhammad Zubair Asghar"},{"@pid":"183/6410","text":"Fazal Masud Kundi"}]},"title":"Stock Market Trend Prediction using Supervised Learning.","venue":"SoICT","pages":"85-91","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/soict/KhattakUKHAK19","doi":"10.1145/3368926.3369680","ee":"https://doi.org/10.1145/3368926.3369680","url":"https://dblp.org/rec/conf/soict/KhattakUKHAK19"},
+"url":"URL#1416697"
+},
+{
+"@score":"3",
+"@id":"1429096",
+"info":{"authors":{"author":[{"@pid":"68/2992","text":"Yaowei Wang"},{"@pid":"181/2689-1","text":"Qing Li 0001"},{"@pid":"h/JoshuaZhexueHuang","text":"Zhexue Huang"},{"@pid":"36/996","text":"Mark Junjie Li"}]},"title":"EAN: Event Attention Network for Stock Price Trend Prediction based on Sentimental Embedding.","venue":"WebSci","pages":"311-320","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/websci/WangLHL19","doi":"10.1145/3292522.3326014","ee":"https://doi.org/10.1145/3292522.3326014","url":"https://dblp.org/rec/conf/websci/WangLHL19"},
+"url":"URL#1429096"
+},
+{
+"@score":"3",
+"@id":"1432195",
+"info":{"authors":{"author":[{"@pid":"213/1853","text":"Shumin Deng"},{"@pid":"139/4181","text":"Ningyu Zhang"},{"@pid":"43/2368-15","text":"Wen Zhang 0015"},{"@pid":"56/8110","text":"Jiaoyan Chen"},{"@pid":"59/6490","text":"Jeff Z. Pan"},{"@pid":"94/5089","text":"Huajun Chen"}]},"title":"Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network.","venue":"WWW","pages":"678-685","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/www/DengZZCPC19","doi":"10.1145/3308560.3317701","ee":"https://doi.org/10.1145/3308560.3317701","url":"https://dblp.org/rec/conf/www/DengZZCPC19"},
+"url":"URL#1432195"
+},
+{
+"@score":"3",
+"@id":"1497511",
+"info":{"authors":{"author":{"@pid":"46/7220","text":"Yuan Song"}},"title":"Stock Trend Prediction: Based on Machine Learning Methods.","year":"2018","type":"Books and Theses","access":"closed","key":"phd/basesearch/Song18b","ee":"http://www.escholarship.org/uc/item/0cp1x8th","url":"https://dblp.org/rec/phd/basesearch/Song18b"},
+"url":"URL#1497511"
+},
+{
+"@score":"3",
+"@id":"1505317",
+"info":{"authors":{"author":[{"@pid":"228/2293","text":"Dang Lien Minh"},{"@pid":"58/6948","text":"Abolghasem Sadeghi-Niaraki"},{"@pid":"228/2305","text":"Huynh Duc Huy"},{"@pid":"228/2299","text":"Kyungbok Min"},{"@pid":"89/5852","text":"Hyeonjoon Moon"}]},"title":"Deep Learning Approach for Short-Term Stock Trends Prediction Based on Two-Stream Gated Recurrent Unit Network.","venue":"IEEE Access","volume":"6","pages":"55392-55404","year":"2018","type":"Journal Articles","access":"open","key":"journals/access/MinhSHMM18","doi":"10.1109/ACCESS.2018.2868970","ee":"https://doi.org/10.1109/ACCESS.2018.2868970","url":"https://dblp.org/rec/journals/access/MinhSHMM18"},
+"url":"URL#1505317"
+},
+{
+"@score":"3",
+"@id":"1514209",
+"info":{"authors":{"author":{"@pid":"09/471","text":"Lei Lei"}},"title":"Wavelet Neural Network Prediction Method of Stock Price Trend Based on Rough Set Attribute Reduction.","venue":"Appl. Soft Comput.","volume":"62","pages":"923-932","year":"2018","type":"Journal Articles","access":"closed","key":"journals/asc/Lei18","doi":"10.1016/J.ASOC.2017.09.029","ee":"https://doi.org/10.1016/j.asoc.2017.09.029","url":"https://dblp.org/rec/journals/asc/Lei18"},
+"url":"URL#1514209"
+},
+{
+"@score":"3",
+"@id":"1541255",
+"info":{"authors":{"author":[{"@pid":"05/3499-15","text":"Jing Zhang 0015"},{"@pid":"213/2021","text":"Shicheng Cui"},{"@pid":"03/4702","text":"Yan Xu"},{"@pid":"31/2728","text":"Qianmu Li"},{"@pid":"75/4601-1","text":"Tao Li 0001"}]},"title":"A novel data-driven stock price trend prediction system.","venue":"Expert Syst. Appl.","volume":"97","pages":"60-69","year":"2018","type":"Journal Articles","access":"closed","key":"journals/eswa/ZhangCXLL18","doi":"10.1016/J.ESWA.2017.12.026","ee":"https://doi.org/10.1016/j.eswa.2017.12.026","url":"https://dblp.org/rec/journals/eswa/ZhangCXLL18"},
+"url":"URL#1541255"
+},
+{
+"@score":"3",
+"@id":"1655103",
+"info":{"authors":{"author":[{"@pid":"223/2675","text":"Zherong Zhang"},{"@pid":"18/5572","text":"Wenge Rong"},{"@pid":"12/1640","text":"Yuanxin Ouyang"},{"@pid":"77/6921-1","text":"Zhang Xiong 0001"}]},"title":"Importance-Weighted Distance Aware Stocks Trend Prediction.","venue":"APWeb/WAIM","pages":"357-365","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/apweb/ZhangROX18","doi":"10.1007/978-3-319-96890-2_30","ee":"https://doi.org/10.1007/978-3-319-96890-2_30","url":"https://dblp.org/rec/conf/apweb/ZhangROX18"},
+"url":"URL#1655103"
+},
+{
+"@score":"3",
+"@id":"1664970",
+"info":{"authors":{"author":[{"@pid":"155/5633","text":"Youxun Lei"},{"@pid":"239/3406","text":"Kaiyue Zhou"},{"@pid":"69/10440","text":"Yuchen Liu"}]},"title":"Multi-Category Events Driven Stock Price Trends Prediction.","venue":"CCIS","pages":"497-501","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/ccis/LeiZL18","doi":"10.1109/CCIS.2018.8691392","ee":"https://doi.org/10.1109/CCIS.2018.8691392","url":"https://dblp.org/rec/conf/ccis/LeiZL18"},
+"url":"URL#1664970"
+},
+{
+"@score":"3",
+"@id":"1709251",
+"info":{"authors":{"author":[{"@pid":"91/7800","text":"Devpriya Soni"},{"@pid":"234/0465","text":"Sparsh Agarwal"},{"@pid":"234/0462","text":"Tushar Agarwel"},{"@pid":"234/0453","text":"Pooshan Arora"},{"@pid":"234/0497","text":"Kopal Gupta"}]},"title":"Optimised Prediction Model for Stock Market Trend Analysis.","venue":"IC3","pages":"1-3","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/ic3/SoniAAAG18","doi":"10.1109/IC3.2018.8530457","ee":"https://doi.org/10.1109/IC3.2018.8530457","url":"https://dblp.org/rec/conf/ic3/SoniAAAG18"},
+"url":"URL#1709251"
+},
+{
+"@score":"3",
+"@id":"1777402",
+"info":{"authors":{"author":[{"@pid":"26/1194-9","text":"Bo Xu 0009"},{"@pid":"69/65","text":"Dongyu Zhang"},{"@pid":"122/5958-2","text":"Shaowu Zhang 0002"},{"@pid":"21/4241","text":"Hengchao Li"},{"@pid":"07/1644","text":"Hongfei Lin"}]},"title":"Stock Market Trend Prediction Using Recurrent Convolutional Neural Networks.","venue":"NLPCC","pages":"166-177","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/nlpcc/XuZZLL18","doi":"10.1007/978-3-319-99501-4_14","ee":"https://doi.org/10.1007/978-3-319-99501-4_14","url":"https://dblp.org/rec/conf/nlpcc/XuZZLL18"},
+"url":"URL#1777402"
+},
+{
+"@score":"3",
+"@id":"1789285",
+"info":{"authors":{"author":[{"@pid":"90/4765","text":"Tian Xia"},{"@pid":"06/43","text":"Qibo Sun"},{"@pid":"123/6949-1","text":"Ao Zhou 0001"},{"@pid":"73/8637","text":"Shangguang Wang"},{"@pid":"231/7601","text":"Shilong Xiong"},{"@pid":"230/1937","text":"Siyi Gao"},{"@pid":"45/10335","text":"Jinglin Li"},{"@pid":"29/5782-4","text":"Quan Yuan 0004"}]},"title":"Improving the Performance of Stock Trend Prediction by Applying GA to Feature Selection.","venue":"SC²","pages":"122-126","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/sc2/XiaSZWXGL018","doi":"10.1109/SC2.2018.00025","ee":"https://doi.org/10.1109/SC2.2018.00025","url":"https://dblp.org/rec/conf/sc2/XiaSZWXGL018"},
+"url":"URL#1789285"
+},
+{
+"@score":"3",
+"@id":"1813361",
+"info":{"authors":{"author":[{"@pid":"180/5436","text":"Ziniu Hu"},{"@pid":"127/2089","text":"Weiqing Liu"},{"@pid":"09/851-2","text":"Jiang Bian 0002"},{"@pid":"08/2161","text":"Xuanzhe Liu"},{"@pid":"l/TieYanLiu","text":"Tie-Yan Liu"}]},"title":"Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction.","venue":"WSDM","pages":"261-269","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/wsdm/HuLBLL18","doi":"10.1145/3159652.3159690","ee":"https://doi.org/10.1145/3159652.3159690","url":"https://dblp.org/rec/conf/wsdm/HuLBLL18"},
+"url":"URL#1813361"
+},
+{
+"@score":"3",
+"@id":"1838456",
+"info":{"authors":{"author":{"@pid":"220/5468","text":"Zhengyang Dong"}},"title":"Dynamic Advisor-Based Ensemble (dynABE): Case Study in Stock Trend Prediction of a Major Critical Metal Producer.","venue":"CoRR","volume":"abs/1805.12111","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1805-12111","ee":"http://arxiv.org/abs/1805.12111","url":"https://dblp.org/rec/journals/corr/abs-1805-12111"},
+"url":"URL#1838456"
+},
+{
+"@score":"3",
+"@id":"1857846",
+"info":{"authors":{"author":{"@pid":"197/1303","text":"Huicheng Liu"}},"title":"Leveraging Financial News for Stock Trend Prediction with Attention-Based Recurrent Neural Network.","venue":"CoRR","volume":"abs/1811.06173","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1811-06173","ee":"http://arxiv.org/abs/1811.06173","url":"https://dblp.org/rec/journals/corr/abs-1811-06173"},
+"url":"URL#1857846"
+},
+{
+"@score":"3",
+"@id":"1922481",
+"info":{"authors":{"author":[{"@pid":"195/5383","text":"Vipul Bag"},{"@pid":"23/8663","text":"Uday V. Kulkarni"}]},"title":"Stock Price Trend Prediction and Recommendation using Cognitive Process.","venue":"Int. J. Rough Sets Data Anal.","volume":"4","number":"2","pages":"36-48","year":"2017","type":"Journal Articles","access":"closed","key":"journals/ijrsda/BagK17","doi":"10.4018/IJRSDA.2017040103","ee":"https://doi.org/10.4018/IJRSDA.2017040103","url":"https://dblp.org/rec/journals/ijrsda/BagK17"},
+"url":"URL#1922481"
+},
+{
+"@score":"3",
+"@id":"1933865",
+"info":{"authors":{"author":[{"@pid":"207/9934","text":"Lock Siew Han"},{"@pid":"48/1709","text":"Mohd Jan Nordin"}]},"title":"Integrated Multiple Linear Regression-One Rule Classification Model for the Prediction of Stock Price Trend.","venue":"J. Comput. Sci.","volume":"13","number":"9","pages":"422-429","year":"2017","type":"Journal Articles","access":"closed","key":"journals/jcsci/HanN17","doi":"10.3844/JCSSP.2017.422.429","ee":"https://doi.org/10.3844/jcssp.2017.422.429","url":"https://dblp.org/rec/journals/jcsci/HanN17"},
+"url":"URL#1933865"
+},
+{
+"@score":"3",
+"@id":"1971765",
+"info":{"authors":{"author":[{"@pid":"205/5699","text":"Ivana Markovic"},{"@pid":"172/0654","text":"Milos B. Stojanovic"},{"@pid":"251/3748","text":"Jelena Stankovic 0003"},{"@pid":"146/8534","text":"Milena M. Stankovic"}]},"title":"Stock market trend prediction using AHP and weighted kernel LS-SVM.","venue":"Soft Comput.","volume":"21","number":"18","pages":"5387-5398","year":"2017","type":"Journal Articles","access":"closed","key":"journals/soco/MarkovicSSS17","doi":"10.1007/S00500-016-2123-0","ee":"https://doi.org/10.1007/s00500-016-2123-0","url":"https://dblp.org/rec/journals/soco/MarkovicSSS17"},
+"url":"URL#1971765"
+},
+{
+"@score":"3",
+"@id":"2080736",
+"info":{"authors":{"author":[{"@pid":"198/6151","text":"Haonan Sun"},{"@pid":"18/5572","text":"Wenge Rong"},{"@pid":"23/8208","text":"Jiayi Zhang"},{"@pid":"202/6105","text":"Qiubin Liang"},{"@pid":"77/6921-1","text":"Zhang Xiong 0001"}]},"title":"Stacked Denoising Autoencoder Based Stock Market Trend Prediction via K-Nearest Neighbour Data Selection.","venue":"ICONIP","pages":"882-892","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/iconip/SunRZLX17","doi":"10.1007/978-3-319-70096-0_90","ee":"https://doi.org/10.1007/978-3-319-70096-0_90","url":"https://dblp.org/rec/conf/iconip/SunRZLX17"},
+"url":"URL#2080736"
+},
+{
+"@score":"3",
+"@id":"2080885",
+"info":{"authors":{"author":[{"@pid":"23/8208","text":"Jiayi Zhang"},{"@pid":"18/5572","text":"Wenge Rong"},{"@pid":"202/6105","text":"Qiubin Liang"},{"@pid":"198/6151","text":"Haonan Sun"},{"@pid":"77/6921-1","text":"Zhang Xiong 0001"}]},"title":"Data Augmentation Based Stock Trend Prediction Using Self-organising Map.","venue":"ICONIP","pages":"903-912","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/iconip/ZhangRLSX17","doi":"10.1007/978-3-319-70096-0_92","ee":"https://doi.org/10.1007/978-3-319-70096-0_92","url":"https://dblp.org/rec/conf/iconip/ZhangRLSX17"},
+"url":"URL#2080885"
+},
+{
+"@score":"3",
+"@id":"2085404",
+"info":{"authors":{"author":[{"@pid":"42/6176","text":"Zhiyong Zhao"},{"@pid":"25/2624","text":"Ruonan Rao"},{"@pid":"220/7303","text":"Shaoxiong Tu"},{"@pid":"31/626","text":"Jun Shi"}]},"title":"Time-Weighted LSTM Model with Redefined Labeling for Stock Trend Prediction.","venue":"ICTAI","pages":"1210-1217","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictai/ZhaoRTS17","doi":"10.1109/ICTAI.2017.00184","ee":"https://doi.org/10.1109/ICTAI.2017.00184","url":"https://dblp.org/rec/conf/ictai/ZhaoRTS17"},
+"url":"URL#2085404"
+},
+{
+"@score":"3",
+"@id":"2094657",
+"info":{"authors":{"author":[{"@pid":"202/6105","text":"Qiubin Liang"},{"@pid":"18/5572","text":"Wenge Rong"},{"@pid":"23/8208","text":"Jiayi Zhang"},{"@pid":"202/6227","text":"Jingshuang Liu"},{"@pid":"77/6921-1","text":"Zhang Xiong 0001"}]},"title":"Restricted Boltzmann machine based stock market trend prediction.","venue":"IJCNN","pages":"1380-1387","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/LiangRZLX17","doi":"10.1109/IJCNN.2017.7966014","ee":"https://doi.org/10.1109/IJCNN.2017.7966014","url":"https://dblp.org/rec/conf/ijcnn/LiangRZLX17"},
+"url":"URL#2094657"
+},
+{
+"@score":"3",
+"@id":"2200700",
+"info":{"title":"Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction.","venue":"CoRR","volume":"abs/1712.02136","year":"2017","type":"Withdrawn Items","access":"withdrawn","key":"journals/corr/abs-1712-02136","ee":"http://arxiv.org/abs/1712.02136","url":"https://dblp.org/rec/journals/corr/abs-1712-02136"},
+"url":"URL#2200700"
+},
+{
+"@score":"3",
+"@id":"2212530",
+"info":{"authors":{"author":[{"@pid":"19/3763","text":"Xiao-dan Zhang"},{"@pid":"33/2805","text":"Ang Li"},{"@pid":"154/6423","text":"Ran Pan"}]},"title":"Stock trend prediction based on a new status box method and AdaBoost probabilistic support vector machine.","venue":"Appl. Soft Comput.","volume":"49","pages":"385-398","year":"2016","type":"Journal Articles","access":"closed","key":"journals/asc/ZhangLP16","doi":"10.1016/J.ASOC.2016.08.026","ee":"https://doi.org/10.1016/j.asoc.2016.08.026","url":"https://dblp.org/rec/journals/asc/ZhangLP16"},
+"url":"URL#2212530"
+},
+{
+"@score":"3",
+"@id":"2245120",
+"info":{"authors":{"author":[{"@pid":"89/9032","text":"Jiajia Li"},{"@pid":"49/5080","text":"Phayung Meesad"}]},"title":"Combining Sentiment Analysis with Socialization Bias in Social Networks for Stock Market Trend Prediction.","venue":"Int. J. Comput. Intell. Appl.","volume":"15","number":"1","pages":"1650003:1-1650003:16","year":"2016","type":"Journal Articles","access":"closed","key":"journals/ijcia/LiM16","doi":"10.1142/S1469026816500036","ee":"https://doi.org/10.1142/S1469026816500036","url":"https://dblp.org/rec/journals/ijcia/LiM16"},
+"url":"URL#2245120"
+},
+{
+"@score":"3",
+"@id":"2253546",
+"info":{"authors":{"author":[{"@pid":"w/StephanMWinkler","text":"Stephan M. Winkler"},{"@pid":"81/4617","text":"Bonifacio Castaño"},{"@pid":"184/8284","text":"Sergio Luengo-Sanchez"},{"@pid":"122/0389","text":"Susanne Schaller"},{"@pid":"82/5128","text":"Gabriel Kronberger"},{"@pid":"79/3445","text":"Michael Affenzeller"}]},"title":"Heterogeneous model ensembles for short-term prediction of stock market trends.","venue":"Int. J. Simul. Process. Model.","volume":"11","number":"6","pages":"504-513","year":"2016","type":"Journal Articles","access":"closed","key":"journals/ijspm/WinklerCLSKA16","doi":"10.1504/IJSPM.2016.10001558","ee":"https://doi.org/10.1504/IJSPM.2016.10001558","url":"https://dblp.org/rec/journals/ijspm/WinklerCLSKA16"},
+"url":"URL#2253546"
+},
+{
+"@score":"3",
+"@id":"2347750",
+"info":{"authors":{"author":[{"@pid":"181/2854","text":"Jian Yang"},{"@pid":"25/2624","text":"Ruonan Rao"},{"@pid":"193/9229","text":"Pei Hong"},{"@pid":"27/5296","text":"Peng Ding"}]},"title":"Ensemble Model for Stock Price Movement Trend Prediction on Different Investing Periods.","venue":"CIS","pages":"358-361","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/cis/YangRHD16","doi":"10.1109/CIS.2016.0087","ee":"https://doi.org/10.1109/CIS.2016.0087","url":"https://dblp.org/rec/conf/cis/YangRHD16"},
+"url":"URL#2347750"
+},
+{
+"@score":"3",
+"@id":"2496557",
+"info":{"authors":{"author":[{"@pid":"183/6330","text":"Joshi Kalyani"},{"@pid":"183/6418","text":"H. N. Bharathi"},{"@pid":"183/6171","text":"Rao Jyothi"}]},"title":"Stock trend prediction using news sentiment analysis.","venue":"CoRR","volume":"abs/1607.01958","year":"2016","type":"Informal Publications","access":"open","key":"journals/corr/KalyaniBJ16","ee":"http://arxiv.org/abs/1607.01958","url":"https://dblp.org/rec/journals/corr/KalyaniBJ16"},
+"url":"URL#2496557"
+},
+{
+"@score":"3",
+"@id":"2521740",
+"info":{"authors":{"author":[{"@pid":"91/112","text":"Ying Liu"},{"@pid":"99/5858","text":"Yibing Chen"},{"@pid":"46/2252","text":"Sheng Wu"},{"@pid":"33/10406","text":"Geng Peng"},{"@pid":"127/1338","text":"Benfu Lv"}]},"title":"Composite leading search index: a preprocessing method of internet search data for stock trends prediction.","venue":"Ann. Oper. Res.","volume":"234","number":"1","pages":"77-94","year":"2015","type":"Journal Articles","access":"closed","key":"journals/anor/LiuCWPL15","doi":"10.1007/S10479-014-1779-Z","ee":"https://doi.org/10.1007/s10479-014-1779-z","url":"https://dblp.org/rec/journals/anor/LiuCWPL15"},
+"url":"URL#2521740"
+},
+{
+"@score":"3",
+"@id":"2545935",
+"info":{"authors":{"author":[{"@pid":"23/5672","text":"Lili Wang"},{"@pid":"46/7299","text":"Zitian Wang"},{"@pid":"116/8682","text":"Shuai Zhao"},{"@pid":"04/5842","text":"Shaohua Tan"}]},"title":"Stock market trend prediction using dynamical Bayesian factor graph.","venue":"Expert Syst. Appl.","volume":"42","number":"15-16","pages":"6267-6275","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eswa/WangWZT15","doi":"10.1016/J.ESWA.2015.01.035","ee":"https://doi.org/10.1016/j.eswa.2015.01.035","url":"https://dblp.org/rec/journals/eswa/WangWZT15"},
+"url":"URL#2545935"
+},
+{
+"@score":"3",
+"@id":"2640986",
+"info":{"authors":{"author":[{"@pid":"87/734","text":"Lei Zhao"},{"@pid":"17/6729","text":"Lin Wang"}]},"title":"Price Trend Prediction of Stock Market Using Outlier Data Mining Algorithm.","venue":"BDCloud","pages":"93-98","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bdcloud/ZhaoW15","doi":"10.1109/BDCLOUD.2015.19","ee":"https://doi.org/10.1109/BDCloud.2015.19","url":"https://dblp.org/rec/conf/bdcloud/ZhaoW15"},
+"url":"URL#2640986"
+},
+{
+"@score":"3",
+"@id":"2656816",
+"info":{"authors":{"author":[{"@pid":"85/2639","text":"Leszek J. Chmielewski"},{"@pid":"150/8140","text":"Maciej Janowicz"},{"@pid":"36/678","text":"Arkadiusz Orlowski"}]},"title":"Prediction of Trend Reversals in Stock Market by Classification of Japanese Candlesticks.","venue":"CORES","pages":"641-647","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/cores/ChmielewskiJO15","doi":"10.1007/978-3-319-26227-7_60","ee":"https://doi.org/10.1007/978-3-319-26227-7_60","url":"https://dblp.org/rec/conf/cores/ChmielewskiJO15"},
+"url":"URL#2656816"
+},
+{
+"@score":"3",
+"@id":"2706965",
+"info":{"authors":{"author":[{"@pid":"04/470","text":"Yi Wei"},{"@pid":"c/VipinChaudhary","text":"Vipin Chaudhary"}]},"title":"The Influence of Sample Reconstruction on Stock Trend Prediction via NARX Neural Network.","venue":"ICMLA","pages":"52-57","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/icmla/WeiC15","doi":"10.1109/ICMLA.2015.210","ee":"https://doi.org/10.1109/ICMLA.2015.210","url":"https://dblp.org/rec/conf/icmla/WeiC15"},
+"url":"URL#2706965"
+},
+{
+"@score":"3",
+"@id":"2822174",
+"info":{"authors":{"author":[{"@pid":"41/10029","text":"Ranjeeta Bisoi"},{"@pid":"52/8632","text":"Pradipta K. Dash"}]},"title":"A hybrid evolutionary dynamic neural network for stock market trend analysis and prediction using unscented Kalman filter.","venue":"Appl. Soft Comput.","volume":"19","pages":"41-56","year":"2014","type":"Journal Articles","access":"closed","key":"journals/asc/BisoiD14","doi":"10.1016/J.ASOC.2014.01.039","ee":"https://doi.org/10.1016/j.asoc.2014.01.039","url":"https://dblp.org/rec/journals/asc/BisoiD14"},
+"url":"URL#2822174"
+},
+{
+"@score":"3",
+"@id":"2865578",
+"info":{"authors":{"author":[{"@pid":"145/1198","text":"Hoang T. P. Thanh"},{"@pid":"49/5080","text":"Phayung Meesad"}]},"title":"Stock Market Trend Prediction Based on Text Mining of Corporate Web and Time Series Data.","venue":"J. Adv. Comput. Intell. Intell. Informatics","volume":"18","number":"1","pages":"22-31","year":"2014","type":"Journal Articles","access":"open","key":"journals/jaciii/ThanhM14","doi":"10.20965/JACIII.2014.P0022","ee":"https://doi.org/10.20965/jaciii.2014.p0022","url":"https://dblp.org/rec/journals/jaciii/ThanhM14"},
+"url":"URL#2865578"
+},
+{
+"@score":"3",
+"@id":"2875348",
+"info":{"authors":{"author":[{"@pid":"59/6501","text":"Kuo-Ping Wu"},{"@pid":"147/1905","text":"Yung-Piao Wu"},{"@pid":"18/2674","text":"Hahn-Ming Lee"}]},"title":"Stock Trend Prediction by Using K-Means and AprioriAll Algorithm for Sequential Chart Pattern Mining.","venue":"J. Inf. Sci. Eng.","volume":"30","number":"3","pages":"669-686","year":"2014","type":"Journal Articles","access":"unavailable","key":"journals/jise/WuWL14","ee":"http://www.iis.sinica.edu.tw/page/jise/2014/201405_07.html","url":"https://dblp.org/rec/journals/jise/WuWL14"},
+"url":"URL#2875348"
+},
+{
+"@score":"3",
+"@id":"3005951",
+"info":{"authors":{"author":[{"@pid":"205/5699","text":"Ivana Markovic"},{"@pid":"172/0654","text":"Milos B. Stojanovic"},{"@pid":"126/6130","text":"Milos Bozic"},{"@pid":"251/3748","text":"Jelena Stankovic 0003"}]},"title":"Stock Market Trend Prediction Based on the LS-SVM Model Update Algorithm.","venue":"ICT Innovations","pages":"105-114","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictinnovations/MarkovicSB014","doi":"10.1007/978-3-319-09879-1_11","ee":"https://doi.org/10.1007/978-3-319-09879-1_11","url":"https://dblp.org/rec/conf/ictinnovations/MarkovicSB014"},
+"url":"URL#3005951"
+},
+{
+"@score":"3",
+"@id":"3295996",
+"info":{"authors":{"author":[{"@pid":"55/5255","text":"Yuling Lin"},{"@pid":"24/3873","text":"Haixiang Guo"},{"@pid":"85/4419","text":"Jinglu Hu"}]},"title":"An SVM-based approach for stock market trend prediction.","venue":"IJCNN","pages":"1-7","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/LinGH13","doi":"10.1109/IJCNN.2013.6706743","ee":"https://doi.org/10.1109/IJCNN.2013.6706743","url":"https://dblp.org/rec/conf/ijcnn/LinGH13"},
+"url":"URL#3295996"
+},
+{
+"@score":"3",
+"@id":"3326705",
+"info":{"authors":{"author":[{"@pid":"32/1910","text":"Li Xue"},{"@pid":"67/4330","text":"Yun Xiong"},{"@pid":"43/3858","text":"Yangyong Zhu"},{"@pid":"17/2179","text":"Jianfeng Wu"},{"@pid":"192/0196-3","text":"Zhiyuan Chen 0003"}]},"title":"Stock Trend Prediction by Classifying Aggregative Web Topic-Opinion.","venue":"PAKDD","pages":"173-184","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/pakdd/XueXZWC13","doi":"10.1007/978-3-642-37456-2_15","ee":"https://doi.org/10.1007/978-3-642-37456-2_15","url":"https://dblp.org/rec/conf/pakdd/XueXZWC13"},
+"url":"URL#3326705"
+},
+{
+"@score":"3",
+"@id":"3609707",
+"info":{"authors":{"author":[{"@pid":"147/1905","text":"Yung-Piao Wu"},{"@pid":"59/6501","text":"Kuo-Ping Wu"},{"@pid":"18/2674","text":"Hahn-Ming Lee"}]},"title":"Stock Trend Prediction by Sequential Chart Pattern via K-Means and AprioriAll Algorithm.","venue":"TAAI","pages":"176-181","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/taai/WuWL12","doi":"10.1109/TAAI.2012.42","ee":"https://doi.org/10.1109/TAAI.2012.42","url":"https://dblp.org/rec/conf/taai/WuWL12"},
+"url":"URL#3609707"
+},
+{
+"@score":"3",
+"@id":"3618449",
+"info":{"authors":{"author":[{"@pid":"54/3488","text":"Wei Fan"},{"@pid":"73/6148","text":"Toyohide Watanabe"}]},"title":"Dynamic prediction of forthcoming trends in stock prices from news articles.","venue":"WIMS","pages":"16:1-16:9","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/wims/FanW12","doi":"10.1145/2254129.2254151","ee":"https://doi.org/10.1145/2254129.2254151","url":"https://dblp.org/rec/conf/wims/FanW12"},
+"url":"URL#3618449"
+},
+{
+"@score":"3",
+"@id":"3624235",
+"info":{"authors":{"author":[{"@pid":"134/2924","text":"Hyun-Syug Kang"},{"@pid":"134/2787","text":"Jianhua Diao"}]},"title":"An Integrated Hierarchical Temporal Memory Network for Continuous Multi-Interval Prediction of Stock Price Trends.","venue":"Software and Network Engineering","pages":"15-27","year":"2012","type":"Parts in Books or Collections","access":"closed","key":"series/sci/KangD12","doi":"10.1007/978-3-642-28670-4_2","ee":"https://doi.org/10.1007/978-3-642-28670-4_2","url":"https://dblp.org/rec/series/sci/KangD12"},
+"url":"URL#3624235"
+},
+{
+"@score":"3",
+"@id":"3669143",
+"info":{"authors":{"author":[{"@pid":"133/3382","text":"Liping Ni"},{"@pid":"91/78","text":"Zhiwei Ni"},{"@pid":"42/7649","text":"Yazhuo Gao"}]},"title":"Stock trend prediction based on fractal feature selection and support vector machine.","venue":"Expert Syst. Appl.","volume":"38","number":"5","pages":"5569-5576","year":"2011","type":"Journal Articles","access":"closed","key":"journals/eswa/NiNG11","doi":"10.1016/J.ESWA.2010.10.079","ee":"https://doi.org/10.1016/j.eswa.2010.10.079","url":"https://dblp.org/rec/journals/eswa/NiNG11"},
+"url":"URL#3669143"
+},
+{
+"@score":"3",
+"@id":"4143756",
+"info":{"authors":{"author":{"@pid":"98/4092","text":"Ming-Chi Lee"}},"title":"Using support vector machine with a hybrid feature selection method to the stock trend prediction.","venue":"Expert Syst. Appl.","volume":"36","number":"8","pages":"10896-10904","year":"2009","type":"Journal Articles","access":"closed","key":"journals/eswa/Lee09","doi":"10.1016/J.ESWA.2009.02.038","ee":"https://doi.org/10.1016/j.eswa.2009.02.038","url":"https://dblp.org/rec/journals/eswa/Lee09"},
+"url":"URL#4143756"
+},
+{
+"@score":"3",
+"@id":"4344555",
+"info":{"authors":{"author":[{"@pid":"47/5409","text":"Seiji Tokuoka"},{"@pid":"95/528","text":"Mieko Tanaka-Yamawaki"}]},"title":"Trend predictions of tick-wise stock prices by means of technical indicators selected by genetic algorithm.","venue":"Artif. Life Robotics","volume":"12","number":"1-2","pages":"180-183","year":"2008","type":"Journal Articles","access":"closed","key":"journals/alr/TokuokaT08","doi":"10.1007/S10015-007-0463-7","ee":"https://doi.org/10.1007/s10015-007-0463-7","url":"https://dblp.org/rec/journals/alr/TokuokaT08"},
+"url":"URL#4344555"
+},
+{
+"@score":"3",
+"@id":"4363660",
+"info":{"authors":{"author":[{"@pid":"28/6542","text":"Chenn-Jung Huang"},{"@pid":"96/3464","text":"Dian-Xiu Yang"},{"@pid":"02/1793","text":"Yi-Ta Chuang"}]},"title":"Application of wrapper approach and composite classifier to the stock trend prediction.","venue":"Expert Syst. Appl.","volume":"34","number":"4","pages":"2870-2878","year":"2008","type":"Journal Articles","access":"closed","key":"journals/eswa/HuangYC08","doi":"10.1016/J.ESWA.2007.05.035","ee":"https://doi.org/10.1016/j.eswa.2007.05.035","url":"https://dblp.org/rec/journals/eswa/HuangYC08"},
+"url":"URL#4363660"
+},
+{
+"@score":"3",
+"@id":"4371417",
+"info":{"authors":{"author":[{"@pid":"w/KamFaiWong","text":"Kam-Fai Wong"},{"@pid":"33/6206","text":"Yunqing Xia"},{"@pid":"93/5407","text":"Ruifeng Xu"},{"@pid":"22/1911","text":"Mingli Wu"},{"@pid":"33/3999-2","text":"Wenjie Li 0002"}]},"title":"Pattern-Based Opinion Mining for Stock Market Trend Prediction.","venue":"Int. J. Comput. Process. Orient. Lang.","volume":"21","number":"4","pages":"347-361","year":"2008","type":"Journal Articles","access":"closed","key":"journals/ijcpol/WongXXWL08","doi":"10.1142/S1793840608001949","ee":"https://doi.org/10.1142/S1793840608001949","url":"https://dblp.org/rec/journals/ijcpol/WongXXWL08"},
+"url":"URL#4371417"
+},
+{
+"@score":"3",
+"@id":"4443504",
+"info":{"authors":{"author":[{"@pid":"14/134","text":"Maysa Ammouri"},{"@pid":"40/5067","text":"Sameh Al-Shihabi"}]},"title":"Selecting Technical Indicators to be Used by an Artificial Neural Network for Stocks&apos; Trends Prediction.","venue":"DMIN","pages":"249-252","year":"2008","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/dmin/AmmouriA08","url":"https://dblp.org/rec/conf/dmin/AmmouriA08"},
+"url":"URL#4443504"
+},
+{
+"@score":"3",
+"@id":"4684411",
+"info":{"authors":{"author":[{"@pid":"53/5885","text":"Yu Zheng Zhai"},{"@pid":"83/55","text":"Arthur L. Hsu"},{"@pid":"33/962","text":"Saman K. Halgamuge"}]},"title":"Combining News and Technical Indicators in Daily Stock Price Trends Prediction.","venue":"ISNN","pages":"1087-1096","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/isnn/ZhaiHH07","doi":"10.1007/978-3-540-72395-0_132","ee":"https://doi.org/10.1007/978-3-540-72395-0_132","url":"https://dblp.org/rec/conf/isnn/ZhaiHH07"},
+"url":"URL#4684411"
+},
+{
+"@score":"3",
+"@id":"4698503",
+"info":{"authors":{"author":[{"@pid":"25/2495","text":"Kuralmani Vellaisamy"},{"@pid":"247/9049-1","text":"Jinyan Li 0001"}]},"title":"Multidimensional Decision Support Indicator (mDSI) for Time Series Stock Trend Prediction.","venue":"PAKDD","pages":"841-848","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/pakdd/VellaisamyL07","doi":"10.1007/978-3-540-71701-0_93","ee":"https://doi.org/10.1007/978-3-540-71701-0_93","url":"https://dblp.org/rec/conf/pakdd/VellaisamyL07"},
+"url":"URL#4698503"
+},
+{
+"@score":"3",
+"@id":"5139550",
+"info":{"authors":{"author":{"@pid":"21/5241","text":"Mahdi Jalili-Kharaajoo"}},"title":"Stock Trend Prediction Using Neurofuzzy Predictors Based on Brain Emotional Learning Algorithm.","venue":"ICAISC","pages":"308-313","year":"2004","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaisc/Jalili-Kharaajoo04","doi":"10.1007/978-3-540-24844-6_43","ee":"https://doi.org/10.1007/978-3-540-24844-6_43","url":"https://dblp.org/rec/conf/icaisc/Jalili-Kharaajoo04"},
+"url":"URL#5139550"
+},
+{
+"@score":"3",
+"@id":"5393175",
+"info":{"authors":{"author":[{"@pid":"22/1076","text":"Gabriel Pui Cheong Fung"},{"@pid":"y/JXuYu","text":"Jeffrey Xu Yu"},{"@pid":"48/1707","text":"Wai Lam"}]},"title":"News Sensitive Stock Trend Prediction.","venue":"PAKDD","pages":"481-493","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/pakdd/FungYL02","doi":"10.1007/3-540-47887-6_48","ee":"https://doi.org/10.1007/3-540-47887-6_48","url":"https://dblp.org/rec/conf/pakdd/FungYL02"},
+"url":"URL#5393175"
+},
+{
+"@score":"3",
+"@id":"5508166",
+"info":{"authors":{"author":[{"@pid":"55/3306","text":"Thomas Hellström"},{"@pid":"05/7171","text":"Kenneth Holmström"}]},"title":"The relevance of trends for predictions of stock returns.","venue":"Intell. Syst. Account. Finance Manag.","volume":"9","number":"1","pages":"23-34","year":"2000","type":"Journal Articles","access":"closed","key":"journals/isafm/HellstromH00","doi":"10.1002/(SICI)1099-1174(200003)9:1&lt;23::AID-ISAF178&gt;3.0.CO;2-U","ee":"https://doi.org/10.1002/(SICI)1099-1174(200003)9:1&lt;23::AID-ISAF178&gt;3.0.CO;2-U","url":"https://dblp.org/rec/journals/isafm/HellstromH00"},
+"url":"URL#5508166"
+},
+{
+"@score":"3",
+"@id":"5533404",
+"info":{"authors":{"author":[{"@pid":"06/4526","text":"Yiwen Yang"},{"@pid":"33/6142","text":"Guizhong Liu"},{"@pid":"73/1863","text":"Zongping Zhang"}]},"title":"Stock market trend prediction based on neural networks, multiresolution analysis and dynamical reconstruction.","venue":"CIFEr","pages":"155-156","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/YangLZ00","doi":"10.1109/CIFER.2000.844615","ee":"https://doi.org/10.1109/CIFER.2000.844615","url":"https://dblp.org/rec/conf/cifer/YangLZ00"},
+"url":"URL#5533404"
+},
+{
+"@score":"3",
+"@id":"5668922",
+"info":{"authors":{"author":[{"@pid":"73/5064","text":"Emad W. Saad"},{"@pid":"74/5147","text":"Danil V. Prokhorov"},{"@pid":"w/DCWunsch","text":"Donald C. Wunsch II"}]},"title":"Comparative study of stock trend prediction using time delay, recurrent and probabilistic neural networks.","venue":"IEEE Trans. Neural Networks","volume":"9","number":"6","pages":"1456-1470","year":"1998","type":"Journal Articles","access":"closed","key":"journals/tnn/SaadPW98","doi":"10.1109/72.728395","ee":"https://doi.org/10.1109/72.728395","url":"https://dblp.org/rec/journals/tnn/SaadPW98"},
+"url":"URL#5668922"
+},
+{
+"@score":"3",
+"@id":"5800911",
+"info":{"authors":{"author":[{"@pid":"73/5064","text":"Emad W. Saad"},{"@pid":"74/5147","text":"Danil V. Prokhorov"},{"@pid":"w/DCWunsch","text":"Donald C. Wunsch II"}]},"title":"Advanced neural network training methods for low false alarm stock trend prediction.","venue":"ICNN","pages":"2021-2026","year":"1996","type":"Conference and Workshop Papers","access":"closed","key":"conf/icnn/SaadPW96","doi":"10.1109/ICNN.1996.549212","ee":"https://doi.org/10.1109/ICNN.1996.549212","url":"https://dblp.org/rec/conf/icnn/SaadPW96"},
+"url":"URL#5800911"
+},
+{
+"@score":"3",
+"@id":"5800971",
+"info":{"authors":{"author":[{"@pid":"24/113","text":"Jung-Hua Wang"},{"@pid":"247/5512","text":"Jia-Yann Leu"}]},"title":"Stock market trend prediction using ARIMA-based neural networks.","venue":"ICNN","pages":"2160-2165","year":"1996","type":"Conference and Workshop Papers","access":"closed","key":"conf/icnn/WangL96","doi":"10.1109/ICNN.1996.549236","ee":"https://doi.org/10.1109/ICNN.1996.549236","url":"https://dblp.org/rec/conf/icnn/WangL96"},
+"url":"URL#5800971"
+},
+{
+"@score":"3",
+"@id":"5909272",
+"info":{"authors":{"author":[{"@pid":"09/2485","text":"Gia-Shuh Jang"},{"@pid":"69/3913","text":"Feipei Lai"},{"@pid":"01/4897","text":"Bor-Wei Jiang"},{"@pid":"32/1969","text":"Tai-Ming Parng"},{"@pid":"75/5667","text":"Li-Hua Chien"}]},"title":"Intelligent stock trading system with price trend prediction and reversal recognition using dual-module neural networks.","venue":"Appl. Intell.","volume":"3","number":"3","pages":"225-248","year":"1993","type":"Journal Articles","access":"closed","key":"journals/apin/JangLJPC93","doi":"10.1007/BF00871939","ee":"https://doi.org/10.1007/BF00871939","url":"https://dblp.org/rec/journals/apin/JangLJPC93"},
+"url":"URL#5909272"
+}
+]
+}
+}
+}

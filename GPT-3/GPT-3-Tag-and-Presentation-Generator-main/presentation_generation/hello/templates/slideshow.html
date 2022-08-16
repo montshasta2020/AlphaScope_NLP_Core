@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+
+<div class="jumbotron text-center">
+  <div class="container">
+      Creating slideshow from video transcript:
+      <form method="post" action="/slideshow/">
+          {% csrf_token %}
+          {{form}}
+          <button type="submit" name="save">Create Presentation</button>
+      </form>
+  </div>
+</div>
+{% endblock %}

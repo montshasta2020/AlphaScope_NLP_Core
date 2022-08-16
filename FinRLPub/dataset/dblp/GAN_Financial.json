@@ -1,0 +1,68 @@
+{
+"result":{
+"query":"Generative* adversarial* networks* financial*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"0.74"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"6",
+"@dc":"6",
+"@oc":"6",
+"@id":"46275674",
+"text":"financial"
+}
+},
+"hits":{
+"@total":"6",
+"@computed":"6",
+"@sent":"6",
+"@first":"0",
+"hit":[{
+"@score":"4",
+"@id":"200145",
+"info":{"authors":{"author":[{"@pid":"309/5927","text":"Justin Hellermann"},{"@pid":"320/8033","text":"Qinzhuan Qian"},{"@pid":"04/1935","text":"Ankit Shah"}]},"title":"Financial Time Series Data Augmentation with Generative Adversarial Networks and Extended Intertemporal Return Plots.","venue":"CoRR","volume":"abs/2205.08924","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2205-08924","doi":"10.48550/ARXIV.2205.08924","ee":"https://doi.org/10.48550/arXiv.2205.08924","url":"https://dblp.org/rec/journals/corr/abs-2205-08924"},
+"url":"URL#200145"
+},
+{
+"@score":"4",
+"@id":"733071",
+"info":{"authors":{"author":[{"@pid":"58/2134","text":"Zhaohui Zhang"},{"@pid":"121/5521","text":"Lijun Yang"},{"@pid":"135/7130","text":"Ligong Chen"},{"@pid":"245/1472","text":"Qiuwen Liu"},{"@pid":"71/8430","text":"Ying Meng"},{"@pid":"08/10119","text":"Pengwei Wang"},{"@pid":"l/MaozhenLi","text":"Maozhen Li 0001"}]},"title":"A generative adversarial network-based method for generating negative financial samples.","venue":"Int. J. Distributed Sens. Networks","volume":"16","number":"2","year":"2020","type":"Journal Articles","access":"open","key":"journals/ijdsn/ZhangYCLMWL20","doi":"10.1177/1550147720907053","ee":"https://doi.org/10.1177/1550147720907053","url":"https://dblp.org/rec/journals/ijdsn/ZhangYCLMWL20"},
+"url":"URL#733071"
+},
+{
+"@score":"4",
+"@id":"910862",
+"info":{"authors":{"author":{"@pid":"164/5998","text":"Gautier Marti"}},"title":"CORRGAN: Sampling Realistic Financial Correlation Matrices Using Generative Adversarial Networks.","venue":"ICASSP","pages":"8459-8463","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icassp/Marti20","doi":"10.1109/ICASSP40776.2020.9053276","ee":"https://doi.org/10.1109/ICASSP40776.2020.9053276","url":"https://dblp.org/rec/conf/icassp/Marti20"},
+"url":"URL#910862"
+},
+{
+"@score":"4",
+"@id":"1016758",
+"info":{"authors":{"author":[{"@pid":"76/7476","text":"Dmitry Efimov"},{"@pid":"95/7448","text":"Di Xu"},{"@pid":"258/1215","text":"Luyang Kong"},{"@pid":"51/8324","text":"Alexey Nefedov"},{"@pid":"219/0075","text":"Archana Anandakrishnan"}]},"title":"Using generative adversarial networks to synthesize artificial financial datasets.","venue":"CoRR","volume":"abs/2002.02271","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2002-02271","ee":"https://arxiv.org/abs/2002.02271","url":"https://dblp.org/rec/journals/corr/abs-2002-02271"},
+"url":"URL#1016758"
+},
+{
+"@score":"4",
+"@id":"1055194",
+"info":{"authors":{"author":{"@pid":"272/8947","text":"Wilfredo Tovar"}},"title":"Deep Learning Based on Generative Adversarial and Convolutional Neural Networks for Financial Time Series Predictions.","venue":"CoRR","volume":"abs/2008.08041","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2008-08041","ee":"https://arxiv.org/abs/2008.08041","url":"https://dblp.org/rec/journals/corr/abs-2008-08041"},
+"url":"URL#1055194"
+},
+{
+"@score":"4",
+"@id":"1440058",
+"info":{"authors":{"author":[{"@pid":"132/5189","text":"Adriano S. Koshiyama"},{"@pid":"228/1564","text":"Nick Firoozye"},{"@pid":"99/6218","text":"Philip C. Treleaven"}]},"title":"Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination.","venue":"CoRR","volume":"abs/1901.01751","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1901-01751","ee":"http://arxiv.org/abs/1901.01751","url":"https://dblp.org/rec/journals/corr/abs-1901-01751"},
+"url":"URL#1440058"
+}
+]
+}
+}
+}

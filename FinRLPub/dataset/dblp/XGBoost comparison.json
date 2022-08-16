@@ -1,0 +1,92 @@
+{
+"result":{
+"query":"xgboost* comparison*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"38.93"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"46103135",
+"text":"comparison"
+}
+},
+"hits":{
+"@total":"10",
+"@computed":"10",
+"@sent":"10",
+"@first":"0",
+"hit":[{
+"@score":"2",
+"@id":"430787",
+"info":{"authors":{"author":{"@pid":"05/5089","text":"Xinyu Sun"}},"title":"Application and Comparison of Artificial Neural Networks and XGBoost on Alzheimer&apos;s Disease.","venue":"BIC","pages":"101-105","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/bic/Sun21","doi":"10.1145/3448748.3448765","ee":"https://doi.org/10.1145/3448748.3448765","url":"https://dblp.org/rec/conf/bic/Sun21"},
+"url":"URL#430787"
+},
+{
+"@score":"2",
+"@id":"511613",
+"info":{"authors":{"author":[{"@pid":"303/7120","text":"Iliana Paliari"},{"@pid":"184/3272","text":"Aikaterini Karanikola"},{"@pid":"167/4988","text":"Sotiris Kotsiantis"}]},"title":"A comparison of the optimized LSTM, XGBOOST and ARIMA in Time Series forecasting.","venue":"IISA","pages":"1-7","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/iisa/PaliariKK21","doi":"10.1109/IISA52424.2021.9555520","ee":"https://doi.org/10.1109/IISA52424.2021.9555520","url":"https://dblp.org/rec/conf/iisa/PaliariKK21"},
+"url":"URL#511613"
+},
+{
+"@score":"2",
+"@id":"512823",
+"info":{"authors":{"author":[{"@pid":"45/10198","text":"Luís Ferreira"},{"@pid":"152/6322","text":"André Luiz Pilastri"},{"@pid":"266/5208","text":"Carlos Manuel Martins"},{"@pid":"302/7539","text":"Pedro Miguel Pires"},{"@pid":"71/2978-1","text":"Paulo Cortez 0001"}]},"title":"A Comparison of AutoML Tools for Machine Learning, Deep Learning and XGBoost.","venue":"IJCNN","pages":"1-8","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/FerreiraPMPC21","doi":"10.1109/IJCNN52387.2021.9534091","ee":"https://doi.org/10.1109/IJCNN52387.2021.9534091","url":"https://dblp.org/rec/conf/ijcnn/FerreiraPMPC21"},
+"url":"URL#512823"
+},
+{
+"@score":"2",
+"@id":"527432",
+"info":{"authors":{"author":[{"@pid":"180/5157","text":"Filippos Giannakas"},{"@pid":"12/10247","text":"Christos Troussas"},{"@pid":"192/0732","text":"Akrivi Krouska"},{"@pid":"94/6050","text":"Cleo Sgouropoulou"},{"@pid":"56/4125","text":"Ioannis Voyiatzis"}]},"title":"XGBoost and Deep Neural Network Comparison: The Case of Teams&apos; Performance.","venue":"ITS","pages":"343-349","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/its/GiannakasTKSV21","doi":"10.1007/978-3-030-80421-3_37","ee":"https://doi.org/10.1007/978-3-030-80421-3_37","url":"https://dblp.org/rec/conf/its/GiannakasTKSV21"},
+"url":"URL#527432"
+},
+{
+"@score":"2",
+"@id":"566303",
+"info":{"authors":{"author":[{"@pid":"273/5304","text":"Michal Vrastil"},{"@pid":"88/999","text":"Jindrich Matousek"}]},"title":"On Comparison of XGBoost and Convolutional Neural Networks for Glottal Closure Instant Detection.","venue":"TDS","pages":"448-456","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/tsd/VrastilM21","doi":"10.1007/978-3-030-83527-9_38","ee":"https://doi.org/10.1007/978-3-030-83527-9_38","url":"https://dblp.org/rec/conf/tsd/VrastilM21"},
+"url":"URL#566303"
+},
+{
+"@score":"2",
+"@id":"648514",
+"info":{"authors":{"author":{"@pid":"306/7365","text":"Tejas Y. Deo"}},"title":"Data imputation and comparison of custom ensemble models with existing libraries like XGBoost, Scikit learn, etc. for Predictive Equipment failure.","venue":"CoRR","volume":"abs/2111.10088","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2111-10088","ee":"https://arxiv.org/abs/2111.10088","url":"https://dblp.org/rec/journals/corr/abs-2111-10088"},
+"url":"URL#648514"
+},
+{
+"@score":"2",
+"@id":"680768",
+"info":{"authors":{"author":[{"@pid":"156/7086","text":"Dongyang Zhang"},{"@pid":"281/4406","text":"Yicheng Gong"}]},"title":"The Comparison of LightGBM and XGBoost Coupling Factor Analysis and Prediagnosis of Acute Liver Failure.","venue":"IEEE Access","volume":"8","pages":"220990-221003","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/ZhangG20e","doi":"10.1109/ACCESS.2020.3042848","ee":"https://doi.org/10.1109/ACCESS.2020.3042848","url":"https://dblp.org/rec/journals/access/ZhangG20e"},
+"url":"URL#680768"
+},
+{
+"@score":"2",
+"@id":"701484",
+"info":{"authors":{"author":[{"@pid":"274/1044","text":"Jiun-Chi Huang"},{"@pid":"49/8067","text":"Yi-Chun Tsai"},{"@pid":"197/0316","text":"Pei-Yu Wu"},{"@pid":"274/1650","text":"Yu-Hui Lien"},{"@pid":"274/1063","text":"Chih-Yi Chien"},{"@pid":"274/1607","text":"Chih-Feng Kuo"},{"@pid":"91/7539","text":"Jeng-Fung Hung"},{"@pid":"274/0956","text":"Szu-Chia Chen"},{"@pid":"263/2805","text":"Chao-Hung Kuo"}]},"title":"Predictive modeling of blood pressure during hemodialysis: a comparison of linear model, random forest, support vector regression, XGBoost, LASSO regression and ensemble method.","venue":"Comput. Methods Programs Biomed.","volume":"195","pages":"105536","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cmpb/HuangTWLCKHCK20","doi":"10.1016/J.CMPB.2020.105536","ee":"https://doi.org/10.1016/j.cmpb.2020.105536","url":"https://dblp.org/rec/journals/cmpb/HuangTWLCKHCK20"},
+"url":"URL#701484"
+},
+{
+"@score":"2",
+"@id":"1004826",
+"info":{"authors":{"author":[{"@pid":"248/4594","text":"Selene Cerna"},{"@pid":"98/722","text":"Christophe Guyeux"},{"@pid":"248/5342","text":"Héber Hwang Arcolezi"},{"@pid":"26/3185","text":"Raphaël Couturier"},{"@pid":"157/3708","text":"Guillaume Royer"}]},"title":"A Comparison of LSTM and XGBoost for Predicting Firemen Interventions.","venue":"WorldCIST","pages":"424-434","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/worldcist/CernaGACR20","doi":"10.1007/978-3-030-45691-7_39","ee":"https://doi.org/10.1007/978-3-030-45691-7_39","url":"https://dblp.org/rec/conf/worldcist/CernaGACR20"},
+"url":"URL#1004826"
+},
+{
+"@score":"2",
+"@id":"1701074",
+"info":{"authors":{"author":[{"@pid":"152/5672","text":"April Morton"},{"@pid":"166/1325","text":"Jesse O. Piburn"},{"@pid":"130/5085","text":"Nicholas N. Nagle"}]},"title":"Need A Boost? A Comparison of Traditional Commuting Models with the XGBoost Model for Predicting Commuting Flows (Short Paper).","venue":"GIScience","pages":"51:1-51:7","year":"2018","type":"Conference and Workshop Papers","access":"open","key":"conf/giscience/MortonPN18","doi":"10.4230/LIPICS.GISCIENCE.2018.51","ee":"https://doi.org/10.4230/LIPIcs.GISCIENCE.2018.51","url":"https://dblp.org/rec/conf/giscience/MortonPN18"},
+"url":"URL#1701074"
+}
+]
+}
+}
+}

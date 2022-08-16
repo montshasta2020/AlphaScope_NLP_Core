@@ -1,0 +1,386 @@
+{
+"result":{
+"query":"machine* learning* trading*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"8.15"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"60",
+"@dc":"59",
+"@oc":"60",
+"@id":"47204991",
+"text":"trading"
+}
+},
+"hits":{
+"@total":"59",
+"@computed":"59",
+"@sent":"59",
+"@first":"0",
+"hit":[{
+"@score":"4",
+"@id":"1126600",
+"info":{"authors":{"author":[{"@pid":"157/4436","text":"Michal Król"},{"@pid":"204/5931","text":"Magdalena Ewa Król"}]},"title":"Learning From Peers&apos; Eye Movements in the Absence of Expert Guidance: A Proof of Concept Using Laboratory Stock Trading, Eye Tracking, and Machine Learning.","venue":"Cogn. Sci.","volume":"43","number":"2","year":"2019","type":"Journal Articles","access":"closed","key":"journals/cogsci/KrolK19","doi":"10.1111/COGS.12716","ee":"https://doi.org/10.1111/cogs.12716","url":"https://dblp.org/rec/journals/cogsci/KrolK19"},
+"url":"URL#1126600"
+},
+{
+"@score":"4",
+"@id":"3645149",
+"info":{"authors":{"author":{"@pid":"w/MichaelPWellman","text":"Michael P. Wellman"}},"title":"Trading Agents","venue":["Trading Agents","Synthesis Lectures on Artificial Intelligence and Machine Learning"],"publisher":"Morgan &amp; Claypool Publishers","year":"2011","type":"Books and Theses","access":"closed","key":"series/synthesis/2011Wellman","doi":"10.2200/S00370ED1V01Y201107AIM012","ee":"https://doi.org/10.2200/S00370ED1V01Y201107AIM012","url":"https://dblp.org/rec/series/synthesis/2011Wellman"},
+"url":"URL#3645149"
+},
+{
+"@score":"3",
+"@id":"106094",
+"info":{"authors":{"author":[{"@pid":"52/5716-55","text":"Chang Liu 0055"},{"@pid":"33/3262","text":"Jie Yan"},{"@pid":"311/9168","text":"Feiyue Guo"},{"@pid":"50/1160","text":"Min Guo"}]},"title":"Forecasting the Market with Machine Learning Algorithms: An Application of NMC-BERT-LSTM-DQN-X Algorithm in Quantitative Trading.","venue":"ACM Trans. Knowl. Discov. Data","volume":"16","number":"4","pages":"62:1-62:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/tkdd/LiuYGG22","doi":"10.1145/3488378","ee":"https://doi.org/10.1145/3488378","url":"https://dblp.org/rec/journals/tkdd/LiuYGG22"},
+"url":"URL#106094"
+},
+{
+"@score":"3",
+"@id":"228205",
+"info":{"authors":{"author":[{"@pid":"250/5047","text":"Faisal Jamil"},{"@pid":"52/442","text":"Naeem Iqbal"},{"@pid":"266/4327","text":"Imran"},{"@pid":"216/0629","text":"Shabir Ahmad"},{"@pid":"34/10137-1","text":"Dohyeun Kim 0001"}]},"title":"Peer-to-Peer Energy Trading Mechanism Based on Blockchain and Machine Learning for Sustainable Electrical Power Supply in Smart Grid.","venue":"IEEE Access","volume":"9","pages":"39193-39217","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/JamilIIAK21","doi":"10.1109/ACCESS.2021.3060457","ee":"https://doi.org/10.1109/ACCESS.2021.3060457","url":"https://dblp.org/rec/journals/access/JamilIIAK21"},
+"url":"URL#228205"
+},
+{
+"@score":"3",
+"@id":"243247",
+"info":{"authors":{"author":[{"@pid":"295/3209","text":"Yuan-Long Peng"},{"@pid":"87/1619","text":"Wei-Po Lee"}]},"title":"Data selection to avoid overfitting for foreign exchange intraday trading with machine learning.","venue":"Appl. Soft Comput.","volume":"108","pages":"107461","year":"2021","type":"Journal Articles","access":"closed","key":"journals/asc/PengL21","doi":"10.1016/J.ASOC.2021.107461","ee":"https://doi.org/10.1016/j.asoc.2021.107461","url":"https://dblp.org/rec/journals/asc/PengL21"},
+"url":"URL#243247"
+},
+{
+"@score":"3",
+"@id":"256389",
+"info":{"authors":{"author":[{"@pid":"313/7082","text":"Bui Thanh Khoa"},{"@pid":"313/7678","text":"Tran Trong Huynh"}]},"title":"Is It Possible to Earn Abnormal Return in an Inefficient Market? An Approach Based on Machine Learning in Stock Trading.","venue":"Comput. Intell. Neurosci.","volume":"2021","pages":"2917577:1-2917577:14","year":"2021","type":"Journal Articles","access":"open","key":"journals/cin/KhoaH21","doi":"10.1155/2021/2917577","ee":"https://doi.org/10.1155/2021/2917577","url":"https://dblp.org/rec/journals/cin/KhoaH21"},
+"url":"URL#256389"
+},
+{
+"@score":"3",
+"@id":"263506",
+"info":{"authors":{"author":[{"@pid":"223/6965","text":"Silvia Panicacci"},{"@pid":"125/8148","text":"Massimiliano Donati"},{"@pid":"223/6951","text":"Francesco Profili"},{"@pid":"223/6972","text":"Paolo Francesconi"},{"@pid":"25/1398","text":"Luca Fanucci"}]},"title":"Trading-Off Machine Learning Algorithms towards Data-Driven Administrative-Socio-Economic Population Health Management.","venue":"Comput.","volume":"10","number":"1","pages":"4","year":"2021","type":"Journal Articles","access":"open","key":"journals/computers/PanicacciDPFF21","doi":"10.3390/COMPUTERS10010004","ee":"https://doi.org/10.3390/computers10010004","url":"https://dblp.org/rec/journals/computers/PanicacciDPFF21"},
+"url":"URL#263506"
+},
+{
+"@score":"3",
+"@id":"276444",
+"info":{"authors":{"author":[{"@pid":"158/5207","text":"Victor Chang 0001"},{"@pid":"290/9809","text":"Xiaowen Man"},{"@pid":"282/2795","text":"Qianwen Xu 0002"},{"@pid":"35/3725","text":"Ching-Hsien Hsu"}]},"title":"Pairs trading on different portfolios based on machine learning.","venue":"Expert Syst. J. Knowl. Eng.","volume":"38","number":"3","year":"2021","type":"Journal Articles","access":"closed","key":"journals/es/ChangMXH21","doi":"10.1111/EXSY.12649","ee":"https://doi.org/10.1111/exsy.12649","url":"https://dblp.org/rec/journals/es/ChangMXH21"},
+"url":"URL#276444"
+},
+{
+"@score":"3",
+"@id":"277626",
+"info":{"authors":{"author":{"@pid":"61/6756","text":"Misuk Kim"}},"title":"Adaptive trading system integrating machine learning and back-testing: Korean bond market case.","venue":"Expert Syst. Appl.","volume":"176","pages":"114767","year":"2021","type":"Journal Articles","access":"closed","key":"journals/eswa/Kim21a","doi":"10.1016/J.ESWA.2021.114767","ee":"https://doi.org/10.1016/j.eswa.2021.114767","url":"https://dblp.org/rec/journals/eswa/Kim21a"},
+"url":"URL#277626"
+},
+{
+"@score":"3",
+"@id":"393632",
+"info":{"authors":{"author":{"@pid":"119/7870","text":"Dhaou Said"}},"title":"A Decentralized Electricity Trading Framework (DETF) for Connected EVs: A Blockchain and Machine Learning for Profit Margin Optimization.","venue":"IEEE Trans. Ind. Informatics","volume":"17","number":"10","pages":"6594-6602","year":"2021","type":"Journal Articles","access":"closed","key":"journals/tii/Said21","doi":"10.1109/TII.2020.3045011","ee":"https://doi.org/10.1109/TII.2020.3045011","url":"https://dblp.org/rec/journals/tii/Said21"},
+"url":"URL#393632"
+},
+{
+"@score":"3",
+"@id":"448188",
+"info":{"authors":{"author":[{"@pid":"287/6757","text":"Peiwen Qiu"},{"@pid":"76/289","text":"Yan Jin"}]},"title":"Machine Learning Based Personalized Customer Service in E-commerce Trading.","venue":"CSIA","pages":"816-824","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/csia/QiuJ21","doi":"10.1007/978-3-030-70042-3_115","ee":"https://doi.org/10.1007/978-3-030-70042-3_115","url":"https://dblp.org/rec/conf/csia/QiuJ21"},
+"url":"URL#448188"
+},
+{
+"@score":"3",
+"@id":"452524",
+"info":{"authors":{"author":[{"@pid":"218/1119","text":"Shubham Rai"},{"@pid":"188/8998","text":"Walter Lau Neto"},{"@pid":"240/0894","text":"Yukio Miyasaka"},{"@pid":"280/3389","text":"Xinpei Zhang"},{"@pid":"280/0391","text":"Mingfei Yu"},{"@pid":"280/3164","text":"Qingyang Yi"},{"@pid":"56/1768","text":"Masahiro Fujita"},{"@pid":"280/3786","text":"Guilherme B. Manske"},{"@pid":"234/1454","text":"Matheus F. Pontes"},{"@pid":"16/5173","text":"Leomar S. da Rosa"},{"@pid":"02/284","text":"Marilton S. de Aguiar"},{"@pid":"93/5285","text":"Paulo F. Butzen"},{"@pid":"258/6304","text":"Po-Chun Chien"},{"@pid":"116/1189","text":"Yu-Shan Huang"},{"@pid":"280/3160","text":"Hoa-Ren Wang"},{"@pid":"13/2622","text":"Jie-Hong R. Jiang"},{"@pid":"147/1190","text":"Jiaqi Gu"},{"@pid":"75/6680","text":"Zheng Zhao"},{"@pid":"258/6469","text":"Zixuan Jiang"},{"@pid":"p/DavidZhigangPan","text":"David Z. Pan"},{"@pid":"210/1357","text":"Brunno A. Abreu"},{"@pid":"280/3386","text":"Isac de Souza Campos"},{"@pid":"249/8820","text":"Augusto Andre Souza Berndt"},{"@pid":"38/1116","text":"Cristina Meinhardt"},{"@pid":"280/3474","text":"Jonata T. Carvalho"},{"@pid":"29/9850","text":"Mateus Grellert"},{"@pid":"84/5693","text":"Sergio Bampi"},{"@pid":"277/5288","text":"Aditya Lohana"},{"@pid":"29/414","text":"Akash Kumar 0001"},{"@pid":"80/1961-15","text":"Wei Zeng 0015"},{"@pid":"67/2433","text":"Azadeh Davoodi"},{"@pid":"75/6468","text":"Rasit Onur Topaloglu"},{"@pid":"40/7018","text":"Yuan Zhou"},{"@pid":"230/4364","text":"Jordan Dotzel"},{"@pid":"86/7054","text":"Yichi Zhang"},{"@pid":"152/4299","text":"Hanyu Wang"},{"@pid":"81/4227","text":"Zhiru Zhang"},{"@pid":"09/11301","text":"Valerio Tenace"},{"@pid":"48/9513","text":"Pierre-Emmanuel Gaillardon"},{"@pid":"50/976","text":"Alan Mishchenko"},{"@pid":"78/2457","text":"Satrajit Chatterjee"}]},"title":"Logic Synthesis Meets Machine Learning: Trading Exactness for Generalization.","venue":"DATE","pages":"1026-1031","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/date/RaiNMZYYFMPRABC21","doi":"10.23919/DATE51398.2021.9473972","ee":"https://doi.org/10.23919/DATE51398.2021.9473972","url":"https://dblp.org/rec/conf/date/RaiNMZYYFMPRABC21"},
+"url":"URL#452524"
+},
+{
+"@score":"3",
+"@id":"477404",
+"info":{"authors":{"author":[{"@pid":"241/7231","text":"Micah Goldblum"},{"@pid":"249/9334","text":"Avi Schwarzschild"},{"@pid":"161/9975","text":"Ankit B. Patel"},{"@pid":"25/8184","text":"Tom Goldstein"}]},"title":"Adversarial attacks on machine learning systems for high-frequency trading.","venue":"ICAIF","pages":"2:1-2:9","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaif/GoldblumSPG21","doi":"10.1145/3490354.3494367","ee":"https://doi.org/10.1145/3490354.3494367","url":"https://dblp.org/rec/conf/icaif/GoldblumSPG21"},
+"url":"URL#477404"
+},
+{
+"@score":"3",
+"@id":"477876",
+"info":{"authors":{"author":{"@pid":"00/10946","text":"Lizi Zhang"}},"title":"Pair Trading with Machine Learning Strategy in China Stock Market.","venue":"ICAIIS","pages":"324:1-324:6","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaiis/Zhang21c","doi":"10.1145/3469213.3471353","ee":"https://doi.org/10.1145/3469213.3471353","url":"https://dblp.org/rec/conf/icaiis/Zhang21c"},
+"url":"URL#477876"
+},
+{
+"@score":"3",
+"@id":"494176",
+"info":{"authors":{"author":[{"@pid":"96/1137","text":"Timo Sturm"},{"@pid":"288/6434","text":"Timo Koppe"},{"@pid":"324/7560","text":"Yven Scholz"},{"@pid":"65/1278","text":"Peter Buxmann"}]},"title":"The Case of Human-Machine Trading as Bilateral Organizational Learning.","venue":"ICIS","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icis/SturmKSB21","ee":"https://aisel.aisnet.org/icis2021/ai_business/ai_business/3","url":"https://dblp.org/rec/conf/icis/SturmKSB21"},
+"url":"URL#494176"
+},
+{
+"@score":"3",
+"@id":"546817",
+"info":{"authors":{"author":[{"@pid":"265/1066","text":"Behnam Shariati"},{"@pid":"173/7028","text":"Pooyan Safari"},{"@pid":"298/5337","text":"Geronimo Bergk"},{"@pid":"298/4522","text":"Felix Immanuel Oertel"},{"@pid":"244/9579","text":"Johannes Karl Fischer"}]},"title":"Inter-Operator Machine Learning Model Trading over Acumos AI Federated Marketplace.","venue":"OFC","pages":"1-3","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/ofc/ShariatiSBOF21","ee":"https://ieeexplore.ieee.org/document/9489395","url":"https://dblp.org/rec/conf/ofc/ShariatiSBOF21"},
+"url":"URL#546817"
+},
+{
+"@score":"3",
+"@id":"624186",
+"info":{"authors":{"author":[{"@pid":"298/0558","text":"A. K. M. Amanat Ullah"},{"@pid":"298/0727","text":"Fahim Imtiaz"},{"@pid":"298/0569","text":"Miftah Uddin Md Ihsan"},{"@pid":"00/10963","text":"Md. Golam Rabiul Alam"},{"@pid":"87/3250","text":"Mahbub Majumdar"}]},"title":"Combining Machine Learning Classifiers for Stock Trading with Effective Feature Extraction.","venue":"CoRR","volume":"abs/2107.13148","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2107-13148","ee":"https://arxiv.org/abs/2107.13148","url":"https://dblp.org/rec/journals/corr/abs-2107-13148"},
+"url":"URL#624186"
+},
+{
+"@score":"3",
+"@id":"674664",
+"info":{"authors":{"author":[{"@pid":"268/2418","text":"Edgar P. Torres P."},{"@pid":"268/2398","text":"Edgar A. Torres Hernández"},{"@pid":"268/2480","text":"Myriam Hernández Álvarez"},{"@pid":"75/9011","text":"Sang Guun Yoo"}]},"title":"Emotion Recognition Related to Stock Trading Using Machine Learning Algorithms With Feature Selection.","venue":"IEEE Access","volume":"8","pages":"199719-199732","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/PHAY20","doi":"10.1109/ACCESS.2020.3035539","ee":"https://doi.org/10.1109/ACCESS.2020.3035539","url":"https://dblp.org/rec/journals/access/PHAY20"},
+"url":"URL#674664"
+},
+{
+"@score":"3",
+"@id":"700327",
+"info":{"authors":{"author":[{"@pid":"173/5360","text":"Nguyen Cong Luong"},{"@pid":"159/1492","text":"Yutao Jiao"},{"@pid":"37/1304-1","text":"Ping Wang 0001"},{"@pid":"76/440","text":"Dusit Niyato"},{"@pid":"86/1369","text":"Dong In Kim"},{"@pid":"83/514","text":"Zhu Han 0001"}]},"title":"A Machine-Learning-Based Auction for Resource Trading in Fog Computing.","venue":"IEEE Commun. Mag.","volume":"58","number":"3","pages":"82-88","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cm/LuongJWNKH20","doi":"10.1109/MCOM.001.1900136","ee":"https://doi.org/10.1109/MCOM.001.1900136","url":"https://dblp.org/rec/journals/cm/LuongJWNKH20"},
+"url":"URL#700327"
+},
+{
+"@score":"3",
+"@id":"718795",
+"info":{"authors":{"author":[{"@pid":"273/9825","text":"Simão Moraes Sarmento"},{"@pid":"40/6389","text":"Nuno Horta"}]},"title":"Enhancing a Pairs Trading strategy with the application of Machine Learning.","venue":"Expert Syst. Appl.","volume":"158","pages":"113490","year":"2020","type":"Journal Articles","access":"closed","key":"journals/eswa/SarmentoH20","doi":"10.1016/J.ESWA.2020.113490","ee":"https://doi.org/10.1016/j.eswa.2020.113490","url":"https://dblp.org/rec/journals/eswa/SarmentoH20"},
+"url":"URL#718795"
+},
+{
+"@score":"3",
+"@id":"743687",
+"info":{"authors":{"author":[{"@pid":"78/10470","text":"Ramzi R. Saifan"},{"@pid":"279/6719","text":"Khaled Sharif"},{"@pid":"279/6562","text":"Mohammad Abu-Ghazaleh"},{"@pid":"84/11241","text":"Mohammad Abdel-Majeed"}]},"title":"Investigating Algorithmic Stock Market Trading using Ensemble Machine Learning Methods.","venue":"Informatica","volume":"44","number":"3","year":"2020","type":"Journal Articles","access":"open","key":"journals/informaticaSI/SaifanSAA20","doi":"10.31449/INF.V44I3.2904","ee":"https://doi.org/10.31449/inf.v44i3.2904","url":"https://dblp.org/rec/journals/informaticaSI/SaifanSAA20"},
+"url":"URL#743687"
+},
+{
+"@score":"3",
+"@id":"759365",
+"info":{"authors":{"author":[{"@pid":"03/5835","text":"Leina Zheng"},{"@pid":"25/1354","text":"Tiejun Pan"},{"@pid":"95/3736","text":"Jun Liu"},{"@pid":"93/5269","text":"Guo Ming"},{"@pid":"226/7677","text":"Mengli Zhang"},{"@pid":"125/8189","text":"Jun Wang"}]},"title":"Quantitative trading system based on machine learning in Chinese financial market.","venue":"J. Intell. Fuzzy Syst.","volume":"38","number":"2","pages":"1423-1433","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jifs/ZhengPLMZW20","doi":"10.3233/JIFS-179505","ee":"https://doi.org/10.3233/JIFS-179505","url":"https://dblp.org/rec/journals/jifs/ZhengPLMZW20"},
+"url":"URL#759365"
+},
+{
+"@score":"3",
+"@id":"848838",
+"info":{"authors":{"author":[{"@pid":"268/2418","text":"Edgar P. Torres P."},{"@pid":"268/2398","text":"Edgar A. Torres Hernández"},{"@pid":"268/2480","text":"Myriam Hernández Álvarez"},{"@pid":"75/9011","text":"Sang Guun Yoo"}]},"title":"Machine Learning Analysis of EEG Measurements of Stock Trading Performance.","venue":"AHFE","pages":"53-60","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ahfe/PHAY20","doi":"10.1007/978-3-030-51328-3_9","ee":"https://doi.org/10.1007/978-3-030-51328-3_9","url":"https://dblp.org/rec/conf/ahfe/PHAY20"},
+"url":"URL#848838"
+},
+{
+"@score":"3",
+"@id":"896922",
+"info":{"authors":{"author":[{"@pid":"63/1104","text":"Fethi A. Rabhi"},{"@pid":"76/4047","text":"Nikolay Mehandjiev"},{"@pid":"279/4769","text":"Ali Baghdadi"}]},"title":"State-of-the-Art in Applying Machine Learning to Electronic Trading.","venue":"FinanceCom","pages":"3-20","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/financecom/RabhiMB20","doi":"10.1007/978-3-030-64466-6_1","ee":"https://doi.org/10.1007/978-3-030-64466-6_1","url":"https://dblp.org/rec/conf/financecom/RabhiMB20"},
+"url":"URL#896922"
+},
+{
+"@score":"3",
+"@id":"905026",
+"info":{"authors":{"author":[{"@pid":"234/2924","text":"Kodai Sasaki"},{"@pid":"19/4240","text":"Hirohiko Suwa"},{"@pid":"40/6335","text":"Yuki Ogawa"},{"@pid":"83/8203","text":"Eiichi Umehara"},{"@pid":"91/5209","text":"Tatsuo Yamashita"},{"@pid":"70/1077","text":"Kota Tsubouchi"}]},"title":"Evaluation of VI Index Forecasting Model by Machine Learning for Yahoo! Stock BBS Using Volatility Trading Simulation.","venue":"HICSS","pages":"1-9","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/hicss/SasakiSOUYT20","ee":"https://hdl.handle.net/10125/64047","url":"https://dblp.org/rec/conf/hicss/SasakiSOUYT20"},
+"url":"URL#905026"
+},
+{
+"@score":"3",
+"@id":"919190",
+"info":{"authors":{"author":[{"@pid":"267/6910","text":"Jacopo Fior"},{"@pid":"60/7439","text":"Luca Cagliero"}]},"title":"Exploring the Use of Data at Multiple Granularity Levels in Machine Learning-Based Stock Trading.","venue":"ICDM","pages":"333-340","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdm/FiorC20","doi":"10.1109/ICDMW51313.2020.00053","ee":"https://doi.org/10.1109/ICDMW51313.2020.00053","url":"https://dblp.org/rec/conf/icdm/FiorC20"},
+"url":"URL#919190"
+},
+{
+"@score":"3",
+"@id":"970664",
+"info":{"authors":{"author":[{"@pid":"07/5975","text":"Salvatore Carta"},{"@pid":"r/DiegoReforgiatoRecupero","text":"Diego Reforgiato Recupero"},{"@pid":"163/2538","text":"Roberto Saia"},{"@pid":"181/2494","text":"Maria Madalina Stanciu"}]},"title":"A General Approach for Risk Controlled Trading Based on Machine Learning and Statistical Arbitrage.","venue":"LOD","pages":"489-503","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/mod/CartaRSS20","doi":"10.1007/978-3-030-64583-0_44","ee":"https://doi.org/10.1007/978-3-030-64583-0_44","url":"https://dblp.org/rec/conf/mod/CartaRSS20"},
+"url":"URL#970664"
+},
+{
+"@score":"3",
+"@id":"1019791",
+"info":{"authors":{"author":[{"@pid":"241/7231","text":"Micah Goldblum"},{"@pid":"249/9334","text":"Avi Schwarzschild"},{"@pid":"245/7611","text":"Naftali Cohen"},{"@pid":"b/TuckerRBalch","text":"Tucker Balch"},{"@pid":"161/9975","text":"Ankit B. Patel"},{"@pid":"25/8184","text":"Tom Goldstein"}]},"title":"Adversarial Attacks on Machine Learning Systems for High-Frequency Trading.","venue":"CoRR","volume":"abs/2002.09565","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2002-09565","ee":"https://arxiv.org/abs/2002.09565","url":"https://dblp.org/rec/journals/corr/abs-2002-09565"},
+"url":"URL#1019791"
+},
+{
+"@score":"3",
+"@id":"1077672",
+"info":{"authors":{"author":[{"@pid":"218/1119","text":"Shubham Rai"},{"@pid":"188/8998","text":"Walter Lau Neto"},{"@pid":"240/0894","text":"Yukio Miyasaka"},{"@pid":"280/3389","text":"Xinpei Zhang"},{"@pid":"280/0391","text":"Mingfei Yu"},{"@pid":"280/3164","text":"Qingyang Yi"},{"@pid":"56/1768","text":"Masahiro Fujita"},{"@pid":"280/3786","text":"Guilherme B. Manske"},{"@pid":"234/1454","text":"Matheus F. Pontes"},{"@pid":"16/5173","text":"Leomar S. da Rosa Jr."},{"@pid":"02/284","text":"Marilton S. de Aguiar"},{"@pid":"93/5285","text":"Paulo F. Butzen"},{"@pid":"258/6304","text":"Po-Chun Chien"},{"@pid":"116/1189","text":"Yu-Shan Huang"},{"@pid":"280/3160","text":"Hoa-Ren Wang"},{"@pid":"13/2622","text":"Jie-Hong R. Jiang"},{"@pid":"147/1190","text":"Jiaqi Gu"},{"@pid":"75/6680","text":"Zheng Zhao"},{"@pid":"258/6469","text":"Zixuan Jiang"},{"@pid":"p/DavidZhigangPan","text":"David Z. Pan"},{"@pid":"210/1357","text":"Brunno A. Abreu"},{"@pid":"280/3386","text":"Isac de Souza Campos"},{"@pid":"249/8820","text":"Augusto Andre Souza Berndt"},{"@pid":"38/1116","text":"Cristina Meinhardt"},{"@pid":"280/3474","text":"Jonata T. Carvalho"},{"@pid":"29/9850","text":"Mateus Grellert"},{"@pid":"84/5693","text":"Sergio Bampi"},{"@pid":"277/5288","text":"Aditya Lohana"},{"@pid":"29/414","text":"Akash Kumar 0001"},{"@pid":"80/1961-15","text":"Wei Zeng 0015"},{"@pid":"67/2433","text":"Azadeh Davoodi"},{"@pid":"75/6468","text":"Rasit Onur Topaloglu"},{"@pid":"40/7018","text":"Yuan Zhou"},{"@pid":"230/4364","text":"Jordan Dotzel"},{"@pid":"86/7054","text":"Yichi Zhang"},{"@pid":"152/4299","text":"Hanyu Wang"},{"@pid":"81/4227","text":"Zhiru Zhang"},{"@pid":"09/11301","text":"Valerio Tenace"},{"@pid":"48/9513","text":"Pierre-Emmanuel Gaillardon"},{"@pid":"50/976","text":"Alan Mishchenko"},{"@pid":"78/2457","text":"Satrajit Chatterjee"}]},"title":"Logic Synthesis Meets Machine Learning: Trading Exactness for Generalization.","venue":"CoRR","volume":"abs/2012.02530","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2012-02530","ee":"https://arxiv.org/abs/2012.02530","url":"https://dblp.org/rec/journals/corr/abs-2012-02530"},
+"url":"URL#1077672"
+},
+{
+"@score":"3",
+"@id":"1102606",
+"info":{"authors":{"author":[{"@pid":"33/4054","text":"Wei Xiong"},{"@pid":"39/3530-2","text":"Li Xiong 0002"}]},"title":"Smart Contract Based Data Trading Mode Using Blockchain and Machine Learning.","venue":"IEEE Access","volume":"7","pages":"102331-102344","year":"2019","type":"Journal Articles","access":"open","key":"journals/access/XiongX19","doi":"10.1109/ACCESS.2019.2928325","ee":"https://doi.org/10.1109/ACCESS.2019.2928325","url":"https://dblp.org/rec/journals/access/XiongX19"},
+"url":"URL#1102606"
+},
+{
+"@score":"3",
+"@id":"1127853",
+"info":{"authors":{"author":[{"@pid":"26/10582","text":"Thiago Christiano Silva 0001"},{"@pid":"17/740","text":"Benjamin Miranda Tabak"},{"@pid":"256/0319","text":"Idamar Magalhães Ferreira"}]},"title":"Modeling Investor Behavior Using Machine Learning: Mean-Reversion and Momentum Trading Strategies.","venue":"Complex.","volume":"2019","pages":"4325125:1-4325125:14","year":"2019","type":"Journal Articles","access":"open","key":"journals/complexity/SilvaTF19","doi":"10.1155/2019/4325125","ee":"https://doi.org/10.1155/2019/4325125","url":"https://dblp.org/rec/journals/complexity/SilvaTF19"},
+"url":"URL#1127853"
+},
+{
+"@score":"3",
+"@id":"1128405",
+"info":{"authors":{"author":[{"@pid":"07/5975","text":"Salvatore Carta"},{"@pid":"227/2073","text":"Andrea Corriga"},{"@pid":"123/7604","text":"Anselmo Ferreira"},{"@pid":"r/DiegoReforgiatoRecupero","text":"Diego Reforgiato Recupero"},{"@pid":"163/2538","text":"Roberto Saia"}]},"title":"A Holistic Auto-Configurable Ensemble Machine Learning Strategy for Financial Trading.","venue":"Comput.","volume":"7","number":"4","pages":"67","year":"2019","type":"Journal Articles","access":"open","key":"journals/computation/CartaCFRS19","doi":"10.3390/COMPUTATION7040067","ee":"https://doi.org/10.3390/computation7040067","url":"https://dblp.org/rec/journals/computation/CartaCFRS19"},
+"url":"URL#1128405"
+},
+{
+"@score":"3",
+"@id":"1128446",
+"info":{"authors":{"author":[{"@pid":"57/5198","text":"Francesco Rundo"},{"@pid":"238/4959","text":"Francesca Trenta"},{"@pid":"238/4802","text":"Agatino Luigi Di Stallo"},{"@pid":"b/SBattiato","text":"Sebastiano Battiato"}]},"title":"Advanced Markov-Based Machine Learning Framework for Making Adaptive Trading System.","venue":"Comput.","volume":"7","number":"1","pages":"4","year":"2019","type":"Journal Articles","access":"open","key":"journals/computation/RundoTSB19","doi":"10.3390/COMPUTATION7010004","ee":"https://doi.org/10.3390/computation7010004","url":"https://dblp.org/rec/journals/computation/RundoTSB19"},
+"url":"URL#1128446"
+},
+{
+"@score":"3",
+"@id":"1136086",
+"info":{"authors":{"author":[{"@pid":"232/8080","text":"Boming Huang"},{"@pid":"167/8478","text":"Yuxiang Huan"},{"@pid":"70/2433","text":"Li Da Xu"},{"@pid":"15/7206","text":"Lirong Zheng 0001"},{"@pid":"39/3602","text":"Zhuo Zou"}]},"title":"Automated trading systems statistical and machine learning methods and hardware implementation: a survey.","venue":"Enterp. Inf. Syst.","volume":"13","number":"1","pages":"132-144","year":"2019","type":"Journal Articles","access":"closed","key":"journals/eis/HuangHXZZ19","doi":"10.1080/17517575.2018.1493145","ee":"https://doi.org/10.1080/17517575.2018.1493145","url":"https://dblp.org/rec/journals/eis/HuangHXZZ19"},
+"url":"URL#1136086"
+},
+{
+"@score":"3",
+"@id":"1140586",
+"info":{"authors":{"author":[{"@pid":"202/8281","text":"Felipe D. Paiva"},{"@pid":"56/2805","text":"Rodrigo T. N. Cardoso"},{"@pid":"202/8366","text":"Gustavo P. Hanaoka"},{"@pid":"228/7649","text":"Wendel Moreira Duarte"}]},"title":"Decision-making for financial trading: A fusion approach of machine learning and portfolio selection.","venue":"Expert Syst. Appl.","volume":"115","pages":"635-655","year":"2019","type":"Journal Articles","access":"closed","key":"journals/eswa/PaivaCHD19","doi":"10.1016/J.ESWA.2018.08.003","ee":"https://doi.org/10.1016/j.eswa.2018.08.003","url":"https://dblp.org/rec/journals/eswa/PaivaCHD19"},
+"url":"URL#1140586"
+},
+{
+"@score":"3",
+"@id":"1167586",
+"info":{"authors":{"author":[{"@pid":"155/6632","text":"Yanqi Zhao"},{"@pid":"43/5685-2","text":"Yong Yu 0002"},{"@pid":"136/0901","text":"Yannan Li"},{"@pid":"48/3191","text":"Gang Han"},{"@pid":"22/5535","text":"Xiaojiang Du"}]},"title":"Machine learning based privacy-preserving fair data trading in big data market.","venue":"Inf. Sci.","volume":"478","pages":"449-460","year":"2019","type":"Journal Articles","access":"closed","key":"journals/isci/ZhaoYLHD19","doi":"10.1016/J.INS.2018.11.028","ee":"https://doi.org/10.1016/j.ins.2018.11.028","url":"https://dblp.org/rec/journals/isci/ZhaoYLHD19"},
+"url":"URL#1167586"
+},
+{
+"@score":"3",
+"@id":"1346542",
+"info":{"authors":{"author":[{"@pid":"39/2387","text":"Jifeng Sun"},{"@pid":"01/1901","text":"Yi Zhou"},{"@pid":"90/225","text":"Jianwu Lin"}]},"title":"Using machine learning for cryptocurrency trading.","venue":"ICPS","pages":"647-652","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphys/SunZL19","doi":"10.1109/ICPHYS.2019.8780358","ee":"https://doi.org/10.1109/ICPHYS.2019.8780358","url":"https://dblp.org/rec/conf/icphys/SunZL19"},
+"url":"URL#1346542"
+},
+{
+"@score":"3",
+"@id":"1380636",
+"info":{"authors":{"author":[{"@pid":"298/0115","text":"Napas Vinitnantharat"},{"@pid":"298/0110","text":"Narit Inchan"},{"@pid":"298/0161","text":"Thatthai Sakkumjorn"},{"@pid":"297/9513","text":"Kitsada Doungjitjaroen"},{"@pid":"42/4659","text":"Chukiat Worasucheep"}]},"title":"Quantitative Trading Machine Learning Using Differential Evolution Algorithm.","venue":"JCSSE","pages":"230-235","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/jcsse/VinitnantharatI19","doi":"10.1109/JCSSE.2019.8864226","ee":"https://doi.org/10.1109/JCSSE.2019.8864226","url":"https://dblp.org/rec/conf/jcsse/VinitnantharatI19"},
+"url":"URL#1380636"
+},
+{
+"@score":"3",
+"@id":"1393549",
+"info":{"authors":{"author":[{"@pid":"66/835","text":"Hiroki Sakaji"},{"@pid":"81/2587","text":"Akio Kobayashi"},{"@pid":"63/8101","text":"Masaki Kohana"},{"@pid":"30/1710","text":"Yasunao Takano"},{"@pid":"10/3765","text":"Kiyoshi Izumi"}]},"title":"Card Price Prediction of Trading Cards Using Machine Learning Methods.","venue":"NBiS","pages":"705-714","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/nbis/SakajiKKTI19","doi":"10.1007/978-3-030-29029-0_70","ee":"https://doi.org/10.1007/978-3-030-29029-0_70","url":"https://dblp.org/rec/conf/nbis/SakajiKKTI19"},
+"url":"URL#1393549"
+},
+{
+"@score":"3",
+"@id":"1412820",
+"info":{"authors":{"author":[{"@pid":"198/3907","text":"Giuseppe Attanasio"},{"@pid":"60/7439","text":"Luca Cagliero"},{"@pid":"g/PaoloGarza","text":"Paolo Garza"},{"@pid":"77/5283","text":"Elena Baralis"}]},"title":"Quantitative cryptocurrency trading: exploring the use of machine learning techniques.","venue":"DSMM@SIGMOD","pages":"1:1-1:6","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigmod/AttanasioCGB19","doi":"10.1145/3336499.3338003","ee":"https://doi.org/10.1145/3336499.3338003","url":"https://dblp.org/rec/conf/sigmod/AttanasioCGB19"},
+"url":"URL#1412820"
+},
+{
+"@score":"3",
+"@id":"1509789",
+"info":{"authors":{"author":[{"@pid":"142/9638","text":"Dominic Wright"},{"@pid":"63/6251","text":"Luca Capriotti"},{"@pid":"227/3883","text":"Jacky Lee"}]},"title":"Machine learning and corporate bond trading.","venue":"Algorithmic Finance","volume":"7","number":"3-4","pages":"105-110","year":"2018","type":"Journal Articles","access":"closed","key":"journals/af/WrightCL18","doi":"10.3233/AF-180258","ee":"https://doi.org/10.3233/AF-180258","url":"https://dblp.org/rec/journals/af/WrightCL18"},
+"url":"URL#1509789"
+},
+{
+"@score":"3",
+"@id":"1510779",
+"info":{"authors":{"author":[{"@pid":"48/3336","text":"Zhixi Li"},{"@pid":"47/6946","text":"Vincent W. L. Tam"}]},"title":"A Machine Learning View on Momentum and Reversal Trading.","venue":"Algorithms","volume":"11","number":"11","pages":"170","year":"2018","type":"Journal Articles","access":"open","key":"journals/algorithms/LiT18","doi":"10.3390/A11110170","ee":"https://doi.org/10.3390/a11110170","url":"https://dblp.org/rec/journals/algorithms/LiT18"},
+"url":"URL#1510779"
+},
+{
+"@score":"3",
+"@id":"1737587",
+"info":{"authors":{"author":[{"@pid":"201/1964","text":"Seok-Jun Bu"},{"@pid":"88/2576","text":"Sung-Bae Cho"}]},"title":"Learning Optimal Q-Function Using Deep Boltzmann Machine for Reliable Trading of Cryptocurrency.","venue":"IDEAL","pages":"468-480","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/ideal/BuC18","doi":"10.1007/978-3-030-03493-1_49","ee":"https://doi.org/10.1007/978-3-030-03493-1_49","url":"https://dblp.org/rec/conf/ideal/BuC18"},
+"url":"URL#1737587"
+},
+{
+"@score":"3",
+"@id":"1798107",
+"info":{"authors":{"author":[{"@pid":"167/0557","text":"Van-Dai Ta"},{"@pid":"58/2882","text":"Chuan-Ming Liu"},{"@pid":"232/0366","text":"Direselign Addis"}]},"title":"Prediction and Portfolio Optimization in Quantitative Trading Using Machine Learning Techniques.","venue":"SoICT","pages":"98-105","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/soict/TaLA18","doi":"10.1145/3287921.3287963","ee":"https://doi.org/10.1145/3287921.3287963","url":"https://dblp.org/rec/conf/soict/TaLA18"},
+"url":"URL#1798107"
+},
+{
+"@score":"3",
+"@id":"2203160",
+"info":{"authors":{"author":{"@pid":"140/1577","text":"Ash Booth"}},"title":"Automated algorithmic trading: machine learning and agent-based modelling in complex adaptive financial markets.","year":"2016","type":"Books and Theses","access":"closed","key":"phd/ethos/Booth16","ee":"https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.690300","url":"https://dblp.org/rec/phd/ethos/Booth16"},
+"url":"URL#2203160"
+},
+{
+"@score":"3",
+"@id":"2203637",
+"info":{"authors":{"author":{"@pid":"51/10855","text":"Mininder Sethi"}},"title":"Applied machine learning for systematic equities trading: trend detection, portfolio construction and order execution.","year":"2016","type":"Books and Theses","access":"closed","key":"phd/ethos/Sethi16","ee":"https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.785051","url":"https://dblp.org/rec/phd/ethos/Sethi16"},
+"url":"URL#2203637"
+},
+{
+"@score":"3",
+"@id":"2235236",
+"info":{"authors":{"author":[{"@pid":"151/3602","text":"Eduardo A. Gerlein"},{"@pid":"m/TMartinMcGinnity","text":"Thomas Martin McGinnity"},{"@pid":"80/4997","text":"Ammar Belatreche"},{"@pid":"18/1837","text":"Sonya A. Coleman"}]},"title":"Evaluating machine learning classification for financial trading: An empirical approach.","venue":"Expert Syst. Appl.","volume":"54","pages":"193-207","year":"2016","type":"Journal Articles","access":"closed","key":"journals/eswa/GerleinMBC16","doi":"10.1016/J.ESWA.2016.01.018","ee":"https://doi.org/10.1016/j.eswa.2016.01.018","url":"https://dblp.org/rec/journals/eswa/GerleinMBC16"},
+"url":"URL#2235236"
+},
+{
+"@score":"3",
+"@id":"2274269",
+"info":{"authors":{"author":[{"@pid":"a/AliNAkansu","text":"Ali N. Akansu"},{"@pid":"141/4359","text":"Dmitry Malioutov"},{"@pid":"03/1645","text":"Daniel P. Palomar"},{"@pid":"17/3984","text":"Emmanuelle Jay"},{"@pid":"41/6002","text":"Danilo P. Mandic"}]},"title":"Introduction to the Issue on Financial Signal Processing and Machine Learning for Electronic Trading.","venue":"IEEE J. Sel. Top. Signal Process.","volume":"10","number":"6","pages":"979-981","year":"2016","type":"Journal Articles","access":"closed","key":"journals/jstsp/AkansuMPJM16","doi":"10.1109/JSTSP.2016.2594458","ee":"https://doi.org/10.1109/JSTSP.2016.2594458","url":"https://dblp.org/rec/journals/jstsp/AkansuMPJM16"},
+"url":"URL#2274269"
+},
+{
+"@score":"3",
+"@id":"2514234",
+"info":{"authors":{"author":{"@pid":"118/8259","text":"Sergio Alvarez Teleña"}},"title":"Systematic trading : calibration advances through machine learning.","year":"2015","type":"Books and Theses","access":"closed","key":"phd/ethos/AlvarezTelena15","ee":"http://discovery.ucl.ac.uk/1461997/","url":"https://dblp.org/rec/phd/ethos/AlvarezTelena15"},
+"url":"URL#2514234"
+},
+{
+"@score":"3",
+"@id":"2805283",
+"info":{"authors":{"author":[{"@pid":"150/6958","text":"Abhijit Sharang"},{"@pid":"173/5097","text":"Chetan Rao"}]},"title":"Using machine learning for medium frequency derivative portfolio trading.","venue":"CoRR","volume":"abs/1512.06228","year":"2015","type":"Informal Publications","access":"open","key":"journals/corr/SharangR15","ee":"http://arxiv.org/abs/1512.06228","url":"https://dblp.org/rec/journals/corr/SharangR15"},
+"url":"URL#2805283"
+},
+{
+"@score":"3",
+"@id":"2936438",
+"info":{"authors":{"author":{"@pid":"93/76","text":"Dymitr Ruta"}},"title":"Automated Trading with Machine Learning on Big Data.","venue":"BigData Congress","pages":"824-830","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/bigdata/Ruta14","doi":"10.1109/BIGDATA.CONGRESS.2014.143","ee":"https://doi.org/10.1109/BigData.Congress.2014.143","url":"https://dblp.org/rec/conf/bigdata/Ruta14"},
+"url":"URL#2936438"
+},
+{
+"@score":"3",
+"@id":"2999522",
+"info":{"authors":{"author":[{"@pid":"26/10827","text":"Jinli Hu"},{"@pid":"13/4446","text":"Amos J. Storkey"}]},"title":"Multi-period Trading Prediction Markets with Connections to Machine Learning.","venue":"ICML","pages":"1773-1781","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/icml/HuS14","ee":"http://proceedings.mlr.press/v32/hu14.html","url":"https://dblp.org/rec/conf/icml/HuS14"},
+"url":"URL#2999522"
+},
+{
+"@score":"3",
+"@id":"3090210",
+"info":{"authors":{"author":[{"@pid":"26/10827","text":"Jinli Hu"},{"@pid":"13/4446","text":"Amos J. Storkey"}]},"title":"Multi-period Trading Prediction Markets with Connections to Machine Learning.","venue":"CoRR","volume":"abs/1403.0648","year":"2014","type":"Informal Publications","access":"open","key":"journals/corr/HuS14","ee":"http://arxiv.org/abs/1403.0648","url":"https://dblp.org/rec/journals/corr/HuS14"},
+"url":"URL#3090210"
+},
+{
+"@score":"3",
+"@id":"3207793",
+"info":{"authors":{"author":[{"@pid":"138/5606","text":"Jaime Parra Jr."},{"@pid":"95/1694","text":"Christopher Kiekintveld"}]},"title":"Initial Exploration of Machine Learning to Predict Customer Demand in an Energy Market Simulation.","venue":"AAAI Workshop - Trading Agent Design and Analysis","year":"2013","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/aaai/ParraK13","ee":"http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7150","url":"https://dblp.org/rec/conf/aaai/ParraK13"},
+"url":"URL#3207793"
+},
+{
+"@score":"3",
+"@id":"3288600",
+"info":{"authors":{"author":[{"@pid":"85/3001","text":"Jarley Palmeira Nóbrega"},{"@pid":"80/3742","text":"Adriano Lorena Inácio de Oliveira"}]},"title":"Improving the Statistical Arbitrage Strategy in Intraday Trading by Combining Extreme Learning Machine and Support Vector Regression with Linear Regression Models.","venue":"ICTAI","pages":"182-188","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictai/NobregaO13","doi":"10.1109/ICTAI.2013.36","ee":"https://doi.org/10.1109/ICTAI.2013.36","url":"https://dblp.org/rec/conf/ictai/NobregaO13"},
+"url":"URL#3288600"
+},
+{
+"@score":"3",
+"@id":"3435032",
+"info":{"authors":{"author":[{"@pid":"37/9609","text":"Ayoub Alsarhan"},{"@pid":"38/3984","text":"Anjali Agarwal"}]},"title":"Optimizing Spectrum Trading in Cognitive Mesh Network Using Machine Learning.","venue":"J. Electr. Comput. Eng.","volume":"2012","pages":"562615:1-562615:12","year":"2012","type":"Journal Articles","access":"open","key":"journals/jece/AlsarhanA12","doi":"10.1155/2012/562615","ee":"https://doi.org/10.1155/2012/562615","url":"https://dblp.org/rec/journals/jece/AlsarhanA12"},
+"url":"URL#3435032"
+},
+{
+"@score":"3",
+"@id":"3873288",
+"info":{"authors":{"author":[{"@pid":"e/HaythamElghazel","text":"Haytham Elghazel"},{"@pid":"a/AAussem","text":"Alex Aussem"},{"@pid":"52/4940","text":"Florence Perraud"}]},"title":"Trading-Off Diversity and Accuracy for Optimal Ensemble Tree Selection in Random Forests.","venue":"Ensembles in Machine Learning Applications","pages":"169-179","year":"2011","type":"Parts in Books or Collections","access":"closed","key":"series/sci/ElghazelAP11","doi":"10.1007/978-3-642-22910-7_10","ee":"https://doi.org/10.1007/978-3-642-22910-7_10","url":"https://dblp.org/rec/series/sci/ElghazelAP11"},
+"url":"URL#3873288"
+},
+{
+"@score":"3",
+"@id":"5013032",
+"info":{"authors":{"author":[{"@pid":"91/3386","text":"Andrei Hryshko"},{"@pid":"64/3941","text":"Tom Downs"}]},"title":"A Machine Learning Approach to Intraday Trading on Foreign Exchange Markets.","venue":"IDEAL","pages":"588-595","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ideal/HryshkoD05","doi":"10.1007/11508069_76","ee":"https://doi.org/10.1007/11508069_76","url":"https://dblp.org/rec/conf/ideal/HryshkoD05"},
+"url":"URL#5013032"
+},
+{
+"@score":"3",
+"@id":"5466424",
+"info":{"authors":{"author":{"@pid":"71/3872","text":"Belinda Thom"}},"title":"Machine Learning Techniques for Real-time Improvisational Solo Trading.","venue":"ICMC","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/icmc/Thom01","ee":"https://hdl.handle.net/2027/spo.bbp2372.2001.106","url":"https://dblp.org/rec/conf/icmc/Thom01"},
+"url":"URL#5466424"
+}
+]
+}
+}
+}

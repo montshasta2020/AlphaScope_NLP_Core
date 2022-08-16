@@ -1,0 +1,1189 @@
+{
+"result":{
+"query":"machine* learning* stock*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"53.16"
+},
+"completions":{
+"@total":"12",
+"@computed":"12",
+"@sent":"10",
+"c":[
+{
+"@sc":"146",
+"@dc":"138",
+"@oc":"146",
+"@id":"47124640",
+"text":"stock"
+},
+{
+"@sc":"18",
+"@dc":"18",
+"@oc":"18",
+"@id":"47124716",
+"text":"stockholm"
+},
+{
+"@sc":"8",
+"@dc":"6",
+"@oc":"8",
+"@id":"47124792",
+"text":"stocks"
+},
+{
+"@sc":"7",
+"@dc":"4",
+"@oc":"7",
+"@id":"47124860",
+"text":"stoecker"
+},
+{
+"@sc":"6",
+"@dc":"6",
+"@oc":"6",
+"@id":"47124684",
+"text":"stocker"
+},
+{
+"@sc":"4",
+"@dc":"4",
+"@oc":"4",
+"@id":"47124729",
+"text":"stockinger"
+},
+{
+"@sc":"3",
+"@dc":"3",
+"@oc":"3",
+"@id":"47124702",
+"text":"stockham"
+},
+{
+"@sc":"2",
+"@dc":"2",
+"@oc":"2",
+"@id":"47124664",
+"text":"stockdale"
+},
+{
+"@sc":"2",
+"@dc":"2",
+"@oc":"2",
+"@id":"47131936",
+"text":"stöcker"
+},
+{
+"@sc":"2",
+"@dc":"1",
+"@oc":"2",
+"@id":"47124718",
+"text":"stockholmsmässan"
+}
+]
+},
+"hits":{
+"@total":"182",
+"@computed":"182",
+"@sent":"182",
+"@first":"0",
+"hit":[{
+"@score":"7",
+"@id":"1817254",
+"info":{"authors":{"author":[{"@pid":"24/6000","text":"Jennifer G. Dy"},{"@pid":"87/1831-1","text":"Andreas Krause 0001"}]},"title":"Proceedings of the 35th International Conference on Machine Learning, ICML 2018, Stockholmsmässan, Stockholm, Sweden, July 10-15, 2018","venue":["ICML","Proceedings of Machine Learning Research"],"volume":"80","publisher":"PMLR","year":"2018","type":"Editorship","access":"open","key":"conf/icml/2018","ee":"http://proceedings.mlr.press/v80/","url":"https://dblp.org/rec/conf/icml/2018"},
+"url":"URL#1817254"
+},
+{
+"@score":"5",
+"@id":"10136",
+"info":{"authors":{"author":[{"@pid":"262/7404","text":"Manrui Jiang"},{"@pid":"201/0715","text":"Lifen Jia"},{"@pid":"160/5999-1","text":"Zhensong Chen 0001"},{"@pid":"c/WeiChen-61","text":"Wei Chen 0061"}]},"title":"The two-stage machine learning ensemble models for stock price prediction by combining mode decomposition, extreme learning machine and improved harmony search algorithm.","venue":"Ann. Oper. Res.","volume":"309","number":"2","pages":"553-585","year":"2022","type":"Journal Articles","access":"closed","key":"journals/anor/JiangJCC22","doi":"10.1007/S10479-020-03690-W","ee":"https://doi.org/10.1007/s10479-020-03690-w","url":"https://dblp.org/rec/journals/anor/JiangJCC22"},
+"url":"URL#10136"
+},
+{
+"@score":"5",
+"@id":"334662",
+"info":{"authors":{"author":[{"@pid":"140/1229","text":"Lingxiao Wang"},{"@pid":"07/2985","text":"Tian Xu"},{"@pid":"280/0241","text":"Till Hannes Stoecker"},{"@pid":"94/9498","text":"Horst Stöcker"},{"@pid":"275/8844","text":"Yin Jiang"},{"@pid":"82/1512","text":"Kai Zhou"}]},"title":"Machine learning spatio-temporal epidemiological model to evaluate Germany-county-level COVID-19 risk.","venue":"Mach. Learn. Sci. Technol.","volume":"2","number":"3","pages":"35031","year":"2021","type":"Journal Articles","access":"open","key":"journals/mlst/WangXSSJZ21","doi":"10.1088/2632-2153/AC0314","ee":"https://doi.org/10.1088/2632-2153/ac0314","url":"https://dblp.org/rec/journals/mlst/WangXSSJZ21"},
+"url":"URL#334662"
+},
+{
+"@score":"5",
+"@id":"1076639",
+"info":{"authors":{"author":[{"@pid":"140/1229-6","text":"Lingxiao Wang 0006"},{"@pid":"07/2985","text":"Tian Xu"},{"@pid":"280/0241","text":"Till Hannes Stoecker"},{"@pid":"94/9498","text":"Horst Stöcker"},{"@pid":"275/8844","text":"Yin Jiang"},{"@pid":"82/1512","text":"Kai Zhou"}]},"title":"Machine learning spatio-temporal epidemiological model to evaluate Germany-county-level COVID-19 risk.","venue":"CoRR","volume":"abs/2012.00082","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2012-00082","ee":"https://arxiv.org/abs/2012.00082","url":"https://dblp.org/rec/journals/corr/abs-2012-00082"},
+"url":"URL#1076639"
+},
+{
+"@score":"5",
+"@id":"3824046",
+"info":{"authors":{"author":[{"@pid":"40/10919","text":"Hyun Joon Jung"},{"@pid":"a/JakeKAggarwal","text":"J. K. Aggarwal"}]},"title":"A Binary Stock Event Model for stock trends forecasting: Forecasting stock trends via a simple and accurate approach with machine learning.","venue":"ISDA","pages":"714-719","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/isda/JungA11","doi":"10.1109/ISDA.2011.6121740","ee":"https://doi.org/10.1109/ISDA.2011.6121740","url":"https://dblp.org/rec/conf/isda/JungA11"},
+"url":"URL#3824046"
+},
+{
+"@score":"4",
+"@id":"220503",
+"info":{"authors":{"author":{"@pid":"164/9013","text":"Vidit Saxena"}},"title":"Machine Learning for Wireless Link Adaptation: Supervised and Reinforcement Learning Theory and Algorithms.","year":"2021","type":"Books and Theses","access":"closed","key":"phd/basesearch/Saxena21a","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-293545","url":"https://dblp.org/rec/phd/basesearch/Saxena21a"},
+"url":"URL#220503"
+},
+{
+"@score":"4",
+"@id":"560919",
+"info":{"authors":{"author":[{"@pid":"310/3676","text":"Alireza Ghasemieh"},{"@pid":"153/2937","text":"Rasha Kashef 0001"}]},"title":"Deep Learning Vs. Machine Learning in Predicting the Future Trend of Stock Market Prices.","venue":"SMC","pages":"3429-3435","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/smc/Ghasemieh021","doi":"10.1109/SMC52423.2021.9658938","ee":"https://doi.org/10.1109/SMC52423.2021.9658938","url":"https://dblp.org/rec/conf/smc/Ghasemieh021"},
+"url":"URL#560919"
+},
+{
+"@score":"4",
+"@id":"644900",
+"info":{"authors":{"author":[{"@pid":"305/4372","text":"Ananda Chatterjee"},{"@pid":"305/3817","text":"Hrisav Bhowmick"},{"@pid":"28/1484","text":"Jaydip Sen"}]},"title":"Stock Price Prediction Using Time Series, Econometric, Machine Learning, and Deep Learning Models.","venue":"CoRR","volume":"abs/2111.01137","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2111-01137","ee":"https://arxiv.org/abs/2111.01137","url":"https://dblp.org/rec/journals/corr/abs-2111-01137"},
+"url":"URL#644900"
+},
+{
+"@score":"4",
+"@id":"660513",
+"info":{"authors":{"author":{"@pid":"176/9033","text":"Daniel Jörgens"}},"title":"Development and application of rule- and learning-based approaches within the scope of neuroimaging: Tensor voting, tractography and machine learning.","year":"2020","type":"Books and Theses","access":"closed","key":"phd/basesearch/Jorgens20","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-272728","url":"https://dblp.org/rec/phd/basesearch/Jorgens20"},
+"url":"URL#660513"
+},
+{
+"@score":"4",
+"@id":"674246",
+"info":{"authors":{"author":[{"@pid":"262/3304","text":"Mojtaba Nabipour"},{"@pid":"262/3803","text":"Pooyan Nayyeri"},{"@pid":"262/3793","text":"Hamed Jabani"},{"@pid":"81/11074","text":"Shahaboddin Shamshirband"},{"@pid":"42/7716","text":"Amir Mosavi"}]},"title":"Predicting Stock Market Trends Using Machine Learning and Deep Learning Algorithms Via Continuous and Binary Data; a Comparative Analysis.","venue":"IEEE Access","volume":"8","pages":"150199-150212","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/NabipourNJSM20","doi":"10.1109/ACCESS.2020.3015966","ee":"https://doi.org/10.1109/ACCESS.2020.3015966","url":"https://dblp.org/rec/journals/access/NabipourNJSM20"},
+"url":"URL#674246"
+},
+{
+"@score":"4",
+"@id":"680430",
+"info":{"authors":{"author":[{"@pid":"18/10950","text":"Xianghui Yuan"},{"@pid":"98/609","text":"Jin Yuan"},{"@pid":"258/5587","text":"Tianzhao Jiang"},{"@pid":"235/0584","text":"Qurat Ul Ain"}]},"title":"Integrated Long-Term Stock Selection Models Based on Feature Selection and Machine Learning Algorithms for China Stock Market.","venue":"IEEE Access","volume":"8","pages":"22672-22685","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/YuanYJA20","doi":"10.1109/ACCESS.2020.2969293","ee":"https://doi.org/10.1109/ACCESS.2020.2969293","url":"https://dblp.org/rec/journals/access/YuanYJA20"},
+"url":"URL#680430"
+},
+{
+"@score":"4",
+"@id":"688308",
+"info":{"authors":{"author":[{"@pid":"272/1320","text":"Mohd Sabri Ismail"},{"@pid":"10/9605","text":"Mohd Salmi Md Noorani"},{"@pid":"93/9322","text":"Munira Ismail"},{"@pid":"135/6300","text":"Fatimah Abdul Razak"},{"@pid":"263/8464","text":"Mohd Almie Alias"}]},"title":"Predicting next day direction of stock price movement using machine learning methods with persistent homology: Evidence from Kuala Lumpur Stock Exchange.","venue":"Appl. Soft Comput.","volume":"93","pages":"106422","year":"2020","type":"Journal Articles","access":"closed","key":"journals/asc/IsmailNIRA20","doi":"10.1016/J.ASOC.2020.106422","ee":"https://doi.org/10.1016/j.asoc.2020.106422","url":"https://dblp.org/rec/journals/asc/IsmailNIRA20"},
+"url":"URL#688308"
+},
+{
+"@score":"4",
+"@id":"933714",
+"info":{"authors":{"author":[{"@pid":"48/2268","text":"Pratik Patil"},{"@pid":"261/0473","text":"Ching-Seh Mike Wu"},{"@pid":"39/4374","text":"Katerina Potika"},{"@pid":"261/0490","text":"Marjan Orang"}]},"title":"Stock Market Prediction Using Ensemble of Graph Theory, Machine Learning and Deep Learning Models.","venue":"ICSIM","pages":"85-92","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icsim/PatilWPO20","doi":"10.1145/3378936.3378972","ee":"https://doi.org/10.1145/3378936.3378972","url":"https://dblp.org/rec/conf/icsim/PatilWPO20"},
+"url":"URL#933714"
+},
+{
+"@score":"4",
+"@id":"1005556",
+"info":{"authors":{"author":[{"@pid":"86/10313","text":"Jong Hun Woo"},{"@pid":"13/10488","text":"Young In Cho"},{"@pid":"289/4714","text":"Sang Hyeon Yu"},{"@pid":"289/4695","text":"So Hyun Nam"},{"@pid":"194/0512","text":"Haoyu Zhu"},{"@pid":"87/11193","text":"Dong-Hoon Kwak"},{"@pid":"176/1606","text":"Jong Ho Nam"}]},"title":"Machine Learning (Reinforcement Learning)-Based Steel Stock Yard Planning Algorithm.","venue":"WSC","pages":"1560-1571","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/wsc/WooCYNZKN20","doi":"10.1109/WSC48552.2020.9384049","ee":"https://doi.org/10.1109/WSC48552.2020.9384049","url":"https://dblp.org/rec/conf/wsc/WooCYNZKN20"},
+"url":"URL#1005556"
+},
+{
+"@score":"4",
+"@id":"1031293",
+"info":{"authors":{"author":[{"@pid":"255/7268","text":"Sidra Mehtab"},{"@pid":"28/1484","text":"Jaydip Sen"}]},"title":"A Time Series Analysis-Based Stock Price Prediction Using Machine Learning and Deep Learning Models.","venue":"CoRR","volume":"abs/2004.11697","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2004-11697","ee":"https://arxiv.org/abs/2004.11697","url":"https://dblp.org/rec/journals/corr/abs-2004-11697"},
+"url":"URL#1031293"
+},
+{
+"@score":"4",
+"@id":"1061416",
+"info":{"authors":{"author":[{"@pid":"255/7268","text":"Sidra Mehtab"},{"@pid":"28/1484","text":"Jaydip Sen"},{"@pid":"96/9669-2","text":"Abhishek Dutta 0002"}]},"title":"Stock Price Prediction Using Machine Learning and LSTM-Based Deep Learning Models.","venue":"CoRR","volume":"abs/2009.10819","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2009-10819","ee":"https://arxiv.org/abs/2009.10819","url":"https://dblp.org/rec/journals/corr/abs-2009-10819"},
+"url":"URL#1061416"
+},
+{
+"@score":"4",
+"@id":"1126600",
+"info":{"authors":{"author":[{"@pid":"157/4436","text":"Michal Król"},{"@pid":"204/5931","text":"Magdalena Ewa Król"}]},"title":"Learning From Peers&apos; Eye Movements in the Absence of Expert Guidance: A Proof of Concept Using Laboratory Stock Trading, Eye Tracking, and Machine Learning.","venue":"Cogn. Sci.","volume":"43","number":"2","year":"2019","type":"Journal Articles","access":"closed","key":"journals/cogsci/KrolK19","doi":"10.1111/COGS.12716","ee":"https://doi.org/10.1111/cogs.12716","url":"https://dblp.org/rec/journals/cogsci/KrolK19"},
+"url":"URL#1126600"
+},
+{
+"@score":"4",
+"@id":"1166769",
+"info":{"authors":{"author":[{"@pid":"258/9112","text":"Mahla Nikou"},{"@pid":"258/8704","text":"Gholamreza Mansourfar"},{"@pid":"42/8275","text":"Jamshid Bagherzadeh"}]},"title":"Stock price prediction using DEEP learning algorithm and its comparison with machine learning algorithms.","venue":"Intell. Syst. Account. Finance Manag.","volume":"26","number":"4","pages":"164-174","year":"2019","type":"Journal Articles","access":"closed","key":"journals/isafm/NikouMB19","doi":"10.1002/ISAF.1459","ee":"https://doi.org/10.1002/isaf.1459","url":"https://dblp.org/rec/journals/isafm/NikouMB19"},
+"url":"URL#1166769"
+},
+{
+"@score":"4",
+"@id":"1296959",
+"info":{"authors":{"author":[{"@pid":"240/9480","text":"Nagaraj Naik"},{"@pid":"144/8304","text":"Biju R. Mohan"}]},"title":"Stock Price Movements Classification Using Machine and Deep Learning Techniques-The Case Study of Indian Stock Market.","venue":"EANN","pages":"445-452","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/eann/NaikM19","doi":"10.1007/978-3-030-20257-6_38","ee":"https://doi.org/10.1007/978-3-030-20257-6_38","url":"https://dblp.org/rec/conf/eann/NaikM19"},
+"url":"URL#1296959"
+},
+{
+"@score":"4",
+"@id":"1795190",
+"info":{"authors":{"author":[{"@pid":"225/3306","text":"Sefa Tekin"},{"@pid":"40/6470","text":"Ethem Çanakoglu"}]},"title":"Prediction of stock returns in Istanbul stock exchange using machine learning methods.","venue":"SIU","pages":"1-4","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/siu/TekinC18","doi":"10.1109/SIU.2018.8404607","ee":"https://doi.org/10.1109/SIU.2018.8404607","url":"https://dblp.org/rec/conf/siu/TekinC18"},
+"url":"URL#1795190"
+},
+{
+"@score":"4",
+"@id":"1816440",
+"info":{"authors":{"author":[{"@pid":"35/4292","text":"Sébastien Bubeck"},{"@pid":"83/7398","text":"Vianney Perchet"},{"@pid":"05/5072","text":"Philippe Rigollet"}]},"title":"Conference On Learning Theory, COLT 2018, Stockholm, Sweden, 6-9 July 2018.","venue":["COLT","Proceedings of Machine Learning Research"],"volume":"75","publisher":"PMLR","year":"2018","type":"Editorship","access":"open","key":"conf/colt/2018","ee":"http://proceedings.mlr.press/v75/","url":"https://dblp.org/rec/conf/colt/2018"},
+"url":"URL#1816440"
+},
+{
+"@score":"4",
+"@id":"2013426",
+"info":{"authors":{"author":[{"@pid":"09/7213","text":"Yang Jiao"},{"@pid":"25/4436","text":"Jérémie Jakubowicz"}]},"title":"Predicting stock movement direction with machine learning: An extensive study on S&amp;P 500 stocks.","venue":"IEEE BigData","pages":"4705-4713","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/bigdataconf/JiaoJ17","doi":"10.1109/BIGDATA.2017.8258518","ee":"https://doi.org/10.1109/BigData.2017.8258518","url":"https://dblp.org/rec/conf/bigdataconf/JiaoJ17"},
+"url":"URL#2013426"
+},
+{
+"@score":"4",
+"@id":"2316849",
+"info":{"authors":{"author":[{"@pid":"77/9538","text":"Freeha Azmat"},{"@pid":"93/4847-1","text":"Yunfei Chen 0001"},{"@pid":"53/8763","text":"Nigel Stocks"}]},"title":"Analysis of Spectrum Occupancy Using Machine Learning Algorithms.","venue":"IEEE Trans. Veh. Technol.","volume":"65","number":"9","pages":"6853-6860","year":"2016","type":"Journal Articles","access":"closed","key":"journals/tvt/AzmatCS16","doi":"10.1109/TVT.2015.2487047","ee":"https://doi.org/10.1109/TVT.2015.2487047","url":"https://dblp.org/rec/journals/tvt/AzmatCS16"},
+"url":"URL#2316849"
+},
+{
+"@score":"4",
+"@id":"2460830",
+"info":{"authors":{"author":[{"@pid":"238/1992","text":"Badre Labiad"},{"@pid":"15/1026","text":"Abdelaziz Berrado"},{"@pid":"210/1037","text":"Loubna Benabbou"}]},"title":"Machine learning techniques for short term stock movements classification for Moroccan stock exchange.","venue":"SITA","pages":"1-6","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/sita/LabiadBB16","doi":"10.1109/SITA.2016.7772259","ee":"https://doi.org/10.1109/SITA.2016.7772259","url":"https://dblp.org/rec/conf/sita/LabiadBB16"},
+"url":"URL#2460830"
+},
+{
+"@score":"4",
+"@id":"2545761",
+"info":{"authors":{"author":[{"@pid":"49/5187","text":"Jigar Patel"},{"@pid":"149/4653","text":"Sahil Shah"},{"@pid":"151/0490","text":"Priyank Thakkar"},{"@pid":"66/1119","text":"Ketan Kotecha"}]},"title":"Predicting stock and stock price index movement using Trend Deterministic Data Preparation and machine learning techniques.","venue":"Expert Syst. Appl.","volume":"42","number":"1","pages":"259-268","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eswa/PatelSTK15","doi":"10.1016/J.ESWA.2014.07.040","ee":"https://doi.org/10.1016/j.eswa.2014.07.040","url":"https://dblp.org/rec/journals/eswa/PatelSTK15"},
+"url":"URL#2545761"
+},
+{
+"@score":"4",
+"@id":"2792073",
+"info":{"authors":{"author":[{"@pid":"77/9538","text":"Freeha Azmat"},{"@pid":"93/4847-1","text":"Yunfei Chen 0001"},{"@pid":"53/8763","text":"Nigel Stocks"}]},"title":"Analysis of Spectrum Occupancy Using Machine Learning Algorithms.","venue":"CoRR","volume":"abs/1503.07104","year":"2015","type":"Informal Publications","access":"open","key":"journals/corr/AzmatCS15","ee":"http://arxiv.org/abs/1503.07104","url":"https://dblp.org/rec/journals/corr/AzmatCS15"},
+"url":"URL#2792073"
+},
+{
+"@score":"4",
+"@id":"3013144",
+"info":{"authors":{"author":[{"@pid":"90/4225-37","text":"Feng Wang 0037"},{"@pid":"42/6176","text":"Zhiyong Zhao"},{"@pid":"50/3993-7","text":"Xiaodong Li 0007"},{"@pid":"08/3571-4","text":"Fei Yu 0004"},{"@pid":"55/2270","text":"Hao Zhang"}]},"title":"Stock volatility prediction using multi-kernel learning based extreme learning machine.","venue":"IJCNN","pages":"3078-3085","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/WangZLYZ14","doi":"10.1109/IJCNN.2014.6889651","ee":"https://doi.org/10.1109/IJCNN.2014.6889651","url":"https://dblp.org/rec/conf/ijcnn/WangZLYZ14"},
+"url":"URL#3013144"
+},
+{
+"@score":"4",
+"@id":"4872916",
+"info":{"authors":{"author":[{"@pid":"29/5430","text":"M. Emre Celebi 0001"},{"@pid":"33/1999","text":"Hassan A. Kingravi"},{"@pid":"09/3068","text":"Y. Alp Aslandogan"},{"@pid":"41/579","text":"William V. Stoecker"}]},"title":"Detection of blue-white veil areas in dermoscopy images using machine learning techniques.","venue":"Medical Imaging - Image Processing","pages":"61445T","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/miip/CelebiKAS06","doi":"10.1117/12.655779","ee":"https://doi.org/10.1117/12.655779","url":"https://dblp.org/rec/conf/miip/CelebiKAS06"},
+"url":"URL#4872916"
+},
+{
+"@score":"3",
+"@id":"511",
+"info":{"authors":{"author":{"@pid":"175/3324-48","text":"Hao Chen 0048"}},"title":"Reliable and Efficient Distributed Machine Learning.","year":"2022","type":"Books and Theses","access":"closed","key":"phd/basesearch/Chen22","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-310374","url":"https://dblp.org/rec/phd/basesearch/Chen22"},
+"url":"URL#511"
+},
+{
+"@score":"3",
+"@id":"20621",
+"info":{"authors":{"author":[{"@pid":"310/5953","text":"Venkata Vara Prasad"},{"@pid":"323/5811","text":"Srinivas Gumparthi"},{"@pid":"323/4573","text":"Lokeswari Y. Venkataramana"},{"@pid":"323/4737","text":"S. Srinethe"},{"@pid":"323/4377","text":"R. M. Sruthi Sree"},{"@pid":"323/5679","text":"K. Nishanthi"}]},"title":"Prediction of Stock Prices Using Statistical and Machine Learning Models: A Comparative Analysis.","venue":"Comput. J.","volume":"65","number":"5","pages":"1338-1351","year":"2022","type":"Journal Articles","access":"closed","key":"journals/cj/PrasadGVSSN22","doi":"10.1093/COMJNL/BXAB008","ee":"https://doi.org/10.1093/comjnl/bxab008","url":"https://dblp.org/rec/journals/cj/PrasadGVSSN22"},
+"url":"URL#20621"
+},
+{
+"@score":"3",
+"@id":"31455",
+"info":{"authors":{"author":[{"@pid":"269/9551","text":"Sebastian Raubitzek"},{"@pid":"96/775","text":"Thomas Neubauer"}]},"title":"An Exploratory Study on the Complexity and Machine Learning Predictability of Stock Market Data.","venue":"Entropy","volume":"24","number":"3","pages":"332","year":"2022","type":"Journal Articles","access":"open","key":"journals/entropy/RaubitzekN22","doi":"10.3390/E24030332","ee":"https://doi.org/10.3390/e24030332","url":"https://dblp.org/rec/journals/entropy/RaubitzekN22"},
+"url":"URL#31455"
+},
+{
+"@score":"3",
+"@id":"33653",
+"info":{"authors":{"author":[{"@pid":"264/9206","text":"Mahinda Mailagaha Kumbure"},{"@pid":"221/9636","text":"Christoph Lohrmann"},{"@pid":"57/4988","text":"Pasi Luukka"},{"@pid":"66/741","text":"Jari Porras"}]},"title":"Machine learning techniques and data for stock market forecasting: A literature review.","venue":"Expert Syst. Appl.","volume":"197","pages":"116659","year":"2022","type":"Journal Articles","access":"open","key":"journals/eswa/KumbureLLP22","doi":"10.1016/J.ESWA.2022.116659","ee":"https://doi.org/10.1016/j.eswa.2022.116659","url":"https://dblp.org/rec/journals/eswa/KumbureLLP22"},
+"url":"URL#33653"
+},
+{
+"@score":"3",
+"@id":"51226",
+"info":{"authors":{"author":[{"@pid":"269/6476","text":"Wasiat Khan"},{"@pid":"40/7943","text":"Mustansar Ali Ghazanfar"},{"@pid":"22/10812","text":"Muhammad Awais Azam"},{"@pid":"147/1849","text":"Amin Karami"},{"@pid":"229/4150","text":"Khaled Hamed Alyoubi"},{"@pid":"218/0922","text":"Ahmed S. Alfakeeh"}]},"title":"Stock market prediction using machine learning classifiers and social media, news.","venue":"J. Ambient Intell. Humaniz. Comput.","volume":"13","number":"7","pages":"3433-3456","year":"2022","type":"Journal Articles","access":"closed","key":"journals/jaihc/KhanGAKAA22","doi":"10.1007/S12652-020-01839-W","ee":"https://doi.org/10.1007/s12652-020-01839-w","url":"https://dblp.org/rec/journals/jaihc/KhanGAKAA22"},
+"url":"URL#51226"
+},
+{
+"@score":"3",
+"@id":"56813",
+"info":{"authors":{"author":[{"@pid":"295/0376","text":"Benjamin James Ralph"},{"@pid":"295/1458","text":"Marcel Sorger"},{"@pid":"177/4541","text":"Karin Hartl"},{"@pid":"311/9508","text":"Andreas Schwarz-Gsaxner"},{"@pid":"207/1078","text":"Florian Messner"},{"@pid":"295/0515","text":"Martin Stockinger"}]},"title":"Transformation of a rolling mill aggregate to a cyber physical production system: from sensor retrofitting to machine learning.","venue":"J. Intell. Manuf.","volume":"33","number":"2","pages":"493-518","year":"2022","type":"Journal Articles","access":"closed","key":"journals/jim/RalphSHSMS22","doi":"10.1007/S10845-021-01856-2","ee":"https://doi.org/10.1007/s10845-021-01856-2","url":"https://dblp.org/rec/journals/jim/RalphSHSMS22"},
+"url":"URL#56813"
+},
+{
+"@score":"3",
+"@id":"68289",
+"info":{"authors":{"author":[{"@pid":"310/8505","text":"Sudeepa Das"},{"@pid":"185/7349","text":"Tirath Prasad Sahu"},{"@pid":"60/7724","text":"Rekh Ram Janghel"},{"@pid":"126/2290","text":"Binod Kumar Sahu"}]},"title":"Effective forecasting of stock market price by using extreme learning machine optimized by PSO-based group oriented crow search algorithm.","venue":"Neural Comput. Appl.","volume":"34","number":"1","pages":"555-591","year":"2022","type":"Journal Articles","access":"closed","key":"journals/nca/DasSJS22","doi":"10.1007/S00521-021-06403-X","ee":"https://doi.org/10.1007/s00521-021-06403-x","url":"https://dblp.org/rec/journals/nca/DasSJS22"},
+"url":"URL#68289"
+},
+{
+"@score":"3",
+"@id":"86952",
+"info":{"authors":{"author":[{"@pid":"307/6242","text":"Akhilesh Kumar Srivastava"},{"@pid":"153/0327","text":"Anand Srivastava"},{"@pid":"123/3484","text":"Siddhartha Singh"},{"@pid":"307/6183","text":"S. Sugandha"},{"@pid":"262/9581","text":"Tripta"},{"@pid":"69/8229","text":"Shubham Gupta"}]},"title":"Design of Machine-Learning Classifier for Stock Market Prediction.","venue":"SN Comput. Sci.","volume":"3","number":"1","pages":"88","year":"2022","type":"Journal Articles","access":"closed","key":"journals/sncs/SrivastavaSSSTG22","doi":"10.1007/S42979-021-00970-5","ee":"https://doi.org/10.1007/s42979-021-00970-5","url":"https://dblp.org/rec/journals/sncs/SrivastavaSSSTG22"},
+"url":"URL#86952"
+},
+{
+"@score":"3",
+"@id":"87437",
+"info":{"authors":{"author":[{"@pid":"16/1041","text":"Yue Qiu"},{"@pid":"314/4872","text":"Zhewei Song"},{"@pid":"160/5999-1","text":"Zhensong Chen 0001"}]},"title":"Short-term stock trends prediction based on sentiment analysis and machine learning.","venue":"Soft Comput.","volume":"26","number":"5","pages":"2209-2224","year":"2022","type":"Journal Articles","access":"closed","key":"journals/soco/QiuSC22","doi":"10.1007/S00500-021-06602-7","ee":"https://doi.org/10.1007/s00500-021-06602-7","url":"https://dblp.org/rec/journals/soco/QiuSC22"},
+"url":"URL#87437"
+},
+{
+"@score":"3",
+"@id":"110062",
+"info":{"authors":{"author":[{"@pid":"203/0155","text":"Md Meftahul Ferdaus"},{"@pid":"153/2380","text":"Ripon K. Chakrabortty"},{"@pid":"87/3168","text":"Michael J. Ryan"}]},"title":"Multiobjective Automated Type-2 Parsimonious Learning Machine to Forecast Time-Varying Stock Indices Online.","venue":"IEEE Trans. Syst. Man Cybern. Syst.","volume":"52","number":"5","pages":"2874-2887","year":"2022","type":"Journal Articles","access":"closed","key":"journals/tsmc/FerdausCR22","doi":"10.1109/TSMC.2021.3061389","ee":"https://doi.org/10.1109/TSMC.2021.3061389","url":"https://dblp.org/rec/journals/tsmc/FerdausCR22"},
+"url":"URL#110062"
+},
+{
+"@score":"3",
+"@id":"174935",
+"info":{"authors":{"author":[{"@pid":"139/2369","text":"Peter Washington 0001"},{"@pid":"281/6707","text":"Onur Cezmi Mutlu"},{"@pid":"163/1428","text":"Aaron Kline"},{"@pid":"141/5089","text":"Kelley M. Paskov"},{"@pid":"233/3994","text":"Nate Tyler Stockham"},{"@pid":"233/3659","text":"Brianna Sierra Chrisman"},{"@pid":"312/6145","text":"Nick Deveau"},{"@pid":"312/5226","text":"Mourya Surhabi"},{"@pid":"179/4983","text":"Nick Haber"},{"@pid":"67/2444","text":"Dennis P. Wall"}]},"title":"Challenges and Opportunities for Machine Learning Classification of Behavior and Mental State from Images.","venue":"CoRR","volume":"abs/2201.11197","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2201-11197","ee":"https://arxiv.org/abs/2201.11197","url":"https://dblp.org/rec/journals/corr/abs-2201-11197"},
+"url":"URL#174935"
+},
+{
+"@score":"3",
+"@id":"177336",
+"info":{"authors":{"author":[{"@pid":"313/2916","text":"Ogulcan E. Orsel"},{"@pid":"313/2923","text":"Sasha S. Yamada"}]},"title":"Comparative Study of Machine Learning Models for Stock Price Prediction.","venue":"CoRR","volume":"abs/2202.03156","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2202-03156","ee":"https://arxiv.org/abs/2202.03156","url":"https://dblp.org/rec/journals/corr/abs-2202-03156"},
+"url":"URL#177336"
+},
+{
+"@score":"3",
+"@id":"178422",
+"info":{"authors":{"author":[{"@pid":"194/8877","text":"Yuxuan Huang"},{"@pid":"c/LuizFernandoCapretz","text":"Luiz Fernando Capretz"},{"@pid":"20/2202","text":"Danny Ho"}]},"title":"Machine Learning for Stock Prediction Based on Fundamental Analysis.","venue":"CoRR","volume":"abs/2202.05702","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2202-05702","ee":"https://arxiv.org/abs/2202.05702","url":"https://dblp.org/rec/journals/corr/abs-2202-05702"},
+"url":"URL#178422"
+},
+{
+"@score":"3",
+"@id":"180034",
+"info":{"authors":{"author":{"@pid":"34/810","text":"Gurjeet Singh"}},"title":"Machine Learning Models in Stock Market Prediction.","venue":"CoRR","volume":"abs/2202.09359","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2202-09359","ee":"https://arxiv.org/abs/2202.09359","url":"https://dblp.org/rec/journals/corr/abs-2202-09359"},
+"url":"URL#180034"
+},
+{
+"@score":"3",
+"@id":"220159",
+"info":{"authors":{"author":{"@pid":"128/4170","text":"Zainab Abbas"}},"title":"Scalable Streaming Graph and Time Series Analysis Using Partitioning and Machine Learning.","year":"2021","type":"Books and Theses","access":"closed","key":"phd/basesearch/Abbas21","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-301596","url":"https://dblp.org/rec/phd/basesearch/Abbas21"},
+"url":"URL#220159"
+},
+{
+"@score":"3",
+"@id":"220486",
+"info":{"authors":{"author":{"@pid":"289/1189","text":"Carl Ringqvist"}},"title":"Topics on Generative Models in Machine Learning.","year":"2021","type":"Books and Theses","access":"closed","key":"phd/basesearch/Ringqvist21","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-295220","url":"https://dblp.org/rec/phd/basesearch/Ringqvist21"},
+"url":"URL#220486"
+},
+{
+"@score":"3",
+"@id":"220595",
+"info":{"authors":{"author":{"@pid":"231/7517","text":"Tianfang Zhang"}},"title":"Probabilistic machine learning methods for automated radiation therapy treatment planning.","year":"2021","type":"Books and Theses","access":"closed","key":"phd/basesearch/Zhang21d","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-305188","url":"https://dblp.org/rec/phd/basesearch/Zhang21d"},
+"url":"URL#220595"
+},
+{
+"@score":"3",
+"@id":"225531",
+"info":{"authors":{"author":[{"@pid":"07/5975","text":"Salvatore M. Carta"},{"@pid":"36/1270","text":"Sergio Consoli"},{"@pid":"00/7629","text":"Luca Piras"},{"@pid":"162/1651","text":"Alessandro Sebastian Podda"},{"@pid":"r/DiegoReforgiatoRecupero","text":"Diego Reforgiato Recupero"}]},"title":"Explainable Machine Learning Exploiting News and Domain-Specific Lexicon for Stock Market Forecasting.","venue":"IEEE Access","volume":"9","pages":"30193-30205","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/CartaCPPR21","doi":"10.1109/ACCESS.2021.3059960","ee":"https://doi.org/10.1109/ACCESS.2021.3059960","url":"https://dblp.org/rec/journals/access/CartaCPPR21"},
+"url":"URL#225531"
+},
+{
+"@score":"3",
+"@id":"227703",
+"info":{"authors":{"author":[{"@pid":"272/9655","text":"Kazi Ekramul Hoque"},{"@pid":"02/2893","text":"Hamoud Aljamaan"}]},"title":"Impact of Hyperparameter Tuning on Machine Learning Models in Stock Price Forecasting.","venue":"IEEE Access","volume":"9","pages":"163815-163830","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/HoqueA21","doi":"10.1109/ACCESS.2021.3134138","ee":"https://doi.org/10.1109/ACCESS.2021.3134138","url":"https://dblp.org/rec/journals/access/HoqueA21"},
+"url":"URL#227703"
+},
+{
+"@score":"3",
+"@id":"230050",
+"info":{"authors":{"author":[{"@pid":"161/4426","text":"Yaohu Lin"},{"@pid":"02/7650","text":"Shancun Liu"},{"@pid":"68/854","text":"Haijun Yang"},{"@pid":"64/2928","text":"Harris Wu"}]},"title":"Stock Trend Prediction Using Candlestick Charting and Ensemble Machine Learning Techniques With a Novelty Feature Engineering Scheme.","venue":"IEEE Access","volume":"9","pages":"101433-101446","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/LinLYW21","doi":"10.1109/ACCESS.2021.3096825","ee":"https://doi.org/10.1109/ACCESS.2021.3096825","url":"https://dblp.org/rec/journals/access/LinLYW21"},
+"url":"URL#230050"
+},
+{
+"@score":"3",
+"@id":"231868",
+"info":{"authors":{"author":[{"@pid":"86/3007","text":"Dae-Hyeon Park"},{"@pid":"295/4782","text":"Doojin Ryu"}]},"title":"A Machine Learning-Based Early Warning System for the Housing and Stock Markets.","venue":"IEEE Access","volume":"9","pages":"85566-85572","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/ParkR21","doi":"10.1109/ACCESS.2021.3077962","ee":"https://doi.org/10.1109/ACCESS.2021.3077962","url":"https://dblp.org/rec/journals/access/ParkR21"},
+"url":"URL#231868"
+},
+{
+"@score":"3",
+"@id":"240813",
+"info":{"authors":{"author":[{"@pid":"179/4099","text":"Ioannis Kyriakou"},{"@pid":"125/0971","text":"Parastoo Mousavi"},{"@pid":"17/10723","text":"Jens Perch Nielsen"},{"@pid":"17/2392","text":"Michael Scholz"}]},"title":"Forecasting benchmarks of long-term stock returns via machine learning.","venue":"Ann. Oper. Res.","volume":"297","number":"1","pages":"221-240","year":"2021","type":"Journal Articles","access":"open","key":"journals/anor/KyriakouMNS21","doi":"10.1007/S10479-019-03338-4","ee":"https://doi.org/10.1007/s10479-019-03338-4","url":"https://dblp.org/rec/journals/anor/KyriakouMNS21"},
+"url":"URL#240813"
+},
+{
+"@score":"3",
+"@id":"242761",
+"info":{"authors":{"author":[{"@pid":"c/WeiChen-61","text":"Wei Chen 0061"},{"@pid":"168/0332","text":"Haoyu Zhang"},{"@pid":"36/6585","text":"Mukesh Kumar Mehlawat"},{"@pid":"201/0715","text":"Lifen Jia"}]},"title":"Mean-variance portfolio optimization using machine learning-based stock price prediction.","venue":"Appl. Soft Comput.","volume":"100","pages":"106943","year":"2021","type":"Journal Articles","access":"closed","key":"journals/asc/ChenZMJ21","doi":"10.1016/J.ASOC.2020.106943","ee":"https://doi.org/10.1016/j.asoc.2020.106943","url":"https://dblp.org/rec/journals/asc/ChenZMJ21"},
+"url":"URL#242761"
+},
+{
+"@score":"3",
+"@id":"245970",
+"info":{"authors":{"author":[{"@pid":"291/6087","text":"Seema Singh Saharan"},{"@pid":"120/6507","text":"Pankaj Nagar"},{"@pid":"291/5562","text":"Kate Townsend Creasy"},{"@pid":"291/5627","text":"Eveline O. Stock"},{"@pid":"291/6249","text":"James Feng"},{"@pid":"291/5979","text":"Mary J. Malloy"},{"@pid":"139/6905","text":"John P. Kane"}]},"title":"Machine learning and statistical approaches for classification of risk of coronary artery disease using plasma cytokines.","venue":"BioData Min.","volume":"14","number":"1","pages":"26","year":"2021","type":"Journal Articles","access":"open","key":"journals/biodatamining/SaharanNCSFMK21","doi":"10.1186/S13040-021-00260-Z","ee":"https://doi.org/10.1186/s13040-021-00260-z","url":"https://dblp.org/rec/journals/biodatamining/SaharanNCSFMK21"},
+"url":"URL#245970"
+},
+{
+"@score":"3",
+"@id":"256389",
+"info":{"authors":{"author":[{"@pid":"313/7082","text":"Bui Thanh Khoa"},{"@pid":"313/7678","text":"Tran Trong Huynh"}]},"title":"Is It Possible to Earn Abnormal Return in an Inefficient Market? An Approach Based on Machine Learning in Stock Trading.","venue":"Comput. Intell. Neurosci.","volume":"2021","pages":"2917577:1-2917577:14","year":"2021","type":"Journal Articles","access":"open","key":"journals/cin/KhoaH21","doi":"10.1155/2021/2917577","ee":"https://doi.org/10.1155/2021/2917577","url":"https://dblp.org/rec/journals/cin/KhoaH21"},
+"url":"URL#256389"
+},
+{
+"@score":"3",
+"@id":"272204",
+"info":{"authors":{"author":[{"@pid":"238/7611-2","text":"Mazhar Hameed 0002"},{"@pid":"302/1388","text":"Khurum Iqbal"},{"@pid":"99/6079","text":"Rozaida Ghazali"},{"@pid":"247/6358","text":"Fawwad Hassan Jaskani"},{"@pid":"302/1476","text":"Zunaira Saman"}]},"title":"Karachi Stock Exchange Price Prediction using Machine Learning Regression Techniques.","venue":"EAI Endorsed Trans. Creative Technol.","volume":"8","number":"28","pages":"e5","year":"2021","type":"Journal Articles","access":"open","key":"journals/eetct/HameedIGJS21","doi":"10.4108/EAI.24-8-2021.170753","ee":"https://doi.org/10.4108/eai.24-8-2021.170753","url":"https://dblp.org/rec/journals/eetct/HameedIGJS21"},
+"url":"URL#272204"
+},
+{
+"@score":"3",
+"@id":"275288",
+"info":{"authors":{"author":[{"@pid":"278/8829","text":"Dingming Wu 0004"},{"@pid":"91/952-1","text":"Xiaolong Wang 0001"},{"@pid":"278/9245","text":"Shaocong Wu"}]},"title":"A Hybrid Method Based on Extreme Learning Machine and Wavelet Transform Denoising for Stock Prediction.","venue":"Entropy","volume":"23","number":"4","pages":"440","year":"2021","type":"Journal Articles","access":"open","key":"journals/entropy/WuWW21","doi":"10.3390/E23040440","ee":"https://doi.org/10.3390/e23040440","url":"https://dblp.org/rec/journals/entropy/WuWW21"},
+"url":"URL#275288"
+},
+{
+"@score":"3",
+"@id":"277119",
+"info":{"authors":{"author":[{"@pid":"27/8907","text":"Emilio Barucci"},{"@pid":"204/0441","text":"Michele Bonollo"},{"@pid":"251/2058","text":"Federico Poli"},{"@pid":"212/1420","text":"Edit Rroji"}]},"title":"A machine learning algorithm for stock picking built on information based outliers.","venue":"Expert Syst. Appl.","volume":"184","pages":"115497","year":"2021","type":"Journal Articles","access":"closed","key":"journals/eswa/BarucciBPR21","doi":"10.1016/J.ESWA.2021.115497","ee":"https://doi.org/10.1016/j.eswa.2021.115497","url":"https://dblp.org/rec/journals/eswa/BarucciBPR21"},
+"url":"URL#277119"
+},
+{
+"@score":"3",
+"@id":"282517",
+"info":{"authors":{"author":[{"@pid":"269/3475","text":"Matthew D. Stocker"},{"@pid":"62/961","text":"Yakov A. Pachepsky"},{"@pid":"306/5661","text":"Robert L. Hill"}]},"title":"Prediction of E. coli Concentrations in Agricultural Pond Waters: Application and Comparison of Machine Learning Algorithms.","venue":"Frontiers Artif. Intell.","volume":"4","pages":"768650","year":"2021","type":"Journal Articles","access":"open","key":"journals/frai/StockerPH21","doi":"10.3389/FRAI.2021.768650","ee":"https://doi.org/10.3389/frai.2021.768650","url":"https://dblp.org/rec/journals/frai/StockerPH21"},
+"url":"URL#282517"
+},
+{
+"@score":"3",
+"@id":"290512",
+"info":{"authors":{"author":[{"@pid":"13/4682","text":"Ping Zhang"},{"@pid":"301/9231","text":"Jia-Yao Yang"},{"@pid":"10/3520","text":"Hao Zhu"},{"@pid":"301/8869","text":"Yue-Jie Hou"},{"@pid":"97/4626","text":"Yi Liu"},{"@pid":"262/3777","text":"Chi-Chun Zhou"}]},"title":"Failure in Stock Price Prediction: A Comparison bettwen the Curve-Shape-Feature and Non-Curve-Shape-Feature Modes of Existing Machine Learning Algorithms.","venue":"Int. J. Comput. Commun. Control","volume":"16","number":"6","year":"2021","type":"Journal Articles","access":"open","key":"journals/ijccc/ZhangYZHLZ21","doi":"10.15837/IJCCC.2021.6.4549","ee":"https://doi.org/10.15837/ijccc.2021.6.4549","url":"https://dblp.org/rec/journals/ijccc/ZhangYZHLZ21"},
+"url":"URL#290512"
+},
+{
+"@score":"3",
+"@id":"303239",
+"info":{"authors":{"author":[{"@pid":"271/2814","text":"Ernest Kwame Ampomah"},{"@pid":"245/8460","text":"Gabriel Nyame"},{"@pid":"52/1374","text":"Zhiguang Qin"},{"@pid":"183/6615","text":"Prince Clement Addo"},{"@pid":"299/5453","text":"Enoch Opanin Gyamfi"},{"@pid":"299/5300","text":"Micheal Gyan"}]},"title":"Stock Market Prediction with Gaussian Naïve Bayes Machine Learning Algorithm.","venue":"Informatica","volume":"45","number":"2","year":"2021","type":"Journal Articles","access":"open","key":"journals/informaticaSI/AmpomahNQAGG21","doi":"10.31449/INF.V45I2.3407","ee":"https://doi.org/10.31449/inf.v45i2.3407","url":"https://dblp.org/rec/journals/informaticaSI/AmpomahNQAGG21"},
+"url":"URL#303239"
+},
+{
+"@score":"3",
+"@id":"308571",
+"info":{"authors":{"author":[{"@pid":"289/3227","text":"Sandeep Patalay"},{"@pid":"289/3242","text":"Madhusudhan Rao Bandlamudi"}]},"title":"Decision Support System for Stock Portfolio Selection Using Artificial Intelligence and Machine Learning.","venue":"Ingénierie des Systèmes d Inf.","volume":"26","number":"1","pages":"87-93","year":"2021","type":"Journal Articles","access":"closed","key":"journals/isi/PatalayB21","doi":"10.18280/ISI.260109","ee":"https://doi.org/10.18280/isi.260109","url":"https://dblp.org/rec/journals/isi/PatalayB21"},
+"url":"URL#308571"
+},
+{
+"@score":"3",
+"@id":"312002",
+"info":{"authors":{"author":{"@pid":"83/7041","text":"Tien-Yu Hsu"}},"title":"Machine learning applied to stock index performance enhancement.","venue":"J. Bank. Financial Technol.","volume":"5","number":"1","pages":"21-33","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jbft/Hsu21","doi":"10.1007/S42786-021-00025-6","ee":"https://doi.org/10.1007/s42786-021-00025-6","url":"https://dblp.org/rec/journals/jbft/Hsu21"},
+"url":"URL#312002"
+},
+{
+"@score":"3",
+"@id":"312003",
+"info":{"authors":{"author":{"@pid":"83/7041","text":"Tien-Yu Hsu"}},"title":"Correction to: Machine learning applied to stock index performance enhancement.","venue":"J. Bank. Financial Technol.","volume":"5","number":"2","pages":"143","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jbft/Hsu21a","doi":"10.1007/S42786-021-00033-6","ee":"https://doi.org/10.1007/s42786-021-00033-6","url":"https://dblp.org/rec/journals/jbft/Hsu21a"},
+"url":"URL#312003"
+},
+{
+"@score":"3",
+"@id":"319543",
+"info":{"authors":{"author":[{"@pid":"181/2690","text":"Jie Tian"},{"@pid":"242/7533","text":"Yaoqiang Wang"},{"@pid":"60/2826","text":"Wenjing Cui"},{"@pid":"40/2555","text":"Kun Zhao"}]},"title":"Simulation analysis of financial stock market based on machine learning and GARCH model.","venue":"J. Intell. Fuzzy Syst.","volume":"40","number":"2","pages":"2277-2287","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jifs/TianWCZ21","doi":"10.3233/JIFS-189225","ee":"https://doi.org/10.3233/JIFS-189225","url":"https://dblp.org/rec/journals/jifs/TianWCZ21"},
+"url":"URL#319543"
+},
+{
+"@score":"3",
+"@id":"328422",
+"info":{"authors":{"author":[{"@pid":"295/9498","text":"Jordan Ayala"},{"@pid":"76/9053","text":"Miguel García-Torres"},{"@pid":"137/6615","text":"José Luis Vázquez Noguera"},{"@pid":"64/9685","text":"Francisco Gómez-Vela"},{"@pid":"09/1188","text":"Federico Divina"}]},"title":"Technical analysis strategy optimization using a machine learning approach in stock market indices.","venue":"Knowl. Based Syst.","volume":"225","pages":"107119","year":"2021","type":"Journal Articles","access":"closed","key":"journals/kbs/AyalaGNGD21","doi":"10.1016/J.KNOSYS.2021.107119","ee":"https://doi.org/10.1016/j.knosys.2021.107119","url":"https://dblp.org/rec/journals/kbs/AyalaGNGD21"},
+"url":"URL#328422"
+},
+{
+"@score":"3",
+"@id":"453246",
+"info":{"authors":{"author":[{"@pid":"315/2595","text":"Leong Jia Ling"},{"@pid":"315/2685","text":"Seetha Letchumy M. Belaidan"}]},"title":"Stock Market Price Movement Forecasting on BURSA Malaysia using Machine Learning Approach.","venue":"DeSE","pages":"102-108","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/dese/LingB21","doi":"10.1109/DESE54285.2021.9719534","ee":"https://doi.org/10.1109/DeSE54285.2021.9719534","url":"https://dblp.org/rec/conf/dese/LingB21"},
+"url":"URL#453246"
+},
+{
+"@score":"3",
+"@id":"466015",
+"info":{"authors":{"author":[{"@pid":"295/3748","text":"Jordan B. Stoecker"},{"@pid":"295/3675","text":"Kevin C. Eddinger"},{"@pid":"131/4785","text":"Alison M. Pouch"},{"@pid":"143/4229","text":"Benjamin M. Jackson"}]},"title":"Image-Derived Geometric Characteristics Predict Abdominal Aortic Aneurysm Growth in a Machine Learning Model.","venue":"FIMH","pages":"35-45","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/fimh/StoeckerEPJ21","doi":"10.1007/978-3-030-78710-3_4","ee":"https://doi.org/10.1007/978-3-030-78710-3_4","url":"https://dblp.org/rec/conf/fimh/StoeckerEPJ21"},
+"url":"URL#466015"
+},
+{
+"@score":"3",
+"@id":"466214",
+"info":{"authors":{"author":[{"@pid":"302/1388","text":"Khurum Iqbal"},{"@pid":"29/7910","text":"Ali Hassan 0002"},{"@pid":"314/0361","text":"Syed Shah Mir Ul Hassan"},{"@pid":"302/1876","text":"Muhammad Shuaib Iqbal"},{"@pid":"271/3949","text":"Faheem Aslam"},{"@pid":"314/0682","text":"Khurrum S. Mughal"}]},"title":"Forecasting Stock Market Using Machine Learning Approach Encoder-Decoder ConvLSTM.","venue":"FIT","pages":"43-48","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/fit/IqbalHHIAM21","doi":"10.1109/FIT53504.2021.00018","ee":"https://doi.org/10.1109/FIT53504.2021.00018","url":"https://dblp.org/rec/conf/fit/IqbalHHIAM21"},
+"url":"URL#466214"
+},
+{
+"@score":"3",
+"@id":"477876",
+"info":{"authors":{"author":{"@pid":"00/10946","text":"Lizi Zhang"}},"title":"Pair Trading with Machine Learning Strategy in China Stock Market.","venue":"ICAIIS","pages":"324:1-324:6","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaiis/Zhang21c","doi":"10.1145/3469213.3471353","ee":"https://doi.org/10.1145/3469213.3471353","url":"https://dblp.org/rec/conf/icaiis/Zhang21c"},
+"url":"URL#477876"
+},
+{
+"@score":"3",
+"@id":"483967",
+"info":{"authors":{"author":[{"@pid":"307/2549","text":"Yash K. Pardeshi"},{"@pid":"246/6617","text":"Preeti A. Kale"}]},"title":"Technical Analysis Indicators in Stock Market Using Machine Learning: A Comparative Analysis.","venue":"ICCCNT","pages":"1-6","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icccnt/PardeshiK21","doi":"10.1109/ICCCNT51525.2021.9580172","ee":"https://doi.org/10.1109/ICCCNT51525.2021.9580172","url":"https://dblp.org/rec/conf/icccnt/PardeshiK21"},
+"url":"URL#483967"
+},
+{
+"@score":"3",
+"@id":"495044",
+"info":{"authors":{"author":{"@pid":"148/9615","text":"Shunan Zhao"}},"title":"Nepal Stock Market Movement Prediction with Machine Learning.","venue":"ICISDM","pages":"1-7","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icisdm/Zhao21","doi":"10.1145/3471287.3471289","ee":"https://doi.org/10.1145/3471287.3471289","url":"https://dblp.org/rec/conf/icisdm/Zhao21"},
+"url":"URL#495044"
+},
+{
+"@score":"3",
+"@id":"506228",
+"info":{"authors":{"author":[{"@pid":"35/2011","text":"Yang Xia"},{"@pid":"33/4822","text":"Yue Wang"}]},"title":"Predicting Stock Price Movement with Multiple Data Sources and Machine Learning Models.","venue":"ICPCSEE","pages":"90-105","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icycsee/XiaW21","doi":"10.1007/978-981-16-5940-9_7","ee":"https://doi.org/10.1007/978-981-16-5940-9_7","url":"https://dblp.org/rec/conf/icycsee/XiaW21"},
+"url":"URL#506228"
+},
+{
+"@score":"3",
+"@id":"513347",
+"info":{"authors":{"author":[{"@pid":"96/893-4","text":"Suman Saha 0004"},{"@pid":"30/3983","text":"Junbin Gao"},{"@pid":"24/1450","text":"Richard Gerlach"}]},"title":"Stock Movement Prediction on Ex-Dividend Day Using Event Specific Features and Machine Learning Techniques.","venue":"IJCNN","pages":"1-10","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/SahaGG21","doi":"10.1109/IJCNN52387.2021.9533799","ee":"https://doi.org/10.1109/IJCNN52387.2021.9533799","url":"https://dblp.org/rec/conf/ijcnn/SahaGG21"},
+"url":"URL#513347"
+},
+{
+"@score":"3",
+"@id":"521673",
+"info":{"authors":{"author":[{"@pid":"317/1806","text":"Abdelhadi Ifleh"},{"@pid":"317/1918","text":"Mounime El Kabbouri"}]},"title":"Prediction of Moroccan Stock Price Based on Machine Learning Algorithms.","venue":"ISDA","pages":"735-741","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/isda/IflehK21","doi":"10.1007/978-3-030-96308-8_68","ee":"https://doi.org/10.1007/978-3-030-96308-8_68","url":"https://dblp.org/rec/conf/isda/IflehK21"},
+"url":"URL#521673"
+},
+{
+"@score":"3",
+"@id":"531296",
+"info":{"authors":{"author":{"@pid":"277/8649","text":"Klaudia Kaczmarczyk"}},"title":"Backtesting comparison of machine learning methods on Warsaw Stock Exchange.","venue":"KES","pages":"3729-3739","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kes/Kaczmarczyk21","doi":"10.1016/J.PROCS.2021.09.147","ee":"https://doi.org/10.1016/j.procs.2021.09.147","url":"https://dblp.org/rec/conf/kes/Kaczmarczyk21"},
+"url":"URL#531296"
+},
+{
+"@score":"3",
+"@id":"531312",
+"info":{"authors":{"author":[{"@pid":"277/8661","text":"Pham Quoc Khang"},{"@pid":"277/8649","text":"Klaudia Kaczmarczyk"},{"@pid":"306/8654","text":"Piotr Tutak"},{"@pid":"280/2687","text":"Pawel Golec"},{"@pid":"134/0333","text":"Katarzyna Kuziak"},{"@pid":"306/9976","text":"Radoslaw Depczynski"},{"@pid":"71/331","text":"Marcin Hernes"},{"@pid":"37/2594","text":"Artur Rot"}]},"title":"Machine learning for liquidity prediction on Vietnamese stock market.","venue":"KES","pages":"3590-3597","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kes/KhangKTGKDHR21","doi":"10.1016/J.PROCS.2021.09.132","ee":"https://doi.org/10.1016/j.procs.2021.09.132","url":"https://dblp.org/rec/conf/kes/KhangKTGKDHR21"},
+"url":"URL#531312"
+},
+{
+"@score":"3",
+"@id":"533383",
+"info":{"authors":{"author":[{"@pid":"159/2459","text":"Adis Alihodzic"},{"@pid":"316/7416","text":"Enes Zvornicanin"},{"@pid":"316/6989","text":"Fikret Cunjalo"}]},"title":"A Comparison of Machine Learning Methods for Forecasting Dow Jones Stock Index.","venue":"LSSC","pages":"209-216","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/lssc/AlihodzicZC21","doi":"10.1007/978-3-030-97549-4_24","ee":"https://doi.org/10.1007/978-3-030-97549-4_24","url":"https://dblp.org/rec/conf/lssc/AlihodzicZC21"},
+"url":"URL#533383"
+},
+{
+"@score":"3",
+"@id":"535666",
+"info":{"authors":{"author":[{"@pid":"44/357","text":"David Díaz"},{"@pid":"304/3640","text":"Regina Marta"},{"@pid":"304/3641","text":"Germán Ortega"},{"@pid":"92/9336","text":"Hiram Ponce"}]},"title":"A Machine Learning Approach for Modeling Safety Stock Optimization Equation in the Cosmetics and Beauty Industry.","venue":"MICAI","pages":"173-186","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/micai/DiazMOP21","doi":"10.1007/978-3-030-89817-5_13","ee":"https://doi.org/10.1007/978-3-030-89817-5_13","url":"https://dblp.org/rec/conf/micai/DiazMOP21"},
+"url":"URL#535666"
+},
+{
+"@score":"3",
+"@id":"537292",
+"info":{"authors":{"author":[{"@pid":"310/6162","text":"Kevin Talty"},{"@pid":"310/5306","text":"John Stockdale"},{"@pid":"132/5837","text":"Nathaniel D. Bastian"}]},"title":"A Sensitivity Analysis of Poisoning and Evasion Attacks in Network Intrusion Detection System Machine Learning Models.","venue":"MILCOM","pages":"1011-1016","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/milcom/TaltySB21","doi":"10.1109/MILCOM52596.2021.9652959","ee":"https://doi.org/10.1109/MILCOM52596.2021.9652959","url":"https://dblp.org/rec/conf/milcom/TaltySB21"},
+"url":"URL#537292"
+},
+{
+"@score":"3",
+"@id":"563302",
+"info":{"authors":{"author":[{"@pid":"194/8877","text":"Yuxuan Huang"},{"@pid":"c/LuizFernandoCapretz","text":"Luiz Fernando Capretz"},{"@pid":"20/2202","text":"Danny Ho"}]},"title":"Machine Learning for Stock Prediction Based on Fundamental Analysis.","venue":"SSCI","pages":"1-10","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/ssci/HuangCH21","doi":"10.1109/SSCI50451.2021.9660134","ee":"https://doi.org/10.1109/SSCI50451.2021.9660134","url":"https://dblp.org/rec/conf/ssci/HuangCH21"},
+"url":"URL#563302"
+},
+{
+"@score":"3",
+"@id":"572529",
+"info":{"authors":{"author":[{"@pid":"256/3942","text":"Paraskevas Koukaras"},{"@pid":"306/6468","text":"Vasiliki Tsichli"},{"@pid":"65/6096","text":"Christos Tjortjis"}]},"title":"Predicting Stock Market Movements with Social Media and Machine Learning.","venue":"WEBIST","pages":"436-443","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/webist/KoukarasTT21","doi":"10.5220/0010712600003058","ee":"https://doi.org/10.5220/0010712600003058","url":"https://dblp.org/rec/conf/webist/KoukarasTT21"},
+"url":"URL#572529"
+},
+{
+"@score":"3",
+"@id":"580649",
+"info":{"authors":{"author":[{"@pid":"262/3647","text":"Jason Stock"},{"@pid":"262/3525","text":"Tom Cavey"}]},"title":"Who&apos;s a Good Boy? Reinforcing Canine Behavior in Real-Time using Machine Learning.","venue":"CoRR","volume":"abs/2101.02380","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2101-02380","ee":"https://arxiv.org/abs/2101.02380","url":"https://dblp.org/rec/journals/corr/abs-2101-02380"},
+"url":"URL#580649"
+},
+{
+"@score":"3",
+"@id":"581061",
+"info":{"authors":{"author":[{"@pid":"139/2369","text":"Peter Washington 0001"},{"@pid":"281/6707","text":"Onur Cezmi Mutlu"},{"@pid":"01/3143","text":"Émilie Leblanc"},{"@pid":"163/1428","text":"Aaron Kline"},{"@pid":"281/7229","text":"Cathy Hou"},{"@pid":"233/3659","text":"Brianna Sierra Chrisman"},{"@pid":"233/3994","text":"Nate Tyler Stockham"},{"@pid":"141/5089","text":"Kelley M. Paskov"},{"@pid":"179/5273","text":"Catalin Voss"},{"@pid":"179/4983","text":"Nick Haber"},{"@pid":"67/2444","text":"Dennis P. Wall"}]},"title":"Using Crowdsourcing to Train Facial Emotion Machine Learning Models with Ambiguous Labels.","venue":"CoRR","volume":"abs/2101.03477","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2101-03477","ee":"https://arxiv.org/abs/2101.03477","url":"https://dblp.org/rec/journals/corr/abs-2101-03477"},
+"url":"URL#581061"
+},
+{
+"@score":"3",
+"@id":"601370",
+"info":{"authors":{"author":[{"@pid":"290/1318","text":"Nazish Ashfaq"},{"@pid":"61/7321","text":"Zubair Nawaz"},{"@pid":"90/9283","text":"Muhammad Ilyas"}]},"title":"A comparative study of Different Machine Learning Regressors For Stock Market Prediction.","venue":"CoRR","volume":"abs/2104.07469","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2104-07469","ee":"https://arxiv.org/abs/2104.07469","url":"https://dblp.org/rec/journals/corr/abs-2104-07469"},
+"url":"URL#601370"
+},
+{
+"@score":"3",
+"@id":"624186",
+"info":{"authors":{"author":[{"@pid":"298/0558","text":"A. K. M. Amanat Ullah"},{"@pid":"298/0727","text":"Fahim Imtiaz"},{"@pid":"298/0569","text":"Miftah Uddin Md Ihsan"},{"@pid":"00/10963","text":"Md. Golam Rabiul Alam"},{"@pid":"87/3250","text":"Mahbub Majumdar"}]},"title":"Combining Machine Learning Classifiers for Stock Trading with Effective Feature Extraction.","venue":"CoRR","volume":"abs/2107.13148","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2107-13148","ee":"https://arxiv.org/abs/2107.13148","url":"https://dblp.org/rec/journals/corr/abs-2107-13148"},
+"url":"URL#624186"
+},
+{
+"@score":"3",
+"@id":"660645",
+"info":{"authors":{"author":{"@pid":"279/6515","text":"Ana C. Neves"}},"title":"Structural Health Monitoring of Bridges: Data-based damage detection method using Machine Learning.","year":"2020","type":"Books and Theses","access":"closed","key":"phd/basesearch/Neves20","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-281257","url":"https://dblp.org/rec/phd/basesearch/Neves20"},
+"url":"URL#660645"
+},
+{
+"@score":"3",
+"@id":"660812",
+"info":{"authors":{"author":{"@pid":"129/0969","text":"Yu Ye"}},"title":"Study on Decentralized Machine Learning and Applications to Wireless Caching Networks.","year":"2020","type":"Books and Theses","access":"closed","key":"phd/basesearch/Ye20","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-276455","url":"https://dblp.org/rec/phd/basesearch/Ye20"},
+"url":"URL#660812"
+},
+{
+"@score":"3",
+"@id":"670807",
+"info":{"authors":{"author":[{"@pid":"269/3528","text":"Sondo Kim"},{"@pid":"269/3773","text":"Seungmo Ku"},{"@pid":"48/2367","text":"Woojin Chang"},{"@pid":"235/8189","text":"Jae Wook Song"}]},"title":"Predicting the Direction of US Stock Prices Using Effective Transfer Entropy and Machine Learning Techniques.","venue":"IEEE Access","volume":"8","pages":"111660-111682","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/KimKCS20","doi":"10.1109/ACCESS.2020.3002174","ee":"https://doi.org/10.1109/ACCESS.2020.3002174","url":"https://dblp.org/rec/journals/access/KimKCS20"},
+"url":"URL#670807"
+},
+{
+"@score":"3",
+"@id":"674664",
+"info":{"authors":{"author":[{"@pid":"268/2418","text":"Edgar P. Torres P."},{"@pid":"268/2398","text":"Edgar A. Torres Hernández"},{"@pid":"268/2480","text":"Myriam Hernández Álvarez"},{"@pid":"75/9011","text":"Sang Guun Yoo"}]},"title":"Emotion Recognition Related to Stock Trading Using Machine Learning Algorithms With Feature Selection.","venue":"IEEE Access","volume":"8","pages":"199719-199732","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/PHAY20","doi":"10.1109/ACCESS.2020.3035539","ee":"https://doi.org/10.1109/ACCESS.2020.3035539","url":"https://dblp.org/rec/journals/access/PHAY20"},
+"url":"URL#674664"
+},
+{
+"@score":"3",
+"@id":"719665",
+"info":{"authors":{"author":[{"@pid":"263/3500","text":"Xianjiao Wu"},{"@pid":"31/334-4","text":"Qiang Ye 0004"},{"@pid":"36/5463","text":"Hong Hong"},{"@pid":"52/6049","text":"Yijun Li"}]},"title":"Stock Selection Model Based on Machine Learning with Wisdom of Experts and Crowds.","venue":"IEEE Intell. Syst.","volume":"35","number":"2","pages":"54-64","year":"2020","type":"Journal Articles","access":"closed","key":"journals/expert/WuYHL20","doi":"10.1109/MIS.2020.2973626","ee":"https://doi.org/10.1109/MIS.2020.2973626","url":"https://dblp.org/rec/journals/expert/WuYHL20"},
+"url":"URL#719665"
+},
+{
+"@score":"3",
+"@id":"720030",
+"info":{"authors":{"author":[{"@pid":"131/6525","text":"Umakant Mishra"},{"@pid":"240/8344","text":"Sagar Gautam"},{"@pid":"279/2065","text":"William J. Riley"},{"@pid":"45/5409","text":"Forrest M. Hoffman"}]},"title":"Ensemble Machine Learning Approach Improves Predicted Spatial Variation of Surface Soil Organic Carbon Stocks in Data-Limited Northern Circumpolar Region.","venue":"Frontiers Big Data","volume":"3","pages":"528441","year":"2020","type":"Journal Articles","access":"open","key":"journals/fdata/MishraGRH20","doi":"10.3389/FDATA.2020.528441","ee":"https://doi.org/10.3389/fdata.2020.528441","url":"https://dblp.org/rec/journals/fdata/MishraGRH20"},
+"url":"URL#720030"
+},
+{
+"@score":"3",
+"@id":"743651",
+"info":{"authors":{"author":[{"@pid":"271/2814","text":"Ernest Kwame Ampomah"},{"@pid":"52/1374","text":"Zhiguang Qin"},{"@pid":"245/8460","text":"Gabriel Nyame"},{"@pid":"273/3677","text":"Francis Effirim Botchey"}]},"title":"Stock market decision support modeling with tree-based AdaBoost ensemble machine learning models.","venue":"Informatica","volume":"44","number":"4","year":"2020","type":"Journal Articles","access":"open","key":"journals/informaticaSI/AmpomahQNB20","doi":"10.31449/INF.V44I4.3159","ee":"https://doi.org/10.31449/inf.v44i4.3159","url":"https://dblp.org/rec/journals/informaticaSI/AmpomahQNB20"},
+"url":"URL#743651"
+},
+{
+"@score":"3",
+"@id":"743687",
+"info":{"authors":{"author":[{"@pid":"78/10470","text":"Ramzi R. Saifan"},{"@pid":"279/6719","text":"Khaled Sharif"},{"@pid":"279/6562","text":"Mohammad Abu-Ghazaleh"},{"@pid":"84/11241","text":"Mohammad Abdel-Majeed"}]},"title":"Investigating Algorithmic Stock Market Trading using Ensemble Machine Learning Methods.","venue":"Informatica","volume":"44","number":"3","year":"2020","type":"Journal Articles","access":"open","key":"journals/informaticaSI/SaifanSAA20","doi":"10.31449/INF.V44I3.2904","ee":"https://doi.org/10.31449/inf.v44i3.2904","url":"https://dblp.org/rec/journals/informaticaSI/SaifanSAA20"},
+"url":"URL#743687"
+},
+{
+"@score":"3",
+"@id":"743787",
+"info":{"authors":{"author":[{"@pid":"271/2814","text":"Ernest Kwame Ampomah"},{"@pid":"52/1374","text":"Zhiguang Qin"},{"@pid":"245/8460","text":"Gabriel Nyame"}]},"title":"Evaluation of Tree-Based Ensemble Machine Learning Models in Predicting Stock Price Direction of Movement.","venue":"Inf.","volume":"11","number":"6","pages":"332","year":"2020","type":"Journal Articles","access":"open","key":"journals/information/AmpomahQN20","doi":"10.3390/INFO11060332","ee":"https://doi.org/10.3390/info11060332","url":"https://dblp.org/rec/journals/information/AmpomahQN20"},
+"url":"URL#743787"
+},
+{
+"@score":"3",
+"@id":"748176",
+"info":{"authors":{"author":[{"@pid":"263/1122","text":"Nalabala Deepika"},{"@pid":"69/10927","text":"Mundukur Nirupamabhat"}]},"title":"An Optimized Machine Learning Model for Stock Trend Anticipation.","venue":"Ingénierie des Systèmes d Inf.","volume":"25","number":"6","pages":"783-792","year":"2020","type":"Journal Articles","access":"closed","key":"journals/isi/DeepikaN20","doi":"10.18280/ISI.250608","ee":"https://doi.org/10.18280/isi.250608","url":"https://dblp.org/rec/journals/isi/DeepikaN20"},
+"url":"URL#748176"
+},
+{
+"@score":"3",
+"@id":"751372",
+"info":{"authors":{"author":[{"@pid":"273/6165","text":"Claude Lehmann"},{"@pid":"273/6174","text":"Lilach Goren Huber"},{"@pid":"273/6160","text":"Thomas Horisberger"},{"@pid":"273/6185","text":"Georg Scheiba"},{"@pid":"128/5779","text":"Ana Claudia Sima"},{"@pid":"38/5145","text":"Kurt Stockinger"}]},"title":"Big Data architecture for intelligent maintenance: a focus on query processing and machine learning algorithms.","venue":"J. Big Data","volume":"7","number":"1","pages":"61","year":"2020","type":"Journal Articles","access":"open","key":"journals/jbd/LehmannHHSSS20","doi":"10.1186/S40537-020-00340-7","ee":"https://doi.org/10.1186/s40537-020-00340-7","url":"https://dblp.org/rec/journals/jbd/LehmannHHSSS20"},
+"url":"URL#751372"
+},
+{
+"@score":"3",
+"@id":"756687",
+"info":{"authors":{"author":[{"@pid":"236/6939","text":"Parus Khuwaja"},{"@pid":"204/8791","text":"Sunder Ali Khowaja"},{"@pid":"260/7002","text":"Imamuddin Khoso"},{"@pid":"163/2472","text":"Intizar Ali Lashari"}]},"title":"Prediction of stock movement using phase space reconstruction and extreme learning machines.","venue":"J. Exp. Theor. Artif. Intell.","volume":"32","number":"1","pages":"59-79","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jetai/KhuwajaKKL20","doi":"10.1080/0952813X.2019.1620870","ee":"https://doi.org/10.1080/0952813X.2019.1620870","url":"https://dblp.org/rec/journals/jetai/KhuwajaKKL20"},
+"url":"URL#756687"
+},
+{
+"@score":"3",
+"@id":"760642",
+"info":{"authors":{"author":[{"@pid":"254/3331","text":"Puneet Misra"},{"@pid":"254/3619","text":"Siddharth Chaurasia"}]},"title":"Data-Driven Trend Forecasting in Stock Market Using Machine Learning Techniques.","venue":"J. Inf. Technol. Res.","volume":"13","number":"1","pages":"130-149","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jitr/MisraC20","doi":"10.4018/JITR.2020010109","ee":"https://doi.org/10.4018/JITR.2020010109","url":"https://dblp.org/rec/journals/jitr/MisraC20"},
+"url":"URL#760642"
+},
+{
+"@score":"3",
+"@id":"766763",
+"info":{"authors":{"author":[{"@pid":"188/6543","text":"Ranjan Kumar Behera"},{"@pid":"261/6161","text":"Sushree Das"},{"@pid":"85/7502","text":"Santanu Kumar Rath"},{"@pid":"86/20","text":"Sanjay Misra"},{"@pid":"15/3403","text":"Robertas Damasevicius"}]},"title":"Comparative Study of Real Time Machine Learning Models for Stock Prediction through Streaming Data.","venue":"J. Univers. Comput. Sci.","volume":"26","number":"9","pages":"1128-1147","year":"2020","type":"Journal Articles","access":"open","key":"journals/jucs/BeheraDRMD20","ee":"http://www.jucs.org/jucs_26_9/comparative_study_of_real","url":"https://dblp.org/rec/journals/jucs/BeheraDRMD20"},
+"url":"URL#766763"
+},
+{
+"@score":"3",
+"@id":"789589",
+"info":{"authors":{"author":[{"@pid":"43/4685-12","text":"Yang Hu 0012"},{"@pid":"256/7000","text":"Xuelei Xu"},{"@pid":"240/0636","text":"Fayun Wu"},{"@pid":"174/4314","text":"Zhongqiu Sun"},{"@pid":"153/8975","text":"Haoming Xia"},{"@pid":"57/5374","text":"Qingmin Meng"},{"@pid":"87/8285","text":"Wenli Huang"},{"@pid":"58/329","text":"Hua Zhou"},{"@pid":"08/8594","text":"Jinping Gao"},{"@pid":"69/8130","text":"Weitao Li"},{"@pid":"240/0160","text":"Daoli Peng"},{"@pid":"76/8498","text":"Xiangming Xiao"}]},"title":"Estimating Forest Stock Volume in Hunan Province, China, by Integrating In Situ Plot Data, Sentinel-2 Images, and Linear and Machine Learning Regression Models.","venue":"Remote. Sens.","volume":"12","number":"1","pages":"186","year":"2020","type":"Journal Articles","access":"open","key":"journals/remotesensing/HuXWSXMHZGLPX20","doi":"10.3390/RS12010186","ee":"https://doi.org/10.3390/rs12010186","url":"https://dblp.org/rec/journals/remotesensing/HuXWSXMHZGLPX20"},
+"url":"URL#789589"
+},
+{
+"@score":"3",
+"@id":"807408",
+"info":{"authors":{"author":[{"@pid":"269/6476","text":"Wasiat Khan"},{"@pid":"231/8949","text":"Usman Malik"},{"@pid":"40/7943","text":"Mustansar Ali Ghazanfar"},{"@pid":"22/10812","text":"Muhammad Awais Azam"},{"@pid":"229/4150","text":"Khaled Hamed Alyoubi"},{"@pid":"218/0922","text":"Ahmed S. Alfakeeh"}]},"title":"Predicting stock market trends using machine learning algorithms via public sentiment and political situation analysis.","venue":"Soft Comput.","volume":"24","number":"15","pages":"11019-11043","year":"2020","type":"Journal Articles","access":"closed","key":"journals/soco/KhanMGAAA20","doi":"10.1007/S00500-019-04347-Y","ee":"https://doi.org/10.1007/s00500-019-04347-y","url":"https://dblp.org/rec/journals/soco/KhanMGAAA20"},
+"url":"URL#807408"
+},
+{
+"@score":"3",
+"@id":"807661",
+"info":{"authors":{"author":[{"@pid":"276/6011","text":"Irfan Ramzan Parray"},{"@pid":"276/5932","text":"Surinder Singh Khurana"},{"@pid":"124/3780","text":"Munish Kumar"},{"@pid":"276/6070","text":"Ali A. Altalbe"}]},"title":"Time series data analysis of stock price movement using machine learning techniques.","venue":"Soft Comput.","volume":"24","number":"21","pages":"16509-16517","year":"2020","type":"Journal Articles","access":"closed","key":"journals/soco/ParrayKKA20","doi":"10.1007/S00500-020-04957-X","ee":"https://doi.org/10.1007/s00500-020-04957-x","url":"https://dblp.org/rec/journals/soco/ParrayKKA20"},
+"url":"URL#807661"
+},
+{
+"@score":"3",
+"@id":"848838",
+"info":{"authors":{"author":[{"@pid":"268/2418","text":"Edgar P. Torres P."},{"@pid":"268/2398","text":"Edgar A. Torres Hernández"},{"@pid":"268/2480","text":"Myriam Hernández Álvarez"},{"@pid":"75/9011","text":"Sang Guun Yoo"}]},"title":"Machine Learning Analysis of EEG Measurements of Stock Trading Performance.","venue":"AHFE","pages":"53-60","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ahfe/PHAY20","doi":"10.1007/978-3-030-51328-3_9","ee":"https://doi.org/10.1007/978-3-030-51328-3_9","url":"https://dblp.org/rec/conf/ahfe/PHAY20"},
+"url":"URL#848838"
+},
+{
+"@score":"3",
+"@id":"849548",
+"info":{"authors":{"author":[{"@pid":"115/8538","text":"Masaya Abe"},{"@pid":"151/9863","text":"Kei Nakagawa"}]},"title":"How Do We Predict Stock Returns in the Cross-Section with Machine Learning?","venue":"AICCC","pages":"63-69","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aiccc/AbeN20","doi":"10.1145/3442536.3442547","ee":"https://doi.org/10.1145/3442536.3442547","url":"https://dblp.org/rec/conf/aiccc/AbeN20"},
+"url":"URL#849548"
+},
+{
+"@score":"3",
+"@id":"849662",
+"info":{"authors":{"author":[{"@pid":"281/2800","text":"Oluwadurotimi Onibonoje"},{"@pid":"281/2858","text":"Kevin Djoussa"},{"@pid":"93/6472","text":"Mark Roantree"}]},"title":"Analysis of Machine Learning Methods for Predicting Stock Prices.","venue":"AICS","pages":"205-216","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/aics/OnibonojeDR20","ee":"http://ceur-ws.org/Vol-2771/AICS2020_paper_26.pdf","url":"https://dblp.org/rec/conf/aics/OnibonojeDR20"},
+"url":"URL#849662"
+},
+{
+"@score":"3",
+"@id":"863532",
+"info":{"authors":{"author":[{"@pid":"271/9689","text":"Quanzhi Bi"},{"@pid":"86/1423","text":"Hongfei Yan"},{"@pid":"63/713-3","text":"Chong Chen 0003"},{"@pid":"25/221-1","text":"Qi Su 0001"}]},"title":"An Integrated Machine Learning Framework for Stock Price Prediction.","venue":"CCIR","pages":"99-110","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ccir/BiYCS20","doi":"10.1007/978-3-030-56725-5_8","ee":"https://doi.org/10.1007/978-3-030-56725-5_8","url":"https://dblp.org/rec/conf/ccir/BiYCS20"},
+"url":"URL#863532"
+},
+{
+"@score":"3",
+"@id":"880929",
+"info":{"authors":{"author":[{"@pid":"233/1827","text":"Elena Hernández Nieves"},{"@pid":"272/3490","text":"Álvaro Bartolomé del Canto"},{"@pid":"146/0245","text":"Pablo Chamoso-Santos"},{"@pid":"81/8228","text":"Fernando de la Prieta Pintado"},{"@pid":"87/6349","text":"Juan M. Corchado Rodríguez"}]},"title":"A Machine Learning Platform for Stock Investment Recommendation Systems.","venue":"DCAI","pages":"303-313","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/dcai/NievesCCPR20","doi":"10.1007/978-3-030-53036-5_33","ee":"https://doi.org/10.1007/978-3-030-53036-5_33","url":"https://dblp.org/rec/conf/dcai/NievesCCPR20"},
+"url":"URL#880929"
+},
+{
+"@score":"3",
+"@id":"883500",
+"info":{"authors":{"author":{"@pid":"18/5598","text":"Hongming Wang"}},"title":"Stock Price Prediction Based on Machine Learning Approaches.","venue":"DSIT","pages":"1-5","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/dsit/Wang20","doi":"10.1145/3414274.3414275","ee":"https://doi.org/10.1145/3414274.3414275","url":"https://dblp.org/rec/conf/dsit/Wang20"},
+"url":"URL#883500"
+},
+{
+"@score":"3",
+"@id":"887649",
+"info":{"authors":{"author":[{"@pid":"144/7474","text":"Roberto Nappi"},{"@pid":"276/9324","text":"Valerio Striano"},{"@pid":"276/3070","text":"Gianluca Cutrera"},{"@pid":"276/2842","text":"Antonio Vigliotti"},{"@pid":"85/3802","text":"Giuseppe Franzè"}]},"title":"Rolling Stocks: A Machine Learning Predictive Maintenance Architecture.","venue":"EDCC Workshops","pages":"68-77","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/edcc/NappiSCVF20","doi":"10.1007/978-3-030-58462-7_6","ee":"https://doi.org/10.1007/978-3-030-58462-7_6","url":"https://dblp.org/rec/conf/edcc/NappiSCVF20"},
+"url":"URL#887649"
+},
+{
+"@score":"3",
+"@id":"896206",
+"info":{"authors":{"author":[{"@pid":"266/5359","text":"Mehtabhorn Obthong"},{"@pid":"266/5258","text":"Nongnuch Tantisantiwong"},{"@pid":"266/5338","text":"Watthanasak Jeamwatthanachai"},{"@pid":"w/GaryBWills","text":"Gary B. Wills"}]},"title":"A Survey on Machine Learning for Stock Price Prediction: Algorithms and Techniques.","venue":"FEMIB","pages":"63-71","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/femib/ObthongTJW20","doi":"10.5220/0009340700630071","ee":"https://doi.org/10.5220/0009340700630071","url":"https://dblp.org/rec/conf/femib/ObthongTJW20"},
+"url":"URL#896206"
+},
+{
+"@score":"3",
+"@id":"905026",
+"info":{"authors":{"author":[{"@pid":"234/2924","text":"Kodai Sasaki"},{"@pid":"19/4240","text":"Hirohiko Suwa"},{"@pid":"40/6335","text":"Yuki Ogawa"},{"@pid":"83/8203","text":"Eiichi Umehara"},{"@pid":"91/5209","text":"Tatsuo Yamashita"},{"@pid":"70/1077","text":"Kota Tsubouchi"}]},"title":"Evaluation of VI Index Forecasting Model by Machine Learning for Yahoo! Stock BBS Using Volatility Trading Simulation.","venue":"HICSS","pages":"1-9","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/hicss/SasakiSOUYT20","ee":"https://hdl.handle.net/10125/64047","url":"https://dblp.org/rec/conf/hicss/SasakiSOUYT20"},
+"url":"URL#905026"
+},
+{
+"@score":"3",
+"@id":"914332",
+"info":{"authors":{"author":{"@pid":"306/4298","text":"Sanbo Wang"}},"title":"The Prediction of Stock Index Movements Based on Machine Learning.","venue":"ICCAE","pages":"1-6","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccae/Wang20","doi":"10.1145/3384613.3384615","ee":"https://doi.org/10.1145/3384613.3384615","url":"https://dblp.org/rec/conf/iccae/Wang20"},
+"url":"URL#914332"
+},
+{
+"@score":"3",
+"@id":"919190",
+"info":{"authors":{"author":[{"@pid":"267/6910","text":"Jacopo Fior"},{"@pid":"60/7439","text":"Luca Cagliero"}]},"title":"Exploring the Use of Data at Multiple Granularity Levels in Machine Learning-Based Stock Trading.","venue":"ICDM","pages":"333-340","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdm/FiorC20","doi":"10.1109/ICDMW51313.2020.00053","ee":"https://doi.org/10.1109/ICDMW51313.2020.00053","url":"https://dblp.org/rec/conf/icdm/FiorC20"},
+"url":"URL#919190"
+},
+{
+"@score":"3",
+"@id":"979047",
+"info":{"authors":{"author":[{"@pid":"252/0746","text":"Matteo Greco"},{"@pid":"222/8054","text":"Michele Spagnoletta"},{"@pid":"63/5512","text":"Annalisa Appice"},{"@pid":"m/DonatoMalerba","text":"Donato Malerba"}]},"title":"Applying Machine Learning to Predict Closing Prices in Stock Market: A Case Study.","venue":"MIDAS@PKDD/ECML","pages":"32-39","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/pkdd/GrecoSAM20","doi":"10.1007/978-3-030-66981-2_3","ee":"https://doi.org/10.1007/978-3-030-66981-2_3","url":"https://dblp.org/rec/conf/pkdd/GrecoSAM20"},
+"url":"URL#979047"
+},
+{
+"@score":"3",
+"@id":"993983",
+"info":{"authors":{"author":[{"@pid":"181/9125","text":"Fernando Garcia Diniz Campos Ferreira"},{"@pid":"43/8647","text":"Amir H. Gandomi"},{"@pid":"56/2805","text":"Rodrigo T. N. Cardoso"}]},"title":"Financial time-series analysis of Brazilian stock market using machine learning.","venue":"SSCI","pages":"2853-2860","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ssci/FerreiraGC20","doi":"10.1109/SSCI47803.2020.9308470","ee":"https://doi.org/10.1109/SSCI47803.2020.9308470","url":"https://dblp.org/rec/conf/ssci/FerreiraGC20"},
+"url":"URL#993983"
+},
+{
+"@score":"3",
+"@id":"1085837",
+"info":{"authors":{"author":{"@pid":"220/1380","text":"Pol del Aguila Pla"}},"title":"Inverse problems in signal processing: Functional optimization, parameter estimation and machine learning.","year":"2019","type":"Books and Theses","access":"closed","key":"phd/basesearch/Pla19","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-256079","url":"https://dblp.org/rec/phd/basesearch/Pla19"},
+"url":"URL#1085837"
+},
+{
+"@score":"3",
+"@id":"1085955",
+"info":{"authors":{"author":{"@pid":"174/2205","text":"Theodore Vasiloudis"}},"title":"Scalable Machine Learning through Approximation and Distributed Computing.","year":"2019","type":"Books and Theses","access":"closed","key":"phd/basesearch/Vasiloudis19","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-250038","url":"https://dblp.org/rec/phd/basesearch/Vasiloudis19"},
+"url":"URL#1085955"
+},
+{
+"@score":"3",
+"@id":"1111214",
+"info":{"authors":{"author":[{"@pid":"41/10029","text":"Ranjeeta Bisoi"},{"@pid":"52/8632","text":"P. K. Dash"},{"@pid":"218/2904","text":"A. K. Parida"}]},"title":"Hybrid Variational Mode Decomposition and evolutionary robust kernel extreme learning machine for stock price and movement prediction on daily basis.","venue":"Appl. Soft Comput.","volume":"74","pages":"652-678","year":"2019","type":"Journal Articles","access":"closed","key":"journals/asc/BisoiDP19","doi":"10.1016/J.ASOC.2018.11.008","ee":"https://doi.org/10.1016/j.asoc.2018.11.008","url":"https://dblp.org/rec/journals/asc/BisoiDP19"},
+"url":"URL#1111214"
+},
+{
+"@score":"3",
+"@id":"1127469",
+"info":{"authors":{"author":[{"@pid":"62/10209","text":"Hongduo Cao"},{"@pid":"241/9130","text":"Tiantian Lin"},{"@pid":"22/1805-21","text":"Ying Li 0021"},{"@pid":"66/1070","text":"Hanyu Zhang"}]},"title":"Stock Price Pattern Prediction Based on Complex Network and Machine Learning.","venue":"Complex.","volume":"2019","pages":"4132485:1-4132485:12","year":"2019","type":"Journal Articles","access":"open","key":"journals/complexity/CaoLLZ19","doi":"10.1155/2019/4132485","ee":"https://doi.org/10.1155/2019/4132485","url":"https://dblp.org/rec/journals/complexity/CaoLLZ19"},
+"url":"URL#1127469"
+},
+{
+"@score":"3",
+"@id":"1140458",
+"info":{"authors":{"author":[{"@pid":"228/7344","text":"Tae Kyun Lee"},{"@pid":"228/7672","text":"Joon Hyung Cho"},{"@pid":"228/7635","text":"Deuk Sin Kwon"},{"@pid":"14/4000","text":"So Young Sohn"}]},"title":"Global stock market investment strategies based on financial network indicators using machine learning techniques.","venue":"Expert Syst. Appl.","volume":"117","pages":"228-242","year":"2019","type":"Journal Articles","access":"closed","key":"journals/eswa/LeeCKS19","doi":"10.1016/J.ESWA.2018.09.005","ee":"https://doi.org/10.1016/j.eswa.2018.09.005","url":"https://dblp.org/rec/journals/eswa/LeeCKS19"},
+"url":"URL#1140458"
+},
+{
+"@score":"3",
+"@id":"1156379",
+"info":{"authors":{"author":[{"@pid":"244/8740","text":"Smita Rath"},{"@pid":"126/2290","text":"Binod Kumar Sahu"},{"@pid":"99/3261","text":"Manojranjan Nayak"}]},"title":"Application of quasi-oppositional symbiotic organisms search based extreme learning machine for stock market prediction.","venue":"Int. J. Intell. Comput. Cybern.","volume":"12","number":"2","pages":"175-193","year":"2019","type":"Journal Articles","access":"closed","key":"journals/ijicc/RathSN19","doi":"10.1108/IJICC-10-2018-0145","ee":"https://doi.org/10.1108/IJICC-10-2018-0145","url":"https://dblp.org/rec/journals/ijicc/RathSN19"},
+"url":"URL#1156379"
+},
+{
+"@score":"3",
+"@id":"1247539",
+"info":{"authors":{"author":[{"@pid":"259/0095","text":"Marxia Oli Sigo"},{"@pid":"259/0191","text":"Murugesan Selvam"},{"@pid":"259/0053","text":"Sankaran Venkateswar"},{"@pid":"259/0087","text":"Chinnadurai Kathiravan"}]},"title":"Application of Ensemble Machine Learning in the Predictive Data Analytics of Indian Stock Market.","venue":"Webology","volume":"16","number":"2","year":"2019","type":"Journal Articles","access":"open","key":"journals/webology/SigoSVK19","ee":"http://www.webology.org/2019/v16n2/a195.pdf","url":"https://dblp.org/rec/journals/webology/SigoSVK19"},
+"url":"URL#1247539"
+},
+{
+"@score":"3",
+"@id":"1331358",
+"info":{"authors":{"author":[{"@pid":"06/10687","text":"Thanh-Phuong Nguyen"},{"@pid":"256/4790","text":"Tien-Duc Van"},{"@pid":"158/7656","text":"Nhat-Tan Le"},{"@pid":"256/4844","text":"Thanh-Tan Mai"},{"@pid":"188/7139","text":"Khuong Nguyen-An"}]},"title":"An Intensive Empirical Study of Machine Learning Algorithms for Predicting Vietnamese Stock Prices.","venue":"ICCSAMA","pages":"291-303","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccsama/NguyenVLMN19","doi":"10.1007/978-3-030-38364-0_26","ee":"https://doi.org/10.1007/978-3-030-38364-0_26","url":"https://dblp.org/rec/conf/iccsama/NguyenVLMN19"},
+"url":"URL#1331358"
+},
+{
+"@score":"3",
+"@id":"1341793",
+"info":{"authors":{"author":[{"@pid":"268/2418","text":"Edgar P. Torres P."},{"@pid":"268/2480","text":"Myriam Hernández Álvarez"},{"@pid":"268/2398","text":"Edgar A. Torres Hernández"},{"@pid":"75/9011","text":"Sang Guun Yoo"}]},"title":"Stock Market Data Prediction Using Machine Learning Techniques.","venue":"ICITS","pages":"539-547","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/icits2/PAHY19","doi":"10.1007/978-3-030-11890-7_52","ee":"https://doi.org/10.1007/978-3-030-11890-7_52","url":"https://dblp.org/rec/conf/icits2/PAHY19"},
+"url":"URL#1341793"
+},
+{
+"@score":"3",
+"@id":"1353606",
+"info":{"authors":{"author":[{"@pid":"252/2153","text":"Ahmed K. Taha"},{"@pid":"20/822","text":"Mohamed Hamed Kholief"},{"@pid":"43/6145","text":"Walid Abdelmoez"}]},"title":"Adaptive Machine Learning-Based Stock Prediction Using Financial Time Series Technical Indicators.","venue":"IDEAL","pages":"191-199","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/ideal/TahaKA19","doi":"10.1007/978-3-030-33617-2_21","ee":"https://doi.org/10.1007/978-3-030-33617-2_21","url":"https://dblp.org/rec/conf/ideal/TahaKA19"},
+"url":"URL#1353606"
+},
+{
+"@score":"3",
+"@id":"1363527",
+"info":{"authors":{"author":[{"@pid":"253/8621","text":"Gerard Rique"},{"@pid":"59/1599","text":"Patrick Hosein"},{"@pid":"253/8633","text":"Vaalmikki Arjoon"}]},"title":"Analysis of Herd Behavior in Stock Prices Using Machine Learning.","venue":"INSCI","pages":"326-331","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/insci/RiqueHA19","doi":"10.1007/978-3-030-34770-3_27","ee":"https://doi.org/10.1007/978-3-030-34770-3_27","url":"https://dblp.org/rec/conf/insci/RiqueHA19"},
+"url":"URL#1363527"
+},
+{
+"@score":"3",
+"@id":"1374079",
+"info":{"authors":{"author":[{"@pid":"258/6265","text":"Po-Chao Lan"},{"@pid":"258/6508","text":"Wei-Ling Kung"},{"@pid":"258/6641","text":"Yao-Lun Ou"},{"@pid":"258/6803","text":"Chun-Yueh Lin"},{"@pid":"258/6869","text":"Wen-Cheng Hu"},{"@pid":"01/1036","text":"Yi-Hsien Wang"}]},"title":"Machine learning model with technical analysis for stock price prediction: Empirical study of Semiconductor Company in Taiwan.","venue":"ISPACS","pages":"1-2","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/ispacs/LanKOLHW19","doi":"10.1109/ISPACS48206.2019.8986293","ee":"https://doi.org/10.1109/ISPACS48206.2019.8986293","url":"https://dblp.org/rec/conf/ispacs/LanKOLHW19"},
+"url":"URL#1374079"
+},
+{
+"@score":"3",
+"@id":"1402663",
+"info":{"authors":{"author":[{"@pid":"233/4077","text":"Maya Varma"},{"@pid":"141/5089","text":"Kelley Marie Paskov"},{"@pid":"72/4892","text":"Jae-Yoon Jung"},{"@pid":"233/3659","text":"Brianna Sierra Chrisman"},{"@pid":"233/3994","text":"Nate Tyler Stockham"},{"@pid":"139/2369","text":"Peter Yigitcan Washington"},{"@pid":"67/2444","text":"Dennis Paul Wall"}]},"title":"Outgroup Machine Learning Approach Identifies Single Nucleotide Variants in Noncoding DNA Associated with Autism Spectrum Disorder.","venue":"PSB","pages":"260-271","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/VarmaPJCSWW19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/varma.pdf","url":"https://dblp.org/rec/conf/psb/VarmaPJCSWW19"},
+"url":"URL#1402663"
+},
+{
+"@score":"3",
+"@id":"1408271",
+"info":{"authors":{"author":[{"@pid":"246/8400","text":"Leonardo Gauer Schulte"},{"@pid":"246/8399","text":"Naylor Bastiani Perez"},{"@pid":"36/704","text":"Leonardo Bidese de Pinho"},{"@pid":"246/8424","text":"Gustavo Trentin"}]},"title":"Decision Support System for Precision Livestock: Machine Learning-Based Prediction Module for Stocking Rate Adjustment.","venue":"SBSI","pages":"13:1-13:8","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/sbsi/SchultePPT19","doi":"10.1145/3330204.3330222","ee":"https://doi.org/10.1145/3330204.3330222","url":"https://dblp.org/rec/conf/sbsi/SchultePPT19"},
+"url":"URL#1408271"
+},
+{
+"@score":"3",
+"@id":"1411117",
+"info":{"authors":{"author":[{"@pid":"190/7969","text":"Dhanya Jothimani"},{"@pid":"55/2997","text":"Ayse Basar"}]},"title":"Stock Index Forecasting Using Time Series Decomposition-Based and Machine Learning Models.","venue":"SGAI Conf.","pages":"283-292","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/sgai/JothimaniB19","doi":"10.1007/978-3-030-34885-4_22","ee":"https://doi.org/10.1007/978-3-030-34885-4_22","url":"https://dblp.org/rec/conf/sgai/JothimaniB19"},
+"url":"URL#1411117"
+},
+{
+"@score":"3",
+"@id":"1430830",
+"info":{"authors":{"author":[{"@pid":"261/0345","text":"Bikrant Bikram P. Maurya"},{"@pid":"260/9896","text":"Ayush Ray"},{"@pid":"261/0117","text":"Aman Upadhyay"},{"@pid":"18/7943","text":"Bhupesh Gour"},{"@pid":"05/7943","text":"Asif Ullah Khan"}]},"title":"Recursive Stock Price Prediction With Machine Learning And Web Scrapping For Specified Time Period.","venue":"WOCN","pages":"1-3","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/wocn/MauryaRUGK19","doi":"10.1109/WOCN45266.2019.8995080","ee":"https://doi.org/10.1109/WOCN45266.2019.8995080","url":"https://dblp.org/rec/conf/wocn/MauryaRUGK19"},
+"url":"URL#1430830"
+},
+{
+"@score":"3",
+"@id":"1475751",
+"info":{"authors":{"author":[{"@pid":"248/7642","text":"Samuel Showalter"},{"@pid":"248/9274","text":"Jeffrey Gropp"}]},"title":"Validating Weak-form Market Efficiency in United States Stock Markets with Trend Deterministic Price Data and Machine Learning.","venue":"CoRR","volume":"abs/1909.05151","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1909-05151","ee":"http://arxiv.org/abs/1909.05151","url":"https://dblp.org/rec/journals/corr/abs-1909-05151"},
+"url":"URL#1475751"
+},
+{
+"@score":"3",
+"@id":"1492105",
+"info":{"authors":{"author":[{"@pid":"228/8230","text":"Björn Lütjens"},{"@pid":"205/2692","text":"Lucas Liebenwein"},{"@pid":"255/5758","text":"Katharina Kramer"}]},"title":"Machine Learning-based Estimation of Forest Carbon Stocks to increase Transparency of Forest Preservation Efforts.","venue":"CoRR","volume":"abs/1912.07850","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1912-07850","ee":"http://arxiv.org/abs/1912.07850","url":"https://dblp.org/rec/journals/corr/abs-1912-07850"},
+"url":"URL#1492105"
+},
+{
+"@score":"3",
+"@id":"1497511",
+"info":{"authors":{"author":{"@pid":"46/7220","text":"Yuan Song"}},"title":"Stock Trend Prediction: Based on Machine Learning Methods.","year":"2018","type":"Books and Theses","access":"closed","key":"phd/basesearch/Song18b","ee":"http://www.escholarship.org/uc/item/0cp1x8th","url":"https://dblp.org/rec/phd/basesearch/Song18b"},
+"url":"URL#1497511"
+},
+{
+"@score":"3",
+"@id":"1497550",
+"info":{"authors":{"author":{"@pid":"197/8341","text":"Matthew The"}},"title":"Statistical and machine learning methods to analyze large-scale mass spectrometry data.","year":"2018","type":"Books and Theses","access":"closed","key":"phd/basesearch/The18","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-235629","url":"https://dblp.org/rec/phd/basesearch/The18"},
+"url":"URL#1497550"
+},
+{
+"@score":"3",
+"@id":"1497573",
+"info":{"authors":{"author":{"@pid":"118/9327","text":"Arun Venkitaraman"}},"title":"Graph Signal Processing Meets Machine Learning.","year":"2018","type":"Books and Theses","access":"closed","key":"phd/basesearch/Venkitaraman18","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-237274","url":"https://dblp.org/rec/phd/basesearch/Venkitaraman18"},
+"url":"URL#1497573"
+},
+{
+"@score":"3",
+"@id":"1509607",
+"info":{"authors":{"author":[{"@pid":"32/8420","text":"Frantisek Darena"},{"@pid":"236/3917","text":"Jonás Petrovský"},{"@pid":"98/2000","text":"Jan Zizka"},{"@pid":"236/3905","text":"Jan Prichystal"}]},"title":"Machine Learning-Based Analysis of the Association Between Online Texts and Stock Price Movements.","venue":"Inteligencia Artif.","volume":"21","number":"61","pages":"95-110","year":"2018","type":"Journal Articles","access":"open","key":"journals/aepia/DarenaPZP18","doi":"10.4114/INTARTIF.VOL21ISS61PP95-110","ee":"https://doi.org/10.4114/intartif.vol21iss61pp95-110","url":"https://dblp.org/rec/journals/aepia/DarenaPZP18"},
+"url":"URL#1509607"
+},
+{
+"@score":"3",
+"@id":"1536223",
+"info":{"authors":{"author":[{"@pid":"162/6025","text":"Andy Stock"},{"@pid":"231/1596","text":"Alison J. Haupt"},{"@pid":"231/1628","text":"Megan E. Mach"},{"@pid":"231/1625","text":"Fiorenza Micheli"}]},"title":"Mapping ecological indicators of human impact with statistical and machine learning methods: Tests on the California coast.","venue":"Ecol. Informatics","volume":"48","pages":"37-47","year":"2018","type":"Journal Articles","access":"closed","key":"journals/ecoi/StockHMM18","doi":"10.1016/J.ECOINF.2018.07.007","ee":"https://doi.org/10.1016/j.ecoinf.2018.07.007","url":"https://dblp.org/rec/journals/ecoi/StockHMM18"},
+"url":"URL#1536223"
+},
+{
+"@score":"3",
+"@id":"1540768",
+"info":{"authors":{"author":[{"@pid":"25/6133","text":"Sotirios P. Chatzis"},{"@pid":"206/6737","text":"Vasilis Siakoulis"},{"@pid":"176/8872","text":"Anastasios Petropoulos"},{"@pid":"225/5122","text":"Evangelos Stavroulakis"},{"@pid":"220/3618","text":"Nikos E. Vlachogiannakis"}]},"title":"Forecasting stock market crisis events using deep and statistical machine learning techniques.","venue":"Expert Syst. Appl.","volume":"112","pages":"353-371","year":"2018","type":"Journal Articles","access":"closed","key":"journals/eswa/ChatzisSPSV18","doi":"10.1016/J.ESWA.2018.06.032","ee":"https://doi.org/10.1016/j.eswa.2018.06.032","url":"https://dblp.org/rec/journals/eswa/ChatzisSPSV18"},
+"url":"URL#1540768"
+},
+{
+"@score":"3",
+"@id":"1628118",
+"info":{"authors":{"author":[{"@pid":"06/2475","text":"Jui-Sheng Chou"},{"@pid":"222/6950","text":"Thi-Kha Nguyen"}]},"title":"Forward Forecast of Stock Price Using Sliding-Window Metaheuristic-Optimized Machine-Learning Regression.","venue":"IEEE Trans. Ind. Informatics","volume":"14","number":"7","pages":"3132-3142","year":"2018","type":"Journal Articles","access":"closed","key":"journals/tii/ChouN18","doi":"10.1109/TII.2018.2794389","ee":"https://doi.org/10.1109/TII.2018.2794389","url":"https://dblp.org/rec/journals/tii/ChouN18"},
+"url":"URL#1628118"
+},
+{
+"@score":"3",
+"@id":"1667659",
+"info":{"authors":{"author":[{"@pid":"63/1195","text":"Ashish Bhatia"},{"@pid":"86/6357","text":"Hani Hagras"},{"@pid":"194/9091","text":"Jason J. Lepley"}]},"title":"Machine Learning Approach to Extracting Emotions Information from Open Source Data for Relative Forecasting of Stock Prices.","venue":"CEEC","pages":"142-147","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/ceec/BhatiaHL18","doi":"10.1109/CEEC.2018.8674180","ee":"https://doi.org/10.1109/CEEC.2018.8674180","url":"https://dblp.org/rec/conf/ceec/BhatiaHL18"},
+"url":"URL#1667659"
+},
+{
+"@score":"3",
+"@id":"1676370",
+"info":{"authors":{"author":[{"@pid":"82/4803","text":"Chongyang Zhang"},{"@pid":"44/10189","text":"Zhi Ji"},{"@pid":"96/7691","text":"Jixiang Zhang 0001"},{"@pid":"07/382","text":"Yanqing Wang"},{"@pid":"294/5153","text":"Xingzhi Zhao"},{"@pid":"16/6235","text":"Yiping Yang"}]},"title":"Predicting Chinese Stock Market Price Trend Using Machine Learning Approach.","venue":"CSAE","pages":"83:1-83:5","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/csae/ZhangJ0WZY18","doi":"10.1145/3207677.3277966","ee":"https://doi.org/10.1145/3207677.3277966","url":"https://dblp.org/rec/conf/csae/ZhangJ0WZY18"},
+"url":"URL#1676370"
+},
+{
+"@score":"3",
+"@id":"1687561",
+"info":{"authors":{"author":[{"@pid":"128/5779","text":"Ana Claudia Sima"},{"@pid":"38/5145","text":"Kurt Stockinger"},{"@pid":"216/5173","text":"Katrin Affolter"},{"@pid":"67/5669","text":"Martin Braschler"},{"@pid":"216/5050","text":"Peter Monte"},{"@pid":"216/5015","text":"Lukas Kaiser"}]},"title":"A Hybrid Approach for Alarm Verification using Stream Processing, Machine Learning and Text Analytics.","venue":"EDBT","pages":"552-563","year":"2018","type":"Conference and Workshop Papers","access":"open","key":"conf/edbt/SimaSABMK18","doi":"10.5441/002/EDBT.2018.66","ee":"https://doi.org/10.5441/002/edbt.2018.66","url":"https://dblp.org/rec/conf/edbt/SimaSABMK18"},
+"url":"URL#1687561"
+},
+{
+"@score":"3",
+"@id":"1728489",
+"info":{"authors":{"author":[{"@pid":"234/1675","text":"Kyle J. Morris"},{"@pid":"234/1669","text":"Sean D. Egan"},{"@pid":"234/1559","text":"Jorell L. Linsangan"},{"@pid":"29/654","text":"Carson K. Leung"},{"@pid":"c/AlfredoCuzzocrea","text":"Alfredo Cuzzocrea"},{"@pid":"221/2925","text":"Calvin S. H. Hoi"}]},"title":"Token-Based Adaptive Time-Series Prediction by Ensembling Linear and Non-linear Estimators: A Machine Learning Approach for Predictive Analytics on big Stock Data.","venue":"ICMLA","pages":"1486-1491","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/icmla/MorrisELLCH18","doi":"10.1109/ICMLA.2018.00242","ee":"https://doi.org/10.1109/ICMLA.2018.00242","url":"https://dblp.org/rec/conf/icmla/MorrisELLCH18"},
+"url":"URL#1728489"
+},
+{
+"@score":"3",
+"@id":"1803332",
+"info":{"authors":{"author":[{"@pid":"226/0938","text":"Hongyang Yang"},{"@pid":"125/9849","text":"Xiao-Yang Liu"},{"@pid":"13/4018","text":"Qingwei Wu"}]},"title":"A Practical Machine Learning Approach for Dynamic Stock Recommendation.","venue":"TrustCom/BigDataSE","pages":"1693-1697","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/trustcom/YangLW18","doi":"10.1109/TRUSTCOM/BIGDATASE.2018.00253","ee":"https://doi.org/10.1109/TrustCom/BigDataSE.2018.00253","url":"https://dblp.org/rec/conf/trustcom/YangLW18"},
+"url":"URL#1803332"
+},
+{
+"@score":"3",
+"@id":"1810435",
+"info":{"authors":{"author":[{"@pid":"156/6642","text":"Eduardo Jabbur Machado"},{"@pid":"73/6430","text":"Adriano César Machado Pereira"}]},"title":"Proposal and Implementation of Machine Learning Models for Stock Markets Using Web Data.","venue":"WebMedia","pages":"61-64","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/webmedia/MachadoP18","doi":"10.1145/3243082.3264663","ee":"https://doi.org/10.1145/3243082.3264663","url":"https://dblp.org/rec/conf/webmedia/MachadoP18"},
+"url":"URL#1810435"
+},
+{
+"@score":"3",
+"@id":"1817465",
+"info":{"authors":{"author":[{"@pid":"21/1034","text":"William H. Hsu"},{"@pid":"213/8725","text":"Heath Yates"}]},"title":"Workshop on Artificial Intelligence in Affective Computing, AffComp@IJCAI 2018, Stockholm, Sweden, 15 July 2018,","venue":["AffComp@IJCAI","Proceedings of Machine Learning Research"],"volume":"86","publisher":"PMLR","year":"2018","type":"Editorship","access":"open","key":"conf/ijcai/2018affcomp","ee":"http://proceedings.mlr.press/v86/","url":"https://dblp.org/rec/conf/ijcai/2018affcomp"},
+"url":"URL#1817465"
+},
+{
+"@score":"3",
+"@id":"1839141",
+"info":{"authors":{"author":[{"@pid":"215/5376","text":"XingYu Fu"},{"@pid":"222/3322","text":"JinHong Du"},{"@pid":"222/3306","text":"YiFeng Guo"},{"@pid":"222/3227","text":"MingWen Liu"},{"@pid":"55/28","text":"Tao Dong"},{"@pid":"215/5500","text":"XiuWen Duan"}]},"title":"A Machine Learning Framework for Stock Selection.","venue":"CoRR","volume":"abs/1806.01743","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1806-01743","ee":"http://arxiv.org/abs/1806.01743","url":"https://dblp.org/rec/journals/corr/abs-1806-01743"},
+"url":"URL#1839141"
+},
+{
+"@score":"3",
+"@id":"1842850",
+"info":{"authors":{"author":[{"@pid":"142/4211","text":"Kim Albertsson"},{"@pid":"185/7504","text":"Piero Altoe"},{"@pid":"39/529","text":"Dustin Anderson"},{"@pid":"61/6061","text":"Michael Andrews"},{"@pid":"223/5802","text":"Juan Pedro Araque Espinosa"},{"@pid":"223/5637","text":"Adam Aurisano"},{"@pid":"223/5834","text":"Laurent Basara"},{"@pid":"223/5830","text":"Adrian Bevan"},{"@pid":"63/9223","text":"Wahid Bhimji"},{"@pid":"27/9927","text":"Daniele Bonacorsi"},{"@pid":"92/4713","text":"Paolo Calafiura"},{"@pid":"223/5852","text":"Mario Campanelli"},{"@pid":"08/956","text":"Louis Capps"},{"@pid":"154/1681","text":"Federico Carminati"},{"@pid":"147/8105","text":"Stefano Carrazza"},{"@pid":"223/5722","text":"Taylor Childers"},{"@pid":"223/5935","text":"Elias Coniavitis"},{"@pid":"26/3292","text":"Kyle Cranmer"},{"@pid":"65/164","text":"Claire David"},{"@pid":"18/366","text":"Douglas Davis"},{"@pid":"218/6528","text":"Javier M. Duarte"},{"@pid":"195/0953","text":"Martin Erdmann"},{"@pid":"223/5963","text":"Jonas Eschle"},{"@pid":"223/6007","text":"Amir Farbin"},{"@pid":"223/5982","text":"Matthew Feickert"},{"@pid":"223/5748","text":"Nuno Filipe Castro"},{"@pid":"223/5547","text":"Conor Fitzpatrick"},{"@pid":"223/5789","text":"Michele Floris"},{"@pid":"223/5810","text":"Alessandra Forti"},{"@pid":"223/5998","text":"Jordi Garra-Tico"},{"@pid":"223/6022","text":"Jochen Gemmler"},{"@pid":"180/7992","text":"Maria Girone"},{"@pid":"223/5581","text":"Paul Glaysher"},{"@pid":"202/4858","text":"Sergei Gleyzer"},{"@pid":"170/6756","text":"Vladimir V. Gligorov"},{"@pid":"223/5532","text":"Tobias Golling"},{"@pid":"223/5549","text":"Jonas Graw"},{"@pid":"223/5964","text":"Lindsey Gray"},{"@pid":"223/5674","text":"Dick Greenwood"},{"@pid":"223/5718","text":"Thomas Hacker"},{"@pid":"54/1270","text":"John Harvey"},{"@pid":"223/5970","text":"Benedikt Hegner"},{"@pid":"199/1773","text":"Lukas Heinrich"},{"@pid":"223/5541","text":"Ben Hooberman"},{"@pid":"177/3298","text":"Johannes Junggeburth"},{"@pid":"87/5521","text":"Michael Kagan"},{"@pid":"223/5784","text":"Meghan Kane"},{"@pid":"223/5956","text":"Konstantin Kanishchev"},{"@pid":"207/2222","text":"Przemyslaw Karpinski"},{"@pid":"223/5958","text":"Zahari Kassabov"},{"@pid":"198/3378","text":"Gaurav Kaul"},{"@pid":"129/5762","text":"Dorian Kcira"},{"@pid":"186/7903","text":"Thomas Keck"},{"@pid":"167/3962","text":"Alexei Klimentov"},{"@pid":"63/2915","text":"Jim Kowalkowski"},{"@pid":"223/5680","text":"Luke Kreczko"},{"@pid":"223/5908","text":"Alexander Kurepin"},{"@pid":"223/5824","text":"Rob Kutschke"},{"@pid":"16/6120","text":"Valentin Kuznetsov"},{"@pid":"223/6087","text":"Nicolas Köhler"},{"@pid":"223/5750","text":"Igor Lakomov"},{"@pid":"148/6744","text":"Kevin Lannon"},{"@pid":"30/3216","text":"Mario Lassnig"},{"@pid":"223/5515","text":"Antonio Limosani"},{"@pid":"05/9382","text":"Gilles Louppe"},{"@pid":"223/6082","text":"Aashrita Mangu"},{"@pid":"206/9773","text":"Pere Mato"},{"@pid":"223/5613","text":"Narain Meenakshi"},{"@pid":"150/6724","text":"Helge Meinhard"},{"@pid":"223/6076","text":"Dario Menasce"},{"@pid":"167/3836","text":"Lorenzo Moneta"},{"@pid":"223/5591","text":"Seth Moortgat"},{"@pid":"223/1854","text":"Mark S. Neubauer"},{"@pid":"34/700","text":"Harvey B. Newman"},{"@pid":"47/8316","text":"Hans Pabst"},{"@pid":"210/2609","text":"Michela Paganini"},{"@pid":"223/5914","text":"Manfred Paulini"},{"@pid":"202/6040","text":"Gabriel N. Perdue"},{"@pid":"223/6006","text":"Uzziel Perez"},{"@pid":"223/5788","text":"Attilio Picazio"},{"@pid":"176/5488","text":"Jim Pivarski"},{"@pid":"223/5652","text":"Harrison Prosper"},{"@pid":"223/5512","text":"Fernanda Psihas"},{"@pid":"223/5690","text":"Alexander Radovic"},{"@pid":"223/5930","text":"Ryan Reece"},{"@pid":"223/6017","text":"Aurelius Rinkevicius"},{"@pid":"183/4861","text":"Eduardo Rodrigues"},{"@pid":"223/5721","text":"Jamal Rorie"},{"@pid":"27/2136","text":"David Rousseau"},{"@pid":"223/5760","text":"Aaron Sauers"},{"@pid":"223/5661","text":"Steven Schramm"},{"@pid":"223/6041","text":"Ariel Schwartzman"},{"@pid":"40/4187","text":"Horst Severini"},{"@pid":"223/5729","text":"Paul Seyfert"},{"@pid":"223/5725","text":"Filip Siroky"},{"@pid":"223/5720","text":"Konstantin Skazytkin"},{"@pid":"137/7907","text":"Mike Sokoloff"},{"@pid":"63/4211","text":"Graeme Andrew Stewart"},{"@pid":"223/6010","text":"Bob Stienen"},{"@pid":"47/269","text":"Ian Stockdale"},{"@pid":"223/6030","text":"Giles Strong"},{"@pid":"223/5672","text":"Savannah Thais"},{"@pid":"t/KarenATomko","text":"Karen Tomko"},{"@pid":"u/EliUpfal","text":"Eli Upfal"},{"@pid":"223/5931","text":"Emanuele Usai"},{"@pid":"163/1841","text":"Andrey Ustyuzhanin"},{"@pid":"218/4395","text":"Martin Vala"},{"@pid":"182/5542","text":"Sofia Vallecorsa"},{"@pid":"223/5991","text":"Mauro Verzetti"},{"@pid":"27/4641","text":"Xavier Vilasís-Cardona"},{"@pid":"211/7893","text":"Jean-Roch Vlimant"},{"@pid":"213/8143","text":"Ilija Vukotic"},{"@pid":"223/5681","text":"Sean-Jiun Wang"},{"@pid":"169/4157","text":"Gordon Watts"},{"@pid":"55/6103","text":"Michael Williams"},{"@pid":"06/10775","text":"Wenjing Wu"},{"@pid":"175/2350","text":"Stefan Wunsch"},{"@pid":"223/6001","text":"Omar Zapata"}]},"title":"Machine Learning in High Energy Physics Community White Paper.","venue":"CoRR","volume":"abs/1807.02876","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1807-02876","ee":"http://arxiv.org/abs/1807.02876","url":"https://dblp.org/rec/journals/corr/abs-1807-02876"},
+"url":"URL#1842850"
+},
+{
+"@score":"3",
+"@id":"1852137",
+"info":{"authors":{"author":{"@pid":"227/2943","text":"Andreas Stöckl"}},"title":"Detecting Satire in the News with Machine Learning.","venue":"CoRR","volume":"abs/1810.00593","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1810-00593","ee":"http://arxiv.org/abs/1810.00593","url":"https://dblp.org/rec/journals/corr/abs-1810-00593"},
+"url":"URL#1852137"
+},
+{
+"@score":"3",
+"@id":"1971933",
+"info":{"authors":{"author":[{"@pid":"90/4225-37","text":"Feng Wang 0037"},{"@pid":"27/7698","text":"Yongquan Zhang"},{"@pid":"189/4404","text":"Qi Rao"},{"@pid":"35/5570","text":"Kangshun Li"},{"@pid":"55/2270","text":"Hao Zhang"}]},"title":"Exploring mutual information-based sentimental analysis with kernel-based extreme learning machine for stock prediction.","venue":"Soft Comput.","volume":"21","number":"12","pages":"3193-3205","year":"2017","type":"Journal Articles","access":"closed","key":"journals/soco/WangZRLZ17","doi":"10.1007/S00500-015-2003-Z","ee":"https://doi.org/10.1007/s00500-015-2003-z","url":"https://dblp.org/rec/journals/soco/WangZRLZ17"},
+"url":"URL#1971933"
+},
+{
+"@score":"3",
+"@id":"2128329",
+"info":{"authors":{"author":[{"@pid":"69/2745","text":"Hua Zhang"},{"@pid":"125/8189-89","text":"Jun Wang 0089"},{"@pid":"88/2827","text":"Yan Chen"},{"@pid":"78/7723","text":"Jinghua Tan"},{"@pid":"181/2689-5","text":"Qing Li 0005"}]},"title":"Research on Automatic Identification of Rumors in Stock Forum Based on Machine Learning.","venue":"PACIS","pages":"46","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/pacis/ZhangWCTL17","ee":"http://aisel.aisnet.org/pacis2017/46","url":"https://dblp.org/rec/conf/pacis/ZhangWCTL17"},
+"url":"URL#2128329"
+},
+{
+"@score":"3",
+"@id":"2162840",
+"info":{"authors":{"author":[{"@pid":"g/AlexanderGammerman","text":"Alex J. Gammerman"},{"@pid":"v/VolodyaVovk","text":"Vladimir Vovk"},{"@pid":"63/2469-1","text":"Zhiyuan Luo 0001"},{"@pid":"25/4041","text":"Harris Papadopoulos"}]},"title":"Conformal and Probabilistic Prediction and Applications, COPA 2017, 13-16 June 2017, Stockholm, Sweden","venue":["COPA","Proceedings of Machine Learning Research"],"volume":"60","publisher":"PMLR","year":"2017","type":"Editorship","access":"open","key":"conf/copa/2017","ee":"http://proceedings.mlr.press/v60/","url":"https://dblp.org/rec/conf/copa/2017"},
+"url":"URL#2162840"
+},
+{
+"@score":"3",
+"@id":"2168054",
+"info":{"authors":{"author":[{"@pid":"83/7277","text":"Marcus D. Bloice"},{"@pid":"121/9973","text":"Christof Stocker"},{"@pid":"h/AndreasHolzinger","text":"Andreas Holzinger"}]},"title":"Augmentor: An Image Augmentation Library for Machine Learning.","venue":"J. Open Source Softw.","volume":"2","number":"19","pages":"432","year":"2017","type":"Data and Artifacts","access":"open","key":"journals/jossw/BloiceSH17","doi":"10.21105/JOSS.00432","ee":"https://doi.org/10.21105/joss.00432","url":"https://dblp.org/rec/journals/jossw/BloiceSH17"},
+"url":"URL#2168054"
+},
+{
+"@score":"3",
+"@id":"2185713",
+"info":{"authors":{"author":[{"@pid":"205/2454","text":"Mikhail Goykhman"},{"@pid":"205/2728","text":"Ali Teimouri"}]},"title":"Machine learning in sentiment reconstruction of the simulated stock market.","venue":"CoRR","volume":"abs/1708.01897","year":"2017","type":"Informal Publications","access":"open","key":"journals/corr/abs-1708-01897","ee":"http://arxiv.org/abs/1708.01897","url":"https://dblp.org/rec/journals/corr/abs-1708-01897"},
+"url":"URL#2185713"
+},
+{
+"@score":"3",
+"@id":"2186398",
+"info":{"authors":{"author":[{"@pid":"83/7277","text":"Marcus D. Bloice"},{"@pid":"121/9973","text":"Christof Stocker"},{"@pid":"h/AndreasHolzinger","text":"Andreas Holzinger"}]},"title":"Augmentor: An Image Augmentation Library for Machine Learning.","venue":"CoRR","volume":"abs/1708.04680","year":"2017","type":"Informal Publications","access":"open","key":"journals/corr/abs-1708-04680","ee":"http://arxiv.org/abs/1708.04680","url":"https://dblp.org/rec/journals/corr/abs-1708-04680"},
+"url":"URL#2186398"
+},
+{
+"@score":"3",
+"@id":"2268058",
+"info":{"authors":{"author":[{"@pid":"76/6108","text":"Markus Stocker"},{"@pid":"07/3187","text":"Paula Silvonen"},{"@pid":"72/2265","text":"Mauno Rönkkö"},{"@pid":"38/217","text":"Mikko Kolehmainen"}]},"title":"Detection and Classification of Vehicles by Measurement of Road-Pavement Vibration and by Means of Supervised Machine Learning.","venue":"J. Intell. Transp. Syst.","volume":"20","number":"2","pages":"125-137","year":"2016","type":"Journal Articles","access":"closed","key":"journals/jits/StockerSRK16","doi":"10.1080/15472450.2015.1004063","ee":"https://doi.org/10.1080/15472450.2015.1004063","url":"https://dblp.org/rec/journals/jits/StockerSRK16"},
+"url":"URL#2268058"
+},
+{
+"@score":"3",
+"@id":"2282310",
+"info":{"authors":{"author":[{"@pid":"50/3993-7","text":"Xiaodong Li 0007"},{"@pid":"83/8908","text":"Haoran Xie 0001"},{"@pid":"12/6277-1","text":"Ran Wang 0001"},{"@pid":"58/3467-1","text":"Yi Cai 0001"},{"@pid":"19/10393","text":"Jingjing Cao"},{"@pid":"90/4225-37","text":"Feng Wang 0037"},{"@pid":"73/6274","text":"Huaqing Min"},{"@pid":"d/XiaotieDeng","text":"Xiaotie Deng"}]},"title":"Empirical analysis: stock market prediction via extreme learning machine.","venue":"Neural Comput. Appl.","volume":"27","number":"1","pages":"67-78","year":"2016","type":"Journal Articles","access":"closed","key":"journals/nca/LiXWCCWMD16","doi":"10.1007/S00521-014-1550-Z","ee":"https://doi.org/10.1007/s00521-014-1550-z","url":"https://dblp.org/rec/journals/nca/LiXWCCWMD16"},
+"url":"URL#2282310"
+},
+{
+"@score":"3",
+"@id":"2375126",
+"info":{"authors":{"author":[{"@pid":"04/10329","text":"Michael Siebers"},{"@pid":"145/1392","text":"Franz Uhrmann"},{"@pid":"05/4103","text":"Oliver Scholz"},{"@pid":"23/4586","text":"Christoph Stocker"},{"@pid":"s/UteSchmid","text":"Ute Schmid"}]},"title":"Automatische Detektion von Trockenstress bei Tabakpflanzen mittels Machine-Learning-Verfahren.","venue":"GIL Jahrestagung","pages":"197-200","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/gil/SiebersUSSS16","ee":"https://dl.gi.de/20.500.12116/805","url":"https://dblp.org/rec/conf/gil/SiebersUSSS16"},
+"url":"URL#2375126"
+},
+{
+"@score":"3",
+"@id":"2377422",
+"info":{"authors":{"author":[{"@pid":"198/7903","text":"Jiangyun Zhang"},{"@pid":"88/4641","text":"Shaojie Wang"},{"@pid":"50/8737","text":"Shicheng Xu"},{"@pid":"198/7953","text":"Mengxin Yu"}]},"title":"Stock Price Manipulation Detection Based on Machine Learning Technology: Evidence in China.","venue":"GRMSE","pages":"150-158","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/grmse/ZhangWXY16","doi":"10.1007/978-981-10-3966-9_16","ee":"https://doi.org/10.1007/978-981-10-3966-9_16","url":"https://dblp.org/rec/conf/grmse/ZhangWXY16"},
+"url":"URL#2377422"
+},
+{
+"@score":"3",
+"@id":"2500383",
+"info":{"authors":{"author":{"@pid":"119/4851","text":"Nikola Milosevic"}},"title":"Equity forecast: Predicting long term stock price movement using machine learning.","venue":"CoRR","volume":"abs/1603.00751","year":"2016","type":"Informal Publications","access":"open","key":"journals/corr/Milosevic16a","ee":"http://arxiv.org/abs/1603.00751","url":"https://dblp.org/rec/journals/corr/Milosevic16a"},
+"url":"URL#2500383"
+},
+{
+"@score":"3",
+"@id":"2509818",
+"info":{"authors":{"author":[{"@pid":"186/8540","text":"Jan Stampfli"},{"@pid":"38/5145","text":"Kurt Stockinger"}]},"title":"Applied Data Science: Using Machine Learning for Alarm Verification.","venue":"ERCIM News","volume":"2016","number":"107","year":"2016","type":"Informal Publications","access":"open","key":"journals/ercim/StampfliS16","ee":"http://ercim-news.ercim.eu/en107/special/applied-data-science-using-machine-learning-for-alarm-verification","url":"https://dblp.org/rec/journals/ercim/StampfliS16"},
+"url":"URL#2509818"
+},
+{
+"@score":"3",
+"@id":"2545762",
+"info":{"authors":{"author":[{"@pid":"49/5187","text":"Jigar Patel"},{"@pid":"149/4653","text":"Sahil Shah"},{"@pid":"151/0490","text":"Priyank Thakkar"},{"@pid":"66/1119","text":"Ketan Kotecha"}]},"title":"Predicting stock market index using fusion of machine learning techniques.","venue":"Expert Syst. Appl.","volume":"42","number":"4","pages":"2162-2172","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eswa/PatelSTK15a","doi":"10.1016/J.ESWA.2014.10.031","ee":"https://doi.org/10.1016/j.eswa.2014.10.031","url":"https://dblp.org/rec/journals/eswa/PatelSTK15a"},
+"url":"URL#2545762"
+},
+{
+"@score":"3",
+"@id":"2631411",
+"info":{"authors":{"author":{"@pid":"05/2582","text":"Pinar Tüfekçi"}},"title":"Predicting the Direction of Movement for Stock Price Index Using Machine Learning Methods.","venue":"AECIA","pages":"477-492","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aecia/Tufekci15","doi":"10.1007/978-3-319-29504-6_45","ee":"https://doi.org/10.1007/978-3-319-29504-6_45","url":"https://dblp.org/rec/conf/aecia/Tufekci15"},
+"url":"URL#2631411"
+},
+{
+"@score":"3",
+"@id":"2690352",
+"info":{"authors":{"author":[{"@pid":"168/6637","text":"Mohammed Qasem"},{"@pid":"34/4880","text":"Ruppa K. Thulasiram"},{"@pid":"46/4112","text":"Parimala Thulasiraman"}]},"title":"Twitter sentiment classification using machine learning techniques for stock markets.","venue":"ICACCI","pages":"834-840","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/icacci/QasemTT15","doi":"10.1109/ICACCI.2015.7275714","ee":"https://doi.org/10.1109/ICACCI.2015.7275714","url":"https://dblp.org/rec/conf/icacci/QasemTT15"},
+"url":"URL#2690352"
+},
+{
+"@score":"3",
+"@id":"2699611",
+"info":{"authors":{"author":[{"@pid":"90/4225","text":"Feng Wang"},{"@pid":"27/7698","text":"Yongquan Zhang"},{"@pid":"52/9108","text":"Hang Xiao"},{"@pid":"86/3715","text":"Li Kuang"},{"@pid":"51/4026","text":"Yi Lai"}]},"title":"Enhancing Stock Price Prediction with a Hybrid Approach Based Extreme Learning Machine.","venue":"ICDM Workshops","pages":"1568-1575","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdm/WangZXKL15","doi":"10.1109/ICDMW.2015.74","ee":"https://doi.org/10.1109/ICDMW.2015.74","url":"https://dblp.org/rec/conf/icdm/WangZXKL15"},
+"url":"URL#2699611"
+},
+{
+"@score":"3",
+"@id":"2755631",
+"info":{"authors":{"author":[{"@pid":"56/661","text":"Steven D. Prestwich"},{"@pid":"167/3251","text":"Adejuyigbe O. Fajemisin"},{"@pid":"68/8361","text":"Laura Climent"},{"@pid":"o/BarryOSullivan","text":"Barry O&apos;Sullivan"}]},"title":"Solving a Hard Cutting Stock Problem by Machine Learning and Optimisation.","venue":"ECML/PKDD","pages":"335-347","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/pkdd/PrestwichFCO15","doi":"10.1007/978-3-319-23528-8_21","ee":"https://doi.org/10.1007/978-3-319-23528-8_21","url":"https://dblp.org/rec/conf/pkdd/PrestwichFCO15"},
+"url":"URL#2755631"
+},
+{
+"@score":"3",
+"@id":"2830233",
+"info":{"authors":{"author":[{"@pid":"43/8227","text":"Shipra Banik"},{"@pid":"118/7280","text":"A. F. M. Khodadad Khan"},{"@pid":"95/5474","text":"Mohammed Anwer"}]},"title":"Hybrid Machine Learning Technique for Forecasting Dhaka Stock Market Timing Decisions.","venue":"Comput. Intell. Neurosci.","volume":"2014","pages":"318524:1-318524:6","year":"2014","type":"Journal Articles","access":"open","key":"journals/cin/BanikKA14","doi":"10.1155/2014/318524","ee":"https://doi.org/10.1155/2014/318524","url":"https://dblp.org/rec/journals/cin/BanikKA14"},
+"url":"URL#2830233"
+},
+{
+"@score":"3",
+"@id":"3007416",
+"info":{"authors":{"author":[{"@pid":"29/654","text":"Carson Kai-Sang Leung"},{"@pid":"140/1999","text":"Richard Kyle MacKinnon"},{"@pid":"181/2842","text":"Yang Wang"}]},"title":"A machine learning approach for stock price prediction.","venue":"IDEAS","pages":"274-277","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/ideas/LeungMW14","doi":"10.1145/2628194.2628211","ee":"https://doi.org/10.1145/2628194.2628211","url":"https://dblp.org/rec/conf/ideas/LeungMW14"},
+"url":"URL#3007416"
+},
+{
+"@score":"3",
+"@id":"3012690",
+"info":{"authors":{"author":[{"@pid":"150/3939","text":"Rodolfo C. Cavalcante"},{"@pid":"80/3742","text":"Adriano L. I. Oliveira"}]},"title":"An autonomous trader agent for the stock market based on online sequential extreme learning machine ensemble.","venue":"IJCNN","pages":"1424-1431","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/CavalcanteO14","doi":"10.1109/IJCNN.2014.6889870","ee":"https://doi.org/10.1109/IJCNN.2014.6889870","url":"https://dblp.org/rec/conf/ijcnn/CavalcanteO14"},
+"url":"URL#3012690"
+},
+{
+"@score":"3",
+"@id":"3089908",
+"info":{"authors":{"author":[{"@pid":"01/6984","text":"Osman Hegazy"},{"@pid":"95/6028","text":"Omar S. Soliman"},{"@pid":"123/2699","text":"Mustafa Abdul Salam"}]},"title":"A Machine Learning Model for Stock Market Prediction.","venue":"CoRR","volume":"abs/1402.7351","year":"2014","type":"Informal Publications","access":"open","key":"journals/corr/HegazySS14a","ee":"http://arxiv.org/abs/1402.7351","url":"https://dblp.org/rec/journals/corr/HegazySS14a"},
+"url":"URL#3089908"
+},
+{
+"@score":"3",
+"@id":"3276656",
+"info":{"authors":{"author":[{"@pid":"142/7071","text":"Alexander Porshnev"},{"@pid":"142/7005","text":"Ilya Redkin"},{"@pid":"142/7095","text":"Alexey Shevchenko"}]},"title":"Machine Learning in Prediction of Stock Market Indicators Based on Historical Data and Data from Twitter Sentiment Analysis.","venue":"ICDM Workshops","pages":"440-444","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdm/PorshnevRS13","doi":"10.1109/ICDMW.2013.111","ee":"https://doi.org/10.1109/ICDMW.2013.111","url":"https://dblp.org/rec/conf/icdm/PorshnevRS13"},
+"url":"URL#3276656"
+},
+{
+"@score":"3",
+"@id":"3290284",
+"info":{"authors":{"author":[{"@pid":"130/0859","text":"Arne Thorvald Gierløff Hollum"},{"@pid":"130/0857","text":"Borre P. Mosch"},{"@pid":"84/963","text":"Zoltán Szlávik"}]},"title":"Economic Sentiment: Text-Based Prediction of Stock Price Movements with Machine Learning and WordNet.","venue":"IEA/AIE","pages":"322-331","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/ieaaie/HollumMS13","doi":"10.1007/978-3-642-38577-3_33","ee":"https://doi.org/10.1007/978-3-642-38577-3_33","url":"https://dblp.org/rec/conf/ieaaie/HollumMS13"},
+"url":"URL#3290284"
+},
+{
+"@score":"3",
+"@id":"3313908",
+"info":{"authors":{"author":[{"@pid":"23/4586","text":"Christoph Stocker"},{"@pid":"145/1392","text":"Franz Uhrmann"},{"@pid":"05/4103","text":"Oliver Scholz"},{"@pid":"04/10329","text":"Michael Siebers"},{"@pid":"s/UteSchmid","text":"Ute Schmid"}]},"title":"A machine learning approach to drought stress level classification of tobacco plants.","venue":"LWA","pages":"163-167","year":"2013","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/lwa/StockerUSSS13","url":"https://dblp.org/rec/conf/lwa/StockerUSSS13"},
+"url":"URL#3313908"
+},
+{
+"@score":"3",
+"@id":"3370598",
+"info":{"authors":{"author":[{"@pid":"45/11295","text":"Yanshan Wang"},{"@pid":"58/4811","text":"In-Chan Choi"}]},"title":"Market Index and Stock Price Direction Prediction using Machine Learning Techniques: An empirical study on the KOSPI and HSI.","venue":"CoRR","volume":"abs/1309.7119","year":"2013","type":"Informal Publications","access":"open","key":"journals/corr/WangC13b","ee":"http://arxiv.org/abs/1309.7119","url":"https://dblp.org/rec/journals/corr/WangC13b"},
+"url":"URL#3370598"
+},
+{
+"@score":"3",
+"@id":"3379878",
+"info":{"authors":{"author":{"@pid":"61/6733","text":"Benjamin Auffarth"}},"title":"Machine Learning Techniques with Specific Application to the Early Olfactory System.","year":"2012","type":"Books and Theses","access":"closed","key":"phd/basesearch/Auffarth12","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-90474","url":"https://dblp.org/rec/phd/basesearch/Auffarth12"},
+"url":"URL#3379878"
+},
+{
+"@score":"3",
+"@id":"3463025",
+"info":{"authors":{"author":[{"@pid":"37/9299","text":"Kevin Stock"},{"@pid":"41/5129","text":"Louis-Noël Pouchet"},{"@pid":"s/PSadayappan","text":"P. Sadayappan"}]},"title":"Using machine learning to improve automatic vectorization.","venue":"ACM Trans. Archit. Code Optim.","volume":"8","number":"4","pages":"50:1-50:23","year":"2012","type":"Journal Articles","access":"open","key":"journals/taco/StockPS12","doi":"10.1145/2086696.2086729","ee":"https://doi.org/10.1145/2086696.2086729","url":"https://dblp.org/rec/journals/taco/StockPS12"},
+"url":"URL#3463025"
+},
+{
+"@score":"3",
+"@id":"3635128",
+"info":{"authors":{"author":[{"@pid":"90/2923","text":"Evan Hurwitz"},{"@pid":"70/1794","text":"Tshilidzi Marwala"}]},"title":"Common Mistakes when Applying Computational Intelligence and Machine Learning to Stock Market modelling","venue":"CoRR","volume":"abs/1208.4429","year":"2012","type":"Informal Publications","access":"open","key":"journals/corr/abs-1208-4429","ee":"http://arxiv.org/abs/1208.4429","url":"https://dblp.org/rec/journals/corr/abs-1208-4429"},
+"url":"URL#3635128"
+},
+{
+"@score":"3",
+"@id":"3994322",
+"info":{"authors":{"author":{"@pid":"23/8569","text":"Isidoro J. Casanova"}},"title":"Tradinnova-LCS: Dynamic stock portfolio decision-making assistance model with genetic based machine learning.","venue":"IEEE Congress on Evolutionary Computation","pages":"1-8","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/Casanova10","doi":"10.1109/CEC.2010.5586067","ee":"https://doi.org/10.1109/CEC.2010.5586067","url":"https://dblp.org/rec/conf/cec/Casanova10"},
+"url":"URL#3994322"
+},
+{
+"@score":"3",
+"@id":"4144140",
+"info":{"authors":{"author":[{"@pid":"03/7411","text":"Il Suh Son"},{"@pid":"35/3464","text":"Kyong Joo Oh"},{"@pid":"71/4518","text":"Tae Yoon Kim"},{"@pid":"70/7409","text":"Dong Ha Kim"}]},"title":"An early warning system for global institutional investors at emerging stock markets based on machine learning forecasting.","venue":"Expert Syst. Appl.","volume":"36","number":"3","pages":"4951-4957","year":"2009","type":"Journal Articles","access":"closed","key":"journals/eswa/SonOKK09","doi":"10.1016/J.ESWA.2008.06.044","ee":"https://doi.org/10.1016/j.eswa.2008.06.044","url":"https://dblp.org/rec/journals/eswa/SonOKK09"},
+"url":"URL#4144140"
+},
+{
+"@score":"3",
+"@id":"4340184",
+"info":{"authors":{"author":{"@pid":"48/5973","text":"Daniel Gillblad"}},"title":"On practical machine learning and data analysis.","year":"2008","type":"Books and Theses","access":"closed","key":"phd/basesearch/Gillblad08","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-4788","url":"https://dblp.org/rec/phd/basesearch/Gillblad08"},
+"url":"URL#4340184"
+},
+{
+"@score":"3",
+"@id":"4688984",
+"info":{"authors":{"author":[{"@pid":"00/1173","text":"Robert J. Yan"},{"@pid":"99/4062","text":"Charles X. Ling"}]},"title":"Machine learning for stock selection.","venue":"KDD","pages":"1038-1042","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/kdd/YanL07","doi":"10.1145/1281192.1281307","ee":"https://doi.org/10.1145/1281192.1281307","url":"https://dblp.org/rec/conf/kdd/YanL07"},
+"url":"URL#4688984"
+},
+{
+"@score":"3",
+"@id":"4977602",
+"info":{"authors":{"author":[{"@pid":"51/6407","text":"Paul D. Yoo"},{"@pid":"63/5661","text":"Maria H. Kim"},{"@pid":"38/5457","text":"Tony Jan"}]},"title":"Machine Learning Techniques and Use of Event Information for Stock Market Prediction: A Survey and Evaluation.","venue":"CIMCA/IAWTIC","pages":"835-841","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/cimca/YooKJ05","doi":"10.1109/CIMCA.2005.1631572","ee":"https://doi.org/10.1109/CIMCA.2005.1631572","url":"https://dblp.org/rec/conf/cimca/YooKJ05"},
+"url":"URL#4977602"
+}
+]
+}
+}
+}

@@ -1,0 +1,1495 @@
+{
+"result":{
+"query":"algorithmic* trading*|stock*|finance*|financial*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"18.44"
+},
+"completions":{
+"@total":"11",
+"@computed":"11",
+"@sent":"10",
+"c":[
+{
+"@sc":"123",
+"@dc":"119",
+"@oc":"123",
+"@id":"47204991",
+"text":"trading"
+},
+{
+"@sc":"100",
+"@dc":"98",
+"@oc":"100",
+"@id":"46275665",
+"text":"finance"
+},
+{
+"@sc":"37",
+"@dc":"37",
+"@oc":"37",
+"@id":"46275674",
+"text":"financial"
+},
+{
+"@sc":"22",
+"@dc":"21",
+"@oc":"22",
+"@id":"47124640",
+"text":"stock"
+},
+{
+"@sc":"3",
+"@dc":"3",
+"@oc":"3",
+"@id":"47124792",
+"text":"stocks"
+},
+{
+"@sc":"3",
+"@dc":"3",
+"@oc":"3",
+"@id":"46275681",
+"text":"financially"
+},
+{
+"@sc":"2",
+"@dc":"2",
+"@oc":"2",
+"@id":"47124716",
+"text":"stockholm"
+},
+{
+"@sc":"2",
+"@dc":"2",
+"@oc":"2",
+"@id":"47124779",
+"text":"stockmeyer"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47131932",
+"text":"stöckel"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47204994",
+"text":"tradings"
+}
+]
+},
+"hits":{
+"@total":"233",
+"@computed":"233",
+"@sent":"233",
+"@first":"0",
+"hit":[{
+"@score":"4",
+"@id":"479",
+"info":{"authors":{"author":{"@pid":"30/931","text":"Christopher Hian-Ann Ting"}},"title":"Algorithmic Finance - A Companion to Data Science","venue":"Algorithmic Finance","pages":"1-408","publisher":"WorldScientific","year":"2022","type":"Books and Theses","access":"closed","key":"books/ws/Ting22","doi":"10.1142/12315","ee":"https://doi.org/10.1142/12315","url":"https://dblp.org/rec/books/ws/Ting22"},
+"url":"URL#479"
+},
+{
+"@score":"4",
+"@id":"1310284",
+"info":{"authors":{"author":[{"@pid":"95/3736","text":"Jun Liu"},{"@pid":"229/3368","text":"Qingqin Fu"},{"@pid":"00/10000","text":"Onur Yilmaz"}]},"title":"Prediction of High Frequency Trading Financial Data Using Stacked LSTMs for Algorithmic Trading.","venue":"FSDM","pages":"1064-1070","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/fsdm/LiuFY19","doi":"10.3233/FAIA190285","ee":"https://doi.org/10.3233/FAIA190285","url":"https://dblp.org/rec/conf/fsdm/LiuFY19"},
+"url":"URL#1310284"
+},
+{
+"@score":"4",
+"@id":"1874667",
+"info":{"authors":{"author":{"@pid":"212/2661","text":"Jitendra Aswani"}},"title":"Impact of global financial crisis on network of Asian stock markets.","venue":"Algorithmic Finance","volume":"6","number":"3-4","pages":"79-91","year":"2017","type":"Journal Articles","access":"closed","key":"journals/af/Aswani17","doi":"10.3233/AF-170192","ee":"https://doi.org/10.3233/AF-170192","url":"https://dblp.org/rec/journals/af/Aswani17"},
+"url":"URL#1874667"
+},
+{
+"@score":"4",
+"@id":"2208273",
+"info":{"authors":{"author":[{"@pid":"47/9244","text":"Paolo Coletti"},{"@pid":"154/0136-2","text":"Maurizio Murgia 0002"}]},"title":"The network of the Italian stock market during the 2008-2011 financial crises.","venue":"Algorithmic Finance","volume":"5","number":"3-4","pages":"111-137","year":"2016","type":"Journal Articles","access":"closed","key":"journals/af/ColettiM16","doi":"10.3233/AF-160177","ee":"https://doi.org/10.3233/AF-160177","url":"https://dblp.org/rec/journals/af/ColettiM16"},
+"url":"URL#2208273"
+},
+{
+"@score":"4",
+"@id":"2518769",
+"info":{"authors":{"author":[{"@pid":"86/25","text":"Olivier Brandouy"},{"@pid":"90/2870","text":"Jean-Paul Delahaye"},{"@pid":"74/3608-5","text":"Lin Ma 0005"}]},"title":"Estimating the algorithmic complexity of stock markets.","venue":"Algorithmic Finance","volume":"4","number":"3-4","pages":"159-178","year":"2015","type":"Journal Articles","access":"closed","key":"journals/af/BrandouyDM15","doi":"10.3233/AF-150052","ee":"https://doi.org/10.3233/AF-150052","url":"https://dblp.org/rec/journals/af/BrandouyDM15"},
+"url":"URL#2518769"
+},
+{
+"@score":"4",
+"@id":"2518771",
+"info":{"authors":{"author":[{"@pid":"161/4996","text":"Ricky Cooper"},{"@pid":"141/9543","text":"Michael Ong"},{"@pid":"71/6511","text":"Ben Van Vliet"}]},"title":"Multi-scale capability: A better approach to performance measurement for algorithmic trading.","venue":"Algorithmic Finance","volume":"4","number":"1-2","pages":"53-68","year":"2015","type":"Journal Articles","access":"closed","key":"journals/af/CooperOV15","doi":"10.3233/AF-150043","ee":"https://doi.org/10.3233/AF-150043","url":"https://dblp.org/rec/journals/af/CooperOV15"},
+"url":"URL#2518771"
+},
+{
+"@score":"4",
+"@id":"3107631",
+"info":{"authors":{"author":[{"@pid":"139/8284","text":"Michael Rechenthin"},{"@pid":"81/3909","text":"W. Nick Street"},{"@pid":"14/1927","text":"Padmini Srinivasan"}]},"title":"Stock chatter: Using stock sentiment to predict price direction.","venue":"Algorithmic Finance","volume":"2","number":"3-4","pages":"169-196","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/RechenthinSS13","doi":"10.3233/AF-13025","ee":"https://doi.org/10.3233/AF-13025","url":"https://dblp.org/rec/journals/af/RechenthinSS13"},
+"url":"URL#3107631"
+},
+{
+"@score":"4",
+"@id":"3646253",
+"info":{"authors":{"author":{"@pid":"39/3861-13","text":"Thomas Fischer 0013"}},"title":"News Reaction in Financial Markets within a Behavioral Finance Model with Heterogeneous Agents.","venue":"Algorithmic Finance","volume":"1","number":"2","pages":"123-139","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/Fischer11","doi":"10.3233/AF-2011-010","ee":"https://doi.org/10.3233/AF-2011-010","url":"https://dblp.org/rec/journals/af/Fischer11"},
+"url":"URL#3646253"
+},
+{
+"@score":"4",
+"@id":"3646260",
+"info":{"authors":{"author":{"@pid":"124/5139","text":"James E. Schmitz"}},"title":"Algorithmic trading in the Iowa electronic markets.","venue":"Algorithmic Finance","volume":"1","number":"2","pages":"157-181","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/Schmitz11","doi":"10.3233/AF-2011-012","ee":"https://doi.org/10.3233/AF-2011-012","url":"https://dblp.org/rec/journals/af/Schmitz11"},
+"url":"URL#3646260"
+},
+{
+"@score":"3",
+"@id":"33349",
+"info":{"authors":{"author":{"@pid":"80/8618","text":"Ritesh Kumar Dubey"}},"title":"Algorithmic Trading: The Intelligent Trading Systems and Its Impact on Trade Size.","venue":"Expert Syst. Appl.","volume":"202","pages":"117279","year":"2022","type":"Journal Articles","access":"closed","key":"journals/eswa/Dubey22","doi":"10.1016/J.ESWA.2022.117279","ee":"https://doi.org/10.1016/j.eswa.2022.117279","url":"https://dblp.org/rec/journals/eswa/Dubey22"},
+"url":"URL#33349"
+},
+{
+"@score":"3",
+"@id":"210290",
+"info":{"authors":{"author":[{"@pid":"149/0419","text":"Luyao Zhang"},{"@pid":"46/5729","text":"Tianyu Wu"},{"@pid":"323/5656","text":"Saad Lahrichi"},{"@pid":"323/4389","text":"Carlos-Gustavo Salas-Flores"},{"@pid":"130/6398","text":"Jiayi Li"}]},"title":"A Data Science Pipeline for Algorithmic Trading: A Comparative Study of Applications for Finance and Cryptoeconomics.","venue":"CoRR","volume":"abs/2206.14932","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2206-14932","doi":"10.48550/ARXIV.2206.14932","ee":"https://doi.org/10.48550/arXiv.2206.14932","url":"https://dblp.org/rec/journals/corr/abs-2206-14932"},
+"url":"URL#210290"
+},
+{
+"@score":"3",
+"@id":"237919",
+"info":{"authors":{"author":[{"@pid":"281/7236","text":"Lucian-Ionut Gavrila"},{"@pid":"08/3356","text":"Alexandru Popa 0001"}]},"title":"A novel algorithm for clearing financial obligations between companies - An application within the Romanian Ministry of economy.","venue":"Algorithmic Finance","volume":"9","number":"1-2","pages":"49-60","year":"2021","type":"Journal Articles","access":"closed","key":"journals/af/GavrilaP21","doi":"10.3233/AF-200359","ee":"https://doi.org/10.3233/AF-200359","url":"https://dblp.org/rec/journals/af/GavrilaP21"},
+"url":"URL#237919"
+},
+{
+"@score":"3",
+"@id":"575371",
+"info":{"authors":{"author":[{"@pid":"222/5147","text":"Ramit Sawhney"},{"@pid":"126/3532","text":"Shivam Agarwal"},{"@pid":"278/8559","text":"Arnav Wadhwa"},{"@pid":"134/3502","text":"Rajiv Ratn Shah"}]},"title":"Exploring the Scale-Free Nature of Stock Markets: Hyperbolic Graph Learning for Algorithmic Trading.","venue":"WWW","pages":"11-22","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/www/SawhneyAWS21","doi":"10.1145/3442381.3450095","ee":"https://doi.org/10.1145/3442381.3450095","url":"https://dblp.org/rec/conf/www/SawhneyAWS21"},
+"url":"URL#575371"
+},
+{
+"@score":"3",
+"@id":"718570",
+"info":{"authors":{"author":[{"@pid":"64/9060","text":"Kai Lei"},{"@pid":"74/2272","text":"Bing Zhang"},{"@pid":"34/2997","text":"Yu Li"},{"@pid":"02/1640-7","text":"Min Yang 0007"},{"@pid":"01/8558-1","text":"Ying Shen 0001"}]},"title":"Time-driven feature-aware jointly deep reinforcement learning for financial signal representation and algorithmic trading.","venue":"Expert Syst. Appl.","volume":"140","year":"2020","type":"Journal Articles","access":"closed","key":"journals/eswa/LeiZLYS20","doi":"10.1016/J.ESWA.2019.112872","ee":"https://doi.org/10.1016/j.eswa.2019.112872","url":"https://dblp.org/rec/journals/eswa/LeiZLYS20"},
+"url":"URL#718570"
+},
+{
+"@score":"3",
+"@id":"743687",
+"info":{"authors":{"author":[{"@pid":"78/10470","text":"Ramzi R. Saifan"},{"@pid":"279/6719","text":"Khaled Sharif"},{"@pid":"279/6562","text":"Mohammad Abu-Ghazaleh"},{"@pid":"84/11241","text":"Mohammad Abdel-Majeed"}]},"title":"Investigating Algorithmic Stock Market Trading using Ensemble Machine Learning Methods.","venue":"Informatica","volume":"44","number":"3","year":"2020","type":"Journal Articles","access":"open","key":"journals/informaticaSI/SaifanSAA20","doi":"10.31449/INF.V44I3.2904","ee":"https://doi.org/10.31449/inf.v44i3.2904","url":"https://dblp.org/rec/journals/informaticaSI/SaifanSAA20"},
+"url":"URL#743687"
+},
+{
+"@score":"3",
+"@id":"874306",
+"info":{"authors":{"author":[{"@pid":"215/3697","text":"You Liang"},{"@pid":"35/1366","text":"Aerambamoorthy Thavaneswaran"},{"@pid":"47/9120","text":"Alexander Paseka"},{"@pid":"248/3107","text":"Zimo Zhu"},{"@pid":"34/4880","text":"Ruppa K. Thulasiram"}]},"title":"A Novel Dynamic Data-Driven Algorithmic Trading Strategy Using Joint Forecasts of Volatility and Stock Price.","venue":"COMPSAC","pages":"225-234","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/compsac/LiangTPZT20","doi":"10.1109/COMPSAC48688.2020.00038","ee":"https://doi.org/10.1109/COMPSAC48688.2020.00038","url":"https://dblp.org/rec/conf/compsac/LiangTPZT20"},
+"url":"URL#874306"
+},
+{
+"@score":"3",
+"@id":"898511",
+"info":{"authors":{"author":[{"@pid":"35/1366","text":"A. Thavaneswaran"},{"@pid":"215/3697","text":"You Liang"},{"@pid":"248/3107","text":"Zimo Zhu"},{"@pid":"34/4880","text":"Ruppa K. Thulasiram"}]},"title":"Novel Data-Driven Fuzzy Algorithmic Volatility Forecasting Models with Applications to Algorithmic Trading.","venue":"FUZZ-IEEE","pages":"1-8","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/fuzzIEEE/ThavaneswaranLZ20","doi":"10.1109/FUZZ48607.2020.9177735","ee":"https://doi.org/10.1109/FUZZ48607.2020.9177735","url":"https://dblp.org/rec/conf/fuzzIEEE/ThavaneswaranLZ20"},
+"url":"URL#898511"
+},
+{
+"@score":"3",
+"@id":"1106768",
+"info":{"authors":{"author":{"@pid":"255/6924","text":"Zachary David"}},"title":"Information leakage in financial machine learning research.","venue":"Algorithmic Finance","volume":"8","number":"1-2","pages":"1-4","year":"2019","type":"Journal Articles","access":"closed","key":"journals/af/David19","doi":"10.3233/AF-190900","ee":"https://doi.org/10.3233/AF-190900","url":"https://dblp.org/rec/journals/af/David19"},
+"url":"URL#1106768"
+},
+{
+"@score":"3",
+"@id":"1106769",
+"info":{"authors":{"author":[{"@pid":"52/11093","text":"Bàrbara Llacay"},{"@pid":"88/11092","text":"Gilbert Peffer"}]},"title":"Impact of short-sales in stock market efficiency.","venue":"Algorithmic Finance","volume":"8","number":"1-2","pages":"5-26","year":"2019","type":"Journal Articles","access":"closed","key":"journals/af/LlacayP19","doi":"10.3233/AF-190215","ee":"https://doi.org/10.3233/AF-190215","url":"https://dblp.org/rec/journals/af/LlacayP19"},
+"url":"URL#1106769"
+},
+{
+"@score":"3",
+"@id":"1106770",
+"info":{"authors":{"author":{"@pid":"52/7291","text":"Wiston Adrián Risso"}},"title":"Modeling the financial market with labyrinth chaos.","venue":"Algorithmic Finance","volume":"8","number":"1-2","pages":"57-75","year":"2019","type":"Journal Articles","access":"closed","key":"journals/af/Risso19","doi":"10.3233/AF-190245","ee":"https://doi.org/10.3233/AF-190245","url":"https://dblp.org/rec/journals/af/Risso19"},
+"url":"URL#1106770"
+},
+{
+"@score":"3",
+"@id":"1106771",
+"info":{"authors":{"author":[{"@pid":"133/6001","text":"I. Róbert Sipos"},{"@pid":"255/6857","text":"Attila Ceffer"},{"@pid":"96/3128","text":"Gábor Horváth 0002"},{"@pid":"20/2114","text":"János Levendovszky"}]},"title":"Parallel MCMC sampling of AR-HMMs for prediction based option trading.","venue":"Algorithmic Finance","volume":"8","number":"1-2","pages":"47-55","year":"2019","type":"Journal Articles","access":"closed","key":"journals/af/SiposC0L19","doi":"10.3233/AF-190243","ee":"https://doi.org/10.3233/AF-190243","url":"https://dblp.org/rec/journals/af/SiposC0L19"},
+"url":"URL#1106771"
+},
+{
+"@score":"3",
+"@id":"1106772",
+"info":{"authors":{"author":{"@pid":"76/7231","text":"Harya Widiputra"}},"title":"Localized trend model for stock market sectoral indexes movement profiling.","venue":"Algorithmic Finance","volume":"8","number":"1-2","pages":"27-46","year":"2019","type":"Journal Articles","access":"closed","key":"journals/af/Widiputra19","doi":"10.3233/AF-180235","ee":"https://doi.org/10.3233/AF-180235","url":"https://dblp.org/rec/journals/af/Widiputra19"},
+"url":"URL#1106772"
+},
+{
+"@score":"3",
+"@id":"1509788",
+"info":{"authors":{"author":{"@pid":"239/4518","text":"Gianluca Piero Maria Virgilio"}},"title":"Absolute vs. relative speed in high-frequency trading.","venue":"Algorithmic Finance","volume":"7","number":"3-4","pages":"71-86","year":"2018","type":"Journal Articles","access":"closed","key":"journals/af/Virgilio18","doi":"10.3233/AF-180253","ee":"https://doi.org/10.3233/AF-180253","url":"https://dblp.org/rec/journals/af/Virgilio18"},
+"url":"URL#1509788"
+},
+{
+"@score":"3",
+"@id":"1509789",
+"info":{"authors":{"author":[{"@pid":"142/9638","text":"Dominic Wright"},{"@pid":"63/6251","text":"Luca Capriotti"},{"@pid":"227/3883","text":"Jacky Lee"}]},"title":"Machine learning and corporate bond trading.","venue":"Algorithmic Finance","volume":"7","number":"3-4","pages":"105-110","year":"2018","type":"Journal Articles","access":"closed","key":"journals/af/WrightCL18","doi":"10.3233/AF-180258","ee":"https://doi.org/10.3233/AF-180258","url":"https://dblp.org/rec/journals/af/WrightCL18"},
+"url":"URL#1509789"
+},
+{
+"@score":"3",
+"@id":"1514421",
+"info":{"authors":{"author":[{"@pid":"167/2606","text":"Omer Berat Sezer"},{"@pid":"137/6822","text":"A. Murat Ozbayoglu"}]},"title":"Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach.","venue":"Appl. Soft Comput.","volume":"70","pages":"525-538","year":"2018","type":"Journal Articles","access":"closed","key":"journals/asc/SezerO18","doi":"10.1016/J.ASOC.2018.04.024","ee":"https://doi.org/10.1016/j.asoc.2018.04.024","url":"https://dblp.org/rec/journals/asc/SezerO18"},
+"url":"URL#1514421"
+},
+{
+"@score":"3",
+"@id":"1652094",
+"info":{"authors":{"author":[{"@pid":"11/5516","text":"Wendy Currie"},{"@pid":"147/4671","text":"Jonathan J. M. Seddon"},{"@pid":"161/4996","text":"Ricky Cooper"},{"@pid":"71/6511","text":"Ben Van Vliet"}]},"title":"Theories for Analysing Innovation and Technology in Emerging Financial Markets: The Case of Algorithmic and High Frequency Trading.","venue":"AMCIS","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/amcis/CurrieSCV18","ee":"https://aisel.aisnet.org/amcis2018/GlobalDev/Presentations/13","url":"https://dblp.org/rec/conf/amcis/CurrieSCV18"},
+"url":"URL#1652094"
+},
+{
+"@score":"3",
+"@id":"1874670",
+"info":{"authors":{"author":[{"@pid":"34/7005","text":"Matthew Dixon"},{"@pid":"17/105","text":"Diego Klabjan"},{"@pid":"174/4188","text":"Jin Hoon Bang"}]},"title":"Classification-based financial markets prediction using deep neural networks.","venue":"Algorithmic Finance","volume":"6","number":"3-4","pages":"67-77","year":"2017","type":"Journal Articles","access":"closed","key":"journals/af/DixonKB17","doi":"10.3233/AF-170176","ee":"https://doi.org/10.3233/AF-170176","url":"https://dblp.org/rec/journals/af/DixonKB17"},
+"url":"URL#1874670"
+},
+{
+"@score":"3",
+"@id":"1874671",
+"info":{"authors":{"author":{"@pid":"207/5054","text":"Joseph D. Haley"}},"title":"Using directional bit sequences to reveal the property-liability underwriting cycle as an algorithmic process.","venue":"Algorithmic Finance","volume":"6","number":"1-2","pages":"3-21","year":"2017","type":"Journal Articles","access":"closed","key":"journals/af/Haley17","doi":"10.3233/AF-170172","ee":"https://doi.org/10.3233/AF-170172","url":"https://dblp.org/rec/journals/af/Haley17"},
+"url":"URL#1874671"
+},
+{
+"@score":"3",
+"@id":"1968808",
+"info":{"authors":{"author":[{"@pid":"157/3732","text":"Álvaro Cartea"},{"@pid":"00/4214","text":"Ryan Donnelly"},{"@pid":"48/1593","text":"Sebastian Jaimungal"}]},"title":"Algorithmic Trading with Model Uncertainty.","venue":"SIAM J. Financial Math.","volume":"8","number":"1","pages":"635-671","year":"2017","type":"Journal Articles","access":"closed","key":"journals/siamfm/CarteaDJ17","doi":"10.1137/16M106282X","ee":"https://doi.org/10.1137/16M106282X","url":"https://dblp.org/rec/journals/siamfm/CarteaDJ17"},
+"url":"URL#1968808"
+},
+{
+"@score":"3",
+"@id":"2005625",
+"info":{"authors":{"author":[{"@pid":"11/5516","text":"Wendy L. Currie"},{"@pid":"147/4671","text":"Jonathan J. M. Seddon"}]},"title":"Theories for Analysing Innovation and Technology in Emerging Financial Markets: The Case of Algorithmic and High Frequency Trading.","venue":"AMCIS","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/amcis/CurrieS17","ee":"http://aisel.aisnet.org/amcis2017/ICTs/Presentations/7","url":"https://dblp.org/rec/conf/amcis/CurrieS17"},
+"url":"URL#2005625"
+},
+{
+"@score":"3",
+"@id":"2203160",
+"info":{"authors":{"author":{"@pid":"140/1577","text":"Ash Booth"}},"title":"Automated algorithmic trading: machine learning and agent-based modelling in complex adaptive financial markets.","year":"2016","type":"Books and Theses","access":"closed","key":"phd/ethos/Booth16","ee":"https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.690300","url":"https://dblp.org/rec/phd/ethos/Booth16"},
+"url":"URL#2203160"
+},
+{
+"@score":"3",
+"@id":"2205683",
+"info":{"authors":{"author":{"@pid":"41/10027","text":"Elaine Wah"}},"title":"Computational Models of Algorithmic Trading in Financial Markets.","year":"2016","type":"Books and Theses","access":"closed","key":"phd/us/Wah16","ee":"https://hdl.handle.net/2027.42/120811","url":"https://dblp.org/rec/phd/us/Wah16"},
+"url":"URL#2205683"
+},
+{
+"@score":"3",
+"@id":"2208276",
+"info":{"authors":{"author":[{"@pid":"33/4721","text":"Brett Hemenway"},{"@pid":"k/SanjeevKhanna","text":"Sanjeev Khanna"}]},"title":"Sensitivity and computational complexity in financial networks.","venue":"Algorithmic Finance","volume":"5","number":"3-4","pages":"95-110","year":"2016","type":"Journal Articles","access":"closed","key":"journals/af/HemenwayK16","doi":"10.3233/AF-160166","ee":"https://doi.org/10.3233/AF-160166","url":"https://dblp.org/rec/journals/af/HemenwayK16"},
+"url":"URL#2208276"
+},
+{
+"@score":"3",
+"@id":"2208278",
+"info":{"authors":{"author":[{"@pid":"182/1367","text":"A. Mintzelas"},{"@pid":"182/1412","text":"K. Kiriakopoulos"}]},"title":"Natural time analysis in financial markets.","venue":"Algorithmic Finance","volume":"5","number":"1-2","pages":"37-46","year":"2016","type":"Journal Articles","access":"closed","key":"journals/af/MintzelasK16","doi":"10.3233/AF-160057","ee":"https://doi.org/10.3233/AF-160057","url":"https://dblp.org/rec/journals/af/MintzelasK16"},
+"url":"URL#2208278"
+},
+{
+"@score":"3",
+"@id":"2495829",
+"info":{"authors":{"author":{"@pid":"121/1720","text":"Gordon Inggs"}},"title":"Algorithmic Trading: A brief, computational finance case study on data centre FPGAs.","venue":"CoRR","volume":"abs/1607.05069","year":"2016","type":"Informal Publications","access":"open","key":"journals/corr/Inggs16","ee":"http://arxiv.org/abs/1607.05069","url":"https://dblp.org/rec/journals/corr/Inggs16"},
+"url":"URL#2495829"
+},
+{
+"@score":"3",
+"@id":"2518770",
+"info":{"authors":{"author":{"@pid":"63/6251","text":"Luca Capriotti"}},"title":"Likelihood Ratio Method and Algorithmic Differentiation: Fast Second Order Greeks.","venue":"Algorithmic Finance","volume":"4","number":"1-2","pages":"81-87","year":"2015","type":"Journal Articles","access":"closed","key":"journals/af/Capriotti15","doi":"10.3233/AF-150045","ee":"https://doi.org/10.3233/AF-150045","url":"https://dblp.org/rec/journals/af/Capriotti15"},
+"url":"URL#2518770"
+},
+{
+"@score":"3",
+"@id":"2518772",
+"info":{"authors":{"author":[{"@pid":"161/4989","text":"Maxim Gusev"},{"@pid":"161/4957","text":"Dimitri Kroujiline"},{"@pid":"161/5105","text":"Boris Govorkov"},{"@pid":"161/5170","text":"Sergey V. Sharov"},{"@pid":"161/5172","text":"Dmitry Ushanov"},{"@pid":"161/4970","text":"Maxim Zhilyaev"}]},"title":"Predictable markets? A news-driven model of the stock market.","venue":"Algorithmic Finance","volume":"4","number":"1-2","pages":"5-51","year":"2015","type":"Journal Articles","access":"closed","key":"journals/af/GusevKGSUZ15","doi":"10.3233/AF-150042","ee":"https://doi.org/10.3233/AF-150042","url":"https://dblp.org/rec/journals/af/GusevKGSUZ15"},
+"url":"URL#2518772"
+},
+{
+"@score":"3",
+"@id":"2518775",
+"info":{"authors":{"author":[{"@pid":"89/1385","text":"George Tzagkarakis"},{"@pid":"174/6448","text":"Juliana Caicedo-Llano"},{"@pid":"174/6521","text":"Thomas Dionysopoulos"}]},"title":"Sparse modeling of volatile financial time series via low-dimensional patterns over learned dictionaries.","venue":"Algorithmic Finance","volume":"4","number":"3-4","pages":"139-158","year":"2015","type":"Journal Articles","access":"closed","key":"journals/af/TzagkarakisCD15","doi":"10.3233/AF-150051","ee":"https://doi.org/10.3233/AF-150051","url":"https://dblp.org/rec/journals/af/TzagkarakisCD15"},
+"url":"URL#2518775"
+},
+{
+"@score":"3",
+"@id":"2523116",
+"info":{"authors":{"author":[{"@pid":"49/2905-2","text":"Yong Hu 0002"},{"@pid":"42/4903-11","text":"Kang Liu 0011"},{"@pid":"28/11095","text":"Xiangzhou Zhang"},{"@pid":"42/8141","text":"Lijun Su"},{"@pid":"75/494","text":"E. W. T. Ngai"},{"@pid":"65/5195","text":"Mei Liu"}]},"title":"Application of evolutionary computation for rule discovery in stock algorithmic trading: A literature review.","venue":"Appl. Soft Comput.","volume":"36","pages":"534-551","year":"2015","type":"Journal Articles","access":"closed","key":"journals/asc/HuLZSNL15","doi":"10.1016/J.ASOC.2015.07.008","ee":"https://doi.org/10.1016/j.asoc.2015.07.008","url":"https://dblp.org/rec/journals/asc/HuLZSNL15"},
+"url":"URL#2523116"
+},
+{
+"@score":"3",
+"@id":"2639862",
+"info":{"authors":{"author":{"@pid":"41/10027","text":"Elaine Wah"}},"title":"Computational Models of Algorithmic Trading in Financial Markets.","venue":"AAMAS","pages":"1987-1988","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/atal/Wah15","ee":"http://dl.acm.org/citation.cfm?id=2773539","url":"https://dblp.org/rec/conf/atal/Wah15"},
+"url":"URL#2639862"
+},
+{
+"@score":"3",
+"@id":"2781027",
+"info":{"authors":{"author":[{"@pid":"34/374","text":"Felipe Giacomel"},{"@pid":"37/2418","text":"Renata Galante"},{"@pid":"73/6430","text":"Adriano C. M. Pereira"}]},"title":"An Algorithmic Trading Agent Based on a Neural Network Ensemble: A Case of Study in North American and Brazilian Stock Markets.","venue":"WI-IAT","pages":"230-233","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/webi/GiacomelGP15","doi":"10.1109/WI-IAT.2015.43","ee":"https://doi.org/10.1109/WI-IAT.2015.43","url":"https://dblp.org/rec/conf/webi/GiacomelGP15"},
+"url":"URL#2781027"
+},
+{
+"@score":"3",
+"@id":"2818086",
+"info":{"authors":{"author":[{"@pid":"84/548","text":"Neil J. Calkin"},{"@pid":"128/7239","text":"Marcos López de Prado"}]},"title":"The topology of macro financial flows: An application of stochastic flow diagrams.","venue":"Algorithmic Finance","volume":"3","number":"1-2","pages":"43-85","year":"2014","type":"Journal Articles","access":"closed","key":"journals/af/CalkinP14a","doi":"10.3233/AF-140033","ee":"https://doi.org/10.3233/AF-140033","url":"https://dblp.org/rec/journals/af/CalkinP14a"},
+"url":"URL#2818086"
+},
+{
+"@score":"3",
+"@id":"2818095",
+"info":{"authors":{"author":[{"@pid":"155/1096","text":"Lior Zatlavi"},{"@pid":"118/7262","text":"Dror Y. Kenett"},{"@pid":"58/31","text":"Eshel Ben-Jacob"}]},"title":"The design and performance of the adaptive stock market index.","venue":"Algorithmic Finance","volume":"3","number":"3-4","pages":"189-207","year":"2014","type":"Journal Articles","access":"closed","key":"journals/af/ZatlaviKB14","doi":"10.3233/AF-140039","ee":"https://doi.org/10.3233/AF-140039","url":"https://dblp.org/rec/journals/af/ZatlaviKB14"},
+"url":"URL#2818095"
+},
+{
+"@score":"3",
+"@id":"3107626",
+"info":{"authors":{"author":[{"@pid":"96/4958","text":"Ramón Huerta"},{"@pid":"38/2802","text":"Fernando J. Corbacho"},{"@pid":"e/CharlesElkan","text":"Charles Elkan"}]},"title":"Nonlinear support vector machines can systematically identify stocks with high and low future returns.","venue":"Algorithmic Finance","volume":"2","number":"1","pages":"45-58","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/HuertaCE13","doi":"10.3233/AF-13016","ee":"https://doi.org/10.3233/AF-13016","url":"https://dblp.org/rec/journals/af/HuertaCE13"},
+"url":"URL#3107626"
+},
+{
+"@score":"3",
+"@id":"3107627",
+"info":{"authors":{"author":{"@pid":"128/7235","text":"Leonidas Sandoval Junior"}},"title":"Cluster formation and evolution in networks of financial market indices.","venue":"Algorithmic Finance","volume":"2","number":"1","pages":"3-43","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/Junior13","doi":"10.3233/AF-13015","ee":"https://doi.org/10.3233/AF-13015","url":"https://dblp.org/rec/journals/af/Junior13"},
+"url":"URL#3107627"
+},
+{
+"@score":"3",
+"@id":"3107628",
+"info":{"authors":{"author":[{"@pid":"30/2442","text":"Andrei Kirilenko"},{"@pid":"229/0191","text":"Richard B. Sowers"},{"@pid":"128/7269","text":"Xiangqian Meng"}]},"title":"A multiscale model of high-frequency trading.","venue":"Algorithmic Finance","volume":"2","number":"1","pages":"59-98","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/KirilenkoSM13","doi":"10.3233/AF-13017","ee":"https://doi.org/10.3233/AF-13017","url":"https://dblp.org/rec/journals/af/KirilenkoSM13"},
+"url":"URL#3107628"
+},
+{
+"@score":"3",
+"@id":"3107629",
+"info":{"authors":{"author":[{"@pid":"130/3975","text":"Shawn Mankad"},{"@pid":"57/5145","text":"George Michailidis"},{"@pid":"30/2442","text":"Andrei Kirilenko"}]},"title":"Discovering the ecosystem of an electronic financial market with a dynamic machine-learning method.","venue":"Algorithmic Finance","volume":"2","number":"2","pages":"151-165","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/MankadMK13","doi":"10.3233/AF-13023","ee":"https://doi.org/10.3233/AF-13023","url":"https://dblp.org/rec/journals/af/MankadMK13"},
+"url":"URL#3107629"
+},
+{
+"@score":"3",
+"@id":"3107634",
+"info":{"authors":{"author":{"@pid":"139/8291","text":"Shilei Wang"}},"title":"Dynamical trading mechanisms in limit order markets.","venue":"Algorithmic Finance","volume":"2","number":"3-4","pages":"213-231","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/Wang13","doi":"10.3233/AF-13027","ee":"https://doi.org/10.3233/AF-13027","url":"https://dblp.org/rec/journals/af/Wang13"},
+"url":"URL#3107634"
+},
+{
+"@score":"3",
+"@id":"3151731",
+"info":{"authors":{"author":[{"@pid":"136/7268","text":"Ji-Yong Seo"},{"@pid":"48/2368","text":"Sangmi Chai"}]},"title":"The role of algorithmic trading systems on stock market efficiency.","venue":"Inf. Syst. Frontiers","volume":"15","number":"5","pages":"873-888","year":"2013","type":"Journal Articles","access":"closed","key":"journals/isf/SeoC13","doi":"10.1007/S10796-013-9442-9","ee":"https://doi.org/10.1007/s10796-013-9442-9","url":"https://dblp.org/rec/journals/isf/SeoC13"},
+"url":"URL#3151731"
+},
+{
+"@score":"3",
+"@id":"3501637",
+"info":{"authors":{"author":[{"@pid":"126/7857","text":"Patrick Gabrielsson"},{"@pid":"47/1705","text":"Rikard König"},{"@pid":"85/6028","text":"Ulf Johansson"}]},"title":"Hierarchical Temporal Memory-based algorithmic trading of financial markets.","venue":"CIFEr","pages":"1-8","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/GabrielssonKJ12","doi":"10.1109/CIFER.2012.6327784","ee":"https://doi.org/10.1109/CIFEr.2012.6327784","url":"https://dblp.org/rec/conf/cifer/GabrielssonKJ12"},
+"url":"URL#3501637"
+},
+{
+"@score":"3",
+"@id":"3518483",
+"info":{"authors":{"author":{"@pid":"50/7979","text":"Frederik Hogenboom"}},"title":"Financial Events Recognition in Web News for Algorithmic Trading.","venue":"ER Workshops","pages":"368-377","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/er/Hogenboom12","doi":"10.1007/978-3-642-33999-8_43","ee":"https://doi.org/10.1007/978-3-642-33999-8_43","url":"https://dblp.org/rec/conf/er/Hogenboom12"},
+"url":"URL#3518483"
+},
+{
+"@score":"3",
+"@id":"3646251",
+"info":{"authors":{"author":[{"@pid":"124/5128","text":"Sebastían Martínez Bustos"},{"@pid":"00/7210","text":"Jørgen Vitting Andersen"},{"@pid":"124/5124","text":"Michel Miniconi"},{"@pid":"74/3507","text":"Andrzej Nowak"},{"@pid":"124/5125","text":"Magdalena Roszczynska-Kurasinska"},{"@pid":"57/1132","text":"David S. Brée"}]},"title":"Pricing stocks with yardsticks and sentiments.","venue":"Algorithmic Finance","volume":"1","number":"2","pages":"183-190","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/BustosAMNRB11","doi":"10.3233/AF-2011-013","ee":"https://doi.org/10.3233/AF-2011-013","url":"https://dblp.org/rec/journals/af/BustosAMNRB11"},
+"url":"URL#3646251"
+},
+{
+"@score":"3",
+"@id":"3646255",
+"info":{"authors":{"author":{"@pid":"35/8773","text":"Carlos Pedro Gonçalves"}},"title":"Financial Turbulence, Business Cycles and Intrinsic Time in an Artificial Economy.","venue":"Algorithmic Finance","volume":"1","number":"2","pages":"141-156","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/Goncalves11","doi":"10.3233/AF-2011-011","ee":"https://doi.org/10.3233/AF-2011-011","url":"https://dblp.org/rec/journals/af/Goncalves11"},
+"url":"URL#3646255"
+},
+{
+"@score":"3",
+"@id":"3646256",
+"info":{"authors":{"author":[{"@pid":"24/579","text":"Stephen Huffman"},{"@pid":"124/5123","text":"Cliff R. Moll"}]},"title":"The Impact of Asymmetry on Expected Stock Returns: An Investigation of Alternative Risk Measures.","venue":"Algorithmic Finance","volume":"1","number":"2","pages":"79-93","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/HuffmanM11","doi":"10.3233/AF-2011-008","ee":"https://doi.org/10.3233/AF-2011-008","url":"https://dblp.org/rec/journals/af/HuffmanM11"},
+"url":"URL#3646256"
+},
+{
+"@score":"3",
+"@id":"3646259",
+"info":{"authors":{"author":[{"@pid":"91/6962","text":"Abraham Othman"},{"@pid":"s/TuomasSandholm","text":"Tuomas Sandholm"}]},"title":"Inventory-based versus Prior-based Options Trading Agents.","venue":"Algorithmic Finance","volume":"1","number":"2","pages":"95-121","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/OthmanS11","doi":"10.3233/AF-2011-009","ee":"https://doi.org/10.3233/AF-2011-009","url":"https://dblp.org/rec/journals/af/OthmanS11"},
+"url":"URL#3646259"
+},
+{
+"@score":"3",
+"@id":"3646261",
+"info":{"authors":{"author":[{"@pid":"89/8399","text":"Timm Oliver Sprenger"},{"@pid":"37/7905","text":"Isabell M. Welpe"}]},"title":"Tweets and peers: defining industry groups and strategic peers based on investor perceptions of stocks on Twitter.","venue":"Algorithmic Finance","volume":"1","number":"1","pages":"57-76","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/SprengerW11","doi":"10.3233/AF-2011-006","ee":"https://doi.org/10.3233/AF-2011-006","url":"https://dblp.org/rec/journals/af/SprengerW11"},
+"url":"URL#3646261"
+},
+{
+"@score":"3",
+"@id":"3867268",
+"info":{"authors":{"author":{"@pid":"13/7219","text":"Sven S. Groth"}},"title":"Does Algorithmic Trading Increase Volatility? Empirical Evidence from the Fully-Electronic Trading Platform Xetra.","venue":"Wirtschaftsinformatik","pages":"112","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/wirtschaftsinformatik/Groth11","ee":"http://aisel.aisnet.org/wi2011/112","url":"https://dblp.org/rec/conf/wirtschaftsinformatik/Groth11"},
+"url":"URL#3867268"
+},
+{
+"@score":"3",
+"@id":"4012827",
+"info":{"authors":{"author":[{"@pid":"89/8322","text":"William Yuen"},{"@pid":"81/5221","text":"Paul F. Syverson"},{"@pid":"51/2717","text":"Zhenming Liu"},{"@pid":"53/6623","text":"Christopher Thorpe"}]},"title":"Intention-Disguised Algorithmic Trading.","venue":"Financial Cryptography","pages":"408-415","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/fc/YuenSLT10","doi":"10.1007/978-3-642-14577-3_36","ee":"https://doi.org/10.1007/978-3-642-14577-3_36","url":"https://dblp.org/rec/conf/fc/YuenSLT10"},
+"url":"URL#4012827"
+},
+{
+"@score":"3",
+"@id":"4297066",
+"info":{"authors":{"author":{"@pid":"48/111","text":"Markus Gsell"}},"title":"Technological Innovations in Securities Trading: The Adoption of Algorithmic Trading.","venue":"PACIS","pages":"54","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/pacis/Gsell09","ee":"http://aisel.aisnet.org/pacis2009/54","url":"https://dblp.org/rec/conf/pacis/Gsell09"},
+"url":"URL#4297066"
+},
+{
+"@score":"3",
+"@id":"4478038",
+"info":{"authors":{"author":[{"@pid":"31/5979","text":"Daniel Paraschiv"},{"@pid":"25/30","text":"Srinivas Raghavendra"},{"@pid":"90/269","text":"Laurentiu Vasiliu"}]},"title":"Algorithmic Trading on an Artificial Stock Market.","venue":"IDC","pages":"281-286","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/idc/ParaschivRV08","doi":"10.1007/978-3-540-85257-5_31","ee":"https://doi.org/10.1007/978-3-540-85257-5_31","url":"https://dblp.org/rec/conf/idc/ParaschivRV08"},
+"url":"URL#4478038"
+},
+{
+"@score":"2",
+"@id":"6476",
+"info":{"authors":{"author":[{"@pid":"137/5010","text":"Cristiana Tudor"},{"@pid":"312/4458","text":"Robert Sova"}]},"title":"Flexible Decision Support System for Algorithmic Trading: Empirical Application on Crude Oil Markets.","venue":"IEEE Access","volume":"10","pages":"9628-9644","year":"2022","type":"Journal Articles","access":"open","key":"journals/access/TudorS22","doi":"10.1109/ACCESS.2022.3143767","ee":"https://doi.org/10.1109/ACCESS.2022.3143767","url":"https://dblp.org/rec/journals/access/TudorS22"},
+"url":"URL#6476"
+},
+{
+"@score":"2",
+"@id":"33384",
+"info":{"authors":{"author":[{"@pid":"308/2343","text":"Leonardo Kanashiro Felizardo"},{"@pid":"308/2229","text":"Francisco Caio Lima Paiva"},{"@pid":"322/6780","text":"Catharine de Vita Graves"},{"@pid":"139/5729","text":"Elia Yathie Matsumoto"},{"@pid":"r/AnnaHelenaRealiCosta","text":"Anna Helena Reali Costa"},{"@pid":"53/384","text":"Emilio Del-Moral-Hernandez"},{"@pid":"97/1500","text":"Paolo Brandimarte"}]},"title":"Outperforming algorithmic trading reinforcement learning systems: A supervised approach to the cryptocurrency market.","venue":"Expert Syst. Appl.","volume":"202","pages":"117259","year":"2022","type":"Journal Articles","access":"closed","key":"journals/eswa/FelizardoPGMCDB22","doi":"10.1016/J.ESWA.2022.117259","ee":"https://doi.org/10.1016/j.eswa.2022.117259","url":"https://dblp.org/rec/journals/eswa/FelizardoPGMCDB22"},
+"url":"URL#33384"
+},
+{
+"@score":"2",
+"@id":"47664",
+"info":{"authors":{"author":[{"@pid":"b/MartinBichler","text":"Martin Bichler"},{"@pid":"90/3772","text":"Stefan Waldherr"}]},"title":"Core Pricing in Combinatorial Exchanges with Financially Constrained Buyers: Computational Hardness and Algorithmic Solutions.","venue":"Oper. Res.","volume":"70","number":"1","pages":"241-264","year":"2022","type":"Journal Articles","access":"closed","key":"journals/ior/BichlerW22","doi":"10.1287/OPRE.2021.2132","ee":"https://doi.org/10.1287/opre.2021.2132","url":"https://dblp.org/rec/journals/ior/BichlerW22"},
+"url":"URL#47664"
+},
+{
+"@score":"2",
+"@id":"127765",
+"info":{"authors":{"author":[{"@pid":"255/5718","text":"Abhishek Nan"},{"@pid":"257/3168","text":"Anandh Perumal"},{"@pid":"z/OsmarRZaiane","text":"Osmar R. Zaïane"}]},"title":"Sentiment and Knowledge Based Algorithmic Trading with Deep Reinforcement Learning.","venue":"DEXA","pages":"167-180","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/dexa/NanPZ22","doi":"10.1007/978-3-031-12423-5_13","ee":"https://doi.org/10.1007/978-3-031-12423-5_13","url":"https://dblp.org/rec/conf/dexa/NanPZ22"},
+"url":"URL#127765"
+},
+{
+"@score":"2",
+"@id":"132149",
+"info":{"authors":{"author":[{"@pid":"324/6832","text":"Abhiram Tirumala"},{"@pid":"324/6461","text":"Rishi Bhatnager"},{"@pid":"324/6930","text":"Sriram Mudireddy"},{"@pid":"324/6685","text":"Pranav Manjunath"},{"@pid":"151/4608","text":"Jason Zutty"}]},"title":"Designing a novel and high performance algorithmic trading model using evolutionary AutoML and technical analysis.","venue":"GECCO Companion","pages":"312-315","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/TirumalaBMMZ22","doi":"10.1145/3520304.3529038","ee":"https://doi.org/10.1145/3520304.3529038","url":"https://dblp.org/rec/conf/gecco/TirumalaBMMZ22"},
+"url":"URL#132149"
+},
+{
+"@score":"2",
+"@id":"198732",
+"info":{"authors":{"author":[{"@pid":"258/0340","text":"Divya Ramesh"},{"@pid":"180/3763","text":"Vaishnav Kameswaran"},{"@pid":"99/4292","text":"Ding Wang"},{"@pid":"00/2798","text":"Nithya Sambasivan"}]},"title":"How Platform-User Power Relations Shape Algorithmic Accountability: A Case Study of Instant Loan Platforms and Financially Stressed Users in India.","venue":"CoRR","volume":"abs/2205.05661","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2205-05661","doi":"10.48550/ARXIV.2205.05661","ee":"https://doi.org/10.48550/arXiv.2205.05661","url":"https://dblp.org/rec/journals/corr/abs-2205-05661"},
+"url":"URL#198732"
+},
+{
+"@score":"2",
+"@id":"224627",
+"info":{"authors":{"author":[{"@pid":"147/3678","text":"Monira Essa Aloud"},{"@pid":"194/7708","text":"Nora Alkhamees"}]},"title":"Intelligent Algorithmic Trading Strategy Using Reinforcement Learning and Directional Change.","venue":"IEEE Access","volume":"9","pages":"114659-114671","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/AloudA21","doi":"10.1109/ACCESS.2021.3105259","ee":"https://doi.org/10.1109/ACCESS.2021.3105259","url":"https://dblp.org/rec/journals/access/AloudA21"},
+"url":"URL#224627"
+},
+{
+"@score":"2",
+"@id":"231851",
+"info":{"authors":{"author":[{"@pid":"306/8769","text":"Deog-Yeong Park"},{"@pid":"00/674","text":"Ki-Hoon Lee"}]},"title":"Practical Algorithmic Trading Using State Representation Learning and Imitative Reinforcement Learning.","venue":"IEEE Access","volume":"9","pages":"152310-152321","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/ParkL21","doi":"10.1109/ACCESS.2021.3127209","ee":"https://doi.org/10.1109/ACCESS.2021.3127209","url":"https://dblp.org/rec/journals/access/ParkL21"},
+"url":"URL#231851"
+},
+{
+"@score":"2",
+"@id":"237920",
+"info":{"authors":{"author":{"@pid":"301/8889","text":"Eyal Kenig"}},"title":"Portfolio selection in non-stationary markets.","venue":"Algorithmic Finance","volume":"9","number":"1-2","pages":"35-47","year":"2021","type":"Journal Articles","access":"closed","key":"journals/af/Kenig21","doi":"10.3233/AF-200349","ee":"https://doi.org/10.3233/AF-200349","url":"https://dblp.org/rec/journals/af/Kenig21"},
+"url":"URL#237920"
+},
+{
+"@score":"2",
+"@id":"237921",
+"info":{"authors":{"author":[{"@pid":"28/6643","text":"Carlos León"},{"@pid":"181/0893","text":"Ricardo Mariño"},{"@pid":"190/2656","text":"Carlos Cadena"}]},"title":"Do central counterparties reduce counterparty and liquidity risk? Empirical results.","venue":"Algorithmic Finance","volume":"9","number":"1-2","pages":"25-34","year":"2021","type":"Journal Articles","access":"closed","key":"journals/af/LeonMC21","doi":"10.3233/AF-200341","ee":"https://doi.org/10.3233/AF-200341","url":"https://dblp.org/rec/journals/af/LeonMC21"},
+"url":"URL#237921"
+},
+{
+"@score":"2",
+"@id":"237922",
+"info":{"authors":{"author":[{"@pid":"46/4568","text":"Zhang Wu"},{"@pid":"24/8220","text":"Terence Tai-Leung Chong"},{"@pid":"69/10440","text":"Yuchen Liu"}]},"title":"Market Reaction to iPhone Rumors.","venue":"Algorithmic Finance","volume":"9","number":"1-2","pages":"1-23","year":"2021","type":"Journal Articles","access":"closed","key":"journals/af/WuCL21","doi":"10.3233/AF200302","ee":"https://doi.org/10.3233/AF200302","url":"https://dblp.org/rec/journals/af/WuCL21"},
+"url":"URL#237922"
+},
+{
+"@score":"2",
+"@id":"278228",
+"info":{"authors":{"author":[{"@pid":"262/6124","text":"Thibaut Théate"},{"@pid":"46/1769","text":"Damien Ernst"}]},"title":"An application of deep reinforcement learning to algorithmic trading.","venue":"Expert Syst. Appl.","volume":"173","pages":"114632","year":"2021","type":"Journal Articles","access":"closed","key":"journals/eswa/TheateE21","doi":"10.1016/J.ESWA.2021.114632","ee":"https://doi.org/10.1016/j.eswa.2021.114632","url":"https://dblp.org/rec/journals/eswa/TheateE21"},
+"url":"URL#278228"
+},
+{
+"@score":"2",
+"@id":"308451",
+"info":{"authors":{"author":[{"@pid":"207/4513","text":"Benjamin Clapham"},{"@pid":"97/11056","text":"Michael Siering"},{"@pid":"00/1341","text":"Peter Gomber"}]},"title":"Popular News Are Relevant News! How Investor Attention Affects Algorithmic Decision-Making and Decision Support in Financial Markets.","venue":"Inf. Syst. Frontiers","volume":"23","number":"2","pages":"477-494","year":"2021","type":"Journal Articles","access":"closed","key":"journals/isf/ClaphamSG21","doi":"10.1007/S10796-019-09950-W","ee":"https://doi.org/10.1007/s10796-019-09950-w","url":"https://dblp.org/rec/journals/isf/ClaphamSG21"},
+"url":"URL#308451"
+},
+{
+"@score":"2",
+"@id":"345034",
+"info":{"authors":{"author":[{"@pid":"85/7432-4","text":"Iftikhar Ahmad 0004"},{"@pid":"143/1116","text":"Muhammad Ovais Ahmad"},{"@pid":"222/4340","text":"Mohammed A. Alqarni"},{"@pid":"193/2157","text":"Abdulwahab Ali Almazroi"},{"@pid":"244/4381","text":"Muhammad Imran Khan Khalil"}]},"title":"Using algorithmic trading to analyze short term profitability of Bitcoin.","venue":"PeerJ Comput. Sci.","volume":"7","pages":"e337","year":"2021","type":"Journal Articles","access":"open","key":"journals/peerj-cs/AhmadAAAK21","doi":"10.7717/PEERJ-CS.337","ee":"https://doi.org/10.7717/peerj-cs.337","url":"https://dblp.org/rec/journals/peerj-cs/AhmadAAAK21"},
+"url":"URL#345034"
+},
+{
+"@score":"2",
+"@id":"387237",
+"info":{"authors":{"author":[{"@pid":"220/6211","text":"Yuze Li"},{"@pid":"45/1875","text":"Shouyang Wang"},{"@pid":"91/8491","text":"Yunjie Wei"},{"@pid":"74/963","text":"Qing Zhu"}]},"title":"A New Hybrid VMD-ICSS-BiGRU Approach for Gold Futures Price Forecasting and Algorithmic Trading.","venue":"IEEE Trans. Comput. Soc. Syst.","volume":"8","number":"6","pages":"1357-1368","year":"2021","type":"Journal Articles","access":"closed","key":"journals/tcss/LiWWZ21","doi":"10.1109/TCSS.2021.3084847","ee":"https://doi.org/10.1109/TCSS.2021.3084847","url":"https://dblp.org/rec/journals/tcss/LiWWZ21"},
+"url":"URL#387237"
+},
+{
+"@score":"2",
+"@id":"422251",
+"info":{"authors":{"author":[{"@pid":"283/4608","text":"Daniel Ben David"},{"@pid":"172/1326","text":"Yehezkel S. Resheff"},{"@pid":"178/9977","text":"Talia Tron"}]},"title":"Explainable AI and Adoption of Financial Algorithmic Advisors: An Experimental Study.","venue":"AIES","pages":"390-400","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/aies/DavidRT21","doi":"10.1145/3461702.3462565","ee":"https://doi.org/10.1145/3461702.3462565","url":"https://dblp.org/rec/conf/aies/DavidRT21"},
+"url":"URL#422251"
+},
+{
+"@score":"2",
+"@id":"445595",
+"info":{"authors":{"author":[{"@pid":"275/2002","text":"Md. Erfanul Hoque"},{"@pid":"35/1366","text":"Aerambamoorthy Thavaneswaran"},{"@pid":"47/9120","text":"Alex Paseka"},{"@pid":"34/4880","text":"Ruppa K. Thulasiram"}]},"title":"An Algorithmic Multiple Trading Strategy Using Data-Driven Random Weights Innovation Volatility.","venue":"COMPSAC","pages":"1760-1765","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/compsac/HoqueTPT21","doi":"10.1109/COMPSAC51774.2021.00263","ee":"https://doi.org/10.1109/COMPSAC51774.2021.00263","url":"https://dblp.org/rec/conf/compsac/HoqueTPT21"},
+"url":"URL#445595"
+},
+{
+"@score":"2",
+"@id":"445610",
+"info":{"authors":{"author":[{"@pid":"302/2260","text":"Ethan Johnson-Skinner"},{"@pid":"215/3697","text":"You Liang"},{"@pid":"40/3186","text":"Na Yu"},{"@pid":"302/1908","text":"Alin Morariu"}]},"title":"A Novel Algorithmic Trading Strategy using Hidden Markov Model for Kalman Filtering Innovations.","venue":"COMPSAC","pages":"1766-1771","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/compsac/Johnson-Skinner21","doi":"10.1109/COMPSAC51774.2021.00264","ee":"https://doi.org/10.1109/COMPSAC51774.2021.00264","url":"https://dblp.org/rec/conf/compsac/Johnson-Skinner21"},
+"url":"URL#445610"
+},
+{
+"@score":"2",
+"@id":"464952",
+"info":{"authors":{"author":[{"@pid":"178/3737","text":"Aljosha Judmayer"},{"@pid":"202/7551","text":"Nicholas Stifter"},{"@pid":"202/7280","text":"Alexei Zamyatin"},{"@pid":"220/4160","text":"Itay Tsabary"},{"@pid":"86/8318","text":"Ittay Eyal"},{"@pid":"06/701","text":"Peter Gazi"},{"@pid":"94/8813","text":"Sarah Meiklejohn"},{"@pid":"w/EdgarRWeippl","text":"Edgar R. Weippl"}]},"title":"SoK: Algorithmic Incentive Manipulation Attacks on Permissionless PoW Cryptocurrencies.","venue":"Financial Cryptography Workshops","pages":"507-532","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/fc/JudmayerSZTEGMW21","doi":"10.1007/978-3-662-63958-0_38","ee":"https://doi.org/10.1007/978-3-662-63958-0_38","url":"https://dblp.org/rec/conf/fc/JudmayerSZTEGMW21"},
+"url":"URL#464952"
+},
+{
+"@score":"2",
+"@id":"465003",
+"info":{"authors":{"author":[{"@pid":"75/1007","text":"Wenqi Zhao"},{"@pid":"66/3387","text":"Hui Li"},{"@pid":"284/0764","text":"Yuming Yuan"}]},"title":"Understand Volatility of Algorithmic Stablecoin: Modeling, Verification and Empirical Analysis.","venue":"Financial Cryptography Workshops","pages":"97-108","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/fc/ZhaoLY21","doi":"10.1007/978-3-662-63958-0_8","ee":"https://doi.org/10.1007/978-3-662-63958-0_8","url":"https://dblp.org/rec/conf/fc/ZhaoLY21"},
+"url":"URL#465003"
+},
+{
+"@score":"2",
+"@id":"549277",
+"info":{"authors":{"author":[{"@pid":"276/7651","text":"Elior Nehemya"},{"@pid":"213/3700","text":"Yael Mathov"},{"@pid":"56/5380","text":"Asaf Shabtai"},{"@pid":"38/4086","text":"Yuval Elovici"}]},"title":"Taking over the Stock Market: Adversarial Perturbations Against Algorithmic Traders.","venue":"ECML/PKDD","pages":"221-236","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/pkdd/NehemyaMSE21","doi":"10.1007/978-3-030-86514-6_14","ee":"https://doi.org/10.1007/978-3-030-86514-6_14","url":"https://dblp.org/rec/conf/pkdd/NehemyaMSE21"},
+"url":"URL#549277"
+},
+{
+"@score":"2",
+"@id":"562176",
+"info":{"authors":{"author":{"@pid":"302/2849","text":"Arkadiusz Liber"}},"title":"Algorithmic Methods of Hidden Communication Through Buy Orders and Sales on International Stock Exchanges.","venue":"SoMeT","pages":"33-47","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/somet/Liber21b","doi":"10.3233/FAIA210006","ee":"https://doi.org/10.3233/FAIA210006","url":"https://dblp.org/rec/conf/somet/Liber21b"},
+"url":"URL#562176"
+},
+{
+"@score":"2",
+"@id":"610272",
+"info":{"authors":{"author":{"@pid":"293/6911","text":"Thomas Orton"}},"title":"An Introduction To Regret Minimization In Algorithmic Trading: A Survey of Universal Portfolio Techniques.","venue":"CoRR","volume":"abs/2105.13126","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2105-13126","ee":"https://arxiv.org/abs/2105.13126","url":"https://dblp.org/rec/journals/corr/abs-2105-13126"},
+"url":"URL#610272"
+},
+{
+"@score":"2",
+"@id":"611298",
+"info":{"authors":{"author":{"@pid":"294/3165","text":"Tidor-Vlad Pricope"}},"title":"Deep Reinforcement Learning in Quantitative Algorithmic Trading: A Review.","venue":"CoRR","volume":"abs/2106.00123","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2106-00123","ee":"https://arxiv.org/abs/2106.00123","url":"https://dblp.org/rec/journals/corr/abs-2106-00123"},
+"url":"URL#611298"
+},
+{
+"@score":"2",
+"@id":"635467",
+"info":{"authors":{"author":[{"@pid":"266/7578","text":"Ceren Kocaogullar"},{"@pid":"138/9020","text":"Arthur Gervais"},{"@pid":"46/2924","text":"Benjamin Livshits"}]},"title":"Towards Private On-Chain Algorithmic Trading.","venue":"CoRR","volume":"abs/2109.11270","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2109-11270","ee":"https://arxiv.org/abs/2109.11270","url":"https://dblp.org/rec/journals/corr/abs-2109-11270"},
+"url":"URL#635467"
+},
+{
+"@score":"2",
+"@id":"643955",
+"info":{"authors":{"author":[{"@pid":"305/0306","text":"Nathan Crone"},{"@pid":"232/2312","text":"Eoin Brophy"},{"@pid":"45/5296","text":"Tomás Ward"}]},"title":"Exploration of Algorithmic Trading Strategies for the Bitcoin Market.","venue":"CoRR","volume":"abs/2110.14936","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2110-14936","ee":"https://arxiv.org/abs/2110.14936","url":"https://dblp.org/rec/journals/corr/abs-2110-14936"},
+"url":"URL#643955"
+},
+{
+"@score":"2",
+"@id":"683413",
+"info":{"authors":{"author":[{"@pid":"248/8057","text":"Baptiste Barreau"},{"@pid":"248/8168","text":"Laurent Carlier"},{"@pid":"28/5258","text":"Damien Challet"}]},"title":"Deep prediction of investor interest: A supervised clustering approach.","venue":"Algorithmic Finance","volume":"8","number":"3-4","pages":"77-89","year":"2020","type":"Journal Articles","access":"closed","key":"journals/af/BarreauCC20","doi":"10.3233/AF-200296","ee":"https://doi.org/10.3233/AF-200296","url":"https://dblp.org/rec/journals/af/BarreauCC20"},
+"url":"URL#683413"
+},
+{
+"@score":"2",
+"@id":"683414",
+"info":{"authors":{"author":[{"@pid":"22/2175","text":"Ming Fang"},{"@pid":"285/0753","text":"Lilian Kuo"},{"@pid":"216/1770","text":"Frank Shih"},{"@pid":"98/1946","text":"Stephen Taylor"}]},"title":"Sector categorization using gradient boosted trees trained on fundamental firm data.","venue":"Algorithmic Finance","volume":"8","number":"3-4","pages":"91-99","year":"2020","type":"Journal Articles","access":"closed","key":"journals/af/FangKST20","doi":"10.3233/AF-200308","ee":"https://doi.org/10.3233/AF-200308","url":"https://dblp.org/rec/journals/af/FangKST20"},
+"url":"URL#683414"
+},
+{
+"@score":"2",
+"@id":"683415",
+"info":{"authors":{"author":[{"@pid":"161/4957","text":"Dimitri Kroujiline"},{"@pid":"161/4989","text":"Maxim Gusev"},{"@pid":"161/5172","text":"Dmitry Ushanov"},{"@pid":"161/5170","text":"Sergey V. Sharov"},{"@pid":"161/5105","text":"Boris Govorkov"}]},"title":"An endogenous mechanism of business cycles.","venue":"Algorithmic Finance","volume":"8","number":"3-4","pages":"127-148","year":"2020","type":"Journal Articles","access":"closed","key":"journals/af/KroujilineGUSG20","doi":"10.3233/AF-190292","ee":"https://doi.org/10.3233/AF-190292","url":"https://dblp.org/rec/journals/af/KroujilineGUSG20"},
+"url":"URL#683415"
+},
+{
+"@score":"2",
+"@id":"683416",
+"info":{"authors":{"author":[{"@pid":"285/0771","text":"Babak Mahdavi-Damghani"},{"@pid":"285/0736","text":"Konul Mustafayeva"},{"@pid":"209/8435","text":"Cristin Buescu"},{"@pid":"84/2868","text":"Stephen Roberts"}]},"title":"Portfolio optimization for cointelated pairs: SDEs vs Machine learning.","venue":"Algorithmic Finance","volume":"8","number":"3-4","pages":"101-125","year":"2020","type":"Journal Articles","access":"closed","key":"journals/af/Mahdavi-Damghani20","doi":"10.3233/AF-200311","ee":"https://doi.org/10.3233/AF-200311","url":"https://dblp.org/rec/journals/af/Mahdavi-Damghani20"},
+"url":"URL#683416"
+},
+{
+"@score":"2",
+"@id":"715893",
+"info":{"authors":{"author":[{"@pid":"18/9460","text":"Martin Hilbert"},{"@pid":"131/6634","text":"David Darmon"}]},"title":"How Complexity and Uncertainty Grew with Algorithmic Trading.","venue":"Entropy","volume":"22","number":"5","pages":"499","year":"2020","type":"Journal Articles","access":"open","key":"journals/entropy/HilbertD20","doi":"10.3390/E22050499","ee":"https://doi.org/10.3390/e22050499","url":"https://dblp.org/rec/journals/entropy/HilbertD20"},
+"url":"URL#715893"
+},
+{
+"@score":"2",
+"@id":"717312",
+"info":{"authors":{"author":[{"@pid":"58/5923","text":"Youngmin Ha"},{"@pid":"72/4420-4","text":"Hai Zhang 0004"}]},"title":"Algorithmic trading for online portfolio selection under limited market liquidity.","venue":"Eur. J. Oper. Res.","volume":"286","number":"3","pages":"1033-1051","year":"2020","type":"Journal Articles","access":"closed","key":"journals/eor/HaZ20","doi":"10.1016/J.EJOR.2020.03.050","ee":"https://doi.org/10.1016/j.ejor.2020.03.050","url":"https://dblp.org/rec/journals/eor/HaZ20"},
+"url":"URL#717312"
+},
+{
+"@score":"2",
+"@id":"729262",
+"info":{"authors":{"author":[{"@pid":"91/10111","text":"Duo Pei"},{"@pid":"03/4719","text":"Miklos A. Vasarhelyi"}]},"title":"Big data and algorithmic trading against periodic and tangible asset reporting: The need for U-XBRL.","venue":"Int. J. Account. Inf. Syst.","volume":"37","pages":"100453","year":"2020","type":"Journal Articles","access":"closed","key":"journals/ijais/PeiV20","doi":"10.1016/J.ACCINF.2020.100453","ee":"https://doi.org/10.1016/j.accinf.2020.100453","url":"https://dblp.org/rec/journals/ijais/PeiV20"},
+"url":"URL#729262"
+},
+{
+"@score":"2",
+"@id":"753146",
+"info":{"authors":{"author":[{"@pid":"125/3100","text":"Au Vo"},{"@pid":"279/8337","text":"Christopher Yost-Bremm"}]},"title":"A High-Frequency Algorithmic Trading Strategy for Cryptocurrency.","venue":"J. Comput. Inf. Syst.","volume":"60","number":"6","pages":"555-568","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jcis/VoY20","doi":"10.1080/08874417.2018.1552090","ee":"https://doi.org/10.1080/08874417.2018.1552090","url":"https://dblp.org/rec/journals/jcis/VoY20"},
+"url":"URL#753146"
+},
+{
+"@score":"2",
+"@id":"758154",
+"info":{"authors":{"author":[{"@pid":"256/3844","text":"Mehmet Bayram"},{"@pid":"256/3826","text":"Muzaffer Akat"},{"@pid":"51/8144","text":"Serol Bulkan"}]},"title":"Algorithmic pairs trading with expert inputs, a fuzzy statistical arbitrage framework.","venue":"J. Intell. Fuzzy Syst.","volume":"38","number":"1","pages":"697-707","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jifs/BayramAB20","doi":"10.3233/JIFS-179442","ee":"https://doi.org/10.3233/JIFS-179442","url":"https://dblp.org/rec/journals/jifs/BayramAB20"},
+"url":"URL#758154"
+},
+{
+"@score":"2",
+"@id":"874307",
+"info":{"authors":{"author":[{"@pid":"215/3697","text":"You Liang"},{"@pid":"35/1366","text":"Aerambamoorthy Thavaneswaran"},{"@pid":"40/3186","text":"Na Yu"},{"@pid":"275/2002","text":"Md. Erfanul Hoque"},{"@pid":"34/4880","text":"Ruppa K. Thulasiram"}]},"title":"Dynamic Data Science Applications in Optimal Profit Algorithmic Trading.","venue":"COMPSAC","pages":"1314-1319","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/compsac/LiangTYHT20","doi":"10.1109/COMPSAC48688.2020.00-74","ee":"https://doi.org/10.1109/COMPSAC48688.2020.00-74","url":"https://dblp.org/rec/conf/compsac/LiangTYHT20"},
+"url":"URL#874307"
+},
+{
+"@score":"2",
+"@id":"894912",
+"info":{"authors":{"author":{"@pid":"274/8854","text":"Janis Garancs"}},"title":"In Flow Between Fascination, Awe, Despair and Trance: Algorithmically controlled live online trading experience.","venue":"EVA","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/eva/Garancs20","doi":"10.14236/EWIC/EVA2020.48","ee":"https://doi.org/10.14236/ewic/EVA2020.48","url":"https://dblp.org/rec/conf/eva/Garancs20"},
+"url":"URL#894912"
+},
+{
+"@score":"2",
+"@id":"905154",
+"info":{"authors":{"author":[{"@pid":"41/10654","text":"Hongchang Wang"},{"@pid":"42/7879","text":"Eric Overby"}]},"title":"How Does Algorithmic Trading Influence Investor Participation in Peer-to-Peer Online Lending Markets?","venue":"HICSS","pages":"1-10","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/hicss/WangO20","ee":"https://hdl.handle.net/10125/64226","url":"https://dblp.org/rec/conf/hicss/WangO20"},
+"url":"URL#905154"
+},
+{
+"@score":"2",
+"@id":"914373",
+"info":{"authors":{"author":[{"@pid":"05/1950","text":"Ying Lei"},{"@pid":"08/2357","text":"Qinke Peng"},{"@pid":"76/9743-1","text":"Yiqing Shen 0001"}]},"title":"Deep Learning for Algorithmic Trading: Enhancing MACD Strategy.","venue":"ICCAI","pages":"51-57","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccai/LeiPS20","doi":"10.1145/3404555.3404604","ee":"https://doi.org/10.1145/3404555.3404604","url":"https://dblp.org/rec/conf/iccai/LeiPS20"},
+"url":"URL#914373"
+},
+{
+"@score":"2",
+"@id":"994069",
+"info":{"authors":{"author":[{"@pid":"215/3697","text":"You Liang"},{"@pid":"35/1366","text":"Aerambamoorthy Thavaneswaran"},{"@pid":"275/2002","text":"Md. Erfanul Hoque"}]},"title":"A Novel Algorithmic Trading Strategy Using Data-Driven Innovation Volatility.","venue":"SSCI","pages":"1107-1114","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ssci/LiangTH20","doi":"10.1109/SSCI47803.2020.9308360","ee":"https://doi.org/10.1109/SSCI47803.2020.9308360","url":"https://dblp.org/rec/conf/ssci/LiangTH20"},
+"url":"URL#994069"
+},
+{
+"@score":"2",
+"@id":"1014971",
+"info":{"authors":{"author":[{"@pid":"255/5718","text":"Abhishek Nan"},{"@pid":"257/3168","text":"Anandh Perumal"},{"@pid":"z/OsmarRZaiane","text":"Osmar R. Zaïane"}]},"title":"Sentiment and Knowledge Based Algorithmic Trading with Deep Reinforcement Learning.","venue":"CoRR","volume":"abs/2001.09403","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2001-09403","ee":"https://arxiv.org/abs/2001.09403","url":"https://dblp.org/rec/journals/corr/abs-2001-09403"},
+"url":"URL#1014971"
+},
+{
+"@score":"2",
+"@id":"1020619",
+"info":{"authors":{"author":[{"@pid":"238/0131","text":"Evgeny Ponomarev"},{"@pid":"56/7175","text":"Ivan V. Oseledets"},{"@pid":"c/AndrzejCichocki","text":"Andrzej Cichocki"}]},"title":"Using Reinforcement Learning in the Algorithmic Trading Problem.","venue":"CoRR","volume":"abs/2002.11523","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2002-11523","ee":"https://arxiv.org/abs/2002.11523","url":"https://dblp.org/rec/journals/corr/abs-2002-11523"},
+"url":"URL#1020619"
+},
+{
+"@score":"2",
+"@id":"1029347",
+"info":{"authors":{"author":[{"@pid":"262/6124","text":"Thibaut Théate"},{"@pid":"46/1769","text":"Damien Ernst"}]},"title":"An Application of Deep Reinforcement Learning to Algorithmic Trading.","venue":"CoRR","volume":"abs/2004.06627","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2004-06627","ee":"https://arxiv.org/abs/2004.06627","url":"https://dblp.org/rec/journals/corr/abs-2004-06627"},
+"url":"URL#1029347"
+},
+{
+"@score":"2",
+"@id":"1067083",
+"info":{"authors":{"author":[{"@pid":"276/7651","text":"Elior Nehemya"},{"@pid":"213/3700","text":"Yael Mathov"},{"@pid":"56/5380","text":"Asaf Shabtai"},{"@pid":"38/4086","text":"Yuval Elovici"}]},"title":"When Bots Take Over the Stock Market: Evasion Attacks Against Algorithmic Traders.","venue":"CoRR","volume":"abs/2010.09246","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2010-09246","ee":"https://arxiv.org/abs/2010.09246","url":"https://dblp.org/rec/journals/corr/abs-2010-09246"},
+"url":"URL#1067083"
+},
+{
+"@score":"2",
+"@id":"1068032",
+"info":{"authors":{"author":[{"@pid":"262/3834","text":"Yaser Faghan"},{"@pid":"277/0877","text":"Nancirose Piazza"},{"@pid":"172/2715","text":"Vahid Behzadan"},{"@pid":"217/6390","text":"Ali Fathi"}]},"title":"Adversarial Attacks on Deep Algorithmic Trading Policies.","venue":"CoRR","volume":"abs/2010.11388","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2010-11388","ee":"https://arxiv.org/abs/2010.11388","url":"https://dblp.org/rec/journals/corr/abs-2010-11388"},
+"url":"URL#1068032"
+},
+{
+"@score":"2",
+"@id":"1096478",
+"info":{"authors":{"author":[{"@pid":"37/4190-72","text":"Yang Li 0072"},{"@pid":"246/3052","text":"Wanshan Zheng"},{"@pid":"z/ZibinZheng","text":"Zibin Zheng"}]},"title":"Deep Robust Reinforcement Learning for Practical Algorithmic Trading.","venue":"IEEE Access","volume":"7","pages":"108014-108022","year":"2019","type":"Journal Articles","access":"open","key":"journals/access/LiZZ19c","doi":"10.1109/ACCESS.2019.2932789","ee":"https://doi.org/10.1109/ACCESS.2019.2932789","url":"https://dblp.org/rec/journals/access/LiZZ19c"},
+"url":"URL#1096478"
+},
+{
+"@score":"2",
+"@id":"1107843",
+"info":{"authors":{"author":{"@pid":"49/2795","text":"Stanley P. Y. Fung"}},"title":"Optimal Online Two-Way Trading with Bounded Number of Transactions.","venue":"Algorithmica","volume":"81","number":"11-12","pages":"4238-4257","year":"2019","type":"Journal Articles","access":"open","key":"journals/algorithmica/Fung19","doi":"10.1007/S00453-018-00534-9","ee":"https://doi.org/10.1007/s00453-018-00534-9","url":"https://dblp.org/rec/journals/algorithmica/Fung19"},
+"url":"URL#1107843"
+},
+{
+"@score":"2",
+"@id":"1109689",
+"info":{"authors":{"author":[{"@pid":"94/10526","text":"Edward W. Sun"},{"@pid":"153/7965","text":"Timm Kruse"},{"@pid":"12/5268-2","text":"Yi-Ting Chen 0002"}]},"title":"Stylized algorithmic trading: satisfying the predictive near-term demand of liquidity.","venue":"Ann. Oper. Res.","volume":"281","number":"1-2","pages":"315-347","year":"2019","type":"Journal Articles","access":"closed","key":"journals/anor/SunKC19","doi":"10.1007/S10479-019-03150-0","ee":"https://doi.org/10.1007/s10479-019-03150-0","url":"https://dblp.org/rec/journals/anor/SunKC19"},
+"url":"URL#1109689"
+},
+{
+"@score":"2",
+"@id":"1111528",
+"info":{"authors":{"author":[{"@pid":"207/0347","text":"Carlos Martín"},{"@pid":"42/2343","text":"David Quintana"},{"@pid":"v/PedroIsasiVinuela","text":"Pedro Isasi"}]},"title":"Grammatical Evolution-based ensembles for algorithmic trading.","venue":"Appl. Soft Comput.","volume":"84","year":"2019","type":"Journal Articles","access":"closed","key":"journals/asc/MartinQI19","doi":"10.1016/J.ASOC.2019.105713","ee":"https://doi.org/10.1016/j.asoc.2019.105713","url":"https://dblp.org/rec/journals/asc/MartinQI19"},
+"url":"URL#1111528"
+},
+{
+"@score":"2",
+"@id":"1140421",
+"info":{"authors":{"author":{"@pid":"228/7318","text":"Markku Karhunen"}},"title":"Algorithmic sign prediction and covariate selection across eleven international stock markets.","venue":"Expert Syst. Appl.","volume":"115","pages":"256-263","year":"2019","type":"Journal Articles","access":"closed","key":"journals/eswa/Karhunen19","doi":"10.1016/J.ESWA.2018.07.061","ee":"https://doi.org/10.1016/j.eswa.2018.07.061","url":"https://dblp.org/rec/journals/eswa/Karhunen19"},
+"url":"URL#1140421"
+},
+{
+"@score":"2",
+"@id":"1183222",
+"info":{"authors":{"author":[{"@pid":"158/5207","text":"Victor Chang 0001"},{"@pid":"242/2702","text":"Taiyu Li"},{"@pid":"251/6803","text":"Zhiyang Zeng"}]},"title":"Towards an improved Adaboost algorithmic method for computational financial analysis.","venue":"J. Parallel Distributed Comput.","volume":"134","pages":"219-232","year":"2019","type":"Journal Articles","access":"closed","key":"journals/jpdc/ChangLZ19","doi":"10.1016/J.JPDC.2019.07.014","ee":"https://doi.org/10.1016/j.jpdc.2019.07.014","url":"https://dblp.org/rec/journals/jpdc/ChangLZ19"},
+"url":"URL#1183222"
+},
+{
+"@score":"2",
+"@id":"1350919",
+"info":{"authors":{"author":[{"@pid":"249/8306","text":"Hongyong Sun"},{"@pid":"50/3745","text":"Nan Sang"},{"@pid":"25/5536-5","text":"Jia Wu 0005"},{"@pid":"82/4206","text":"Chen Wang"}]},"title":"Algorithmic Currency Trading Based on Reinforcement Learning Combining Action Shaping and Advantage Function Shaping.","venue":"ICTAI","pages":"1494-1498","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictai/SunSWW19","doi":"10.1109/ICTAI.2019.00212","ee":"https://doi.org/10.1109/ICTAI.2019.00212","url":"https://dblp.org/rec/conf/ictai/SunSWW19"},
+"url":"URL#1350919"
+},
+{
+"@score":"2",
+"@id":"1401688",
+"info":{"authors":{"author":[{"@pid":"247/6536","text":"Kingshuk Mazumdar"},{"@pid":"12/4822","text":"Dongmo Zhang"},{"@pid":"24/3508","text":"Yi Guo"}]},"title":"Multi-peak Algorithmic Trading Strategies Using Grey Wolf Optimizer.","venue":"PRICAI","pages":"748-754","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/pricai/MazumdarZG19a","doi":"10.1007/978-3-030-29894-4_61","ee":"https://doi.org/10.1007/978-3-030-29894-4_61","url":"https://dblp.org/rec/conf/pricai/MazumdarZG19a"},
+"url":"URL#1401688"
+},
+{
+"@score":"2",
+"@id":"1509781",
+"info":{"authors":{"author":[{"@pid":"177/5659","text":"Diego Aparicio"},{"@pid":"128/7239","text":"Marcos López de Prado"}]},"title":"How hard is it to pick the right model? MCS and backtest overfitting.","venue":"Algorithmic Finance","volume":"7","number":"1-2","pages":"53-61","year":"2018","type":"Journal Articles","access":"closed","key":"journals/af/AparicioP18","doi":"10.3233/AF-180231","ee":"https://doi.org/10.3233/AF-180231","url":"https://dblp.org/rec/journals/af/AparicioP18"},
+"url":"URL#1509781"
+},
+{
+"@score":"2",
+"@id":"1509782",
+"info":{"authors":{"author":[{"@pid":"68/5284","text":"Dalila Boughaci"},{"@pid":"220/5159","text":"Abdullah Ash-shuayree Alkhawaldeh"}]},"title":"A new variable selection method applied to credit coring.","venue":"Algorithmic Finance","volume":"7","number":"1-2","pages":"43-52","year":"2018","type":"Journal Articles","access":"closed","key":"journals/af/BoughaciA18","doi":"10.3233/AF-180227","ee":"https://doi.org/10.3233/AF-180227","url":"https://dblp.org/rec/journals/af/BoughaciA18"},
+"url":"URL#1509782"
+},
+{
+"@score":"2",
+"@id":"1509783",
+"info":{"authors":{"author":[{"@pid":"17/6130","text":"Raymond H. Chan"},{"@pid":"221/7267","text":"Kelvin K. Kan"},{"@pid":"221/7138","text":"Alfred K. Ma"}]},"title":"An integer programming based strategy for Asian-style futures arbitrage over the settlement period.","venue":"Algorithmic Finance","volume":"7","number":"1-2","pages":"31-42","year":"2018","type":"Journal Articles","access":"closed","key":"journals/af/ChanKM18","doi":"10.3233/AF-180219","ee":"https://doi.org/10.3233/AF-180219","url":"https://dblp.org/rec/journals/af/ChanKM18"},
+"url":"URL#1509783"
+},
+{
+"@score":"2",
+"@id":"1509784",
+"info":{"authors":{"author":[{"@pid":"118/8148","text":"Farzad Alavi Fard"},{"@pid":"221/7000","text":"Armin Pourkhanali"},{"@pid":"221/7025","text":"Malick Sy"}]},"title":"A non-parametric inference for implied volatility governed by a Lévy-driven Ornstein-Uhlenbeck process.","venue":"Algorithmic Finance","volume":"7","number":"1-2","pages":"15-30","year":"2018","type":"Journal Articles","access":"closed","key":"journals/af/FardPS18","doi":"10.3233/AF-180200","ee":"https://doi.org/10.3233/AF-180200","url":"https://dblp.org/rec/journals/af/FardPS18"},
+"url":"URL#1509784"
+},
+{
+"@score":"2",
+"@id":"1509785",
+"info":{"authors":{"author":{"@pid":"172/1242","text":"Zura Kakushadze"}},"title":"Cryptoasset factor models.","venue":"Algorithmic Finance","volume":"7","number":"3-4","pages":"87-104","year":"2018","type":"Journal Articles","access":"closed","key":"journals/af/Kakushadze18","doi":"10.3233/AF-180260","ee":"https://doi.org/10.3233/AF-180260","url":"https://dblp.org/rec/journals/af/Kakushadze18"},
+"url":"URL#1509785"
+},
+{
+"@score":"2",
+"@id":"1509786",
+"info":{"authors":{"author":{"@pid":"81/10","text":"Takashi Kato"}},"title":"An optimal execution problem in the volume-dependent Almgren-Chriss model.","venue":"Algorithmic Finance","volume":"7","number":"1-2","pages":"1-14","year":"2018","type":"Journal Articles","access":"closed","key":"journals/af/Kato18","doi":"10.3233/AF-170198","ee":"https://doi.org/10.3233/AF-170198","url":"https://dblp.org/rec/journals/af/Kato18"},
+"url":"URL#1509786"
+},
+{
+"@score":"2",
+"@id":"1509787",
+"info":{"authors":{"author":[{"@pid":"239/4597","text":"Vikram K. Srimurthy"},{"@pid":"239/4662","text":"Matthew Smalbach"}]},"title":"Allocation skew: Managers with conviction.","venue":"Algorithmic Finance","volume":"7","number":"3-4","pages":"63-69","year":"2018","type":"Journal Articles","access":"closed","key":"journals/af/SrimurthyS18","doi":"10.3233/AF-180225","ee":"https://doi.org/10.3233/AF-180225","url":"https://dblp.org/rec/journals/af/SrimurthyS18"},
+"url":"URL#1509787"
+},
+{
+"@score":"2",
+"@id":"1510673",
+"info":{"authors":{"author":[{"@pid":"135/6369","text":"Aline Medeiros Saettler"},{"@pid":"49/5557","text":"Eduardo Sany Laber"},{"@pid":"42/3786","text":"Ferdinando Cicalese"}]},"title":"Correction to: Trading Off Worst and Expected Cost in Decision Tree Problems.","venue":"Algorithmica","volume":"80","number":"11","pages":"3431-3436","year":"2018","type":"Journal Articles","access":"open","key":"journals/algorithmica/SaettlerLC18","doi":"10.1007/S00453-018-0423-8","ee":"https://doi.org/10.1007/s00453-018-0423-8","url":"https://dblp.org/rec/journals/algorithmica/SaettlerLC18"},
+"url":"URL#1510673"
+},
+{
+"@score":"2",
+"@id":"1510796",
+"info":{"authors":{"author":[{"@pid":"74/3608-5","text":"Lin Ma 0005"},{"@pid":"90/2870","text":"Jean-Paul Delahaye"}]},"title":"An Algorithmic Look at Financial Volatility.","venue":"Algorithms","volume":"11","number":"11","pages":"185","year":"2018","type":"Journal Articles","access":"open","key":"journals/algorithms/MaD18","doi":"10.3390/A11110185","ee":"https://doi.org/10.3390/a11110185","url":"https://dblp.org/rec/journals/algorithms/MaD18"},
+"url":"URL#1510796"
+},
+{
+"@score":"2",
+"@id":"1579930",
+"info":{"authors":{"author":[{"@pid":"23/9465","text":"Karel J. in &apos;t Hout"},{"@pid":"155/1022","text":"Andrey Itkin"},{"@pid":"59/8438","text":"Lina von Sydow"},{"@pid":"42/3981","text":"Jari Toivanen"}]},"title":"Special issue - Computational and algorithmic finance.","venue":"J. Comput. Sci.","volume":"24","pages":"180-181","year":"2018","type":"Journal Articles","access":"closed","key":"journals/jocs/HoutIST18","doi":"10.1016/J.JOCS.2017.12.009","ee":"https://doi.org/10.1016/j.jocs.2017.12.009","url":"https://dblp.org/rec/journals/jocs/HoutIST18"},
+"url":"URL#1579930"
+},
+{
+"@score":"2",
+"@id":"1612862",
+"info":{"authors":{"author":[{"@pid":"157/3732","text":"Álvaro Cartea"},{"@pid":"48/1593","text":"Sebastian Jaimungal"},{"@pid":"157/3734","text":"Jason Ricci"}]},"title":"Algorithmic Trading, Stochastic Control, and Mutually Exciting Processes.","venue":"SIAM Rev.","volume":"60","number":"3","pages":"673-703","year":"2018","type":"Journal Articles","access":"closed","key":"journals/siamrev/CarteaJR18","doi":"10.1137/18M1176968","ee":"https://doi.org/10.1137/18M1176968","url":"https://dblp.org/rec/journals/siamrev/CarteaJR18"},
+"url":"URL#1612862"
+},
+{
+"@score":"2",
+"@id":"1735803",
+"info":{"authors":{"author":[{"@pid":"235/6540","text":"Nadiia Reznik"},{"@pid":"235/6761","text":"Lubov Pankratova"}]},"title":"High-Frequency Trade as a Component of Algorithmic Trading: Market Consequences.","venue":"ICTERI Workshops","pages":"73-83","year":"2018","type":"Conference and Workshop Papers","access":"open","key":"conf/icteri/ReznikP18","ee":"http://ceur-ws.org/Vol-2104/paper_174.pdf","url":"https://dblp.org/rec/conf/icteri/ReznikP18"},
+"url":"URL#1735803"
+},
+{
+"@score":"2",
+"@id":"1791624",
+"info":{"authors":{"author":[{"@pid":"227/4610","text":"Botao Ye"},{"@pid":"130/1632","text":"Dejun Xie"}]},"title":"An Overview of Event Based Directional Change for Algorithmic Trading.","venue":"SERA","pages":"13-18","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/sera/YeX18","doi":"10.1109/SERA.2018.8477229","ee":"https://doi.org/10.1109/SERA.2018.8477229","url":"https://dblp.org/rec/conf/sera/YeX18"},
+"url":"URL#1791624"
+},
+{
+"@score":"2",
+"@id":"1825736",
+"info":{"authors":{"author":[{"@pid":"180/2649","text":"Sevi Baltaoglu"},{"@pid":"92/1653","text":"Lang Tong"},{"@pid":"78/6217-1","text":"Qing Zhao 0001"}]},"title":"Algorithmic Bidding for Virtual Trading in Electricity Markets.","venue":"CoRR","volume":"abs/1802.03010","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1802-03010","ee":"http://arxiv.org/abs/1802.03010","url":"https://dblp.org/rec/journals/corr/abs-1802-03010"},
+"url":"URL#1825736"
+},
+{
+"@score":"2",
+"@id":"1844418",
+"info":{"authors":{"author":[{"@pid":"b/MartinBichler","text":"Martin Bichler"},{"@pid":"90/3772","text":"Stefan Waldherr"}]},"title":"Competitive Equilibria in Combinatorial Exchanges with Financially Constrained Buyers: Computational Hardness and Algorithmic Solutions.","venue":"CoRR","volume":"abs/1807.08253","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1807-08253","ee":"http://arxiv.org/abs/1807.08253","url":"https://dblp.org/rec/journals/corr/abs-1807-08253"},
+"url":"URL#1844418"
+},
+{
+"@score":"2",
+"@id":"1874668",
+"info":{"authors":{"author":[{"@pid":"212/2909","text":"Jeffery A. Born"},{"@pid":"164/7699","text":"David H. Myers"},{"@pid":"212/2983","text":"William J. Clark"}]},"title":"Trump tweets and the efficient Market Hypothesis.","venue":"Algorithmic Finance","volume":"6","number":"3-4","pages":"103-109","year":"2017","type":"Journal Articles","access":"closed","key":"journals/af/BornMC17","doi":"10.3233/AF-170211","ee":"https://doi.org/10.3233/AF-170211","url":"https://dblp.org/rec/journals/af/BornMC17"},
+"url":"URL#1874668"
+},
+{
+"@score":"2",
+"@id":"1874669",
+"info":{"authors":{"author":[{"@pid":"63/6251","text":"Luca Capriotti"},{"@pid":"26/10331","text":"Yupeng Jiang"},{"@pid":"207/4951","text":"Andrea Macrina"}]},"title":"AAD and least-square Monte Carlo: Fast Bermudan-style options and XVA Greeks.","venue":"Algorithmic Finance","volume":"6","number":"1-2","pages":"35-49","year":"2017","type":"Journal Articles","access":"closed","key":"journals/af/CapriottiJM17","doi":"10.3233/AF-170201","ee":"https://doi.org/10.3233/AF-170201","url":"https://dblp.org/rec/journals/af/CapriottiJM17"},
+"url":"URL#1874669"
+},
+{
+"@score":"2",
+"@id":"1874672",
+"info":{"authors":{"author":[{"@pid":"39/5133","text":"Eugene V. Korotkov"},{"@pid":"24/7967","text":"Maria A. Korotkova"}]},"title":"Study of the periodicity in Euro-US Dollar exchange rates using local alignment and random matrices.","venue":"Algorithmic Finance","volume":"6","number":"1-2","pages":"23-33","year":"2017","type":"Journal Articles","access":"closed","key":"journals/af/KorotkovK17","doi":"10.3233/AF-170182","ee":"https://doi.org/10.3233/AF-170182","url":"https://dblp.org/rec/journals/af/KorotkovK17"},
+"url":"URL#1874672"
+},
+{
+"@score":"2",
+"@id":"1874673",
+"info":{"authors":{"author":{"@pid":"05/7865","text":"Philip Maymin"}},"title":"Editorial.","venue":"Algorithmic Finance","volume":"6","number":"1-2","pages":"1","year":"2017","type":"Journal Articles","access":"closed","key":"journals/af/Maymin17","doi":"10.3233/AF-170061","ee":"https://doi.org/10.3233/AF-170061","url":"https://dblp.org/rec/journals/af/Maymin17"},
+"url":"URL#1874673"
+},
+{
+"@score":"2",
+"@id":"1874674",
+"info":{"authors":{"author":[{"@pid":"207/4926","text":"Mariana Rosa Montenegro"},{"@pid":"213/2044","text":"Pedro Henrique Melo Albuquerque"}]},"title":"Wealth management: Modeling the nonlinear dependence.","venue":"Algorithmic Finance","volume":"6","number":"1-2","pages":"51-65","year":"2017","type":"Journal Articles","access":"closed","key":"journals/af/MontenegroA17","doi":"10.3233/AF-170203","ee":"https://doi.org/10.3233/AF-170203","url":"https://dblp.org/rec/journals/af/MontenegroA17"},
+"url":"URL#1874674"
+},
+{
+"@score":"2",
+"@id":"1874675",
+"info":{"authors":{"author":{"@pid":"212/2510","text":"Evgeni B. Tarassov"}},"title":"The Russian ETF puzzle and its possible reasons.","venue":"Algorithmic Finance","volume":"6","number":"3-4","pages":"93-102","year":"2017","type":"Journal Articles","access":"closed","key":"journals/af/Tarassov17","doi":"10.3233/AF-170194","ee":"https://doi.org/10.3233/AF-170194","url":"https://dblp.org/rec/journals/af/Tarassov17"},
+"url":"URL#1874675"
+},
+{
+"@score":"2",
+"@id":"1875580",
+"info":{"authors":{"author":[{"@pid":"p/RasmusPagh","text":"Rasmus Pagh"},{"@pid":"84/9841","text":"Ninh Pham"},{"@pid":"02/6456-1","text":"Francesco Silvestri 0001"},{"@pid":"29/11004","text":"Morten Stöckel"}]},"title":"I/O-Efficient Similarity Join.","venue":"Algorithmica","volume":"78","number":"4","pages":"1263-1283","year":"2017","type":"Journal Articles","access":"closed","key":"journals/algorithmica/PaghPSS17","doi":"10.1007/S00453-017-0285-5","ee":"https://doi.org/10.1007/s00453-017-0285-5","url":"https://dblp.org/rec/journals/algorithmica/PaghPSS17"},
+"url":"URL#1875580"
+},
+{
+"@score":"2",
+"@id":"1875584",
+"info":{"authors":{"author":[{"@pid":"135/6369","text":"Aline Medeiros Saettler"},{"@pid":"49/5557","text":"Eduardo Sany Laber"},{"@pid":"42/3786","text":"Ferdinando Cicalese"}]},"title":"Trading Off Worst and Expected Cost in Decision Tree Problems.","venue":"Algorithmica","volume":"79","number":"3","pages":"886-908","year":"2017","type":"Journal Articles","access":"closed","key":"journals/algorithmica/SaettlerLC17","doi":"10.1007/S00453-016-0211-2","ee":"https://doi.org/10.1007/s00453-016-0211-2","url":"https://dblp.org/rec/journals/algorithmica/SaettlerLC17"},
+"url":"URL#1875584"
+},
+{
+"@score":"2",
+"@id":"2055177",
+"info":{"authors":{"author":[{"@pid":"184/9362","text":"Ga Ching Lui"},{"@pid":"201/2006","text":"Chun Yin Yip"},{"@pid":"s/KwokYipSzeto","text":"Kwok Yip Szeto"}]},"title":"Topological Evolution of Financial Network: A Genetic Algorithmic Approach.","venue":"HAIS","pages":"113-124","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/hais/LuiYS17","doi":"10.1007/978-3-319-59650-1_10","ee":"https://doi.org/10.1007/978-3-319-59650-1_10","url":"https://dblp.org/rec/conf/hais/LuiYS17"},
+"url":"URL#2055177"
+},
+{
+"@score":"2",
+"@id":"2105320",
+"info":{"authors":{"author":[{"@pid":"11/2682","text":"Andrzej Ruta"},{"@pid":"93/76","text":"Dymitr Ruta"},{"@pid":"47/1446","text":"Ling Cen"}]},"title":"Algorithmic Daily Trading Based on Experts&apos; Recommendations.","venue":"ISMIS","pages":"735-744","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/ismis/RutaRC17","doi":"10.1007/978-3-319-60438-1_72","ee":"https://doi.org/10.1007/978-3-319-60438-1_72","url":"https://dblp.org/rec/conf/ismis/RutaRC17"},
+"url":"URL#2105320"
+},
+{
+"@score":"2",
+"@id":"2135541",
+"info":{"authors":{"author":{"@pid":"163/2969","text":"Yuri Zelenkov"}},"title":"Parallel Heterogeneous Multi-classifier System for Decision Making in Algorithmic Trading.","venue":"RuSCDays","pages":"251-265","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/ruscdays/Zelenkov17","doi":"10.1007/978-3-319-71255-0_20","ee":"https://doi.org/10.1007/978-3-319-71255-0_20","url":"https://dblp.org/rec/conf/ruscdays/Zelenkov17"},
+"url":"URL#2135541"
+},
+{
+"@score":"2",
+"@id":"2156714",
+"info":{"authors":{"author":[{"@pid":"182/8307","text":"Andrés Arévalo"},{"@pid":"84/7167","text":"Jaime Niño"},{"@pid":"223/6333","text":"Germán Jairo Hernández-Pérez"},{"@pid":"124/8894","text":"Javier Sandoval"},{"@pid":"201/6266","text":"Diego León"},{"@pid":"201/6291","text":"Arbey Aragón"}]},"title":"Algorithmic Trading Using Deep Neural Networks on High Frequency Data.","venue":"WEA","pages":"144-155","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/wea2/ArevaloNHSLA17","doi":"10.1007/978-3-319-66963-2_14","ee":"https://doi.org/10.1007/978-3-319-66963-2_14","url":"https://dblp.org/rec/conf/wea2/ArevaloNHSLA17"},
+"url":"URL#2156714"
+},
+{
+"@score":"2",
+"@id":"2192826",
+"info":{"authors":{"author":[{"@pid":"156/1545","text":"Jithin Mathews"},{"@pid":"207/8453","text":"Priya Mehta"},{"@pid":"207/8481","text":"S. V. Kasi Visweswara Rao"},{"@pid":"233/3456","text":"Ch. Sobhan Babu"}]},"title":"An algorithmic approach to handle circular trading in commercial taxing system.","venue":"CoRR","volume":"abs/1710.10836","year":"2017","type":"Informal Publications","access":"open","key":"journals/corr/abs-1710-10836","ee":"http://arxiv.org/abs/1710.10836","url":"https://dblp.org/rec/journals/corr/abs-1710-10836"},
+"url":"URL#2192826"
+},
+{
+"@score":"2",
+"@id":"2203539",
+"info":{"authors":{"author":{"@pid":"138/7141","text":"Rickard Nyman"}},"title":"An algorithmic investigation of conviction narrative theory: applications in business, finance and economics.","year":"2016","type":"Books and Theses","access":"closed","key":"phd/ethos/Nyman16","ee":"https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.746058","url":"https://dblp.org/rec/phd/ethos/Nyman16"},
+"url":"URL#2203539"
+},
+{
+"@score":"2",
+"@id":"2208272",
+"info":{"authors":{"author":{"@pid":"199/0332","text":"Samit Ahlawat"}},"title":"Empirical evaluation of price-based technical patterns using probabilistic neural networks.","venue":"Algorithmic Finance","volume":"5","number":"3-4","pages":"49-68","year":"2016","type":"Journal Articles","access":"closed","key":"journals/af/Ahlawat16","doi":"10.3233/AF-160059","ee":"https://doi.org/10.3233/AF-160059","url":"https://dblp.org/rec/journals/af/Ahlawat16"},
+"url":"URL#2208272"
+},
+{
+"@score":"2",
+"@id":"2208274",
+"info":{"authors":{"author":[{"@pid":"182/1429","text":"Siddartha Ghoshal"},{"@pid":"40/13","text":"Steve Roberts"}]},"title":"Extracting predictive information from heterogeneous data streams using Gaussian Processes.","venue":"Algorithmic Finance","volume":"5","number":"1-2","pages":"21-30","year":"2016","type":"Journal Articles","access":"closed","key":"journals/af/GhoshalR16","doi":"10.3233/AF-160055","ee":"https://doi.org/10.3233/AF-160055","url":"https://dblp.org/rec/journals/af/GhoshalR16"},
+"url":"URL#2208274"
+},
+{
+"@score":"2",
+"@id":"2208275",
+"info":{"authors":{"author":[{"@pid":"162/8804","text":"Anton Golub"},{"@pid":"150/7463","text":"Gregor Chliamovitch"},{"@pid":"67/1941","text":"Alexandre Dupuis"},{"@pid":"07/3514","text":"Bastien Chopard"}]},"title":"Multi-scale representation of high frequency market liquidity.","venue":"Algorithmic Finance","volume":"5","number":"1-2","pages":"3-19","year":"2016","type":"Journal Articles","access":"closed","key":"journals/af/GolubCDC16","doi":"10.3233/AF-160054","ee":"https://doi.org/10.3233/AF-160054","url":"https://dblp.org/rec/journals/af/GolubCDC16"},
+"url":"URL#2208275"
+},
+{
+"@score":"2",
+"@id":"2208277",
+"info":{"authors":{"author":{"@pid":"182/1345","text":"Wolfgang Kuhle"}},"title":"Darwinian adverse selection.","venue":"Algorithmic Finance","volume":"5","number":"1-2","pages":"31-36","year":"2016","type":"Journal Articles","access":"closed","key":"journals/af/Kuhle16","doi":"10.3233/AF-160056","ee":"https://doi.org/10.3233/AF-160056","url":"https://dblp.org/rec/journals/af/Kuhle16"},
+"url":"URL#2208277"
+},
+{
+"@score":"2",
+"@id":"2208279",
+"info":{"authors":{"author":[{"@pid":"41/10027","text":"Elaine Wah"},{"@pid":"w/MichaelPWellman","text":"Michael P. Wellman"}]},"title":"Latency arbitrage in fragmented markets: A strategic agent-based analysis.","venue":"Algorithmic Finance","volume":"5","number":"3-4","pages":"69-93","year":"2016","type":"Journal Articles","access":"closed","key":"journals/af/WahW16","doi":"10.3233/AF-160060","ee":"https://doi.org/10.3233/AF-160060","url":"https://dblp.org/rec/journals/af/WahW16"},
+"url":"URL#2208279"
+},
+{
+"@score":"2",
+"@id":"2235107",
+"info":{"authors":{"author":[{"@pid":"150/1460","text":"José Manuel Berutich"},{"@pid":"31/3425","text":"Francisco López"},{"@pid":"54/2607","text":"Francisco Luna"},{"@pid":"42/2343","text":"David Quintana"}]},"title":"Robust technical trading strategies using GP for algorithmic portfolio selection.","venue":"Expert Syst. Appl.","volume":"46","pages":"307-315","year":"2016","type":"Journal Articles","access":"closed","key":"journals/eswa/BerutichLLQ16","doi":"10.1016/J.ESWA.2015.10.040","ee":"https://doi.org/10.1016/j.eswa.2015.10.040","url":"https://dblp.org/rec/journals/eswa/BerutichLLQ16"},
+"url":"URL#2235107"
+},
+{
+"@score":"2",
+"@id":"2243936",
+"info":{"authors":{"author":[{"@pid":"141/6387","text":"Marcus Bendtsen"},{"@pid":"43/3828","text":"José M. Peña 0001"}]},"title":"Gated Bayesian networks for algorithmic trading.","venue":"Int. J. Approx. Reason.","volume":"69","pages":"58-80","year":"2016","type":"Journal Articles","access":"open","key":"journals/ijar/BendtsenP16","doi":"10.1016/J.IJAR.2015.11.002","ee":"https://doi.org/10.1016/j.ijar.2015.11.002","url":"https://dblp.org/rec/journals/ijar/BendtsenP16"},
+"url":"URL#2243936"
+},
+{
+"@score":"2",
+"@id":"2338792",
+"info":{"authors":{"author":{"@pid":"69/6132","text":"Aistis Raudys"}},"title":"Portfolio of Global Futures Algorithmic Trading Strategies for Best Out-of-Sample Performance.","venue":"BIS","pages":"424-435","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bis/Raudys16","doi":"10.1007/978-3-319-39426-8_33","ee":"https://doi.org/10.1007/978-3-319-39426-8_33","url":"https://dblp.org/rec/conf/bis/Raudys16"},
+"url":"URL#2338792"
+},
+{
+"@score":"2",
+"@id":"2518768",
+"info":{"authors":{"author":[{"@pid":"163/2171","text":"Malihe Alikhani"},{"@pid":"16/4316","text":"Bjørn Kjos-Hanssen"},{"@pid":"163/2307","text":"Amirarsalan Pakravan"},{"@pid":"163/1861","text":"Babak Saadat"}]},"title":"Pricing complexity options.","venue":"Algorithmic Finance","volume":"4","number":"3-4","pages":"127-137","year":"2015","type":"Journal Articles","access":"closed","key":"journals/af/AlikhaniKPS15","doi":"10.3233/AF-150050","ee":"https://doi.org/10.3233/AF-150050","url":"https://dblp.org/rec/journals/af/AlikhaniKPS15"},
+"url":"URL#2518768"
+},
+{
+"@score":"2",
+"@id":"2518773",
+"info":{"authors":{"author":{"@pid":"174/6554","text":"Alexandru Mandes"}},"title":"Microstructure-based order placement in a continuous double auction agent based model.","venue":"Algorithmic Finance","volume":"4","number":"3-4","pages":"105-125","year":"2015","type":"Journal Articles","access":"closed","key":"journals/af/Mandes15","doi":"10.3233/AF-150049","ee":"https://doi.org/10.3233/AF-150049","url":"https://dblp.org/rec/journals/af/Mandes15"},
+"url":"URL#2518773"
+},
+{
+"@score":"2",
+"@id":"2518774",
+"info":{"authors":{"author":[{"@pid":"161/4951","text":"Vasilios Plakandaras"},{"@pid":"04/6819","text":"Theophilos Papadimitriou"},{"@pid":"157/9129","text":"Periklis Gogas"},{"@pid":"74/4220","text":"Konstantinos I. Diamantaras"}]},"title":"Market sentiment and exchange rate directional forecasting.","venue":"Algorithmic Finance","volume":"4","number":"1-2","pages":"69-79","year":"2015","type":"Journal Articles","access":"closed","key":"journals/af/PlakandarasPGD15","doi":"10.3233/AF-150044","ee":"https://doi.org/10.3233/AF-150044","url":"https://dblp.org/rec/journals/af/PlakandarasPGD15"},
+"url":"URL#2518774"
+},
+{
+"@score":"2",
+"@id":"2518776",
+"info":{"authors":{"author":{"@pid":"161/5091","text":"Martin Wallmeier"}},"title":"Smile in motion: An intraday analysis of asymmetric implied volatility.","venue":"Algorithmic Finance","volume":"4","number":"1-2","pages":"89-104","year":"2015","type":"Journal Articles","access":"closed","key":"journals/af/Wallmeier15","doi":"10.3233/AF-150048","ee":"https://doi.org/10.3233/AF-150048","url":"https://dblp.org/rec/journals/af/Wallmeier15"},
+"url":"URL#2518776"
+},
+{
+"@score":"2",
+"@id":"2518777",
+"info":{"title":"A minute with Peter Bossaerts.","venue":"Algorithmic Finance","volume":"4","number":"1-2","pages":"1-3","year":"2015","type":"Journal Articles","access":"closed","key":"journals/af/X15","doi":"10.3233/AF-150047","ee":"https://doi.org/10.3233/AF-150047","url":"https://dblp.org/rec/journals/af/X15"},
+"url":"URL#2518777"
+},
+{
+"@score":"2",
+"@id":"2518778",
+"info":{"title":"Author Index Volume 4 (2015).","venue":"Algorithmic Finance","volume":"4","number":"3-4","pages":"179","year":"2015","type":"Journal Articles","access":"closed","key":"journals/af/X15a","ee":"http://content.iospress.com/articles/algorithmic-finance/af4ai","url":"https://dblp.org/rec/journals/af/X15a"},
+"url":"URL#2518778"
+},
+{
+"@score":"2",
+"@id":"2519648",
+"info":{"authors":{"author":[{"@pid":"17/3221","text":"Michael Elberfeld"},{"@pid":"118/7194","text":"Christoph Stockhusen"},{"@pid":"41/1415","text":"Till Tantau"}]},"title":"On the Space and Circuit Complexity of Parameterized Problems: Classes and Completeness.","venue":"Algorithmica","volume":"71","number":"3","pages":"661-701","year":"2015","type":"Journal Articles","access":"closed","key":"journals/algorithmica/ElberfeldST15","doi":"10.1007/S00453-014-9944-Y","ee":"https://doi.org/10.1007/s00453-014-9944-y","url":"https://dblp.org/rec/journals/algorithmica/ElberfeldST15"},
+"url":"URL#2519648"
+},
+{
+"@score":"2",
+"@id":"2521729",
+"info":{"authors":{"author":[{"@pid":"04/10521","text":"Miles Kumaresan"},{"@pid":"69/6388","text":"Natasa Krejic"}]},"title":"Optimal trading of algorithmic orders in a liquidity fragmented market place.","venue":"Ann. Oper. Res.","volume":"229","number":"1","pages":"521-540","year":"2015","type":"Journal Articles","access":"closed","key":"journals/anor/KumaresanK15","doi":"10.1007/S10479-015-1815-7","ee":"https://doi.org/10.1007/s10479-015-1815-7","url":"https://dblp.org/rec/journals/anor/KumaresanK15"},
+"url":"URL#2521729"
+},
+{
+"@score":"2",
+"@id":"2766902",
+"info":{"authors":{"author":{"@pid":"14/936","text":"William A. Gruver"}},"title":"Algorithmic trading systems.","venue":"SISY","pages":"17","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/sisy/Gruver15","doi":"10.1109/SISY.2015.7325393","ee":"https://doi.org/10.1109/SISY.2015.7325393","url":"https://dblp.org/rec/conf/sisy/Gruver15"},
+"url":"URL#2766902"
+},
+{
+"@score":"2",
+"@id":"2774951",
+"info":{"authors":{"author":{"@pid":"141/6387","text":"Marcus Bendtsen"}},"title":"Bayesian Optimisation of Gated Bayesian Networks for Algorithmic Trading.","venue":"BMA@UAI","pages":"2-11","year":"2015","type":"Conference and Workshop Papers","access":"open","key":"conf/uai/Bendtsen15","ee":"http://ceur-ws.org/Vol-1565/bmaw2015_paper2.pdf","url":"https://dblp.org/rec/conf/uai/Bendtsen15"},
+"url":"URL#2774951"
+},
+{
+"@score":"2",
+"@id":"2796677",
+"info":{"authors":{"author":[{"@pid":"37/3550","text":"David García 0001"},{"@pid":"67/4271","text":"Frank Schweitzer"}]},"title":"Social signals and algorithmic trading of Bitcoin.","venue":"CoRR","volume":"abs/1506.01513","year":"2015","type":"Informal Publications","access":"open","key":"journals/corr/GarciaS15","ee":"http://arxiv.org/abs/1506.01513","url":"https://dblp.org/rec/journals/corr/GarciaS15"},
+"url":"URL#2796677"
+},
+{
+"@score":"2",
+"@id":"2809732",
+"info":{"authors":{"author":{"@pid":"79/1194","text":"Sumit Chakraborty"}},"title":"Financial Cryptography: Algorithmic Mechanisms for a Hedonic Game.","venue":"IACR Cryptol. ePrint Arch.","volume":"2015","pages":"381","year":"2015","type":"Informal Publications","access":"open","key":"journals/iacr/Chakraborty15b","ee":"http://eprint.iacr.org/2015/381","url":"https://dblp.org/rec/journals/iacr/Chakraborty15b"},
+"url":"URL#2809732"
+},
+{
+"@score":"2",
+"@id":"2812387",
+"info":{"authors":{"author":{"@pid":"10/8669","text":"Siavash Soleimanifard"}},"title":"Algorithmic Verification of Procedural Programs in the Presence of Code Variability.","year":"2014","type":"Books and Theses","access":"closed","key":"phd/basesearch/Soleimanifard14","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-149735","url":"https://dblp.org/rec/phd/basesearch/Soleimanifard14"},
+"url":"URL#2812387"
+},
+{
+"@score":"2",
+"@id":"2813918",
+"info":{"authors":{"author":{"@pid":"137/4545","text":"Michal Galas"}},"title":"Experimental computational simulation environments for algorithmic trading.","year":"2014","type":"Books and Theses","access":"closed","key":"phd/ethos/Galas14","ee":"http://discovery.ucl.ac.uk/1418208/","url":"https://dblp.org/rec/phd/ethos/Galas14"},
+"url":"URL#2813918"
+},
+{
+"@score":"2",
+"@id":"2818085",
+"info":{"authors":{"author":[{"@pid":"84/548","text":"Neil J. Calkin"},{"@pid":"128/7239","text":"Marcos López de Prado"}]},"title":"Stochastic flow diagrams.","venue":"Algorithmic Finance","volume":"3","number":"1-2","pages":"21-42","year":"2014","type":"Journal Articles","access":"closed","key":"journals/af/CalkinP14","doi":"10.3233/AF-140032","ee":"https://doi.org/10.3233/AF-140032","url":"https://dblp.org/rec/journals/af/CalkinP14"},
+"url":"URL#2818085"
+},
+{
+"@score":"2",
+"@id":"2818087",
+"info":{"authors":{"author":[{"@pid":"145/8420","text":"Bryant Chen"},{"@pid":"97/10432","text":"William W. Y. Hsu"},{"@pid":"89/1350","text":"Jan-Ming Ho"},{"@pid":"k/MingYangKao","text":"Ming-Yang Kao"}]},"title":"Linear-time accurate lattice algorithms for tail conditional expectation.","venue":"Algorithmic Finance","volume":"3","number":"1-2","pages":"87-140","year":"2014","type":"Journal Articles","access":"closed","key":"journals/af/ChenHHK14","doi":"10.3233/AF-140034","ee":"https://doi.org/10.3233/AF-140034","url":"https://dblp.org/rec/journals/af/ChenHHK14"},
+"url":"URL#2818087"
+},
+{
+"@score":"2",
+"@id":"2818088",
+"info":{"authors":{"author":{"@pid":"155/1012","text":"Laurence Irlicht"}},"title":"Fast recursive portfolio optimization.","venue":"Algorithmic Finance","volume":"3","number":"3-4","pages":"173-188","year":"2014","type":"Journal Articles","access":"closed","key":"journals/af/Irlicht14","doi":"10.3233/AF-140038","ee":"https://doi.org/10.3233/AF-140038","url":"https://dblp.org/rec/journals/af/Irlicht14"},
+"url":"URL#2818088"
+},
+{
+"@score":"2",
+"@id":"2818089",
+"info":{"authors":{"author":{"@pid":"155/1022","text":"Andrey Itkin"}},"title":"Splitting and matrix exponential approach for jump-diffusion models with Inverse Normal Gaussian, Hyperbolic and Meixner jumps.","venue":"Algorithmic Finance","volume":"3","number":"3-4","pages":"233-250","year":"2014","type":"Journal Articles","access":"closed","key":"journals/af/Itkin14","doi":"10.3233/AF-140041","ee":"https://doi.org/10.3233/AF-140041","url":"https://dblp.org/rec/journals/af/Itkin14"},
+"url":"URL#2818089"
+},
+{
+"@score":"2",
+"@id":"2818090",
+"info":{"authors":{"author":{"@pid":"155/1018","text":"Daniel Mantilla-García"}},"title":"Dynamic allocation strategies for absolute and relative loss control.","venue":"Algorithmic Finance","volume":"3","number":"3-4","pages":"209-231","year":"2014","type":"Journal Articles","access":"closed","key":"journals/af/Mantilla-Garcia14","doi":"10.3233/AF-140040","ee":"https://doi.org/10.3233/AF-140040","url":"https://dblp.org/rec/journals/af/Mantilla-Garcia14"},
+"url":"URL#2818090"
+},
+{
+"@score":"2",
+"@id":"2818091",
+"info":{"authors":{"author":{"@pid":"155/1105","text":"Thomas A. Rhee"}},"title":"The relationship between return fractality and bipower variation.","venue":"Algorithmic Finance","volume":"3","number":"3-4","pages":"163-171","year":"2014","type":"Journal Articles","access":"closed","key":"journals/af/Rhee14","doi":"10.3233/AF-140037","ee":"https://doi.org/10.3233/AF-140037","url":"https://dblp.org/rec/journals/af/Rhee14"},
+"url":"URL#2818091"
+},
+{
+"@score":"2",
+"@id":"2818092",
+"info":{"authors":{"author":[{"@pid":"279/6534","text":"David M. Rothschild"},{"@pid":"p/DavidMPennock","text":"David M. Pennock"}]},"title":"The extent of price misalignment in prediction markets.","venue":"Algorithmic Finance","volume":"3","number":"1-2","pages":"3-20","year":"2014","type":"Journal Articles","access":"closed","key":"journals/af/RothschildP14","doi":"10.3233/AF-140031","ee":"https://doi.org/10.3233/AF-140031","url":"https://dblp.org/rec/journals/af/RothschildP14"},
+"url":"URL#2818092"
+},
+{
+"@score":"2",
+"@id":"2818093",
+"info":{"authors":{"author":[{"@pid":"129/5539","text":"Mark Tucker"},{"@pid":"30/4850","text":"J. Mark Bull"}]},"title":"An efficient algorithm for the calculation of reserves for non-unit linked life policies.","venue":"Algorithmic Finance","volume":"3","number":"3-4","pages":"143-161","year":"2014","type":"Journal Articles","access":"closed","key":"journals/af/TuckerB14","doi":"10.3233/AF-140036","ee":"https://doi.org/10.3233/AF-140036","url":"https://dblp.org/rec/journals/af/TuckerB14"},
+"url":"URL#2818093"
+},
+{
+"@score":"2",
+"@id":"2818094",
+"info":{"title":"A Minute with Kenneth J. Arrow.","venue":"Algorithmic Finance","volume":"3","number":"1-2","pages":"1-2","year":"2014","type":"Journal Articles","access":"closed","key":"journals/af/X14","doi":"10.3233/AF-140035","ee":"https://doi.org/10.3233/AF-140035","url":"https://dblp.org/rec/journals/af/X14"},
+"url":"URL#2818094"
+},
+{
+"@score":"2",
+"@id":"2844336",
+"info":{"authors":{"author":[{"@pid":"50/3993-7","text":"Xiaodong Li 0007"},{"@pid":"d/XiaotieDeng","text":"Xiaotie Deng"},{"@pid":"20/6446","text":"Shanfeng Zhu"},{"@pid":"90/4225-9","text":"Feng Wang 0009"},{"@pid":"83/8908","text":"Haoran Xie 0001"}]},"title":"An intelligent market making strategy in algorithmic trading.","venue":"Frontiers Comput. Sci.","volume":"8","number":"4","pages":"596-608","year":"2014","type":"Journal Articles","access":"closed","key":"journals/fcsc/LiDZWX14","doi":"10.1007/S11704-014-3312-6","ee":"https://doi.org/10.1007/s11704-014-3312-6","url":"https://dblp.org/rec/journals/fcsc/LiDZWX14"},
+"url":"URL#2844336"
+},
+{
+"@score":"2",
+"@id":"2863218",
+"info":{"authors":{"author":[{"@pid":"156/7193","text":"Tarek Abdunabi"},{"@pid":"b/OtmanABasir","text":"Otman Basir"}]},"title":"Holonic Intelligent Multi-Agent Algorithmic Trading System (HIMAATS).","venue":"Int. J. Comput. Their Appl.","volume":"21","number":"1","pages":"54-61","year":"2014","type":"Journal Articles","access":"unavailable","key":"journals/isca/AbdunabiB14","url":"https://dblp.org/rec/journals/isca/AbdunabiB14"},
+"url":"URL#2863218"
+},
+{
+"@score":"2",
+"@id":"2907067",
+"info":{"authors":{"author":[{"@pid":"71/6768","text":"Natalia Ponomareva"},{"@pid":"77/2207","text":"Anisoara Calinescu"}]},"title":"Revisiting Agent-Based Models of Algorithmic Trading Strategies.","venue":"Trans. Comput. Collect. Intell.","volume":"16","pages":"92-121","year":"2014","type":"Journal Articles","access":"closed","key":"journals/tcci/PonomarevaC14","doi":"10.1007/978-3-662-44871-7_4","ee":"https://doi.org/10.1007/978-3-662-44871-7_4","url":"https://dblp.org/rec/journals/tcci/PonomarevaC14"},
+"url":"URL#2907067"
+},
+{
+"@score":"2",
+"@id":"2945423",
+"info":{"authors":{"author":[{"@pid":"36/7729","text":"Sven Koschnicke"},{"@pid":"56/11330","text":"Vasco Grossmann"},{"@pid":"90/5405-1","text":"Christoph Starke 0001"},{"@pid":"14/676","text":"Manfred Schimmler"}]},"title":"Quality and consistency assurance of quote data for algorithmic trading strategies.","venue":"CIFEr","pages":"255-261","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/KoschnickeGSS14","doi":"10.1109/CIFER.2014.6924081","ee":"https://doi.org/10.1109/CIFEr.2014.6924081","url":"https://dblp.org/rec/conf/cifer/KoschnickeGSS14"},
+"url":"URL#2945423"
+},
+{
+"@score":"2",
+"@id":"2945448",
+"info":{"authors":{"author":[{"@pid":"14/4412","text":"Yun Shen"},{"@pid":"42/4811","text":"Ruihong Huang"},{"@pid":"153/5131","text":"Chang Yan"},{"@pid":"o/KlausObermayer","text":"Klaus Obermayer"}]},"title":"Risk-averse reinforcement learning for algorithmic trading.","venue":"CIFEr","pages":"391-398","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/ShenHYO14","doi":"10.1109/CIFER.2014.6924100","ee":"https://doi.org/10.1109/CIFEr.2014.6924100","url":"https://dblp.org/rec/conf/cifer/ShenHYO14"},
+"url":"URL#2945448"
+},
+{
+"@score":"2",
+"@id":"3013182",
+"info":{"authors":{"author":[{"@pid":"150/4091","text":"Steve Y. Yang"},{"@pid":"32/7790","text":"Qifeng Qiao"},{"@pid":"56/1715","text":"Peter A. Beling"},{"@pid":"48/1398","text":"William T. Scherer"}]},"title":"Algorithmic trading behavior identification using reward learning method.","venue":"IJCNN","pages":"3807-3414","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/YangQBS14","doi":"10.1109/IJCNN.2014.6889878","ee":"https://doi.org/10.1109/IJCNN.2014.6889878","url":"https://dblp.org/rec/conf/ijcnn/YangQBS14"},
+"url":"URL#3013182"
+},
+{
+"@score":"2",
+"@id":"3045474",
+"info":{"authors":{"author":[{"@pid":"141/6387","text":"Marcus Bendtsen"},{"@pid":"43/3828","text":"José M. Peña 0001"}]},"title":"Learning Gated Bayesian Networks for Algorithmic Trading.","venue":"Probabilistic Graphical Models","pages":"49-64","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/pgm/BendtsenP14","doi":"10.1007/978-3-319-11433-0_4","ee":"https://doi.org/10.1007/978-3-319-11433-0_4","url":"https://dblp.org/rec/conf/pgm/BendtsenP14"},
+"url":"URL#3045474"
+},
+{
+"@score":"2",
+"@id":"3107623",
+"info":{"authors":{"author":[{"@pid":"74/2925","text":"David H. Bailey"},{"@pid":"128/7239","text":"Marcos López de Prado"},{"@pid":"128/7245","text":"Eva del Pozo"}]},"title":"The strategy approval decision: A Sharpe ratio indifference curve approach.","venue":"Algorithmic Finance","volume":"2","number":"1","pages":"99-109","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/BaileyPP13","doi":"10.3233/AF-13018","ee":"https://doi.org/10.3233/AF-13018","url":"https://dblp.org/rec/journals/af/BaileyPP13"},
+"url":"URL#3107623"
+},
+{
+"@score":"2",
+"@id":"3107624",
+"info":{"authors":{"author":[{"@pid":"139/8348","text":"David Bicchetti"},{"@pid":"139/8332","text":"Nicolas Maystre"}]},"title":"The synchronized and long-lasting structural change on commodity markets: Evidence from high frequency data.","venue":"Algorithmic Finance","volume":"2","number":"3-4","pages":"233-239","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/BicchettiM13","doi":"10.3233/AF-13028","ee":"https://doi.org/10.3233/AF-13028","url":"https://dblp.org/rec/journals/af/BicchettiM13"},
+"url":"URL#3107624"
+},
+{
+"@score":"2",
+"@id":"3107625",
+"info":{"authors":{"author":[{"@pid":"117/9425","text":"Norbert Fogarasi"},{"@pid":"20/2114","text":"János Levendovszky"}]},"title":"Sparse, mean reverting portfolio selection using simulated annealing.","venue":"Algorithmic Finance","volume":"2","number":"3-4","pages":"197-211","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/FogarasiL13","doi":"10.3233/AF-13026","ee":"https://doi.org/10.3233/AF-13026","url":"https://dblp.org/rec/journals/af/FogarasiL13"},
+"url":"URL#3107625"
+},
+{
+"@score":"2",
+"@id":"3107630",
+"info":{"authors":{"author":{"@pid":"133/6031","text":"Slava Mazur"}},"title":"Modeling market impact and timing risk in volume time.","venue":"Algorithmic Finance","volume":"2","number":"2","pages":"113-126","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/Mazur13","doi":"10.3233/AF-13020","ee":"https://doi.org/10.3233/AF-13020","url":"https://dblp.org/rec/journals/af/Mazur13"},
+"url":"URL#3107630"
+},
+{
+"@score":"2",
+"@id":"3107632",
+"info":{"authors":{"author":[{"@pid":"133/6001","text":"I. Róbert Sipos"},{"@pid":"20/2114","text":"János Levendovszky"}]},"title":"Optimizing sparse mean reverting portfolios.","venue":"Algorithmic Finance","volume":"2","number":"2","pages":"127-139","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/SiposL13","doi":"10.3233/AF-13021","ee":"https://doi.org/10.3233/AF-13021","url":"https://dblp.org/rec/journals/af/SiposL13"},
+"url":"URL#3107632"
+},
+{
+"@score":"2",
+"@id":"3107633",
+"info":{"authors":{"author":{"@pid":"133/6009","text":"Oren J. Tapiero"}},"title":"The relationship between risk and incomplete states uncertainty: a tsallis entropy perspective.","venue":"Algorithmic Finance","volume":"2","number":"2","pages":"141-150","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/Tapiero13","doi":"10.3233/AF-13022","ee":"https://doi.org/10.3233/AF-13022","url":"https://dblp.org/rec/journals/af/Tapiero13"},
+"url":"URL#3107633"
+},
+{
+"@score":"2",
+"@id":"3107635",
+"info":{"authors":{"author":[{"@pid":"30/4395","text":"Kesheng Wu"},{"@pid":"b/EWesBethel","text":"E. Wes Bethel"},{"@pid":"76/2502","text":"Ming Gu"},{"@pid":"08/5578","text":"David Leinweber"},{"@pid":"82/5640","text":"Oliver Rübel"}]},"title":"A big data approach to analyzing market volatility.","venue":"Algorithmic Finance","volume":"2","number":"3-4","pages":"241-267","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/WuBGLR13","doi":"10.3233/AF-13030","ee":"https://doi.org/10.3233/AF-13030","url":"https://dblp.org/rec/journals/af/WuBGLR13"},
+"url":"URL#3107635"
+},
+{
+"@score":"2",
+"@id":"3107636",
+"info":{"title":"A Minute with Andrei Kirilenko.","venue":"Algorithmic Finance","volume":"2","number":"1","pages":"1-2","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/X13","doi":"10.3233/AF-13019","ee":"https://doi.org/10.3233/AF-13019","url":"https://dblp.org/rec/journals/af/X13"},
+"url":"URL#3107636"
+},
+{
+"@score":"2",
+"@id":"3107637",
+"info":{"title":"A Minute with Giovanni Barone-Adesi.","venue":"Algorithmic Finance","volume":"2","number":"2","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/X13a","doi":"10.3233/AF-13024","ee":"https://doi.org/10.3233/AF-13024","url":"https://dblp.org/rec/journals/af/X13a"},
+"url":"URL#3107637"
+},
+{
+"@score":"2",
+"@id":"3107638",
+"info":{"title":"A minute with Marcos Lopez de Prado.","venue":"Algorithmic Finance","volume":"2","number":"3-4","pages":"167-168","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/X13b","doi":"10.3233/AF-13029","ee":"https://doi.org/10.3233/AF-13029","url":"https://dblp.org/rec/journals/af/X13b"},
+"url":"URL#3107638"
+},
+{
+"@score":"2",
+"@id":"3115062",
+"info":{"authors":{"author":[{"@pid":"99/6218","text":"Philip C. Treleaven"},{"@pid":"137/4545","text":"Michal Galas"},{"@pid":"137/4549","text":"Vidhi Lalchand"}]},"title":"Algorithmic trading review.","venue":"Commun. ACM","volume":"56","number":"11","pages":"76-85","year":"2013","type":"Journal Articles","access":"closed","key":"journals/cacm/TreleavenGL13","doi":"10.1145/2500117","ee":"https://doi.org/10.1145/2500117","url":"https://dblp.org/rec/journals/cacm/TreleavenGL13"},
+"url":"URL#3115062"
+},
+{
+"@score":"2",
+"@id":"3136906",
+"info":{"authors":{"author":[{"@pid":"89/8483","text":"Ildefons Magrans de Abril"},{"@pid":"35/1228","text":"Masashi Sugiyama"}]},"title":"Winning the Kaggle Algorithmic Trading Challenge with the Composition of Many Models and Feature Engineering.","venue":"IEICE Trans. Inf. Syst.","volume":"96-D","number":"3","pages":"742-745","year":"2013","type":"Journal Articles","access":"closed","key":"journals/ieicet/AbrilS13","doi":"10.1587/TRANSINF.E96.D.742","ee":"https://doi.org/10.1587/transinf.E96.D.742","url":"https://dblp.org/rec/journals/ieicet/AbrilS13"},
+"url":"URL#3136906"
+},
+{
+"@score":"2",
+"@id":"3220539",
+"info":{"authors":{"author":[{"@pid":"156/8734","text":"Chaoteng Jordan Chen"},{"@pid":"93/513","text":"Xiaotao Liu"},{"@pid":"l/KinKeungLai","text":"Kin Keung Lai"}]},"title":"Comparisons of Strategies on Gold Algorithmic Trading.","venue":"BIFE","pages":"286-290","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/bife/ChenLL13","doi":"10.1109/BIFE.2013.61","ee":"https://doi.org/10.1109/BIFE.2013.61","url":"https://dblp.org/rec/conf/bife/ChenLL13"},
+"url":"URL#3220539"
+},
+{
+"@score":"2",
+"@id":"3272087",
+"info":{"authors":{"author":{"@pid":"130/5780","text":"Marc Henrard"}},"title":"Calibration in Finance: Very Fast Greeks Through Algorithmic Differentiation and Implicit Function.","venue":"ICCS","pages":"1145-1154","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccS/Henrard13","doi":"10.1016/J.PROCS.2013.05.280","ee":"https://doi.org/10.1016/j.procs.2013.05.280","url":"https://dblp.org/rec/conf/iccS/Henrard13"},
+"url":"URL#3272087"
+},
+{
+"@score":"2",
+"@id":"3382421",
+"info":{"authors":{"author":{"@pid":"64/984","text":"Chaiyakorn Yingsaeree"}},"title":"Algorithmic trading : model of execution probability and order placement strategy.","year":"2012","type":"Books and Theses","access":"closed","key":"phd/ethos/Yingsaeree12","ee":"http://discovery.ucl.ac.uk/1359852/","url":"https://dblp.org/rec/phd/ethos/Yingsaeree12"},
+"url":"URL#3382421"
+},
+{
+"@score":"2",
+"@id":"3400129",
+"info":{"authors":{"author":[{"@pid":"31/9999","text":"Janko Hernández"},{"@pid":"82/3724","text":"David Saunders"},{"@pid":"95/9406","text":"Luis A. Seco"}]},"title":"Algorithmic estimation of risk factors in financial markets with stochastic drift.","venue":"Comput. Oper. Res.","volume":"39","number":"4","pages":"820-828","year":"2012","type":"Journal Articles","access":"closed","key":"journals/cor/HernandezSS12","doi":"10.1016/J.COR.2010.09.007","ee":"https://doi.org/10.1016/j.cor.2010.09.007","url":"https://dblp.org/rec/journals/cor/HernandezSS12"},
+"url":"URL#3400129"
+},
+{
+"@score":"2",
+"@id":"3441802",
+"info":{"authors":{"author":[{"@pid":"118/6591","text":"Alireza Ahrabian"},{"@pid":"98/679","text":"Clive Cheong Took"},{"@pid":"41/6002","text":"Danilo P. Mandic"}]},"title":"Algorithmic Trading Using Phase Synchronization.","venue":"IEEE J. Sel. Top. Signal Process.","volume":"6","number":"4","pages":"399-403","year":"2012","type":"Journal Articles","access":"closed","key":"journals/jstsp/AhrabianTM12","doi":"10.1109/JSTSP.2011.2173900","ee":"https://doi.org/10.1109/JSTSP.2011.2173900","url":"https://dblp.org/rec/journals/jstsp/AhrabianTM12"},
+"url":"URL#3441802"
+},
+{
+"@score":"2",
+"@id":"3529610",
+"info":{"authors":{"author":[{"@pid":"94/3406","text":"David Bell"},{"@pid":"12/11057","text":"Laide Gana"}]},"title":"Algorithmic Trading Systems: A Multifaceted View of Adoption.","venue":"HICSS","pages":"3090-3099","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/hicss/BellG12","doi":"10.1109/HICSS.2012.93","ee":"https://doi.org/10.1109/HICSS.2012.93","url":"https://dblp.org/rec/conf/hicss/BellG12"},
+"url":"URL#3529610"
+},
+{
+"@score":"2",
+"@id":"3541804",
+"info":{"authors":{"author":[{"@pid":"71/6768","text":"Natalia Ponomareva"},{"@pid":"77/2207","text":"Anisoara Calinescu"}]},"title":"Extending and Evaluating Agent-Based Models of Algorithmic Trading Strategies.","venue":"ICECCS","pages":"351-360","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/iceccs/PonomarevaC12","doi":"10.1109/ICECCS.2012.18","ee":"http://doi.ieeecomputersociety.org/10.1109/ICECCS.2012.18","url":"https://dblp.org/rec/conf/iceccs/PonomarevaC12"},
+"url":"URL#3541804"
+},
+{
+"@score":"2",
+"@id":"3593359",
+"info":{"authors":{"author":[{"@pid":"04/6397","text":"Adam Ghandar"},{"@pid":"m/ZMichalewicz","text":"Zbigniew Michalewicz"},{"@pid":"60/2772","text":"Ralf Zurbruegg"}]},"title":"Enhancing Profitability through Interpretability in Algorithmic Trading with a Multiobjective Evolutionary Fuzzy System.","venue":"PPSN","pages":"42-51","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/ppsn/GhandarMZ12","doi":"10.1007/978-3-642-32964-7_5","ee":"https://doi.org/10.1007/978-3-642-32964-7_5","url":"https://dblp.org/rec/conf/ppsn/GhandarMZ12"},
+"url":"URL#3593359"
+},
+{
+"@score":"2",
+"@id":"3607379",
+"info":{"authors":{"author":[{"@pid":"145/3456","text":"Yiyong Feng"},{"@pid":"27/3175-1","text":"Francisco Rubio 0001"},{"@pid":"03/1645","text":"Daniel Pérez Palomar"}]},"title":"Optimal order execution for algorithmic trading: A CVaR approach.","venue":"SPAWC","pages":"480-484","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/spawc/FengRP12","doi":"10.1109/SPAWC.2012.6292954","ee":"https://doi.org/10.1109/SPAWC.2012.6292954","url":"https://dblp.org/rec/conf/spawc/FengRP12"},
+"url":"URL#3607379"
+},
+{
+"@score":"2",
+"@id":"3624109",
+"info":{"authors":{"author":[{"@pid":"23/2997","text":"Alexandros Agapitos"},{"@pid":"134/2796-2","text":"Abhinav Goyal 0002"},{"@pid":"134/2846","text":"Cal Muckley"}]},"title":"An Evolutionary Algorithmic Investigation of US Corporate Payout Policy Determination.","venue":"Natural Computing in Computational Finance","pages":"123-139","year":"2012","type":"Parts in Books or Collections","access":"closed","key":"series/sci/AgapitosGM12","doi":"10.1007/978-3-642-23336-4_7","ee":"https://doi.org/10.1007/978-3-642-23336-4_7","url":"https://dblp.org/rec/series/sci/AgapitosGM12"},
+"url":"URL#3624109"
+},
+{
+"@score":"2",
+"@id":"3646250",
+"info":{"authors":{"author":[{"@pid":"22/9644","text":"Marco Avellaneda"},{"@pid":"08/10326","text":"Josh Reed"},{"@pid":"45/8669","text":"Sasha Stoikov"}]},"title":"Forecasting prices from level-I quotes in the presence of hidden liquidity.","venue":"Algorithmic Finance","volume":"1","number":"1","pages":"35-43","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/AvellanedaRS11","doi":"10.3233/AF-2011-004","ee":"https://doi.org/10.3233/AF-2011-004","url":"https://dblp.org/rec/journals/af/AvellanedaRS11"},
+"url":"URL#3646250"
+},
+{
+"@score":"2",
+"@id":"3646252",
+"info":{"authors":{"author":{"@pid":"17/6189","text":"Todd J. Feldman"}},"title":"Behavioral biases and investor performance.","venue":"Algorithmic Finance","volume":"1","number":"1","pages":"45-55","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/Feldman11","doi":"10.3233/AF-2011-005","ee":"https://doi.org/10.3233/AF-2011-005","url":"https://dblp.org/rec/journals/af/Feldman11"},
+"url":"URL#3646252"
+},
+{
+"@score":"2",
+"@id":"3646254",
+"info":{"authors":{"author":{"@pid":"60/10020","text":"Evangelos Georgiadis"}},"title":"Binomial options pricing has no closed-form solution.","venue":"Algorithmic Finance","volume":"1","number":"1","pages":"13-16","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/Georgiadis11","doi":"10.3233/AF-2011-003","ee":"https://doi.org/10.3233/AF-2011-003","url":"https://dblp.org/rec/journals/af/Georgiadis11"},
+"url":"URL#3646254"
+},
+{
+"@score":"2",
+"@id":"3646257",
+"info":{"authors":{"author":[{"@pid":"171/2162","text":"Mark S. Joshi"},{"@pid":"00/5867","text":"Chao Yang"}]},"title":"Efficient greek estimation in generic swap-rate market models.","venue":"Algorithmic Finance","volume":"1","number":"1","pages":"17-33","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/JoshiY11","doi":"10.3233/AF-2011-002","ee":"https://doi.org/10.3233/AF-2011-002","url":"https://dblp.org/rec/journals/af/JoshiY11"},
+"url":"URL#3646257"
+},
+{
+"@score":"2",
+"@id":"3646258",
+"info":{"authors":{"author":{"@pid":"05/7865","text":"Philip Maymin"}},"title":"Markets are efficient if and only if P = NP.","venue":"Algorithmic Finance","volume":"1","number":"1","pages":"1-11","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/Maymin11","doi":"10.3233/AF-2011-007","ee":"https://doi.org/10.3233/AF-2011-007","url":"https://dblp.org/rec/journals/af/Maymin11"},
+"url":"URL#3646258"
+},
+{
+"@score":"2",
+"@id":"3646262",
+"info":{"title":"A Minute with Emanuel Derman.","venue":"Algorithmic Finance","volume":"1","number":"1","pages":"77","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/X11","doi":"10.3233/AF-2011-001","ee":"https://doi.org/10.3233/AF-2011-001","url":"https://dblp.org/rec/journals/af/X11"},
+"url":"URL#3646262"
+},
+{
+"@score":"2",
+"@id":"3646263",
+"info":{"title":"A Minute with David Leinweber.","venue":"Algorithmic Finance","volume":"1","number":"2","pages":"191-192","year":"2011","type":"Journal Articles","access":"closed","key":"journals/af/X11a","doi":"10.3233/AF-2011-014","ee":"https://doi.org/10.3233/AF-2011-014","url":"https://dblp.org/rec/journals/af/X11a"},
+"url":"URL#3646263"
+},
+{
+"@score":"2",
+"@id":"3660463",
+"info":{"authors":{"author":[{"@pid":"96/9006","text":"Giuseppe Nuti"},{"@pid":"99/10469","text":"Mahnoosh Mirghaemi"},{"@pid":"99/6218","text":"Philip C. Treleaven"},{"@pid":"64/984","text":"Chaiyakorn Yingsaeree"}]},"title":"Algorithmic Trading.","venue":"Computer","volume":"44","number":"11","pages":"61-69","year":"2011","type":"Journal Articles","access":"closed","key":"journals/computer/NutiMTY11","doi":"10.1109/MC.2011.31","ee":"https://doi.org/10.1109/MC.2011.31","url":"https://dblp.org/rec/journals/computer/NutiMTY11"},
+"url":"URL#3660463"
+},
+{
+"@score":"2",
+"@id":"3767732",
+"info":{"authors":{"author":{"@pid":"66/3984","text":"Deepak Kumar"}},"title":"Numerical Methods For Optimal Control Based Schemes For Volatility Calibration And Algorithmic Tradings.","venue":"ECMS","pages":"289-295","year":"2011","type":"Conference and Workshop Papers","access":"open","key":"conf/ecms/Kumar11","doi":"10.7148/2011-0289-0295","ee":"https://doi.org/10.7148/2011-0289-0295","url":"https://dblp.org/rec/conf/ecms/Kumar11"},
+"url":"URL#3767732"
+},
+{
+"@score":"2",
+"@id":"3956743",
+"info":{"authors":{"author":[{"@pid":"56/7016","text":"Mohammad Sadoghi"},{"@pid":"j/HansArnoJacobsen","text":"Hans-Arno Jacobsen"},{"@pid":"94/4954","text":"Martin Labrecque"},{"@pid":"12/7113","text":"Warren Shum"},{"@pid":"34/8510","text":"Harsh Singh"}]},"title":"Efficient Event Processing through Reconfigurable Hardware for Algorithmic Trading.","venue":"Proc. VLDB Endow.","volume":"3","number":"2","pages":"1525-1528","year":"2010","type":"Journal Articles","access":"open","key":"journals/pvldb/SadoghiJLSS10","doi":"10.14778/1920841.1921029","ee":"http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/D03.pdf","url":"https://dblp.org/rec/journals/pvldb/SadoghiJLSS10"},
+"url":"URL#3956743"
+},
+{
+"@score":"2",
+"@id":"3986300",
+"info":{"authors":{"author":[{"@pid":"56/8571","text":"Stephen Wray"},{"@pid":"l/WayneLuk","text":"Wayne Luk"},{"@pid":"45/4887","text":"Peter R. Pietzuch"}]},"title":"Exploring algorithmic trading in reconfigurable hardware.","venue":"ASAP","pages":"325-328","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/asap/WrayLP10","doi":"10.1109/ASAP.2010.5540966","ee":"https://doi.org/10.1109/ASAP.2010.5540966","url":"https://dblp.org/rec/conf/asap/WrayLP10"},
+"url":"URL#3986300"
+},
+{
+"@score":"2",
+"@id":"4014343",
+"info":{"authors":{"author":[{"@pid":"56/8571","text":"Stephen Wray"},{"@pid":"l/WayneLuk","text":"Wayne Luk"},{"@pid":"45/4887","text":"Peter R. Pietzuch"}]},"title":"Run-Time Reconfiguration for a Reconfigurable Algorithmic Trading Engine.","venue":"FPL","pages":"163-166","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/fpl/WrayLP10","doi":"10.1109/FPL.2010.39","ee":"https://doi.org/10.1109/FPL.2010.39","url":"https://dblp.org/rec/conf/fpl/WrayLP10"},
+"url":"URL#4014343"
+},
+{
+"@score":"2",
+"@id":"4048094",
+"info":{"authors":{"author":[{"@pid":"50/10136","text":"Chia-Han Chou"},{"@pid":"63/6963","text":"Allen Y. Chang"}]},"title":"Visual Development Platform for White-Box Algorithmic Trading.","venue":"IIH-MSP","pages":"712-715","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/iih-msp/ChouC10","doi":"10.1109/IIHMSP.2010.180","ee":"https://doi.org/10.1109/IIHMSP.2010.180","url":"https://dblp.org/rec/conf/iih-msp/ChouC10"},
+"url":"URL#4048094"
+},
+{
+"@score":"2",
+"@id":"4048673",
+"info":{"authors":{"author":{"@pid":"70/9489","text":"Adnan Rashid"}},"title":"Using a service oriented architecture for simulating algorithmic trading strategies.","venue":"iiWAS","pages":"925-929","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/iiwas/Rashid10","doi":"10.1145/1967486.1967650","ee":"https://doi.org/10.1145/1967486.1967650","url":"https://dblp.org/rec/conf/iiwas/Rashid10"},
+"url":"URL#4048673"
+},
+{
+"@score":"2",
+"@id":"4057540",
+"info":{"authors":{"author":[{"@pid":"90/4225","text":"Feng Wang"},{"@pid":"24/7136","text":"Keren Dong"},{"@pid":"d/XiaotieDeng","text":"Xiaotie Deng"}]},"title":"Algorithmic Trading Strategy Optimization Based on Mutual Information Entropy Based Clustering.","venue":"ISICA","pages":"252-260","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/isica/WangDD10","doi":"10.1007/978-3-642-16493-4_26","ee":"https://doi.org/10.1007/978-3-642-16493-4_26","url":"https://dblp.org/rec/conf/isica/WangDD10"},
+"url":"URL#4057540"
+},
+{
+"@score":"2",
+"@id":"4069741",
+"info":{"authors":{"author":[{"@pid":"35/9189","text":"Andreas Storkenmaier"},{"@pid":"177/4399","text":"Marius B. Müller"},{"@pid":"24/2155","text":"Christof Weinhardt"}]},"title":"A Software Framework for a News Event Driven Simulation of Algorithmic Trading Strategies.","venue":"MKWI","pages":"1871-1882","year":"2010","type":"Conference and Workshop Papers","access":"open","key":"conf/mkwi/StorkenmaierMW10","ee":"http://webdoc.sub.gwdg.de/univerlag/2010/mkwi/03_anwendungen/informationssysteme_in_der_finanzwirtschaft/03_a_software_framework_for_a_news_event_driven_simulation.pdf","url":"https://dblp.org/rec/conf/mkwi/StorkenmaierMW10"},
+"url":"URL#4069741"
+},
+{
+"@score":"2",
+"@id":"4113207",
+"info":{"authors":{"author":[{"@pid":"z/HectorZenilChavez","text":"Hector Zenil"},{"@pid":"90/2870","text":"Jean-Paul Delahaye"}]},"title":"An algorithmic information-theoretic approach to the behaviour of financial markets","venue":"CoRR","volume":"abs/1008.1846","year":"2010","type":"Informal Publications","access":"open","key":"journals/corr/abs-1008-1846","ee":"http://arxiv.org/abs/1008.1846","url":"https://dblp.org/rec/journals/corr/abs-1008-1846"},
+"url":"URL#4113207"
+},
+{
+"@score":"2",
+"@id":"4144892",
+"info":{"authors":{"author":[{"@pid":"90/4225","text":"Feng Wang"},{"@pid":"24/7136","text":"Keren Dong"},{"@pid":"d/XiaotieDeng","text":"Xiaotie Deng"}]},"title":"Algorithmic trading system: design and applications.","venue":"Frontiers Comput. Sci. China","volume":"3","number":"2","pages":"235-246","year":"2009","type":"Journal Articles","access":"closed","key":"journals/fcsc/WangDD09","doi":"10.1007/S11704-009-0030-6","ee":"https://doi.org/10.1007/s11704-009-0030-6","url":"https://dblp.org/rec/journals/fcsc/WangDD09"},
+"url":"URL#4144892"
+},
+{
+"@score":"2",
+"@id":"4231628",
+"info":{"authors":{"author":[{"@pid":"48/111","text":"Markus Gsell"},{"@pid":"00/1341","text":"Peter Gomber"}]},"title":"Algorithmic trading engines versus human traders - Do they behave different in securities markets?","venue":"ECIS","pages":"98-109","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/ecis/GsellG09","ee":"http://aisel.aisnet.org/ecis2009/71","url":"https://dblp.org/rec/conf/ecis/GsellG09"},
+"url":"URL#4231628"
+},
+{
+"@score":"2",
+"@id":"4248952",
+"info":{"authors":{"author":{"@pid":"13/7219","text":"Sven S. Groth"}},"title":"Algorithmic Trading Engines and Liquidity Contribution: The Blurring of &quot;Traditional&quot; Definitions.","venue":"I3E","pages":"210-224","year":"2009","type":"Conference and Workshop Papers","access":"open","key":"conf/i3e/Groth09","doi":"10.1007/978-3-642-04280-5_18","ee":"https://doi.org/10.1007/978-3-642-04280-5_18","url":"https://dblp.org/rec/conf/i3e/Groth09"},
+"url":"URL#4248952"
+},
+{
+"@score":"2",
+"@id":"4340039",
+"info":{"authors":{"author":{"@pid":"47/131","text":"Irem Aktug"}},"title":"Algorithmic Verification Techniques for Mobile Code.","year":"2008","type":"Books and Theses","access":"closed","key":"phd/basesearch/Aktug08","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-4897","url":"https://dblp.org/rec/phd/basesearch/Aktug08"},
+"url":"URL#4340039"
+},
+{
+"@score":"2",
+"@id":"4445243",
+"info":{"authors":{"author":{"@pid":"48/111","text":"Markus Gsell"}},"title":"Assessing the Impact of Algorithmic Trading on Markets: A Simulation Approach.","venue":"ECIS","pages":"587-598","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/ecis/Gsell08","ee":"http://aisel.aisnet.org/ecis2008/225","url":"https://dblp.org/rec/conf/ecis/Gsell08"},
+"url":"URL#4445243"
+},
+{
+"@score":"2",
+"@id":"4459226",
+"info":{"authors":{"author":[{"@pid":"56/1279","text":"Rui Pedro Barbosa"},{"@pid":"65/4092","text":"Orlando Belo"}]},"title":"Algorithmic Trading Using Intelligent Agents.","venue":"IC-AI","pages":"136-142","year":"2008","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/icai/BarbosaB08","url":"https://dblp.org/rec/conf/icai/BarbosaB08"},
+"url":"URL#4459226"
+},
+{
+"@score":"2",
+"@id":"4511571",
+"info":{"authors":{"author":[{"@pid":"89/449","text":"Giovanni Montana"},{"@pid":"09/4525","text":"Kostas Triantafyllopoulos"},{"@pid":"90/3815","text":"Theodoros Tsagaris"}]},"title":"Data stream mining for market-neutral algorithmic trading.","venue":"SAC","pages":"966-970","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/sac/MontanaTT08","doi":"10.1145/1363686.1363910","ee":"https://doi.org/10.1145/1363686.1363910","url":"https://dblp.org/rec/conf/sac/MontanaTT08"},
+"url":"URL#4511571"
+},
+{
+"@score":"2",
+"@id":"4601043",
+"info":{"authors":{"author":[{"@pid":"53/5575","text":"Randeep Bhatia"},{"@pid":"99/3386","text":"Julia Chuzhoy"},{"@pid":"f/AriFreund","text":"Ari Freund 0001"},{"@pid":"n/JosephNaor","text":"Joseph Naor"}]},"title":"Algorithmic aspects of bandwidth trading.","venue":"ACM Trans. Algorithms","volume":"3","number":"1","pages":"10:1-10:19","year":"2007","type":"Journal Articles","access":"closed","key":"journals/talg/BhatiaCFN07","doi":"10.1145/1219944.1219956","ee":"https://doi.org/10.1145/1219944.1219956","url":"https://dblp.org/rec/journals/talg/BhatiaCFN07"},
+"url":"URL#4601043"
+},
+{
+"@score":"2",
+"@id":"4778263",
+"info":{"authors":{"author":[{"@pid":"67/373","text":"Vladimir V. V&apos;yugin"},{"@pid":"11/647","text":"Victor P. Maslov"}]},"title":"Distribution of investments in the stock market, information types, and algorithmic complexity.","venue":"Probl. Inf. Transm.","volume":"42","number":"3","pages":"251-261","year":"2006","type":"Journal Articles","access":"closed","key":"journals/poit/VyuginM06","doi":"10.1134/S0032946006030082","ee":"https://doi.org/10.1134/S0032946006030082","url":"https://dblp.org/rec/journals/poit/VyuginM06"},
+"url":"URL#4778263"
+},
+{
+"@score":"2",
+"@id":"5266808",
+"info":{"authors":{"author":[{"@pid":"53/5575","text":"Randeep Bhatia"},{"@pid":"99/3386","text":"Julia Chuzhoy"},{"@pid":"f/AriFreund","text":"Ari Freund 0001"},{"@pid":"n/JosephNaor","text":"Joseph Naor"}]},"title":"Algorithmic Aspects of Bandwidth Trading.","venue":"ICALP","pages":"751-766","year":"2003","type":"Conference and Workshop Papers","access":"closed","key":"conf/icalp/BhatiaCFN03","doi":"10.1007/3-540-45061-0_59","ee":"https://doi.org/10.1007/3-540-45061-0_59","url":"https://dblp.org/rec/conf/icalp/BhatiaCFN03"},
+"url":"URL#5266808"
+},
+{
+"@score":"2",
+"@id":"5409561",
+"info":{"authors":{"author":[{"@pid":"04/1896","text":"Ran El-Yaniv"},{"@pid":"06/894","text":"Amos Fiat"},{"@pid":"k/RichardMKarp","text":"Richard M. Karp"},{"@pid":"72/2543","text":"G. Turpin"}]},"title":"Optimal Search and One-Way Trading Online Algorithms.","venue":"Algorithmica","volume":"30","number":"1","pages":"101-139","year":"2001","type":"Journal Articles","access":"closed","key":"journals/algorithmica/El-YanivFKT01","doi":"10.1007/S00453-001-0003-0","ee":"https://doi.org/10.1007/s00453-001-0003-0","url":"https://dblp.org/rec/journals/algorithmica/El-YanivFKT01"},
+"url":"URL#5409561"
+},
+{
+"@score":"2",
+"@id":"5574559",
+"info":{"authors":{"author":{"@pid":"54/6685","text":"Sabah al-Binali"}},"title":"A Risk-Reward Framework for the Competitive Analysis of Financial Games.","venue":"Algorithmica","volume":"25","number":"1","pages":"99-115","year":"1999","type":"Journal Articles","access":"closed","key":"journals/algorithmica/al-Binali99","doi":"10.1007/PL00009285","ee":"https://doi.org/10.1007/PL00009285","url":"https://dblp.org/rec/journals/algorithmica/al-Binali99"},
+"url":"URL#5574559"
+},
+{
+"@score":"2",
+"@id":"5764806",
+"info":{"authors":{"author":[{"@pid":"12/396","text":"David M. Choy"},{"@pid":"f/RonaldFagin","text":"Ronald Fagin"},{"@pid":"40/805","text":"Larry J. Stockmeyer"}]},"title":"Efficiently Extendible Mappings for Balanced Data Distribution.","venue":"Algorithmica","volume":"16","number":"2","pages":"215-232","year":"1996","type":"Journal Articles","access":"closed","key":"journals/algorithmica/ChoyFS96","doi":"10.1007/BF01940647","ee":"https://doi.org/10.1007/BF01940647","url":"https://dblp.org/rec/journals/algorithmica/ChoyFS96"},
+"url":"URL#5764806"
+},
+{
+"@score":"2",
+"@id":"5946404",
+"info":{"authors":{"author":[{"@pid":"59/527","text":"Ting-Chi Wang"},{"@pid":"w/MartinDFWong","text":"D. F. Wong 0001"}]},"title":"A note on the Complexity of Stockmeyer&apos;s floorplan Optimization Technique.","venue":"Algorithmic Aspects of VLSI Layout","pages":"309-320","year":"1993","type":"Parts in Books or Collections","access":"closed","key":"books/ws/93/WangW93","doi":"10.1142/9789812794468_0010","ee":"https://doi.org/10.1142/9789812794468_0010","url":"https://dblp.org/rec/books/ws/93/WangW93"},
+"url":"URL#5946404"
+}
+]
+}
+}
+}

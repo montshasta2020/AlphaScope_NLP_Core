@@ -1,0 +1,883 @@
+{
+"result":{
+"query":"hybrid* model* trading*|stock*|finance*|financial*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"22.96"
+},
+"completions":{
+"@total":"4",
+"@computed":"4",
+"@sent":"4",
+"c":[
+{
+"@sc":"84",
+"@dc":"83",
+"@oc":"84",
+"@id":"47124640",
+"text":"stock"
+},
+{
+"@sc":"45",
+"@dc":"45",
+"@oc":"45",
+"@id":"46275674",
+"text":"financial"
+},
+{
+"@sc":"11",
+"@dc":"11",
+"@oc":"11",
+"@id":"47204991",
+"text":"trading"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47124644",
+"text":"stockage"
+}
+]
+},
+"hits":{
+"@total":"138",
+"@computed":"138",
+"@sent":"138",
+"@first":"0",
+"hit":[{
+"@score":"9",
+"@id":"1500385",
+"info":{"authors":{"author":{"@pid":"234/3268","text":"Cong-Danh Nguyen"}},"title":"Workload- and Data-based Automated Design for a Hybrid Row-Column Storage Model and Bloom Filter-Based Query Processing for Large-Scale DICOM Data Management. (Conception automatisée basée sur la charge de travail et les données pour un modèle de stockage hybride ligne-colonne et le traitement des requêtes à l&apos;aide de filtres de Bloom pour la gestion de données DICOM à grande échelle).","year":"2018","type":"Books and Theses","access":"open","key":"phd/hal/Nguyen18g","ee":"https://tel.archives-ouvertes.fr/tel-01961254","url":"https://dblp.org/rec/phd/hal/Nguyen18g"},
+"url":"URL#1500385"
+},
+{
+"@score":"7",
+"@id":"4162",
+"info":{"authors":{"author":[{"@pid":"274/2260","text":"Eunho Koo"},{"@pid":"225/1993","text":"Geonwoo Kim"}]},"title":"A Hybrid Prediction Model Integrating GARCH Models With a Distribution Manipulation Strategy Based on LSTM Networks for Stock Market Volatility.","venue":"IEEE Access","volume":"10","pages":"34743-34754","year":"2022","type":"Journal Articles","access":"open","key":"journals/access/KooK22","doi":"10.1109/ACCESS.2022.3163723","ee":"https://doi.org/10.1109/ACCESS.2022.3163723","url":"https://dblp.org/rec/journals/access/KooK22"},
+"url":"URL#4162"
+},
+{
+"@score":"7",
+"@id":"296042",
+"info":{"authors":{"author":[{"@pid":"174/3549","text":"Gourav Kumar"},{"@pid":"38/8148","text":"Uday Pratap Singh"},{"@pid":"24/2462","text":"Sanjeev Jain"}]},"title":"Hybrid evolutionary intelligent system and hybrid time series econometric model for stock price forecasting.","venue":"Int. J. Intell. Syst.","volume":"36","number":"9","pages":"4902-4935","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ijis/KumarSJ21","doi":"10.1002/INT.22495","ee":"https://doi.org/10.1002/int.22495","url":"https://dblp.org/rec/journals/ijis/KumarSJ21"},
+"url":"URL#296042"
+},
+{
+"@score":"7",
+"@id":"729318",
+"info":{"authors":{"author":[{"@pid":"92/4798","text":"Yemei Qin"},{"@pid":"280/7554","text":"Yangyu Zhong"},{"@pid":"55/112","text":"Zhen Lei"},{"@pid":"79/433-1","text":"Hui Peng 0001"},{"@pid":"21/6430-5","text":"Feng Zhou 0005"},{"@pid":"61/6118","text":"Ping Tan"}]},"title":"A Hybrid Parameter Estimation for Multi-asset Modeling and Dynamic Allocation Based on Financial Market Microstructure Model.","venue":"Int. J. Artif. Intell. Tools","volume":"29","number":"7-8","pages":"2040007:1-2040007:22","year":"2020","type":"Journal Articles","access":"closed","key":"journals/ijait/QinZLPZT20","doi":"10.1142/S0218213020400072","ee":"https://doi.org/10.1142/S0218213020400072","url":"https://dblp.org/rec/journals/ijait/QinZLPZT20"},
+"url":"URL#729318"
+},
+{
+"@score":"7",
+"@id":"807143",
+"info":{"authors":{"author":[{"@pid":"23/10769","text":"Shangkun Deng"},{"@pid":"248/3163","text":"Youtao Xiang"},{"@pid":"262/8039","text":"Boyang Nan"},{"@pid":"133/3471","text":"Hongyu Tian"},{"@pid":"43/8664","text":"Zhe Sun"}]},"title":"A hybrid model of dynamic time wrapping and hidden Markov model for forecasting and trading in crude oil market.","venue":"Soft Comput.","volume":"24","number":"9","pages":"6655-6672","year":"2020","type":"Journal Articles","access":"closed","key":"journals/soco/DengXNTS20","doi":"10.1007/S00500-019-04304-9","ee":"https://doi.org/10.1007/s00500-019-04304-9","url":"https://dblp.org/rec/journals/soco/DengXNTS20"},
+"url":"URL#807143"
+},
+{
+"@score":"7",
+"@id":"1540941",
+"info":{"authors":{"author":[{"@pid":"191/2588","text":"Ha Young Kim"},{"@pid":"218/7248","text":"Chang Hyun Won"}]},"title":"Forecasting the volatility of stock price index: A hybrid model integrating LSTM with multiple GARCH-type models.","venue":"Expert Syst. Appl.","volume":"103","pages":"25-37","year":"2018","type":"Journal Articles","access":"closed","key":"journals/eswa/KimW18","doi":"10.1016/J.ESWA.2018.03.002","ee":"https://doi.org/10.1016/j.eswa.2018.03.002","url":"https://dblp.org/rec/journals/eswa/KimW18"},
+"url":"URL#1540941"
+},
+{
+"@score":"7",
+"@id":"1927357",
+"info":{"authors":{"author":[{"@pid":"36/8491","text":"Kao-Yi Shen"},{"@pid":"135/9937","text":"Shu-Kung Hu"},{"@pid":"32/2902","text":"Gwo-Hshiung Tzeng"}]},"title":"Financial modeling and improvement planning for the life insurance industry by using a rough knowledge based hybrid MCDM model.","venue":"Inf. Sci.","volume":"375","pages":"296-313","year":"2017","type":"Journal Articles","access":"closed","key":"journals/isci/ShenHT17","doi":"10.1016/J.INS.2016.09.055","ee":"https://doi.org/10.1016/j.ins.2016.09.055","url":"https://dblp.org/rec/journals/isci/ShenHT17"},
+"url":"URL#1927357"
+},
+{
+"@score":"7",
+"@id":"4478563",
+"info":{"authors":{"author":[{"@pid":"02/5880","text":"Erkam Güresen"},{"@pid":"08/4195","text":"Gülgün Kayakutlu"}]},"title":"Forecasting Stock Exchange Movements Using Artificial Neural Network Models and Hybrid Models.","venue":"Intelligent Information Processing","pages":"129-137","year":"2008","type":"Conference and Workshop Papers","access":"open","key":"conf/ifip12/GuresenK08","doi":"10.1007/978-0-387-87685-6_17","ee":"https://doi.org/10.1007/978-0-387-87685-6_17","url":"https://dblp.org/rec/conf/ifip12/GuresenK08"},
+"url":"URL#4478563"
+},
+{
+"@score":"6",
+"@id":"373919",
+"info":{"authors":{"author":[{"@pid":"34/7250","text":"Yujun Yang"},{"@pid":"39/8488","text":"Yimei Yang"},{"@pid":"04/8556-1","text":"Wang Zhou 0001"}]},"title":"Research on a hybrid prediction model for stock price based on long short-term memory and variational mode decomposition.","venue":"Soft Comput.","volume":"25","number":"21","pages":"13513-13531","year":"2021","type":"Journal Articles","access":"closed","key":"journals/soco/YangYZ21","doi":"10.1007/S00500-021-06122-4","ee":"https://doi.org/10.1007/s00500-021-06122-4","url":"https://dblp.org/rec/journals/soco/YangYZ21"},
+"url":"URL#373919"
+},
+{
+"@score":"6",
+"@id":"686897",
+"info":{"authors":{"author":[{"@pid":"123/3440","text":"Hongli Niu"},{"@pid":"278/5111","text":"Kunliang Xu"},{"@pid":"57/3195","text":"Weiqing Wang"}]},"title":"A hybrid stock price index forecasting model based on variational mode decomposition and LSTM network.","venue":"Appl. Intell.","volume":"50","number":"12","pages":"4296-4309","year":"2020","type":"Journal Articles","access":"closed","key":"journals/apin/NiuXW20","doi":"10.1007/S10489-020-01814-0","ee":"https://doi.org/10.1007/s10489-020-01814-0","url":"https://dblp.org/rec/journals/apin/NiuXW20"},
+"url":"URL#686897"
+},
+{
+"@score":"6",
+"@id":"1515170",
+"info":{"authors":{"author":[{"@pid":"180/5290","text":"Siyu Lv"},{"@pid":"16/4485","text":"Zhen Wu"},{"@pid":"53/3580-3","text":"Qing Zhang 0003"}]},"title":"Optimal switching under a hybrid diffusion model and applications to stock trading.","venue":"Autom.","volume":"94","pages":"361-372","year":"2018","type":"Journal Articles","access":"closed","key":"journals/automatica/LvWZ18","doi":"10.1016/J.AUTOMATICA.2018.04.048","ee":"https://doi.org/10.1016/j.automatica.2018.04.048","url":"https://dblp.org/rec/journals/automatica/LvWZ18"},
+"url":"URL#1515170"
+},
+{
+"@score":"6",
+"@id":"1745863",
+"info":{"authors":{"author":[{"@pid":"10/3042","text":"Ruixin Yang"},{"@pid":"207/9007","text":"Junyi He"},{"@pid":"53/4722","text":"Mingyang Xu"},{"@pid":"142/3994","text":"Haoqi Ni"},{"@pid":"57/7009-1","text":"Paul Jones 0001"},{"@pid":"66/1466","text":"Nagiza F. Samatova"}]},"title":"An Intelligent and Hybrid Weighted Fuzzy Time Series Model Based on Empirical Mode Decomposition for Financial Markets Forecasting.","venue":"ICDM","pages":"104-118","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/incdm/YangHXN0S18","doi":"10.1007/978-3-319-95786-9_8","ee":"https://doi.org/10.1007/978-3-319-95786-9_8","url":"https://dblp.org/rec/conf/incdm/YangHXN0S18"},
+"url":"URL#1745863"
+},
+{
+"@score":"6",
+"@id":"2212478",
+"info":{"authors":{"author":{"@pid":"59/5153","text":"Liang-Ying Wei"}},"title":"A hybrid ANFIS model based on empirical mode decomposition for stock time series forecasting.","venue":"Appl. Soft Comput.","volume":"42","pages":"368-376","year":"2016","type":"Journal Articles","access":"closed","key":"journals/asc/Wei16","doi":"10.1016/J.ASOC.2016.01.027","ee":"https://doi.org/10.1016/j.asoc.2016.01.027","url":"https://dblp.org/rec/journals/asc/Wei16"},
+"url":"URL#2212478"
+},
+{
+"@score":"6",
+"@id":"2863795",
+"info":{"authors":{"author":[{"@pid":"94/9994","text":"Hai V. Pham"},{"@pid":"61/2630","text":"Eric W. Cooper"},{"@pid":"12/1846","text":"Cao Thang"},{"@pid":"53/6907","text":"Katsuari Kamei"}]},"title":"Hybrid Kansei-SOM model using risk management and company assessment for stock trading.","venue":"Inf. Sci.","volume":"256","pages":"8-24","year":"2014","type":"Journal Articles","access":"closed","key":"journals/isci/PhamCTK14","doi":"10.1016/J.INS.2011.11.036","ee":"https://doi.org/10.1016/j.ins.2011.11.036","url":"https://dblp.org/rec/journals/isci/PhamCTK14"},
+"url":"URL#2863795"
+},
+{
+"@score":"6",
+"@id":"4024117",
+"info":{"authors":{"author":{"@pid":"59/5153","text":"Liang-Ying Wei"}},"title":"An ANFIS Hybrid Model Based on Price Fluctuations of National Stock Markets for Forecasting Stock Price.","venue":"IC-AI","pages":"402-405","year":"2010","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/icai/Wei10","url":"https://dblp.org/rec/conf/icai/Wei10"},
+"url":"URL#4024117"
+},
+{
+"@score":"5",
+"@id":"27728",
+"info":{"authors":{"author":[{"@pid":"323/7136","text":"Srivinay"},{"@pid":"223/8760","text":"B. C. Manujakshi"},{"@pid":"323/7205","text":"Mohan Govindsa Kabadi"},{"@pid":"240/9480","text":"Nagaraj Naik"}]},"title":"A Hybrid Stock Price Prediction Model Based on PRE and Deep Neural Network.","venue":"Data","volume":"7","number":"5","pages":"51","year":"2022","type":"Journal Articles","access":"open","key":"journals/data/SrivinayMKN22","doi":"10.3390/DATA7050051","ee":"https://doi.org/10.3390/data7050051","url":"https://dblp.org/rec/journals/data/SrivinayMKN22"},
+"url":"URL#27728"
+},
+{
+"@score":"5",
+"@id":"31296",
+"info":{"authors":{"author":[{"@pid":"42/647","text":"Pin Lv"},{"@pid":"314/9899","text":"Qinjuan Wu"},{"@pid":"95/3616-5","text":"Jia Xu 0005"},{"@pid":"315/0080","text":"Yating Shu"}]},"title":"Stock Index Prediction Based on Time Series Decomposition and Hybrid Model.","venue":"Entropy","volume":"24","number":"2","pages":"146","year":"2022","type":"Journal Articles","access":"open","key":"journals/entropy/LvW0S22","doi":"10.3390/E24020146","ee":"https://doi.org/10.3390/e24020146","url":"https://dblp.org/rec/journals/entropy/LvW0S22"},
+"url":"URL#31296"
+},
+{
+"@score":"5",
+"@id":"33597",
+"info":{"authors":{"author":[{"@pid":"322/7100","text":"Anika Kanwal"},{"@pid":"21/6332","text":"Man Fai Lau"},{"@pid":"44/730","text":"Sebastian P. H. Ng"},{"@pid":"142/4922","text":"Kwan Yong Sim"},{"@pid":"320/3359","text":"Siva Chandrasekaran"}]},"title":"BiCuDNNLSTM-1dCNN - A hybrid deep learning-based predictive model for stock price prediction.","venue":"Expert Syst. Appl.","volume":"202","pages":"117123","year":"2022","type":"Journal Articles","access":"closed","key":"journals/eswa/KanwalLNSC22","doi":"10.1016/J.ESWA.2022.117123","ee":"https://doi.org/10.1016/j.eswa.2022.117123","url":"https://dblp.org/rec/journals/eswa/KanwalLNSC22"},
+"url":"URL#33597"
+},
+{
+"@score":"5",
+"@id":"33789",
+"info":{"authors":{"author":[{"@pid":"42/647","text":"Pin Lv"},{"@pid":"315/0080","text":"Yating Shu"},{"@pid":"95/3616-5","text":"Jia Xu 0005"},{"@pid":"314/9899","text":"Qinjuan Wu"}]},"title":"Modal decomposition-based hybrid model for stock index prediction.","venue":"Expert Syst. Appl.","volume":"202","pages":"117252","year":"2022","type":"Journal Articles","access":"closed","key":"journals/eswa/LvSXW22","doi":"10.1016/J.ESWA.2022.117252","ee":"https://doi.org/10.1016/j.eswa.2022.117252","url":"https://dblp.org/rec/journals/eswa/LvSXW22"},
+"url":"URL#33789"
+},
+{
+"@score":"5",
+"@id":"44031",
+"info":{"authors":{"author":[{"@pid":"276/8030","text":"Sashank Sridhar"},{"@pid":"284/4152","text":"Siddartha Mootha"}]},"title":"Stock market manipulation detection using feature modelling with hybrid recurrent neural networks.","venue":"Int. J. Netw. Virtual Organisations","volume":"26","number":"1/2","pages":"47-79","year":"2022","type":"Journal Articles","access":"closed","key":"journals/ijnvo/SridharM22","doi":"10.1504/IJNVO.2022.121864","ee":"https://doi.org/10.1504/IJNVO.2022.121864","url":"https://dblp.org/rec/journals/ijnvo/SridharM22"},
+"url":"URL#44031"
+},
+{
+"@score":"5",
+"@id":"49656",
+"info":{"authors":{"author":[{"@pid":"258/6058","text":"Amadu Fullah Kamara"},{"@pid":"07/258","text":"Enhong Chen"},{"@pid":"08/7082","text":"Zhen Pan"}]},"title":"An ensemble of a boosted hybrid of deep learning models and technical analysis for forecasting stock prices.","venue":"Inf. Sci.","volume":"594","pages":"1-19","year":"2022","type":"Journal Articles","access":"closed","key":"journals/isci/KamaraCP22","doi":"10.1016/J.INS.2022.02.015","ee":"https://doi.org/10.1016/j.ins.2022.02.015","url":"https://dblp.org/rec/journals/isci/KamaraCP22"},
+"url":"URL#49656"
+},
+{
+"@score":"5",
+"@id":"56505",
+"info":{"authors":{"author":[{"@pid":"82/5445","text":"Tingting Zhang"},{"@pid":"280/6081","text":"Zhenpeng Tang"},{"@pid":"323/6441","text":"Linjie Zhan"},{"@pid":"322/4430","text":"Xiaoxu Du"},{"@pid":"14/7729","text":"Kaijie Chen"}]},"title":"Research on prediction of China&apos;s financial systematic risk based on the hybrid model.","venue":"J. Intell. Fuzzy Syst.","volume":"43","number":"1","pages":"279-294","year":"2022","type":"Journal Articles","access":"closed","key":"journals/jifs/ZhangTZDC22","doi":"10.3233/JIFS-212178","ee":"https://doi.org/10.3233/JIFS-212178","url":"https://dblp.org/rec/journals/jifs/ZhangTZDC22"},
+"url":"URL#56505"
+},
+{
+"@score":"5",
+"@id":"87239",
+"info":{"authors":{"author":{"@pid":"28/2073","text":"Wei Gao"}},"title":"Modeling stock market using new hybrid intelligent method based on MFNN and IBHA.","venue":"Soft Comput.","volume":"26","number":"15","pages":"7317-7337","year":"2022","type":"Journal Articles","access":"closed","key":"journals/soco/Gao22","doi":"10.1007/S00500-022-06941-Z","ee":"https://doi.org/10.1007/s00500-022-06941-z","url":"https://dblp.org/rec/journals/soco/Gao22"},
+"url":"URL#87239"
+},
+{
+"@score":"5",
+"@id":"87284",
+"info":{"authors":{"author":[{"@pid":"40/7410","text":"Yusuf Tansel Iç"},{"@pid":"51/6887","text":"Mustafa Yurdakul"},{"@pid":"316/0467","text":"Esra Pehlivan"}]},"title":"Development of a hybrid financial performance measurement model using AHP and DOE methods for Turkish commercial banks.","venue":"Soft Comput.","volume":"26","number":"6","pages":"2959-2979","year":"2022","type":"Journal Articles","access":"closed","key":"journals/soco/IcYP22","doi":"10.1007/S00500-021-06589-1","ee":"https://doi.org/10.1007/s00500-021-06589-1","url":"https://dblp.org/rec/journals/soco/IcYP22"},
+"url":"URL#87284"
+},
+{
+"@score":"5",
+"@id":"105912",
+"info":{"authors":{"author":[{"@pid":"171/6126","text":"Liwei Tian"},{"@pid":"39/456-1","text":"Li Feng 0001"},{"@pid":"50/2484","text":"Lei Yang"},{"@pid":"167/7963","text":"Yuankai Guo"}]},"title":"Stock price prediction based on LSTM and LightGBM hybrid model.","venue":"J. Supercomput.","volume":"78","number":"9","pages":"11768-11793","year":"2022","type":"Journal Articles","access":"closed","key":"journals/tjs/TianFYG22","doi":"10.1007/S11227-022-04326-5","ee":"https://doi.org/10.1007/s11227-022-04326-5","url":"https://dblp.org/rec/journals/tjs/TianFYG22"},
+"url":"URL#105912"
+},
+{
+"@score":"5",
+"@id":"191075",
+"info":{"authors":{"author":[{"@pid":"287/9264","text":"Zhuangwei Shi"},{"@pid":"43/4685","text":"Yang Hu"},{"@pid":"318/1550","text":"Guangliang Mo"},{"@pid":"96/2744","text":"Jian Wu"}]},"title":"Attention-based CNN-LSTM and XGBoost hybrid model for stock prediction.","venue":"CoRR","volume":"abs/2204.02623","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2204-02623","doi":"10.48550/ARXIV.2204.02623","ee":"https://doi.org/10.48550/arXiv.2204.02623","url":"https://dblp.org/rec/journals/corr/abs-2204-02623"},
+"url":"URL#191075"
+},
+{
+"@score":"5",
+"@id":"228312",
+"info":{"authors":{"author":[{"@pid":"16/4272","text":"Yi Ji"},{"@pid":"76/2013","text":"Alan Wee-Chung Liew"},{"@pid":"02/1331","text":"Lixia Yang"}]},"title":"A Novel Improved Particle Swarm Optimization With Long-Short Term Memory Hybrid Model for Stock Indices Forecast.","venue":"IEEE Access","volume":"9","pages":"23660-23671","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/JiLY21","doi":"10.1109/ACCESS.2021.3056713","ee":"https://doi.org/10.1109/ACCESS.2021.3056713","url":"https://dblp.org/rec/journals/access/JiLY21"},
+"url":"URL#228312"
+},
+{
+"@score":"5",
+"@id":"254020",
+"info":{"authors":{"author":[{"@pid":"181/2522","text":"Ankita Bose"},{"@pid":"35/3725","text":"Ching-Hsien Hsu"},{"@pid":"121/2429","text":"Sanjiban Sekhar Roy"},{"@pid":"79/674","text":"Kun Chang Lee"},{"@pid":"135/5723","text":"Behnam Mohammadi-Ivatloo"},{"@pid":"74/10810","text":"Satheesh Abimannan"}]},"title":"Forecasting stock price by hybrid model of cascading Multivariate Adaptive Regression Splines and Deep Neural Network.","venue":"Comput. Electr. Eng.","volume":"95","pages":"107405","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cee/BoseHRLMA21","doi":"10.1016/J.COMPELECENG.2021.107405","ee":"https://doi.org/10.1016/j.compeleceng.2021.107405","url":"https://dblp.org/rec/journals/cee/BoseHRLMA21"},
+"url":"URL#254020"
+},
+{
+"@score":"5",
+"@id":"261874",
+"info":{"authors":{"author":[{"@pid":"60/203","text":"Zhang Peng"},{"@pid":"313/3670","text":"Farman Ullah Khan"},{"@pid":"312/7776","text":"Faridoon Khan"},{"@pid":"313/3964","text":"Parvez Ahmed Shaikh"},{"@pid":"313/4417","text":"Dai Yonghong"},{"@pid":"33/7455","text":"Ihsan Ullah"},{"@pid":"313/4019","text":"Farid Ullah"}]},"title":"An Application of Hybrid Models for Weekly Stock Market Index Prediction: Empirical Evidence from SAARC Countries.","venue":"Complex.","volume":"2021","pages":"5663302:1-5663302:10","year":"2021","type":"Journal Articles","access":"open","key":"journals/complexity/PengKKSYUU21","doi":"10.1155/2021/5663302","ee":"https://doi.org/10.1155/2021/5663302","url":"https://dblp.org/rec/journals/complexity/PengKKSYUU21"},
+"url":"URL#261874"
+},
+{
+"@score":"5",
+"@id":"276493",
+"info":{"authors":{"author":[{"@pid":"275/3102","text":"Zhidan Luo"},{"@pid":"71/6601","text":"Wei Guo"},{"@pid":"283/6537","text":"Qingfu Liu"},{"@pid":"62/5280","text":"Zhengjun Zhang"}]},"title":"A hybrid model for financial time-series forecasting based on mixed methodologies.","venue":"Expert Syst. J. Knowl. Eng.","volume":"38","number":"2","year":"2021","type":"Journal Articles","access":"closed","key":"journals/es/LuoGLZ21","doi":"10.1111/EXSY.12633","ee":"https://doi.org/10.1111/exsy.12633","url":"https://dblp.org/rec/journals/es/LuoGLZ21"},
+"url":"URL#276493"
+},
+{
+"@score":"5",
+"@id":"277565",
+"info":{"authors":{"author":[{"@pid":"49/8739","text":"Nan Jing"},{"@pid":"26/6973","text":"Zhao Wu"},{"@pid":"161/8188","text":"Hefei Wang"}]},"title":"A hybrid model integrating deep learning with investor sentiment analysis for stock price prediction.","venue":"Expert Syst. Appl.","volume":"178","pages":"115019","year":"2021","type":"Journal Articles","access":"closed","key":"journals/eswa/JingWW21","doi":"10.1016/J.ESWA.2021.115019","ee":"https://doi.org/10.1016/j.eswa.2021.115019","url":"https://dblp.org/rec/journals/eswa/JingWW21"},
+"url":"URL#277565"
+},
+{
+"@score":"5",
+"@id":"278054",
+"info":{"authors":{"author":[{"@pid":"189/4527","text":"Gabriel Trierweiler Ribeiro"},{"@pid":"25/2988","text":"André Alves Portela Santos"},{"@pid":"86/6690","text":"Viviana Cocco Mariani"},{"@pid":"79/5055","text":"Leandro dos Santos Coelho"}]},"title":"Novel hybrid model based on echo state neural network applied to the prediction of stock price return volatility.","venue":"Expert Syst. Appl.","volume":"184","pages":"115490","year":"2021","type":"Journal Articles","access":"closed","key":"journals/eswa/RibeiroSMC21","doi":"10.1016/J.ESWA.2021.115490","ee":"https://doi.org/10.1016/j.eswa.2021.115490","url":"https://dblp.org/rec/journals/eswa/RibeiroSMC21"},
+"url":"URL#278054"
+},
+{
+"@score":"5",
+"@id":"278498",
+"info":{"authors":{"author":[{"@pid":"196/2475","text":"Mehdi Zolfaghari"},{"@pid":"302/7350","text":"Samad Gholami"}]},"title":"A hybrid approach of adaptive wavelet transform, long short-term memory and ARIMA-GARCH family models for the stock index prediction.","venue":"Expert Syst. Appl.","volume":"182","pages":"115149","year":"2021","type":"Journal Articles","access":"closed","key":"journals/eswa/ZolfaghariG21","doi":"10.1016/J.ESWA.2021.115149","ee":"https://doi.org/10.1016/j.eswa.2021.115149","url":"https://dblp.org/rec/journals/eswa/ZolfaghariG21"},
+"url":"URL#278498"
+},
+{
+"@score":"5",
+"@id":"328898",
+"info":{"authors":{"author":[{"@pid":"277/1212","text":"Yunpeng Ren"},{"@pid":"163/2853","text":"Wenxin Hu"},{"@pid":"266/8329","text":"Ziao Wang"},{"@pid":"61/3976","text":"Xiaofeng Zhang"},{"@pid":"122/9193","text":"Yiyuan Wang"},{"@pid":"34/4799","text":"Xuan Wang"}]},"title":"A hybrid deep generative neural model for financial report generation.","venue":"Knowl. Based Syst.","volume":"227","pages":"107093","year":"2021","type":"Journal Articles","access":"closed","key":"journals/kbs/RenHWZWW21","doi":"10.1016/J.KNOSYS.2021.107093","ee":"https://doi.org/10.1016/j.knosys.2021.107093","url":"https://dblp.org/rec/journals/kbs/RenHWZWW21"},
+"url":"URL#328898"
+},
+{
+"@score":"5",
+"@id":"348358",
+"info":{"authors":{"author":{"@pid":"253/9637-1","text":"Kumar Chandar S 0001"}},"title":"Hybrid models for intraday stock price forecasting based on artificial neural networks and metaheuristic algorithms.","venue":"Pattern Recognit. Lett.","volume":"147","pages":"124-133","year":"2021","type":"Journal Articles","access":"closed","key":"journals/prl/S21","doi":"10.1016/J.PATREC.2021.03.030","ee":"https://doi.org/10.1016/j.patrec.2021.03.030","url":"https://dblp.org/rec/journals/prl/S21"},
+"url":"URL#348358"
+},
+{
+"@score":"5",
+"@id":"357583",
+"info":{"authors":{"author":[{"@pid":"310/8515","text":"Asmaa Y. Fathi"},{"@pid":"225/7067","text":"Ihab A. El-Khodary"},{"@pid":"310/8387","text":"Muhammad Saafan"}]},"title":"A Hybrid Model Integrating Singular Spectrum Analysis and Backpropagation Neural Network for Stock Price Forecasting.","venue":"Rev. d&apos;Intelligence Artif.","volume":"35","number":"6","pages":"483-488","year":"2021","type":"Journal Articles","access":"open","key":"journals/ria/FathiES21","doi":"10.18280/RIA.350606","ee":"https://doi.org/10.18280/ria.350606","url":"https://dblp.org/rec/journals/ria/FathiES21"},
+"url":"URL#357583"
+},
+{
+"@score":"5",
+"@id":"371386",
+"info":{"authors":{"author":[{"@pid":"188/5142","text":"B. Six"},{"@pid":"44/1680","text":"Belkacem Ould Bouamama"},{"@pid":"97/707","text":"Anne-Lise Gehin"}]},"title":"Model builder for diagnosis and simulation of hybrid dynamic systems: Application to railway rolling stock.","venue":"Simul.","volume":"97","number":"1","year":"2021","type":"Journal Articles","access":"closed","key":"journals/simulation/SixBG21","doi":"10.1177/0037549720958399","ee":"https://doi.org/10.1177/0037549720958399","url":"https://dblp.org/rec/journals/simulation/SixBG21"},
+"url":"URL#371386"
+},
+{
+"@score":"5",
+"@id":"464358",
+"info":{"authors":{"author":[{"@pid":"296/0806","text":"Shirin Cupples"},{"@pid":"127/8486","text":"Amir Abtahi"},{"@pid":"296/0993","text":"Seyed Ata Raziei"}]},"title":"Modeling, Optimizing and Financial Analysis of Hybrid Renewable Energy Systems Coupled with Energy Storage.","venue":"EVER","pages":"1-7","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/ever/CupplesAR21","doi":"10.1109/EVER52347.2021.9456662","ee":"https://doi.org/10.1109/EVER52347.2021.9456662","url":"https://dblp.org/rec/conf/ever/CupplesAR21"},
+"url":"URL#464358"
+},
+{
+"@score":"5",
+"@id":"477752",
+"info":{"authors":{"author":{"@pid":"304/9629","text":"Xiangying Ren"}},"title":"Research on Financial Investment Decision Based on Cloud Model and Hybrid Drosophila Algorithm Optimization.","venue":"ICAIIS","pages":"283:1-283:4","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaiis/Ren21","doi":"10.1145/3469213.3471311","ee":"https://doi.org/10.1145/3469213.3471311","url":"https://dblp.org/rec/conf/icaiis/Ren21"},
+"url":"URL#477752"
+},
+{
+"@score":"5",
+"@id":"512607",
+"info":{"authors":{"author":[{"@pid":"302/7793","text":"Dhaifallah Alghamdi"},{"@pid":"283/4326","text":"Faris Alotaibi"},{"@pid":"15/5371","text":"Jayant Rajgopal"}]},"title":"A Novel Hybrid Deep Learning Model For Stock Price Forecasting.","venue":"IJCNN","pages":"1-8","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/AlghamdiAR21","doi":"10.1109/IJCNN52387.2021.9533553","ee":"https://doi.org/10.1109/IJCNN52387.2021.9533553","url":"https://dblp.org/rec/conf/ijcnn/AlghamdiAR21"},
+"url":"URL#512607"
+},
+{
+"@score":"5",
+"@id":"522682",
+"info":{"authors":{"author":[{"@pid":"301/5463","text":"Haoda Qian"},{"@pid":"88/1450","text":"Liping Chen"},{"@pid":"132/6112","text":"Qiwen Zha"}]},"title":"Mining User&apos;s Opinion Towards the Rising and Falling Trends of the Stock Market: A Hybrid Model.","venue":"ISI","pages":"1-3","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/isi/QianCZ21","doi":"10.1109/ISI53945.2021.9624687","ee":"https://doi.org/10.1109/ISI53945.2021.9624687","url":"https://dblp.org/rec/conf/isi/QianCZ21"},
+"url":"URL#522682"
+},
+{
+"@score":"5",
+"@id":"575406",
+"info":{"authors":{"author":[{"@pid":"71/6037","text":"Ke Tian"},{"@pid":"44/2144","text":"Hua Chen"}]},"title":"aiai at the FinSBD-3 task: Structure Boundary Detection of Noisy Financial Texts in English and French Using Data Augmentation and Hybrid Deep Learning Model.","venue":"WWW","pages":"283-287","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/www/TianC21","doi":"10.1145/3442442.3451380","ee":"https://doi.org/10.1145/3442442.3451380","url":"https://dblp.org/rec/conf/www/TianC21"},
+"url":"URL#575406"
+},
+{
+"@score":"5",
+"@id":"665141",
+"info":{"authors":{"author":[{"@pid":"276/4480","text":"Frederick Appoh"},{"@pid":"276/4626","text":"Akilu Yunusa-Kaltungo"},{"@pid":"276/4563","text":"Jyoti K. Sinha"}]},"title":"Hybrid Dynamic Probability-Based Modeling Technique for Rolling Stock Failure Analysis.","venue":"IEEE Access","volume":"8","pages":"182376-182390","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/AppohYS20","doi":"10.1109/ACCESS.2020.3028209","ee":"https://doi.org/10.1109/ACCESS.2020.3028209","url":"https://dblp.org/rec/journals/access/AppohYS20"},
+"url":"URL#665141"
+},
+{
+"@score":"5",
+"@id":"666538",
+"info":{"authors":{"author":[{"@pid":"11/1394","text":"Qian Chen"},{"@pid":"12/53-1","text":"Wenyu Zhang 0001"},{"@pid":"86/8699","text":"Yu Lou"}]},"title":"Forecasting Stock Prices Using a Hybrid Deep Learning Model Integrating Attention Mechanism, Multi-Layer Perceptron, and Bidirectional Long-Short Term Memory Neural Network.","venue":"IEEE Access","volume":"8","pages":"117365-117376","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/ChenZL20d","doi":"10.1109/ACCESS.2020.3004284","ee":"https://doi.org/10.1109/ACCESS.2020.3004284","url":"https://dblp.org/rec/journals/access/ChenZL20d"},
+"url":"URL#666538"
+},
+{
+"@score":"5",
+"@id":"677902",
+"info":{"authors":{"author":[{"@pid":"04/6728","text":"Yongjian Wang"},{"@pid":"11/2719","text":"Wang Fei"}]},"title":"Production Decisions of Manufacturing and Remanufacturing Hybrid System Considering Downward Substitution: A Comprehensive Model Integrating Financial Operations.","venue":"IEEE Access","volume":"8","pages":"124869-124882","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/WangF20a","doi":"10.1109/ACCESS.2020.3006858","ee":"https://doi.org/10.1109/ACCESS.2020.3006858","url":"https://dblp.org/rec/journals/access/WangF20a"},
+"url":"URL#677902"
+},
+{
+"@score":"5",
+"@id":"680324",
+"info":{"authors":{"author":[{"@pid":"11/5018","text":"He Yu"},{"@pid":"266/4288","text":"Li Jing Ming"},{"@pid":"266/4228","text":"Ruan Sumei"},{"@pid":"11/6482","text":"Shuping Zhao"}]},"title":"A Hybrid Model for Financial Time Series Forecasting - Integration of EWT, ARIMA With The Improved ABC Optimized ELM.","venue":"IEEE Access","volume":"8","pages":"84501-84518","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/YuMSZ20","doi":"10.1109/ACCESS.2020.2987547","ee":"https://doi.org/10.1109/ACCESS.2020.2987547","url":"https://dblp.org/rec/journals/access/YuMSZ20"},
+"url":"URL#680324"
+},
+{
+"@score":"5",
+"@id":"702424",
+"info":{"authors":{"author":[{"@pid":"227/9453","text":"Shuqi Li"},{"@pid":"86/8073","text":"Xiaoming Liu"},{"@pid":"269/5268","text":"Aijing Lin"}]},"title":"Fractional frequency hybrid model based on EEMD for financial time series forecasting.","venue":"Commun. Nonlinear Sci. Numer. Simul.","volume":"89","pages":"105281","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cnsns/LiLL20","doi":"10.1016/J.CNSNS.2020.105281","ee":"https://doi.org/10.1016/j.cnsns.2020.105281","url":"https://dblp.org/rec/journals/cnsns/LiLL20"},
+"url":"URL#702424"
+},
+{
+"@score":"5",
+"@id":"712896",
+"info":{"authors":{"author":[{"@pid":"244/2064","text":"Bashar Alhnaity"},{"@pid":"59/3805","text":"Maysam Abbod"}]},"title":"A new hybrid financial time series prediction model.","venue":"Eng. Appl. Artif. Intell.","volume":"95","pages":"103873","year":"2020","type":"Journal Articles","access":"closed","key":"journals/eaai/AlhnaityA20","doi":"10.1016/J.ENGAPPAI.2020.103873","ee":"https://doi.org/10.1016/j.engappai.2020.103873","url":"https://dblp.org/rec/journals/eaai/AlhnaityA20"},
+"url":"URL#712896"
+},
+{
+"@score":"5",
+"@id":"735860",
+"info":{"authors":{"author":[{"@pid":"82/6392","text":"Praveen Ranjan Srivastava"},{"@pid":"196/2457","text":"Prajwal Eachempati"}]},"title":"A Hybrid Portfolio Selection Model: Multi-Criteria Approach in the Indian Stock Market.","venue":"Int. J. Intell. Inf. Technol.","volume":"16","number":"3","pages":"100-116","year":"2020","type":"Journal Articles","access":"closed","key":"journals/ijiit/SrivastavaE20","doi":"10.4018/IJIIT.2020070105","ee":"https://doi.org/10.4018/IJIIT.2020070105","url":"https://dblp.org/rec/journals/ijiit/SrivastavaE20"},
+"url":"URL#735860"
+},
+{
+"@score":"5",
+"@id":"748045",
+"info":{"authors":{"author":[{"@pid":"240/3273","text":"J. Uthayakumar"},{"@pid":"198/6327","text":"Noura Metawa"},{"@pid":"94/5167-2","text":"K. Shankar 0002"},{"@pid":"220/2208","text":"S. K. Lakshmanaprabu"}]},"title":"Intelligent hybrid model for financial crisis prediction using machine learning techniques.","venue":"Inf. Syst. E Bus. Manag.","volume":"18","number":"4","pages":"617-645","year":"2020","type":"Journal Articles","access":"closed","key":"journals/isem/UthayakumarMSL20","doi":"10.1007/S10257-018-0388-9","ee":"https://doi.org/10.1007/s10257-018-0388-9","url":"https://dblp.org/rec/journals/isem/UthayakumarMSL20"},
+"url":"URL#748045"
+},
+{
+"@score":"5",
+"@id":"807703",
+"info":{"authors":{"author":[{"@pid":"16/1041","text":"Yue Qiu"},{"@pid":"08/7450","text":"Hao-Yu Yang"},{"@pid":"31/5916","text":"Shan Lu"},{"@pid":"c/WeiChen-61","text":"Wei Chen 0061"}]},"title":"A novel hybrid model based on recurrent neural networks for stock market timing.","venue":"Soft Comput.","volume":"24","number":"20","pages":"15273-15290","year":"2020","type":"Journal Articles","access":"closed","key":"journals/soco/QiuYLC20","doi":"10.1007/S00500-020-04862-3","ee":"https://doi.org/10.1007/s00500-020-04862-3","url":"https://dblp.org/rec/journals/soco/QiuYLC20"},
+"url":"URL#807703"
+},
+{
+"@score":"5",
+"@id":"845203",
+"info":{"authors":{"author":[{"@pid":"225/5877","text":"Lkhagvadorj Munkhdalai"},{"@pid":"82/8378","text":"Meijing Li"},{"@pid":"61/3265","text":"Nipon Theera-Umpon"},{"@pid":"48/2760","text":"Sansanee Auephanwiriyakul"},{"@pid":"42/5655","text":"Keun Ho Ryu"}]},"title":"VAR-GRU: A Hybrid Model for Multivariate Financial Time Series Prediction.","venue":"ACIIDS","pages":"322-332","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aciids/MunkhdalaiLTAR20","doi":"10.1007/978-3-030-42058-1_27","ee":"https://doi.org/10.1007/978-3-030-42058-1_27","url":"https://dblp.org/rec/conf/aciids/MunkhdalaiLTAR20"},
+"url":"URL#845203"
+},
+{
+"@score":"5",
+"@id":"858733",
+"info":{"authors":{"author":[{"@pid":"264/1723","text":"Shen-Hang Huang"},{"@pid":"194/7745","text":"Wen-Yueh Shih"},{"@pid":"264/1618","text":"Jing-You Lu"},{"@pid":"139/2549","text":"Hao-Han Chang"},{"@pid":"02/4329","text":"Chao-Hsien Chu"},{"@pid":"154/5622","text":"Jun-Zhe Wang"},{"@pid":"52/2437","text":"Jiun-Long Huang"},{"@pid":"80/778","text":"Tian-Shyr Dai"}]},"title":"Online Structural Break Detection for Pairs Trading Using Wavelet Transform and Hybrid Deep Learning Model.","venue":"BigComp","pages":"209-216","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/bigcomp/HuangSLCCWHD20","doi":"10.1109/BIGCOMP48618.2020.00-73","ee":"https://doi.org/10.1109/BigComp48618.2020.00-73","url":"https://dblp.org/rec/conf/bigcomp/HuangSLCCWHD20"},
+"url":"URL#858733"
+},
+{
+"@score":"5",
+"@id":"875722",
+"info":{"authors":{"author":[{"@pid":"277/1931","text":"Shasha Tao"},{"@pid":"273/7430","text":"Yixuan Fan"},{"@pid":"168/0233","text":"Runfeng Zhang"}]},"title":"A Hybrid Forecasting Model for Stock Price Prediction.","venue":"CSAE","pages":"7:1-7:5","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/csae/TaoFZ20","doi":"10.1145/3424978.3424985","ee":"https://doi.org/10.1145/3424978.3424985","url":"https://dblp.org/rec/conf/csae/TaoFZ20"},
+"url":"URL#875722"
+},
+{
+"@score":"5",
+"@id":"1131152",
+"info":{"authors":{"author":[{"@pid":"49/2252","text":"Mehdi Khashei"},{"@pid":"250/1686","text":"Zahra Hajirahimi"}]},"title":"A comparative study of series arima/mlp hybrid models for stock price forecasting.","venue":"Commun. Stat. Simul. Comput.","volume":"48","number":"9","pages":"2625-2640","year":"2019","type":"Journal Articles","access":"closed","key":"journals/cssc/KhasheiH19","doi":"10.1080/03610918.2018.1458138","ee":"https://doi.org/10.1080/03610918.2018.1458138","url":"https://dblp.org/rec/journals/cssc/KhasheiH19"},
+"url":"URL#1131152"
+},
+{
+"@score":"5",
+"@id":"1133002",
+"info":{"authors":{"author":[{"@pid":"245/5417","text":"Mojtaba Sedighi"},{"@pid":"245/5307","text":"Hossein Jahangirnia"},{"@pid":"02/9359","text":"Mohsen Gharakhani"},{"@pid":"245/5410","text":"Saeed Farahani Fard"}]},"title":"A Novel Hybrid Model for Stock Price Forecasting Based on Metaheuristics and Support Vector Machine.","venue":"Data","volume":"4","number":"2","pages":"75","year":"2019","type":"Journal Articles","access":"open","key":"journals/data/SedighiJGF19","doi":"10.3390/DATA4020075","ee":"https://doi.org/10.3390/data4020075","url":"https://dblp.org/rec/journals/data/SedighiJGF19"},
+"url":"URL#1133002"
+},
+{
+"@score":"5",
+"@id":"1133014",
+"info":{"authors":{"author":[{"@pid":"176/6634","text":"Smail Tigani"},{"@pid":"192/8729","text":"Hasna Chaibi"},{"@pid":"41/1061","text":"Rachid Saadane"}]},"title":"Gaussian Mixture and Kernel Density-Based Hybrid Model for Volatility Behavior Extraction From Public Financial Data.","venue":"Data","volume":"4","number":"1","pages":"19","year":"2019","type":"Journal Articles","access":"open","key":"journals/data/TiganiCS19","doi":"10.3390/DATA4010019","ee":"https://doi.org/10.3390/data4010019","url":"https://dblp.org/rec/journals/data/TiganiCS19"},
+"url":"URL#1133014"
+},
+{
+"@score":"5",
+"@id":"1151438",
+"info":{"authors":{"author":[{"@pid":"243/6432","text":"Rahmat Houshdar Mahjoub"},{"@pid":"41/1431","text":"Amir Afsar"}]},"title":"A hybrid model for customer credit scoring in stock brokerages using data mining approach.","venue":"Int. J. Bus. Inf. Syst.","volume":"31","number":"2","pages":"195-214","year":"2019","type":"Journal Articles","access":"closed","key":"journals/ijbis/MahjoubA19","doi":"10.1504/IJBIS.2019.10022044","ee":"https://doi.org/10.1504/IJBIS.2019.10022044","url":"https://dblp.org/rec/journals/ijbis/MahjoubA19"},
+"url":"URL#1151438"
+},
+{
+"@score":"5",
+"@id":"1152123",
+"info":{"authors":{"author":[{"@pid":"43/6186","text":"Hasan Dinçer"},{"@pid":"241/2725","text":"Secil Senel Uzunkaya"},{"@pid":"228/7591","text":"Serhat Yüksel"}]},"title":"An IT2-Based Hybrid Decision-Making Model Using Hesitant Fuzzy Linguistic Term Sets for Selecting the Development Plan of Financial Economics.","venue":"Int. J. Comput. Intell. Syst.","volume":"12","number":"2","pages":"460-473","year":"2019","type":"Journal Articles","access":"open","key":"journals/ijcisys/DincerUY19","doi":"10.2991/IJCIS.D.190312.001","ee":"https://doi.org/10.2991/ijcis.d.190312.001","url":"https://dblp.org/rec/journals/ijcisys/DincerUY19"},
+"url":"URL#1152123"
+},
+{
+"@score":"5",
+"@id":"1195877",
+"info":{"authors":{"author":[{"@pid":"30/5470","text":"Mustafa Göçken"},{"@pid":"172/8236","text":"Mehmet Özçalici"},{"@pid":"172/8584","text":"Asli Boru"},{"@pid":"135/7455","text":"Ayse Tugba Dosdogru"}]},"title":"Stock price prediction using hybrid soft computing models incorporating parameter tuning and input variable selection.","venue":"Neural Comput. Appl.","volume":"31","number":"2","pages":"577-592","year":"2019","type":"Journal Articles","access":"closed","key":"journals/nca/GockenOBD19","doi":"10.1007/S00521-017-3089-2","ee":"https://doi.org/10.1007/s00521-017-3089-2","url":"https://dblp.org/rec/journals/nca/GockenOBD19"},
+"url":"URL#1195877"
+},
+{
+"@score":"5",
+"@id":"1217542",
+"info":{"authors":{"author":[{"@pid":"219/7667","text":"Andrei Cozma"},{"@pid":"219/7947","text":"Matthieu Mariapragassam"},{"@pid":"79/6120","text":"Christoph Reisinger"}]},"title":"Calibration of a Hybrid Local-Stochastic Volatility Stochastic Rates Model with a Control Variate Particle Method.","venue":"SIAM J. Financial Math.","volume":"10","number":"1","pages":"181-213","year":"2019","type":"Journal Articles","access":"closed","key":"journals/siamfm/CozmaMR19","doi":"10.1137/17M1114570","ee":"https://doi.org/10.1137/17M1114570","url":"https://dblp.org/rec/journals/siamfm/CozmaMR19"},
+"url":"URL#1217542"
+},
+{
+"@score":"5",
+"@id":"1351663",
+"info":{"authors":{"author":[{"@pid":"205/5699","text":"Ivana P. Markovic"},{"@pid":"251/3748","text":"Jelena Z. Stankovic"},{"@pid":"172/0654","text":"Milos B. Stojanovic"},{"@pid":"251/3587","text":"Jovica M. Stankovic"}]},"title":"A Hybrid Model for Financial Portfolio Optimization Based on LS-SVM and a Clustering Algorithm.","venue":"ICT Innovations","pages":"173-186","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictinnovations/MarkovicSSS19","doi":"10.1007/978-3-030-33110-8_15","ee":"https://doi.org/10.1007/978-3-030-33110-8_15","url":"https://dblp.org/rec/conf/ictinnovations/MarkovicSSS19"},
+"url":"URL#1351663"
+},
+{
+"@score":"5",
+"@id":"1406228",
+"info":{"authors":{"author":[{"@pid":"36/8491","text":"Kao-Yi Shen"},{"@pid":"10/4456","text":"Hiroshi Sakai"},{"@pid":"32/2902","text":"Gwo-Hshiung Tzeng"}]},"title":"Multi-graded Hybrid MRDM Model for Assisting Financial Performance Evaluation Decisions: A Preliminary Work.","venue":"IJCRS","pages":"439-453","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/rskt/ShenST19","doi":"10.1007/978-3-030-22815-6_34","ee":"https://doi.org/10.1007/978-3-030-22815-6_34","url":"https://dblp.org/rec/conf/rskt/ShenST19"},
+"url":"URL#1406228"
+},
+{
+"@score":"5",
+"@id":"1434132",
+"info":{"authors":{"author":[{"@pid":"241/6818","text":"Hendrigo Batista da Silva"},{"@pid":"06/7901","text":"Leonardo P. Santiago"}]},"title":"Optimal Energy Trading Policy for Solar-Powered Microgrids: A Modeling Approach Based on Plug-in Hybrid Electric Vehicles.","venue":"Smart and Digital Cities","pages":"251-273","year":"2019","type":"Parts in Books or Collections","access":"closed","key":"books/sp/19/SilvaS19","doi":"10.1007/978-3-030-12255-3_16","ee":"https://doi.org/10.1007/978-3-030-12255-3_16","url":"https://dblp.org/rec/books/sp/19/SilvaS19"},
+"url":"URL#1434132"
+},
+{
+"@score":"5",
+"@id":"1464017",
+"info":{"authors":{"author":[{"@pid":"243/6128","text":"Bradley J. Pillay"},{"@pid":"44/10879","text":"Absalom E. Ezugwu"}]},"title":"Hybrid symbiotic organisms search feedforward neural network model for stock price prediction.","venue":"CoRR","volume":"abs/1906.10121","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1906-10121","ee":"http://arxiv.org/abs/1906.10121","url":"https://dblp.org/rec/journals/corr/abs-1906-10121"},
+"url":"URL#1464017"
+},
+{
+"@score":"5",
+"@id":"1521215",
+"info":{"authors":{"author":[{"@pid":"214/3517","text":"Ghaith Abdulsattar A. Jabbar Alkubaisi"},{"@pid":"87/2808","text":"Siti Sakira Kamaruddin"},{"@pid":"00/1915","text":"Husniza Husni"}]},"title":"Stock Market Classification Model Using Sentiment Analysis on Twitter Based on Hybrid Naive Bayes Classifiers.","venue":"Comput. Inf. Sci.","volume":"11","number":"1","pages":"52-64","year":"2018","type":"Journal Articles","access":"open","key":"journals/ccsecis/AlkubaisiKH18","doi":"10.5539/CIS.V11N1P52","ee":"https://doi.org/10.5539/cis.v11n1p52","url":"https://dblp.org/rec/journals/ccsecis/AlkubaisiKH18"},
+"url":"URL#1521215"
+},
+{
+"@score":"5",
+"@id":"1540679",
+"info":{"authors":{"author":[{"@pid":"43/64","text":"Elham Ahmadi"},{"@pid":"14/8935","text":"Milad Jasemi"},{"@pid":"01/3537","text":"Leslie Monplaisir"},{"@pid":"209/6701","text":"Mohammad Amin Nabavi"},{"@pid":"209/6449","text":"Armin Mahmoodi"},{"@pid":"209/6627","text":"Pegah Amini Jam"}]},"title":"New efficient hybrid candlestick technical analysis model for stock market timing on the basis of the Support Vector Machine and Heuristic Algorithms of Imperialist Competition and Genetic.","venue":"Expert Syst. Appl.","volume":"94","pages":"21-31","year":"2018","type":"Journal Articles","access":"closed","key":"journals/eswa/AhmadiJMNMJ18","doi":"10.1016/J.ESWA.2017.10.023","ee":"https://doi.org/10.1016/j.eswa.2017.10.023","url":"https://dblp.org/rec/journals/eswa/AhmadiJMNMJ18"},
+"url":"URL#1540679"
+},
+{
+"@score":"5",
+"@id":"1540935",
+"info":{"authors":{"author":[{"@pid":"220/0320","text":"Arash Negahdari Kia"},{"@pid":"63/9477","text":"Saman Haratizadeh"},{"@pid":"90/3217","text":"Saeed Bagheri Shouraki"}]},"title":"A hybrid supervised semi-supervised graph-based model to predict one-day ahead movement of global stock markets and commodity prices.","venue":"Expert Syst. Appl.","volume":"105","pages":"159-173","year":"2018","type":"Journal Articles","access":"closed","key":"journals/eswa/KiaHS18","doi":"10.1016/J.ESWA.2018.03.037","ee":"https://doi.org/10.1016/j.eswa.2018.03.037","url":"https://dblp.org/rec/journals/eswa/KiaHS18"},
+"url":"URL#1540935"
+},
+{
+"@score":"5",
+"@id":"1545776",
+"info":{"authors":{"author":[{"@pid":"165/7673","text":"Jovana Bozic"},{"@pid":"93/4595","text":"Djordje Babic"}]},"title":"Financial time series forecasting using hybrid wavelet-neural model.","venue":"Int. Arab J. Inf. Technol.","volume":"15","number":"1","pages":"50-57","year":"2018","type":"Journal Articles","access":"open","key":"journals/iajit/BozicB18","ee":"http://iajit.org/index.php?option=com_content&amp;task=blogcategory&amp;id=126&amp;Itemid=451","url":"https://dblp.org/rec/journals/iajit/BozicB18"},
+"url":"URL#1545776"
+},
+{
+"@score":"5",
+"@id":"1547001",
+"info":{"authors":{"author":{"@pid":"154/4445","text":"Rajashree Dash"}},"title":"DECPNN: A hybrid stock predictor model using Differential Evolution and Chebyshev Polynomial neural network.","venue":"Intell. Decis. Technol.","volume":"12","number":"1","pages":"93-104","year":"2018","type":"Journal Articles","access":"closed","key":"journals/idt/Dash18","doi":"10.3233/IDT-170313","ee":"https://doi.org/10.3233/IDT-170313","url":"https://dblp.org/rec/journals/idt/Dash18"},
+"url":"URL#1547001"
+},
+{
+"@score":"5",
+"@id":"1612181",
+"info":{"authors":{"author":[{"@pid":"219/7667","text":"Andrei Cozma"},{"@pid":"219/7947","text":"Matthieu Mariapragassam"},{"@pid":"79/6120","text":"Christoph Reisinger"}]},"title":"Convergence of an Euler Scheme for a Hybrid Stochastic-Local Volatility Model with Stochastic Rates in Foreign Exchange Markets.","venue":"SIAM J. Financial Math.","volume":"9","number":"1","pages":"127-170","year":"2018","type":"Journal Articles","access":"closed","key":"journals/siamfm/CozmaMR18","doi":"10.1137/17M1114569","ee":"https://doi.org/10.1137/17M1114569","url":"https://dblp.org/rec/journals/siamfm/CozmaMR18"},
+"url":"URL#1612181"
+},
+{
+"@score":"5",
+"@id":"1670457",
+"info":{"authors":{"author":[{"@pid":"225/9901","text":"Huizhe Wu"},{"@pid":"10/4661-56","text":"Wei Zhang 0056"},{"@pid":"79/1497","text":"Weiwei Shen"},{"@pid":"w/JunWang6","text":"Jun Wang 0006"}]},"title":"Hybrid Deep Sequential Modeling for Social Text-Driven Stock Prediction.","venue":"CIKM","pages":"1627-1630","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/cikm/WuZSW18","doi":"10.1145/3269206.3269290","ee":"https://doi.org/10.1145/3269206.3269290","url":"https://dblp.org/rec/conf/cikm/WuZSW18"},
+"url":"URL#1670457"
+},
+{
+"@score":"5",
+"@id":"1684176",
+"info":{"authors":{"author":[{"@pid":"245/4331","text":"Alexander Vlasenko"},{"@pid":"20/10895","text":"Olena Vynokurova"},{"@pid":"245/4301","text":"Nataliia Vlasenko"},{"@pid":"290/3870","text":"Marta Peleshko"}]},"title":"A Hybrid Neuro-Fuzzy Model for Stock Market Time-Series Prediction.","venue":"DSMP","pages":"352-355","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/dsmp/VlasenkoVVP18","doi":"10.1109/DSMP.2018.8478494","ee":"https://doi.org/10.1109/DSMP.2018.8478494","url":"https://dblp.org/rec/conf/dsmp/VlasenkoVVP18"},
+"url":"URL#1684176"
+},
+{
+"@score":"5",
+"@id":"1718437",
+"info":{"authors":{"author":[{"@pid":"177/3483","text":"Germán Méndez-Giraldo"},{"@pid":"171/4647","text":"Eduyn López-Santana"},{"@pid":"01/9943","text":"Carlos Franco"}]},"title":"A Hybrid Rule-Based and Fuzzy Logic Model to Diagnostic Financial Area for MSMEs.","venue":"ICCSA","pages":"507-519","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccsa/Mendez-GiraldoL18","doi":"10.1007/978-3-319-95174-4_40","ee":"https://doi.org/10.1007/978-3-319-95174-4_40","url":"https://dblp.org/rec/conf/iccsa/Mendez-GiraldoL18"},
+"url":"URL#1718437"
+},
+{
+"@score":"5",
+"@id":"1753957",
+"info":{"authors":{"author":[{"@pid":"286/8642","text":"R. Arjun 0001"},{"@pid":"240/6681","text":"K. R. Suprabha 0001"}]},"title":"Modeling Hybrid Indicators for Stock Index Prediction.","venue":"ISDA","pages":"193-202","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/isda/ArjunS18","doi":"10.1007/978-3-030-16657-1_18","ee":"https://doi.org/10.1007/978-3-030-16657-1_18","url":"https://dblp.org/rec/conf/isda/ArjunS18"},
+"url":"URL#1753957"
+},
+{
+"@score":"5",
+"@id":"1799631",
+"info":{"authors":{"author":[{"@pid":"176/7734","text":"Mohammad Asiful Hossain"},{"@pid":"84/400","text":"Rezaul Karim"},{"@pid":"34/4880","text":"Ruppa K. Thulasiram"},{"@pid":"00/5848","text":"Neil D. B. Bruce"},{"@pid":"181/2842","text":"Yang Wang"}]},"title":"Hybrid Deep Learning Model for Stock Price Prediction.","venue":"SSCI","pages":"1837-1844","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/ssci/HossainKTBW18","doi":"10.1109/SSCI.2018.8628641","ee":"https://doi.org/10.1109/SSCI.2018.8628641","url":"https://dblp.org/rec/conf/ssci/HossainKTBW18"},
+"url":"URL#1799631"
+},
+{
+"@score":"5",
+"@id":"1845962",
+"info":{"authors":{"author":{"@pid":"225/4796","text":"Hyeong Kyu Choi"}},"title":"Stock Price Correlation Coefficient Prediction with ARIMA-LSTM Hybrid Model.","venue":"CoRR","volume":"abs/1808.01560","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1808-01560","ee":"http://arxiv.org/abs/1808.01560","url":"https://dblp.org/rec/journals/corr/abs-1808-01560"},
+"url":"URL#1845962"
+},
+{
+"@score":"5",
+"@id":"1898319",
+"info":{"authors":{"author":[{"@pid":"49/3019","text":"Jia Zhai"},{"@pid":"00/3090-1","text":"Yi Cao 0001"},{"@pid":"25/4120","text":"Yuan Yao"},{"@pid":"59/7956","text":"Xuemei Ding"},{"@pid":"79/5796-1","text":"Yuhua Li 0001"}]},"title":"Computational intelligent hybrid model for detecting disruptive trading activity.","venue":"Decis. Support Syst.","volume":"93","pages":"26-41","year":"2017","type":"Journal Articles","access":"closed","key":"journals/dss/ZhaiCYDL17","doi":"10.1016/J.DSS.2016.09.003","ee":"https://doi.org/10.1016/j.dss.2016.09.003","url":"https://dblp.org/rec/journals/dss/ZhaiCYDL17"},
+"url":"URL#1898319"
+},
+{
+"@score":"5",
+"@id":"1930532",
+"info":{"authors":{"author":[{"@pid":"157/4529","text":"Meryem Ouahilal"},{"@pid":"09/8583","text":"Mohammed El Mohajir"},{"@pid":"120/4456","text":"Mohamed Chahhou"},{"@pid":"149/2931","text":"Badr Eddine El Mohajir"}]},"title":"A novel hybrid model based on Hodrick-Prescott filter and support vector regression algorithm for optimizing stock market price prediction.","venue":"J. Big Data","volume":"4","pages":"31","year":"2017","type":"Journal Articles","access":"open","key":"journals/jbd/OuahilalMCM17","doi":"10.1186/S40537-017-0092-5","ee":"https://doi.org/10.1186/s40537-017-0092-5","url":"https://dblp.org/rec/journals/jbd/OuahilalMCM17"},
+"url":"URL#1930532"
+},
+{
+"@score":"5",
+"@id":"1945883",
+"info":{"authors":{"author":[{"@pid":"89/8693","text":"Xishun Wang"},{"@pid":"52/1742","text":"Minjie Zhang"},{"@pid":"83/670","text":"Fenghui Ren"}]},"title":"A hybrid-learning based broker model for strategic power trading in smart grid markets.","venue":"Knowl. Based Syst.","volume":"119","pages":"142-151","year":"2017","type":"Journal Articles","access":"closed","key":"journals/kbs/WangZR17","doi":"10.1016/J.KNOSYS.2016.12.008","ee":"https://doi.org/10.1016/j.knosys.2016.12.008","url":"https://dblp.org/rec/journals/kbs/WangZR17"},
+"url":"URL#1945883"
+},
+{
+"@score":"5",
+"@id":"2013297",
+"info":{"authors":{"author":[{"@pid":"213/1461","text":"Jonathan Creighton"},{"@pid":"14/4828","text":"Farhana H. Zulkernine"}]},"title":"Towards building a hybrid model for predicting stock indexes.","venue":"IEEE BigData","pages":"4128-4133","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/bigdataconf/CreightonZ17","doi":"10.1109/BIGDATA.2017.8258433","ee":"https://doi.org/10.1109/BigData.2017.8258433","url":"https://dblp.org/rec/conf/bigdataconf/CreightonZ17"},
+"url":"URL#2013297"
+},
+{
+"@score":"5",
+"@id":"2212380",
+"info":{"authors":{"author":[{"@pid":"172/8461","text":"Hossein Javedani Sadaei"},{"@pid":"86/7572","text":"Rasul Enayatifar"},{"@pid":"01/10159","text":"Muhammad Hisyam Lee"},{"@pid":"81/7563","text":"Maqsood Mahmud"}]},"title":"A hybrid model based on differential fuzzy logic relationships and imperialist competitive algorithm for stock market forecasting.","venue":"Appl. Soft Comput.","volume":"40","pages":"132-149","year":"2016","type":"Journal Articles","access":"closed","key":"journals/asc/SadaeiELM16","doi":"10.1016/J.ASOC.2015.11.026","ee":"https://doi.org/10.1016/j.asoc.2015.11.026","url":"https://dblp.org/rec/journals/asc/SadaeiELM16"},
+"url":"URL#2212380"
+},
+{
+"@score":"5",
+"@id":"2217603",
+"info":{"authors":{"author":[{"@pid":"32/8040","text":"Ching-Chiang Yeh"},{"@pid":"32/7427","text":"Der-Jang Chi"},{"@pid":"119/8841","text":"Tzu-Yu Lin"},{"@pid":"82/1416","text":"Sheng-Hsiung Chiu"}]},"title":"A Hybrid Detecting Fraudulent Financial Statements Model Using Rough Set Theory and Support Vector Machines.","venue":"Cybern. Syst.","volume":"47","number":"4","pages":"261-276","year":"2016","type":"Journal Articles","access":"closed","key":"journals/cas/YehCLC16","doi":"10.1080/01969722.2016.1158553","ee":"https://doi.org/10.1080/01969722.2016.1158553","url":"https://dblp.org/rec/journals/cas/YehCLC16"},
+"url":"URL#2217603"
+},
+{
+"@score":"5",
+"@id":"2235355",
+"info":{"authors":{"author":[{"@pid":"181/2763","text":"Kang Li"},{"@pid":"183/0243","text":"Jyrki Niskanen"},{"@pid":"38/217","text":"Mikko Kolehmainen"},{"@pid":"183/0503","text":"Mervi Niskanen"}]},"title":"Financial innovation: Credit default hybrid model for SME lending.","venue":"Expert Syst. Appl.","volume":"61","pages":"343-355","year":"2016","type":"Journal Articles","access":"closed","key":"journals/eswa/LiNKN16","doi":"10.1016/J.ESWA.2016.05.029","ee":"https://doi.org/10.1016/j.eswa.2016.05.029","url":"https://dblp.org/rec/journals/eswa/LiNKN16"},
+"url":"URL#2235355"
+},
+{
+"@score":"5",
+"@id":"2244015",
+"info":{"authors":{"author":[{"@pid":"175/7597","text":"Fatemeh Mirzaei Talarposhti"},{"@pid":"172/8461","text":"Hossein Javedani Sadaei"},{"@pid":"86/7572","text":"Rasul Enayatifar"},{"@pid":"04/4216","text":"Frederico Gadelha Guimarães"},{"@pid":"81/7563","text":"Maqsood Mahmud"},{"@pid":"175/7545","text":"Tayyebeh Eslami"}]},"title":"Stock market forecasting by using a hybrid model of exponential fuzzy time series.","venue":"Int. J. Approx. Reason.","volume":"70","pages":"79-98","year":"2016","type":"Journal Articles","access":"open","key":"journals/ijar/TalarposhtiSEGM16","doi":"10.1016/J.IJAR.2015.12.011","ee":"https://doi.org/10.1016/j.ijar.2015.12.011","url":"https://dblp.org/rec/journals/ijar/TalarposhtiSEGM16"},
+"url":"URL#2244015"
+},
+{
+"@score":"5",
+"@id":"2251918",
+"info":{"authors":{"author":[{"@pid":"32/8345","text":"Chung-Ho Su"},{"@pid":"26/5983-1","text":"Ching-Hsue Cheng 0001"}]},"title":"A hybrid fuzzy time series model based on ANFIS and integrated nonlinear feature selection method for forecasting stock.","venue":"Neurocomputing","volume":"205","pages":"264-273","year":"2016","type":"Journal Articles","access":"closed","key":"journals/ijon/SuC16","doi":"10.1016/J.NEUCOM.2016.03.068","ee":"https://doi.org/10.1016/j.neucom.2016.03.068","url":"https://dblp.org/rec/journals/ijon/SuC16"},
+"url":"URL#2251918"
+},
+{
+"@score":"5",
+"@id":"2253547",
+"info":{"authors":{"author":{"@pid":"195/7659","text":"Ruicheng Yang"}},"title":"Hybrid clustering technique of PCA-SM-GHSOM for abnormal and normal classification with quarterly financial ratios of listed TCM company sector.","venue":"Int. J. Simul. Process. Model.","volume":"11","number":"3/4","pages":"220-228","year":"2016","type":"Journal Articles","access":"closed","key":"journals/ijspm/Yang16","doi":"10.1504/IJSPM.2016.078502","ee":"https://doi.org/10.1504/IJSPM.2016.078502","url":"https://dblp.org/rec/journals/ijspm/Yang16"},
+"url":"URL#2253547"
+},
+{
+"@score":"5",
+"@id":"2269879",
+"info":{"authors":{"author":[{"@pid":"66/3984","text":"Deepak Kumar"},{"@pid":"144/8690","text":"Suraj S. Meghwani"},{"@pid":"72/3587","text":"Manoj Thakur"}]},"title":"Proximal support vector machine based hybrid prediction models for trend forecasting in financial markets.","venue":"J. Comput. Sci.","volume":"17","pages":"1-13","year":"2016","type":"Journal Articles","access":"closed","key":"journals/jocs/KumarMT16","doi":"10.1016/J.JOCS.2016.07.006","ee":"https://doi.org/10.1016/j.jocs.2016.07.006","url":"https://dblp.org/rec/journals/jocs/KumarMT16"},
+"url":"URL#2269879"
+},
+{
+"@score":"5",
+"@id":"2400091",
+"info":{"authors":{"author":[{"@pid":"61/3228","text":"Huijuan Zhang"},{"@pid":"54/5498","text":"Ruoying Sun"}]},"title":"Parameter analysis of hybrid intelligent model for the prediction of rare earth stock futures.","venue":"ICNC-FSKD","pages":"835-839","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/icnc/ZhangS16","doi":"10.1109/FSKD.2016.7603285","ee":"https://doi.org/10.1109/FSKD.2016.7603285","url":"https://dblp.org/rec/conf/icnc/ZhangS16"},
+"url":"URL#2400091"
+},
+{
+"@score":"5",
+"@id":"2544792",
+"info":{"authors":{"author":[{"@pid":"05/11156","text":"Georgios Sermpinis"},{"@pid":"121/5511","text":"Charalampos Stasinakis"},{"@pid":"19/8066","text":"Konstantinos A. Theofilatos"},{"@pid":"98/8484","text":"Andreas S. Karathanasopoulos"}]},"title":"Modeling, forecasting and trading the EUR exchange rates with hybrid rolling genetic algorithms - Support vector regression forecast combinations.","venue":"Eur. J. Oper. Res.","volume":"247","number":"3","pages":"831-846","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eor/SermpinisSTK15","doi":"10.1016/J.EJOR.2015.06.052","ee":"https://doi.org/10.1016/j.ejor.2015.06.052","url":"https://dblp.org/rec/journals/eor/SermpinisSTK15"},
+"url":"URL#2544792"
+},
+{
+"@score":"5",
+"@id":"2545274",
+"info":{"authors":{"author":[{"@pid":"77/5208","text":"Ricardo de A. Araújo"},{"@pid":"80/3742","text":"Adriano L. I. de Oliveira"},{"@pid":"m/SRdeLemosMeira","text":"Silvio Romero de Lemos Meira"}]},"title":"A hybrid model for high-frequency stock market forecasting.","venue":"Expert Syst. Appl.","volume":"42","number":"8","pages":"4081-4096","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eswa/AraujoOM15","doi":"10.1016/J.ESWA.2015.01.004","ee":"https://doi.org/10.1016/j.eswa.2015.01.004","url":"https://dblp.org/rec/journals/eswa/AraujoOM15"},
+"url":"URL#2545274"
+},
+{
+"@score":"5",
+"@id":"2545798",
+"info":{"authors":{"author":[{"@pid":"154/8355","text":"Akhter Mohiuddin Rather"},{"@pid":"97/3869","text":"Arun Agarwal"},{"@pid":"89/5270","text":"V. N. Sastry"}]},"title":"Recurrent neural network and a hybrid model for prediction of stock returns.","venue":"Expert Syst. Appl.","volume":"42","number":"6","pages":"3234-3241","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eswa/RatherAS15","doi":"10.1016/J.ESWA.2014.12.003","ee":"https://doi.org/10.1016/j.eswa.2014.12.003","url":"https://dblp.org/rec/journals/eswa/RatherAS15"},
+"url":"URL#2545798"
+},
+{
+"@score":"5",
+"@id":"2553520",
+"info":{"authors":{"author":[{"@pid":"154/4445","text":"Rajashree Dash"},{"@pid":"52/8632","text":"Pradipta Kishore Dash"},{"@pid":"41/10029","text":"Ranjeeta Bisoi"}]},"title":"A differential harmony search based hybrid interval type2 fuzzy EGARCH model for stock market volatility prediction.","venue":"Int. J. Approx. Reason.","volume":"59","pages":"81-104","year":"2015","type":"Journal Articles","access":"open","key":"journals/ijar/DashDB15","doi":"10.1016/J.IJAR.2015.02.001","ee":"https://doi.org/10.1016/j.ijar.2015.02.001","url":"https://dblp.org/rec/journals/ijar/DashDB15"},
+"url":"URL#2553520"
+},
+{
+"@score":"5",
+"@id":"2566084",
+"info":{"authors":{"author":[{"@pid":"71/3321","text":"Mu-Yen Chen"},{"@pid":"12/10108","text":"Bo-Tsuen Chen"}]},"title":"A hybrid fuzzy time series model based on granular computing for stock price forecasting.","venue":"Inf. Sci.","volume":"294","pages":"227-241","year":"2015","type":"Journal Articles","access":"closed","key":"journals/isci/ChenC15a","doi":"10.1016/J.INS.2014.09.038","ee":"https://doi.org/10.1016/j.ins.2014.09.038","url":"https://dblp.org/rec/journals/isci/ChenC15a"},
+"url":"URL#2566084"
+},
+{
+"@score":"5",
+"@id":"2583559",
+"info":{"authors":{"author":[{"@pid":"36/8491","text":"Kao-Yi Shen"},{"@pid":"32/2902","text":"Gwo-Hshiung Tzeng"}]},"title":"A new approach and insightful financial diagnoses for the IT industry based on a hybrid MADM model.","venue":"Knowl. Based Syst.","volume":"85","pages":"112-130","year":"2015","type":"Journal Articles","access":"closed","key":"journals/kbs/ShenT15","doi":"10.1016/J.KNOSYS.2015.04.024","ee":"https://doi.org/10.1016/j.knosys.2015.04.024","url":"https://dblp.org/rec/journals/kbs/ShenT15"},
+"url":"URL#2583559"
+},
+{
+"@score":"5",
+"@id":"2629344",
+"info":{"authors":{"author":{"@pid":"23/8479","text":"Shou-Hsiung Cheng"}},"title":"A Hybrid Predicting Stock Return Model Based on Logistic Stepwise Regression and CART Algorithm.","venue":"ACIIDS","pages":"624-633","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aciids/Cheng15","doi":"10.1007/978-3-319-15702-3_60","ee":"https://doi.org/10.1007/978-3-319-15702-3_60","url":"https://dblp.org/rec/conf/aciids/Cheng15"},
+"url":"URL#2629344"
+},
+{
+"@score":"5",
+"@id":"2641064",
+"info":{"authors":{"author":[{"@pid":"165/8756","text":"R. M. Kapila Tharanga Rathnayaka"},{"@pid":"165/8829","text":"D. M. K. N. Seneviratna"},{"@pid":"89/4446","text":"Jianguo Wei"},{"@pid":"175/8674","text":"Hasitha Indika Arumawadu"}]},"title":"A hybrid statistical approach for stock market forecasting based on Artificial Neural Network and ARIMA time series models.","venue":"BESC","pages":"54-60","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/besc/RathnayakaSWA15","doi":"10.1109/BESC.2015.7365958","ee":"https://doi.org/10.1109/BESC.2015.7365958","url":"https://dblp.org/rec/conf/besc/RathnayakaSWA15"},
+"url":"URL#2641064"
+},
+{
+"@score":"5",
+"@id":"2663409",
+"info":{"authors":{"author":[{"@pid":"160/9320","text":"Rapheal Olaniyan"},{"@pid":"49/3534","text":"Daniel Stamate"},{"@pid":"67/6427","text":"Lahcen Ouarbya"},{"@pid":"82/2429","text":"Doina Logofatu"}]},"title":"Sentiment and stock market volatility predictive modelling - A hybrid approach.","venue":"DSAA","pages":"1-10","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/dsaa/OlaniyanSOL15","doi":"10.1109/DSAA.2015.7344855","ee":"https://doi.org/10.1109/DSAA.2015.7344855","url":"https://dblp.org/rec/conf/dsaa/OlaniyanSOL15"},
+"url":"URL#2663409"
+},
+{
+"@score":"5",
+"@id":"2707081",
+"info":{"authors":{"author":[{"@pid":"157/2192","text":"Chia-Rong Su"},{"@pid":"157/2189","text":"Chang-Shu Tu"},{"@pid":"06/1387","text":"Ching-Ter Chang"}]},"title":"A hybrid model to resolve aircraft tractor supplier&apos;s selection problem from a financial perspective.","venue":"ICMLC","pages":"771-776","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/icmlc/SuTC15","doi":"10.1109/ICMLC.2015.7340652","ee":"https://doi.org/10.1109/ICMLC.2015.7340652","url":"https://dblp.org/rec/conf/icmlc/SuTC15"},
+"url":"URL#2707081"
+},
+{
+"@score":"5",
+"@id":"2762955",
+"info":{"authors":{"author":[{"@pid":"190/7969","text":"Dhanya Jothimani"},{"@pid":"61/4380-1","text":"Ravi Shankar 0001"},{"@pid":"16/11108","text":"Surendra S. Yadav"}]},"title":"A Hybrid EMD-ANN Model for Stock Price Prediction.","venue":"SEMCCO","pages":"60-70","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/semcco/JothimaniKY15","doi":"10.1007/978-3-319-48959-9_6","ee":"https://doi.org/10.1007/978-3-319-48959-9_6","url":"https://dblp.org/rec/conf/semcco/JothimaniKY15"},
+"url":"URL#2762955"
+},
+{
+"@score":"5",
+"@id":"2822569",
+"info":{"authors":{"author":[{"@pid":"59/5153","text":"Liang-Ying Wei"},{"@pid":"26/5983-1","text":"Ching-Hsue Cheng 0001"},{"@pid":"16/7240","text":"Hsin-Hung Wu"}]},"title":"A hybrid ANFIS based on n-period moving average model to forecast TAIEX stock.","venue":"Appl. Soft Comput.","volume":"19","pages":"86-92","year":"2014","type":"Journal Articles","access":"closed","key":"journals/asc/WeiCW14","doi":"10.1016/J.ASOC.2014.01.022","ee":"https://doi.org/10.1016/j.asoc.2014.01.022","url":"https://dblp.org/rec/journals/asc/WeiCW14"},
+"url":"URL#2822569"
+},
+{
+"@score":"5",
+"@id":"2881939",
+"info":{"authors":{"author":[{"@pid":"143/9689","text":"Ajit Kumar Rout"},{"@pid":"24/9322","text":"Birendra Biswal"},{"@pid":"52/8632","text":"Pradipta Kishore Dash"}]},"title":"A hybrid FLANN and adaptive differential evolution model for forecasting of stock market indices.","venue":"Int. J. Knowl. Based Intell. Eng. Syst.","volume":"18","number":"1","pages":"23-41","year":"2014","type":"Journal Articles","access":"closed","key":"journals/kes/RoutBD14","doi":"10.3233/KES-130283","ee":"https://doi.org/10.3233/KES-130283","url":"https://dblp.org/rec/journals/kes/RoutBD14"},
+"url":"URL#2881939"
+},
+{
+"@score":"5",
+"@id":"2969924",
+"info":{"authors":{"author":[{"@pid":"66/10779","text":"Michal Paluch"},{"@pid":"84/2822","text":"Lidia Jackowska-Strumillo"}]},"title":"The influence of using fractal analysis in hybrid MLP model for short-term forecast of closing prices on Warsaw Stock Exchange.","venue":"FedCSIS","pages":"111-118","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/fedcsis/PaluchJ14","doi":"10.15439/2014F358","ee":"https://doi.org/10.15439/2014F358","url":"https://dblp.org/rec/conf/fedcsis/PaluchJ14"},
+"url":"URL#2969924"
+},
+{
+"@score":"5",
+"@id":"3007552",
+"info":{"authors":{"author":{"@pid":"23/8479","text":"Shou-Hsiung Cheng"}},"title":"A Hybrid Predicting Stock Return Model Based on Bayesian Network and Decision Tree.","venue":"IEA/AIE","pages":"218-227","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/ieaaie/Cheng14","doi":"10.1007/978-3-319-07467-2_23","ee":"https://doi.org/10.1007/978-3-319-07467-2_23","url":"https://dblp.org/rec/conf/ieaaie/Cheng14"},
+"url":"URL#3007552"
+},
+{
+"@score":"5",
+"@id":"3151617",
+"info":{"authors":{"author":[{"@pid":"22/2000","text":"M. H. Fazel Zarandi"},{"@pid":"48/7616","text":"Marzie Zarinbal"},{"@pid":"122/4017","text":"N. Ghanbari"},{"@pid":"62/2850","text":"I. Burhan Türksen"}]},"title":"A new fuzzy functions model tuned by hybridizing imperialist competitive algorithm and simulated annealing. Application: Stock price prediction.","venue":"Inf. Sci.","volume":"222","pages":"213-228","year":"2013","type":"Journal Articles","access":"closed","key":"journals/isci/ZarandiZGT13","doi":"10.1016/J.INS.2012.08.002","ee":"https://doi.org/10.1016/j.ins.2012.08.002","url":"https://dblp.org/rec/journals/isci/ZarandiZGT13"},
+"url":"URL#3151617"
+},
+{
+"@score":"5",
+"@id":"3167588",
+"info":{"authors":{"author":[{"@pid":"92/4081","text":"Pankaj Gupta"},{"@pid":"36/6585","text":"Mukesh Kumar Mehlawat"},{"@pid":"46/1387","text":"Anand Saxena"}]},"title":"Hybrid optimization models of portfolio selection involving financial and ethical considerations.","venue":"Knowl. Based Syst.","volume":"37","pages":"318-337","year":"2013","type":"Journal Articles","access":"closed","key":"journals/kbs/GuptaMS13","doi":"10.1016/J.KNOSYS.2012.08.014","ee":"https://doi.org/10.1016/j.knosys.2012.08.014","url":"https://dblp.org/rec/journals/kbs/GuptaMS13"},
+"url":"URL#3167588"
+},
+{
+"@score":"5",
+"@id":"3208362",
+"info":{"authors":{"author":{"@pid":"23/8479","text":"Shou-Hsiung Cheng"}},"title":"A Stock Selective System by Using Hybrid Models of Classification.","venue":"ACIIDS","pages":"127-134","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/aciids/Cheng13","doi":"10.1007/978-3-642-36546-1_14","ee":"https://doi.org/10.1007/978-3-642-36546-1_14","url":"https://dblp.org/rec/conf/aciids/Cheng13"},
+"url":"URL#3208362"
+},
+{
+"@score":"5",
+"@id":"3290055",
+"info":{"authors":{"author":[{"@pid":"64/8371","text":"Yicun Ouyang"},{"@pid":"80/2742","text":"Hujun Yin"}]},"title":"Forecasting Financial Time Series Using a Hybrid Self-Organising Neural Model.","venue":"IDEAL","pages":"262-269","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/ideal/OuyangY13","doi":"10.1007/978-3-642-41278-3_32","ee":"https://doi.org/10.1007/978-3-642-41278-3_32","url":"https://dblp.org/rec/conf/ideal/OuyangY13"},
+"url":"URL#3290055"
+},
+{
+"@score":"5",
+"@id":"3316370",
+"info":{"authors":{"author":[{"@pid":"94/3756","text":"Dong Huang"},{"@pid":"91/952-1","text":"Xiaolong Wang 0001"},{"@pid":"85/3857","text":"Jia Fang"},{"@pid":"140/2414","text":"Shiwen Liu"},{"@pid":"140/2050","text":"Ronggang Dou"}]},"title":"A Hybrid Model Based on Neural Networks for Financial Time Series.","venue":"MICAI","pages":"97-102","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/micai/HuangWFLD13","doi":"10.1109/MICAI.2013.17","ee":"https://doi.org/10.1109/MICAI.2013.17","url":"https://dblp.org/rec/conf/micai/HuangWFLD13"},
+"url":"URL#3316370"
+},
+{
+"@score":"5",
+"@id":"3326329",
+"info":{"authors":{"author":[{"@pid":"29/4002","text":"Tiejun Wang"},{"@pid":"144/0959","text":"Qixu Gong"},{"@pid":"144/0927","text":"Wang Ren"},{"@pid":"62/6975","text":"Yanyan Wang"},{"@pid":"06/4082","text":"Xubin Luo"},{"@pid":"181/2689","text":"Qing Li"}]},"title":"A Sentiment-based Hybrid Model for Stock Return Forecasting.","venue":"PACIS","pages":"5","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/pacis/WangGRWLL13","ee":"http://aisel.aisnet.org/pacis2013/5","url":"https://dblp.org/rec/conf/pacis/WangGRWLL13"},
+"url":"URL#3326329"
+},
+{
+"@score":"5",
+"@id":"3384225",
+"info":{"authors":{"author":[{"@pid":"51/6441","text":"Satoshi Takahashi"},{"@pid":"84/5085","text":"Tokuro Matsuo"}]},"title":"An Efficient Trading Model for Hybrid Traders.","venue":"Appl. Artif. Intell.","volume":"26","number":"8","pages":"715-732","year":"2012","type":"Journal Articles","access":"closed","key":"journals/aai/TakahashiM12","doi":"10.1080/08839514.2012.713306","ee":"https://doi.org/10.1080/08839514.2012.713306","url":"https://dblp.org/rec/journals/aai/TakahashiM12"},
+"url":"URL#3384225"
+},
+{
+"@score":"5",
+"@id":"3389250",
+"info":{"authors":{"author":{"@pid":"09/41","text":"Chien-Feng Huang"}},"title":"A hybrid stock selection model using genetic algorithms and support vector regression.","venue":"Appl. Soft Comput.","volume":"12","number":"2","pages":"807-818","year":"2012","type":"Journal Articles","access":"closed","key":"journals/asc/Huang12a","doi":"10.1016/J.ASOC.2011.10.009","ee":"https://doi.org/10.1016/j.asoc.2011.10.009","url":"https://dblp.org/rec/journals/asc/Huang12a"},
+"url":"URL#3389250"
+},
+{
+"@score":"5",
+"@id":"3412077",
+"info":{"authors":{"author":[{"@pid":"11/6222","text":"Alina Barbulescu"},{"@pid":"87/2418","text":"Elena Bautu"}]},"title":"A hybrid approach for modeling financial time series.","venue":"Int. Arab J. Inf. Technol.","volume":"9","number":"4","pages":"327-335","year":"2012","type":"Journal Articles","access":"open","key":"journals/iajit/BarbulescuB12","ee":"http://iajit.org/index.php?option=com_content&amp;task=blogcategory&amp;id=81&amp;Itemid=327","url":"https://dblp.org/rec/journals/iajit/BarbulescuB12"},
+"url":"URL#3412077"
+},
+{
+"@score":"5",
+"@id":"3418252",
+"info":{"authors":{"author":[{"@pid":"12/5028","text":"Shun Li"},{"@pid":"30/8590","text":"Da Shi"},{"@pid":"04/5842","text":"Shaohua Tan"}]},"title":"Financial Data Modeling using a Hybrid Bayesian Network Structured Learning Algorithm.","venue":"Int. J. Cogn. Informatics Nat. Intell.","volume":"6","number":"1","pages":"48-71","year":"2012","type":"Journal Articles","access":"closed","key":"journals/ijcini/LiST12","doi":"10.4018/JCINI.2012010103","ee":"https://doi.org/10.4018/jcini.2012010103","url":"https://dblp.org/rec/journals/ijcini/LiST12"},
+"url":"URL#3418252"
+},
+{
+"@score":"5",
+"@id":"3554777",
+"info":{"authors":{"author":[{"@pid":"117/3009","text":"Paulo Henrique Kaupa"},{"@pid":"73/5099","text":"Renato José Sassi"},{"@pid":"117/3033","text":"Edinalva Batista Ramalho"}]},"title":"Hybrid Architecture to Predict Trends at Stock Exchange of São Paulo: Markowitz Model and a Multilayer Perceptron.","venue":"IDEAL","pages":"352-359","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/ideal/KaupaSR12","doi":"10.1007/978-3-642-32639-4_43","ee":"https://doi.org/10.1007/978-3-642-32639-4_43","url":"https://dblp.org/rec/conf/ideal/KaupaSR12"},
+"url":"URL#3554777"
+},
+{
+"@score":"5",
+"@id":"3635904",
+"info":{"authors":{"author":[{"@pid":"79/9033","text":"Mahesh Khadka"},{"@pid":"19/1143","text":"K. M. George"},{"@pid":"61/6775","text":"Nohpill Park"}]},"title":"Performance Analysis of Hybrid Forecasting Model In Stock Market Forecasting","venue":"CoRR","volume":"abs/1209.4608","year":"2012","type":"Informal Publications","access":"open","key":"journals/corr/abs-1209-4608","ee":"http://arxiv.org/abs/1209.4608","url":"https://dblp.org/rec/journals/corr/abs-1209-4608"},
+"url":"URL#3635904"
+},
+{
+"@score":"5",
+"@id":"3669566",
+"info":{"authors":{"author":[{"@pid":"59/5153","text":"Liang-Ying Wei"},{"@pid":"45/5557","text":"Tai-Liang Chen"},{"@pid":"00/6272","text":"Tien-Hwa Ho"}]},"title":"A hybrid model based on adaptive-network-based fuzzy inference system to forecast Taiwan stock market.","venue":"Expert Syst. Appl.","volume":"38","number":"11","pages":"13625-13631","year":"2011","type":"Journal Articles","access":"closed","key":"journals/eswa/WeiCH11","doi":"10.1016/J.ESWA.2011.04.127","ee":"https://doi.org/10.1016/j.eswa.2011.04.127","url":"https://dblp.org/rec/journals/eswa/WeiCH11"},
+"url":"URL#3669566"
+},
+{
+"@score":"5",
+"@id":"3780578",
+"info":{"authors":{"author":[{"@pid":"09/41","text":"Chien-Feng Huang"},{"@pid":"99/6898","text":"Chih-Hsiang Chang"},{"@pid":"56/1636","text":"Bao Rong Chang"},{"@pid":"47/10054","text":"Dun-Wei Cheng"}]},"title":"A study of a hybrid evolutionary fuzzy model for stock selection.","venue":"FUZZ-IEEE","pages":"210-217","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/fuzzIEEE/HuangCCC11","doi":"10.1109/FUZZY.2011.6007661","ee":"https://doi.org/10.1109/FUZZY.2011.6007661","url":"https://dblp.org/rec/conf/fuzzIEEE/HuangCCC11"},
+"url":"URL#3780578"
+},
+{
+"@score":"5",
+"@id":"3933300",
+"info":{"authors":{"author":[{"@pid":"26/5983-1","text":"Ching-Hsue Cheng 0001"},{"@pid":"45/5557","text":"Tai-Liang Chen"},{"@pid":"59/5153","text":"Liang-Ying Wei"}]},"title":"A hybrid model based on rough sets theory and genetic algorithms for stock price forecasting.","venue":"Inf. Sci.","volume":"180","number":"9","pages":"1610-1629","year":"2010","type":"Journal Articles","access":"closed","key":"journals/isci/ChengCW10","doi":"10.1016/J.INS.2010.01.014","ee":"https://doi.org/10.1016/j.ins.2010.01.014","url":"https://dblp.org/rec/journals/isci/ChengCW10"},
+"url":"URL#3933300"
+},
+{
+"@score":"5",
+"@id":"4020352",
+"info":{"authors":{"author":[{"@pid":"94/6542","text":"Dragan Simic"},{"@pid":"73/7076","text":"Vladeta Gajic"},{"@pid":"95/856","text":"Svetlana Simic"}]},"title":"An Approach of Bio-inspired Hybrid Model for Financial Markets.","venue":"HAIS","pages":"205-212","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/hais/SimicGS10","doi":"10.1007/978-3-642-13769-3_25","ee":"https://doi.org/10.1007/978-3-642-13769-3_25","url":"https://dblp.org/rec/conf/hais/SimicGS10"},
+"url":"URL#4020352"
+},
+{
+"@score":"5",
+"@id":"4143615",
+"info":{"authors":{"author":[{"@pid":"56/1690","text":"Kuang Yu Huang"},{"@pid":"84/7429","text":"Chuen-Jiuan Jane"}]},"title":"A hybrid model for stock market forecasting and portfolio selection based on ARX, grey system and RS theories.","venue":"Expert Syst. Appl.","volume":"36","number":"3","pages":"5387-5392","year":"2009","type":"Journal Articles","access":"closed","key":"journals/eswa/HuangJ09","doi":"10.1016/J.ESWA.2008.06.103","ee":"https://doi.org/10.1016/j.eswa.2008.06.103","url":"https://dblp.org/rec/journals/eswa/HuangJ09"},
+"url":"URL#4143615"
+},
+{
+"@score":"5",
+"@id":"4144251",
+"info":{"authors":{"author":{"@pid":"01/1036","text":"Yi-Hsien Wang"}},"title":"Nonlinear neural network forecasting model for stock index option price: Hybrid GJR-GARCH approach.","venue":"Expert Syst. Appl.","volume":"36","number":"1","pages":"564-570","year":"2009","type":"Journal Articles","access":"closed","key":"journals/eswa/Wang09","doi":"10.1016/J.ESWA.2007.09.056","ee":"https://doi.org/10.1016/j.eswa.2007.09.056","url":"https://dblp.org/rec/journals/eswa/Wang09"},
+"url":"URL#4144251"
+},
+{
+"@score":"5",
+"@id":"4211250",
+"info":{"authors":{"author":[{"@pid":"35/7092","text":"Wei Wang"},{"@pid":"72/4751","text":"Hong Zhao"},{"@pid":"72/872","text":"Qiang Li"},{"@pid":"94/2615","text":"Zhixiong Liu"}]},"title":"A Novel Hybrid Intelligent Model for Financial Time Series Forecasting and Its Application.","venue":"BIFE","pages":"279-282","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/bife/WangZLL09","doi":"10.1109/BIFE.2009.71","ee":"https://doi.org/10.1109/BIFE.2009.71","url":"https://dblp.org/rec/conf/bife/WangZLL09"},
+"url":"URL#4211250"
+},
+{
+"@score":"5",
+"@id":"4234273",
+"info":{"authors":{"author":[{"@pid":"53/1521","text":"Christophe Boucher"},{"@pid":"64/2760","text":"Bertrand Maillet"},{"@pid":"07/5941","text":"Paul Merlin"}]},"title":"A robust hybrid DHMM-MLP modelling of financial crises measured by the WhIMS.","venue":"ESANN","year":"2009","type":"Conference and Workshop Papers","access":"open","key":"conf/esann/BoucherMM09","ee":"https://www.esann.org/sites/default/files/proceedings/legacy/es2009-128.pdf","url":"https://dblp.org/rec/conf/esann/BoucherMM09"},
+"url":"URL#4234273"
+},
+{
+"@score":"5",
+"@id":"4363658",
+"info":{"authors":{"author":[{"@pid":"01/2181","text":"Shi-Ming Huang"},{"@pid":"69/6140","text":"Chih-Fong Tsai"},{"@pid":"03/4461","text":"David C. Yen"},{"@pid":"90/4519","text":"Yin-Lin Cheng"}]},"title":"A hybrid financial analysis model for business failure prediction.","venue":"Expert Syst. Appl.","volume":"35","number":"3","pages":"1034-1040","year":"2008","type":"Journal Articles","access":"closed","key":"journals/eswa/HuangTYC08","doi":"10.1016/J.ESWA.2007.08.040","ee":"https://doi.org/10.1016/j.eswa.2007.08.040","url":"https://dblp.org/rec/journals/eswa/HuangTYC08"},
+"url":"URL#4363658"
+},
+{
+"@score":"5",
+"@id":"4371112",
+"info":{"authors":{"author":[{"@pid":"01/1036","text":"Yi-Hsien Wang"},{"@pid":"30/3832","text":"Chin-Tsai Lin"}]},"title":"Forecasting volatility for the stock market: a new hybrid model.","venue":"Int. J. Comput. Math.","volume":"85","number":"11","pages":"1697-1707","year":"2008","type":"Journal Articles","access":"closed","key":"journals/ijcm/WangL08","doi":"10.1080/00207160701553375","ee":"https://doi.org/10.1080/00207160701553375","url":"https://dblp.org/rec/journals/ijcm/WangL08"},
+"url":"URL#4371112"
+},
+{
+"@score":"5",
+"@id":"4374241",
+"info":{"authors":{"author":[{"@pid":"156/9334","text":"Samreen Fatima"},{"@pid":"156/9335","text":"Ghulam Hussain"}]},"title":"Statistical models of KSE100 index using hybrid financial systems.","venue":"Neurocomputing","volume":"71","number":"13-15","pages":"2742-2746","year":"2008","type":"Journal Articles","access":"closed","key":"journals/ijon/FatimaH08","doi":"10.1016/J.NEUCOM.2007.11.044","ee":"https://doi.org/10.1016/j.neucom.2007.11.044","url":"https://dblp.org/rec/journals/ijon/FatimaH08"},
+"url":"URL#4374241"
+},
+{
+"@score":"5",
+"@id":"4467761",
+"info":{"authors":{"author":{"@pid":"69/5610","text":"Tetsuya Takaishi"}},"title":"Financial Time Series Analysis of SV Model by Hybrid Monte Carlo.","venue":"ICIC","pages":"929-936","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/icic/Takaishi08","doi":"10.1007/978-3-540-87442-3_114","ee":"https://doi.org/10.1007/978-3-540-87442-3_114","url":"https://dblp.org/rec/conf/icic/Takaishi08"},
+"url":"URL#4467761"
+},
+{
+"@score":"5",
+"@id":"4471802",
+"info":{"authors":{"author":[{"@pid":"59/6110","text":"Ying Sai"},{"@pid":"38/6933","text":"Shiwei Zhu"},{"@pid":"15/4777","text":"Tao Zhang"}]},"title":"Predicting Financial Distress of Chinese Listed Corporate by a Hybrid PCA-RBFNN Model.","venue":"ICNC","pages":"277-281","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/icnc/SaiZZ08","doi":"10.1109/ICNC.2008.778","ee":"https://doi.org/10.1109/ICNC.2008.778","url":"https://dblp.org/rec/conf/icnc/SaiZZ08"},
+"url":"URL#4471802"
+},
+{
+"@score":"5",
+"@id":"4478185",
+"info":{"authors":{"author":[{"@pid":"c/StephenYChen","text":"Stephen Chen 0001"},{"@pid":"23/4123","text":"Jonathan Tien"},{"@pid":"09/3434","text":"Brenda Spotton Visano"}]},"title":"A Hybrid Multi-agent Model for Financial Markets.","venue":"IEA/AIE","pages":"531-540","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/ieaaie/ChenTV08","doi":"10.1007/978-3-540-69052-8_56","ee":"https://doi.org/10.1007/978-3-540-69052-8_56","url":"https://dblp.org/rec/conf/ieaaie/ChenTV08"},
+"url":"URL#4478185"
+},
+{
+"@score":"5",
+"@id":"4531265",
+"info":{"authors":{"author":[{"@pid":"51/6441","text":"Satoshi Takahashi"},{"@pid":"84/5085","text":"Tokuro Matsuo"}]},"title":"An Approach to Efficient Trading Model of Hybrid Traders Based on Volume Discount.","venue":"New Challenges in Applied Intelligence Technologies","pages":"45-54","year":"2008","type":"Parts in Books or Collections","access":"closed","key":"series/sci/TakahashiM08","doi":"10.1007/978-3-540-79355-7_5","ee":"https://doi.org/10.1007/978-3-540-79355-7_5","url":"https://dblp.org/rec/series/sci/TakahashiM08"},
+"url":"URL#4531265"
+},
+{
+"@score":"5",
+"@id":"4639828",
+"info":{"authors":{"author":{"@pid":"45/684","text":"Falk Kohlmann"}},"title":"Service Modelling: A Hybrid Approach In Decomposed Financial Value Chains.","venue":"EMISA","pages":"205-218","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/emisa/Kohlmann07","ee":"https://dl.gi.de/20.500.12116/22186","url":"https://dblp.org/rec/conf/emisa/Kohlmann07"},
+"url":"URL#4639828"
+},
+{
+"@score":"5",
+"@id":"4703379",
+"info":{"authors":{"author":[{"@pid":"40/1460","text":"Xueshen Sui"},{"@pid":"30/2395","text":"Qinghua Hu"},{"@pid":"00/5168","text":"Daren Yu"},{"@pid":"50/2924","text":"Zongxia Xie"},{"@pid":"97/5779","text":"Zhongying Qi"}]},"title":"A Hybrid Method for Forecasting Stock Market Trend Using Soft-Thresholding De-noise Model and SVM.","venue":"RSFDGrC","pages":"387-394","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/rsfdgrc/SuiHYXQ07","doi":"10.1007/978-3-540-72530-5_46","ee":"https://doi.org/10.1007/978-3-540-72530-5_46","url":"https://dblp.org/rec/conf/rsfdgrc/SuiHYXQ07"},
+"url":"URL#4703379"
+},
+{
+"@score":"5",
+"@id":"4768545",
+"info":{"authors":{"author":[{"@pid":"76/1689","text":"Shunji Umetani"},{"@pid":"78/6637","text":"Mutsunori Yagiura"},{"@pid":"72/3560","text":"Toshihide Ibaraki"}]},"title":"One-Dimensional Cutting Stock Problem with a Given Number of Setups: A Hybrid Approach of Metaheuristics and Linear Programming.","venue":"J. Math. Model. Algorithms","volume":"5","number":"1","pages":"43-64","year":"2006","type":"Journal Articles","access":"closed","key":"journals/jmma/UmetaniYI06","doi":"10.1007/S10852-005-9031-0","ee":"https://doi.org/10.1007/s10852-005-9031-0","url":"https://dblp.org/rec/journals/jmma/UmetaniYI06"},
+"url":"URL#4768545"
+},
+{
+"@score":"5",
+"@id":"4992404",
+"info":{"authors":{"author":[{"@pid":"24/6295","text":"Yuehui Chen"},{"@pid":"a/AAbraham","text":"Ajith Abraham"},{"@pid":"64/5186","text":"Ju Yang"},{"@pid":"46/999-1","text":"Bo Yang 0001"}]},"title":"Hybrid Methods for Stock Index Modeling.","venue":"FSKD","pages":"1067-1070","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/fskd/ChenAYY05","doi":"10.1007/11540007_137","ee":"https://doi.org/10.1007/11540007_137","url":"https://dblp.org/rec/conf/fskd/ChenAYY05"},
+"url":"URL#4992404"
+},
+{
+"@score":"5",
+"@id":"5210337",
+"info":{"authors":{"author":[{"@pid":"74/1370","text":"Kanagaraj Krishna"},{"@pid":"27/7486","text":"Mohd. Aizani Bin Maarof"}]},"title":"A Hybrid Trust Management Model for MAS Based Trading Society.","venue":"Int. Arab J. Inf. Technol.","volume":"1","number":"0","year":"2003","type":"Journal Articles","access":"open","key":"journals/iajit/KrishnaM03","ee":"http://www.iajit.org/ABSTRACTS.htm#08","url":"https://dblp.org/rec/journals/iajit/KrishnaM03"},
+"url":"URL#5210337"
+},
+{
+"@score":"5",
+"@id":"5299589",
+"info":{"authors":{"author":[{"@pid":"91/5010","text":"David Al-Dabass"},{"@pid":"02/802-1","text":"David J. Evans 0001"},{"@pid":"44/4848","text":"Siva Sivayoganathan"}]},"title":"Signal Processing using Hybrid Recurrent Models for Data Mining Knowledge Discovery in Financial Trajectories.","venue":"SIP","pages":"456-460","year":"2003","type":"Conference and Workshop Papers","access":"closed","key":"conf/sip/Al-DabassES03","ee":"http://www.actapress.com/Abstract.aspx?paperId=15737","url":"https://dblp.org/rec/conf/sip/Al-DabassES03"},
+"url":"URL#5299589"
+},
+{
+"@score":"5",
+"@id":"5356081",
+"info":{"authors":{"author":[{"@pid":"53/3580-3","text":"Qing Zhang 0003"},{"@pid":"y/GangGeorgeYin","text":"George Yin 0001"}]},"title":"Hybrid stock-investment models and asset allocation.","venue":"CDC","pages":"389-394","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cdc/0003002","doi":"10.1109/CDC.2002.1184525","ee":"https://doi.org/10.1109/CDC.2002.1184525","url":"https://dblp.org/rec/conf/cdc/0003002"},
+"url":"URL#5356081"
+}
+]
+}
+}
+}

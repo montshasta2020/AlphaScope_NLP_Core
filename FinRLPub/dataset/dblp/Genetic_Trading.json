@@ -1,0 +1,554 @@
+{
+"result":{
+"query":"genetic* trading*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"13.35"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"89",
+"@dc":"87",
+"@oc":"89",
+"@id":"47204991",
+"text":"trading"
+}
+},
+"hits":{
+"@total":"87",
+"@computed":"87",
+"@sent":"87",
+"@first":"0",
+"hit":[{
+"@score":"3",
+"@id":"1878426",
+"info":{"authors":{"author":[{"@pid":"61/9605-2","text":"Young Min Kim 0002"},{"@pid":"199/5108","text":"Wonbin Ahn"},{"@pid":"35/3464","text":"Kyong Joo Oh"},{"@pid":"25/5857","text":"David Enke"}]},"title":"An intelligent hybrid trading system for discovering trading rules for the futures market using rough sets and genetic algorithms.","venue":"Appl. Soft Comput.","volume":"55","pages":"127-140","year":"2017","type":"Journal Articles","access":"closed","key":"journals/asc/KimAOE17","doi":"10.1016/J.ASOC.2017.02.006","ee":"https://doi.org/10.1016/j.asoc.2017.02.006","url":"https://dblp.org/rec/journals/asc/KimAOE17"},
+"url":"URL#1878426"
+},
+{
+"@score":"3",
+"@id":"4847745",
+"info":{"authors":{"author":[{"@pid":"87/1647","text":"Shu-Heng Chen"},{"@pid":"57/4628","text":"Nicolas Navet"}]},"title":"Pretests for Genetic-Programming Evolved Trading Programs: &quot;zero-intelligence&quot; Strategies and Lottery Trading.","venue":"ICONIP","pages":"450-460","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/iconip/ChenN06","doi":"10.1007/11893295_50","ee":"https://doi.org/10.1007/11893295_50","url":"https://dblp.org/rec/conf/iconip/ChenN06"},
+"url":"URL#4847745"
+},
+{
+"@score":"2",
+"@id":"284121",
+"info":{"authors":{"author":[{"@pid":"126/7843","text":"Alexander Loginov"},{"@pid":"35/5521","text":"Malcolm I. Heywood"},{"@pid":"15/4561","text":"Garnett Carl Wilson"}]},"title":"Stock selection heuristics for performing frequent intraday trading with genetic programming.","venue":"Genet. Program. Evolvable Mach.","volume":"22","number":"1","pages":"35-72","year":"2021","type":"Journal Articles","access":"closed","key":"journals/gpem/LoginovHW21","doi":"10.1007/S10710-020-09390-5","ee":"https://doi.org/10.1007/s10710-020-09390-5","url":"https://dblp.org/rec/journals/gpem/LoginovHW21"},
+"url":"URL#284121"
+},
+{
+"@score":"2",
+"@id":"483392",
+"info":{"authors":{"author":[{"@pid":"31/1762","text":"Chun-Hao Chen"},{"@pid":"302/9248","text":"Wei-Hsun Lai"},{"@pid":"93/2166","text":"Tzung-Pei Hong"}]},"title":"An Effective Correlation-Based Pair Trading Strategy Using Genetic Algorithms.","venue":"ICCCI","pages":"255-263","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccci/ChenLH21","doi":"10.1007/978-3-030-88081-1_19","ee":"https://doi.org/10.1007/978-3-030-88081-1_19","url":"https://dblp.org/rec/conf/iccci/ChenLH21"},
+"url":"URL#483392"
+},
+{
+"@score":"2",
+"@id":"688706",
+"info":{"authors":{"author":[{"@pid":"219/5112","text":"Kevin Michell V."},{"@pid":"140/1596","text":"Werner Kristjanpoller"}]},"title":"Strongly-typed genetic programming and fuzzy inference system: An embedded approach to model and generate trading rules.","venue":"Appl. Soft Comput.","volume":"90","pages":"106169","year":"2020","type":"Journal Articles","access":"closed","key":"journals/asc/VK20","doi":"10.1016/J.ASOC.2020.106169","ee":"https://doi.org/10.1016/j.asoc.2020.106169","url":"https://dblp.org/rec/journals/asc/VK20"},
+"url":"URL#688706"
+},
+{
+"@score":"2",
+"@id":"733083",
+"info":{"authors":{"author":{"@pid":"147/3678","text":"Monira Essa Aloud"}},"title":"An Intelligent Stock Trading Decision Support System Using the Genetic Algorithm.","venue":"Int. J. Decis. Support Syst. Technol.","volume":"12","number":"4","pages":"36-50","year":"2020","type":"Journal Articles","access":"closed","key":"journals/ijdsst/Aloud20","doi":"10.4018/IJDSST.2020100103","ee":"https://doi.org/10.4018/IJDSST.2020100103","url":"https://dblp.org/rec/journals/ijdsst/Aloud20"},
+"url":"URL#733083"
+},
+{
+"@score":"2",
+"@id":"807905",
+"info":{"authors":{"author":[{"@pid":"219/5112","text":"Kevin Michell V."},{"@pid":"140/1596","text":"Werner Kristjanpoller"}]},"title":"Generating trading rules on US Stock Market using strongly typed genetic programming.","venue":"Soft Comput.","volume":"24","number":"5","pages":"3257-3274","year":"2020","type":"Journal Articles","access":"closed","key":"journals/soco/VK20","doi":"10.1007/S00500-019-04085-1","ee":"https://doi.org/10.1007/s00500-019-04085-1","url":"https://dblp.org/rec/journals/soco/VK20"},
+"url":"URL#807905"
+},
+{
+"@score":"2",
+"@id":"865627",
+"info":{"authors":{"author":[{"@pid":"273/8327","text":"Felipe V. Cacique"},{"@pid":"73/6430","text":"Adriano C. M. Pereira"}]},"title":"Pattern searcher for decision making of trading agents using Genetic Algorithm.","venue":"CEC","pages":"1-8","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/CaciqueP20","doi":"10.1109/CEC48606.2020.9185704","ee":"https://doi.org/10.1109/CEC48606.2020.9185704","url":"https://dblp.org/rec/conf/cec/CaciqueP20"},
+"url":"URL#865627"
+},
+{
+"@score":"2",
+"@id":"1091509",
+"info":{"authors":{"author":[{"@pid":"31/1762","text":"Chun-Hao Chen"},{"@pid":"55/8206","text":"Yu-Hsuan Chen"},{"@pid":"41/912","text":"Jerry Chun-Wei Lin"},{"@pid":"20/1550","text":"Mu-En Wu"}]},"title":"An Effective Approach for Obtaining a Group Trading Strategy Portfolio Using Grouping Genetic Algorithm.","venue":"IEEE Access","volume":"7","pages":"7313-7325","year":"2019","type":"Journal Articles","access":"open","key":"journals/access/ChenCLW19","doi":"10.1109/ACCESS.2018.2889737","ee":"https://doi.org/10.1109/ACCESS.2018.2889737","url":"https://dblp.org/rec/journals/access/ChenCLW19"},
+"url":"URL#1091509"
+},
+{
+"@score":"2",
+"@id":"1154151",
+"info":{"authors":{"author":[{"@pid":"144/0853","text":"Viktor Manahov"},{"@pid":"234/8452","text":"Hanxiong Zhang"}]},"title":"Forecasting Financial Markets Using High-Frequency Trading Data: Examination with Strongly Typed Genetic Programming.","venue":"Int. J. Electron. Commer.","volume":"23","number":"1","pages":"12-32","year":"2019","type":"Journal Articles","access":"closed","key":"journals/ijecommerce/ManahovZ19","doi":"10.1080/10864415.2018.1512271","ee":"https://doi.org/10.1080/10864415.2018.1512271","url":"https://dblp.org/rec/journals/ijecommerce/ManahovZ19"},
+"url":"URL#1154151"
+},
+{
+"@score":"2",
+"@id":"1166768",
+"info":{"authors":{"author":[{"@pid":"147/3649","text":"Jason F. Nicholls"},{"@pid":"54/4063","text":"Andries P. Engelbrecht"}]},"title":"Co-evolved genetic programs for stock market trading.","venue":"Intell. Syst. Account. Finance Manag.","volume":"26","number":"3","pages":"117-136","year":"2019","type":"Journal Articles","access":"closed","key":"journals/isafm/NichollsE19","doi":"10.1002/ISAF.1458","ee":"https://doi.org/10.1002/isaf.1458","url":"https://dblp.org/rec/journals/isafm/NichollsE19"},
+"url":"URL#1166768"
+},
+{
+"@score":"2",
+"@id":"1382593",
+"info":{"authors":{"author":[{"@pid":"62/8582","text":"Riemann Ruiz-Cruz"},{"@pid":"261/2025","text":"Chelsi Sedano"},{"@pid":"46/9916","text":"Oscar Flores"}]},"title":"Genetic optimization of a trading algorithm based on pattern recognition.","venue":"LA-CCI","pages":"1-6","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/lacci/Ruiz-CruzSF19","doi":"10.1109/LA-CCI47412.2019.9037052","ee":"https://doi.org/10.1109/LA-CCI47412.2019.9037052","url":"https://dblp.org/rec/conf/lacci/Ruiz-CruzSF19"},
+"url":"URL#1382593"
+},
+{
+"@score":"2",
+"@id":"1639589",
+"info":{"authors":{"author":[{"@pid":"158/4530","text":"Andreea-Ingrid Funie"},{"@pid":"132/8141","text":"Paul Grigoras"},{"@pid":"139/5310","text":"Pavel Burovskiy"},{"@pid":"l/WayneLuk","text":"Wayne Luk"},{"@pid":"158/4570","text":"Mark Salmon"}]},"title":"Run-time Reconfigurable Acceleration for Genetic Programming Fitness Evaluation in Trading Strategies.","venue":"J. Signal Process. Syst.","volume":"90","number":"1","pages":"39-52","year":"2018","type":"Journal Articles","access":"open","key":"journals/vlsisp/FunieGBLS18","doi":"10.1007/S11265-017-1244-8","ee":"https://doi.org/10.1007/s11265-017-1244-8","url":"https://dblp.org/rec/journals/vlsisp/FunieGBLS18"},
+"url":"URL#1639589"
+},
+{
+"@score":"2",
+"@id":"1878266",
+"info":{"authors":{"author":[{"@pid":"07/325","text":"Ying-Hua Chang"},{"@pid":"194/4340","text":"Ming-Sheng Lee"}]},"title":"Incorporating Markov decision process on genetic algorithms to formulate trading strategies for stock markets.","venue":"Appl. Soft Comput.","volume":"52","pages":"1143-1153","year":"2017","type":"Journal Articles","access":"closed","key":"journals/asc/ChangL17","doi":"10.1016/J.ASOC.2016.09.016","ee":"https://doi.org/10.1016/j.asoc.2016.09.016","url":"https://dblp.org/rec/journals/asc/ChangL17"},
+"url":"URL#1878266"
+},
+{
+"@score":"2",
+"@id":"1921338",
+"info":{"authors":{"author":[{"@pid":"150/4091","text":"Steve Y. Yang"},{"@pid":"153/5165","text":"Sheung Yin Kevin Mo"},{"@pid":"153/5169","text":"Anqi Liu"},{"@pid":"30/2442","text":"Andrei Kirilenko"}]},"title":"Genetic programming optimization for a sentiment feedback strength based trading strategy.","venue":"Neurocomputing","volume":"264","pages":"29-41","year":"2017","type":"Journal Articles","access":"closed","key":"journals/ijon/YangMLK17","doi":"10.1016/J.NEUCOM.2016.10.103","ee":"https://doi.org/10.1016/j.neucom.2016.10.103","url":"https://dblp.org/rec/journals/ijon/YangMLK17"},
+"url":"URL#1921338"
+},
+{
+"@score":"2",
+"@id":"2049754",
+"info":{"authors":{"author":[{"@pid":"207/3650","text":"Dmitry Iskrich"},{"@pid":"191/3996","text":"Dmitry A. Grigoriev"}]},"title":"Generating long-term trading system rules using a genetic algorithm based on analyzing historical data.","venue":"FRUCT","pages":"91-97","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/fruct/IskrichG17","doi":"10.23919/FRUCT.2017.8071297","ee":"https://doi.org/10.23919/FRUCT.2017.8071297","url":"https://dblp.org/rec/conf/fruct/IskrichG17"},
+"url":"URL#2049754"
+},
+{
+"@score":"2",
+"@id":"2087902",
+"info":{"authors":{"author":[{"@pid":"207/4652","text":"Basit Tanvir Khan"},{"@pid":"36/7238","text":"Noman Javed"},{"@pid":"207/4664","text":"Ambreen Hanif"},{"@pid":"67/2011","text":"Muhammad Adil Raja"}]},"title":"Evolving Technical Trading Strategies Using Genetic Algorithms: A Case About Pakistan Stock Exchange.","venue":"IDEAL","pages":"335-344","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/ideal/KhanJHR17","doi":"10.1007/978-3-319-68935-7_37","ee":"https://doi.org/10.1007/978-3-319-68935-7_37","url":"https://dblp.org/rec/conf/ideal/KhanJHR17"},
+"url":"URL#2087902"
+},
+{
+"@score":"2",
+"@id":"2187435",
+"info":{"authors":{"author":[{"@pid":"166/3576","text":"Mogens Graf Plessen"},{"@pid":"27/1407","text":"Alberto Bemporad"}]},"title":"Stock Trading via Feedback Control: Stochastic Model Predictive or Genetic?","venue":"CoRR","volume":"abs/1708.08857","year":"2017","type":"Informal Publications","access":"open","key":"journals/corr/abs-1708-08857","ee":"http://arxiv.org/abs/1708.08857","url":"https://dblp.org/rec/journals/corr/abs-1708-08857"},
+"url":"URL#2187435"
+},
+{
+"@score":"2",
+"@id":"2233567",
+"info":{"authors":{"author":[{"@pid":"125/3075-2","text":"Hongguang Liu 0002"},{"@pid":"64/1129-1","text":"Ping Ji 0001"},{"@pid":"54/711","text":"Jian Jin"}]},"title":"Intra-Day Trading System Design Based on the Integrated Model of Wavelet De-Noise and Genetic Programming.","venue":"Entropy","volume":"18","number":"12","pages":"435","year":"2016","type":"Journal Articles","access":"open","key":"journals/entropy/LiuJJ16","doi":"10.3390/E18120435","ee":"https://doi.org/10.3390/e18120435","url":"https://dblp.org/rec/journals/entropy/LiuJJ16"},
+"url":"URL#2233567"
+},
+{
+"@score":"2",
+"@id":"2259391",
+"info":{"authors":{"author":[{"@pid":"88/2827","text":"Yan Chen"},{"@pid":"180/6967","text":"Zhihui Shi"}]},"title":"Generating Trading Rules for Stock Markets Using Robust Genetic Network Programming and Portfolio Beta.","venue":"J. Adv. Comput. Intell. Intell. Informatics","volume":"20","number":"3","pages":"484-491","year":"2016","type":"Journal Articles","access":"open","key":"journals/jaciii/ChenS16","doi":"10.20965/JACIII.2016.P0484","ee":"https://doi.org/10.20965/jaciii.2016.p0484","url":"https://dblp.org/rec/journals/jaciii/ChenS16"},
+"url":"URL#2259391"
+},
+{
+"@score":"2",
+"@id":"2323695",
+"info":{"authors":{"author":[{"@pid":"86/10089","text":"Richard Tymerski"},{"@pid":"174/7756","text":"Ethan Ott"},{"@pid":"35/4286","text":"Garrison W. Greenwood"}]},"title":"Genetic Algorithm Based Trading System Design.","venue":"ACALCI","pages":"360-373","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/acal/TymerskiOG16","doi":"10.1007/978-3-319-28270-1_30","ee":"https://doi.org/10.1007/978-3-319-28270-1_30","url":"https://dblp.org/rec/conf/acal/TymerskiOG16"},
+"url":"URL#2323695"
+},
+{
+"@score":"2",
+"@id":"2369983",
+"info":{"authors":{"author":[{"@pid":"23/2997","text":"Alexandros Agapitos"},{"@pid":"76/829","text":"Anthony Brabazon"},{"@pid":"61/6483-1","text":"Michael O&apos;Neill 0001"}]},"title":"Genetic Programming with Memory For Financial Trading.","venue":"EvoApplications","pages":"19-34","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/evoW/AgapitosBO16","doi":"10.1007/978-3-319-31204-0_2","ee":"https://doi.org/10.1007/978-3-319-31204-0_2","url":"https://dblp.org/rec/conf/evoW/AgapitosBO16"},
+"url":"URL#2369983"
+},
+{
+"@score":"2",
+"@id":"2431276",
+"info":{"authors":{"author":[{"@pid":"292/1449","text":"Suriya Yodphet"},{"@pid":"54/6856","text":"Sunisa Rimcharoen"},{"@pid":"88/4055","text":"Nutthanon Leelathakul"}]},"title":"LARG: Loss avoidance technical trading rules using genetic algorithm.","venue":"KST","pages":"33-38","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/kst/YodphetRL16","doi":"10.1109/KST.2016.7440513","ee":"https://doi.org/10.1109/KST.2016.7440513","url":"https://dblp.org/rec/conf/kst/YodphetRL16"},
+"url":"URL#2431276"
+},
+{
+"@score":"2",
+"@id":"2441698",
+"info":{"authors":{"author":[{"@pid":"195/1491","text":"Hosein Hamisheh Bahar"},{"@pid":"22/2000","text":"Mohammad Hossein Fazel Zarandi"},{"@pid":"20/105","text":"Akbar Esfahanipour"}]},"title":"Generating ternary stock trading signals using fuzzy genetic network programming.","venue":"NAFIPS","pages":"1-6","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/nafips/BaharZE16","doi":"10.1109/NAFIPS.2016.7851630","ee":"https://doi.org/10.1109/NAFIPS.2016.7851630","url":"https://dblp.org/rec/conf/nafips/BaharZE16"},
+"url":"URL#2441698"
+},
+{
+"@score":"2",
+"@id":"2523286",
+"info":{"authors":{"author":[{"@pid":"79/9344","text":"Somayeh Mousavi"},{"@pid":"20/105","text":"Akbar Esfahanipour"},{"@pid":"22/2000","text":"Mohammad Hossein Fazel Zarandi"}]},"title":"MGP-INTACTSKY: Multitree Genetic Programming-based learning of INTerpretable and ACcurate TSK sYstems for dynamic portfolio trading.","venue":"Appl. Soft Comput.","volume":"34","pages":"449-462","year":"2015","type":"Journal Articles","access":"closed","key":"journals/asc/MousaviEZ15","doi":"10.1016/J.ASOC.2015.05.021","ee":"https://doi.org/10.1016/j.asoc.2015.05.021","url":"https://dblp.org/rec/journals/asc/MousaviEZ15"},
+"url":"URL#2523286"
+},
+{
+"@score":"2",
+"@id":"2532027",
+"info":{"authors":{"author":[{"@pid":"09/41","text":"Chien-Feng Huang"},{"@pid":"169/3909","text":"Chi-Jen Hsu"},{"@pid":"80/5394","text":"Chi-Chung Chen"},{"@pid":"56/1636","text":"Bao Rong Chang"},{"@pid":"169/3907","text":"Chen-An Li"}]},"title":"An Intelligent Model for Pairs Trading Using Genetic Algorithms.","venue":"Comput. Intell. Neurosci.","volume":"2015","pages":"939606:1-939606:10","year":"2015","type":"Journal Articles","access":"unavailable","key":"journals/cin/HuangHCCL15","url":"https://dblp.org/rec/journals/cin/HuangHCCL15"},
+"url":"URL#2532027"
+},
+{
+"@score":"2",
+"@id":"2544375",
+"info":{"authors":{"author":[{"@pid":"88/2827","text":"Yan Chen"},{"@pid":"152/1945","text":"Xuancheng Wang"}]},"title":"A hybrid stock trading system using genetic network programming and mean conditional value-at-risk.","venue":"Eur. J. Oper. Res.","volume":"240","number":"3","pages":"861-871","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eor/ChenW15","doi":"10.1016/J.EJOR.2014.07.034","ee":"https://doi.org/10.1016/j.ejor.2014.07.034","url":"https://dblp.org/rec/journals/eor/ChenW15"},
+"url":"URL#2544375"
+},
+{
+"@score":"2",
+"@id":"2544792",
+"info":{"authors":{"author":[{"@pid":"05/11156","text":"Georgios Sermpinis"},{"@pid":"121/5511","text":"Charalampos Stasinakis"},{"@pid":"19/8066","text":"Konstantinos A. Theofilatos"},{"@pid":"98/8484","text":"Andreas S. Karathanasopoulos"}]},"title":"Modeling, forecasting and trading the EUR exchange rates with hybrid rolling genetic algorithms - Support vector regression forecast combinations.","venue":"Eur. J. Oper. Res.","volume":"247","number":"3","pages":"831-846","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eor/SermpinisSTK15","doi":"10.1016/J.EJOR.2015.06.052","ee":"https://doi.org/10.1016/j.ejor.2015.06.052","url":"https://dblp.org/rec/journals/eor/SermpinisSTK15"},
+"url":"URL#2544792"
+},
+{
+"@score":"2",
+"@id":"2674614",
+"info":{"authors":{"author":[{"@pid":"160/1708","text":"Jeremie Gypteau"},{"@pid":"45/4508","text":"Fernando E. B. Otero"},{"@pid":"38/8509","text":"Michael Kampouridis"}]},"title":"Generating Directional Change Based Trading Strategies with Genetic Programming.","venue":"EvoApplications","pages":"267-278","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/evoW/GypteauOK15","doi":"10.1007/978-3-319-16549-3_22","ee":"https://doi.org/10.1007/978-3-319-16549-3_22","url":"https://dblp.org/rec/conf/evoW/GypteauOK15"},
+"url":"URL#2674614"
+},
+{
+"@score":"2",
+"@id":"2715194",
+"info":{"authors":{"author":[{"@pid":"184/8284","text":"Sergio Luengo-Sanchez"},{"@pid":"w/StephanMWinkler","text":"Stephan M. Winkler"},{"@pid":"45/5258","text":"David F. Barrero"},{"@pid":"81/4617","text":"Bonifacio Castaño"}]},"title":"Optimization of Trading Rules for the Spanish Stock Market by Genetic Programming.","venue":"IEA/AIE","pages":"623-634","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/ieaaie/LuengoWBC15","doi":"10.1007/978-3-319-19066-2_60","ee":"https://doi.org/10.1007/978-3-319-19066-2_60","url":"https://dblp.org/rec/conf/ieaaie/LuengoWBC15"},
+"url":"URL#2715194"
+},
+{
+"@score":"2",
+"@id":"2790261",
+"info":{"authors":{"author":{"@pid":"76/7089","text":"Michael F. Korns"}},"title":"Trading Volatility Using Highly Accurate Symbolic Regression.","venue":"Handbook of Genetic Programming Applications","pages":"531-547","year":"2015","type":"Reference Works","access":"closed","key":"reference/genetic/Korns15","doi":"10.1007/978-3-319-20883-1_21","ee":"https://doi.org/10.1007/978-3-319-20883-1_21","url":"https://dblp.org/rec/reference/genetic/Korns15"},
+"url":"URL#2790261"
+},
+{
+"@score":"2",
+"@id":"2881751",
+"info":{"authors":{"author":[{"@pid":"79/9344","text":"Somayeh Mousavi"},{"@pid":"20/105","text":"Akbar Esfahanipour"},{"@pid":"22/2000","text":"Mohammad Hossein Fazel Zarandi"}]},"title":"A novel approach to dynamic portfolio trading system using multitree genetic programming.","venue":"Knowl. Based Syst.","volume":"66","pages":"68-81","year":"2014","type":"Journal Articles","access":"closed","key":"journals/kbs/MousaviEZ14","doi":"10.1016/J.KNOSYS.2014.04.018","ee":"https://doi.org/10.1016/j.knosys.2014.04.018","url":"https://dblp.org/rec/journals/kbs/MousaviEZ14"},
+"url":"URL#2881751"
+},
+{
+"@score":"2",
+"@id":"2999768",
+"info":{"authors":{"author":[{"@pid":"158/4530","text":"Andreea-Ingrid Funie"},{"@pid":"158/4570","text":"Mark Salmon"},{"@pid":"l/WayneLuk","text":"Wayne Luk"}]},"title":"A Hybrid Genetic-Programming Swarm-Optimisation Approach for Examining the Nature and Stability of High Frequency Trading Strategies.","venue":"ICMLA","pages":"29-34","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/icmla/FunieSL14","doi":"10.1109/ICMLA.2014.11","ee":"https://doi.org/10.1109/ICMLA.2014.11","url":"https://dblp.org/rec/conf/icmla/FunieSL14"},
+"url":"URL#2999768"
+},
+{
+"@score":"2",
+"@id":"3060574",
+"info":{"authors":{"author":[{"@pid":"42/3030","text":"Petr Kroha"},{"@pid":"76/1107","text":"Matthias Friedrich"}]},"title":"Comparison of Genetic Algorithms for Trading Strategies.","venue":"SOFSEM","pages":"383-394","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/sofsem/KrohaF14","doi":"10.1007/978-3-319-04298-5_34","ee":"https://doi.org/10.1007/978-3-319-04298-5_34","url":"https://dblp.org/rec/conf/sofsem/KrohaF14"},
+"url":"URL#3060574"
+},
+{
+"@score":"2",
+"@id":"3131706",
+"info":{"authors":{"author":[{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"65/4910","text":"Kotaro Hirasawa"},{"@pid":"86/1223","text":"Masanao Obayashi"},{"@pid":"74/1909","text":"Takashi Kuremoto"}]},"title":"Enhanced decision making mechanism of rule-based genetic network programming for creating stock trading signals.","venue":"Expert Syst. Appl.","volume":"40","number":"16","pages":"6311-6320","year":"2013","type":"Journal Articles","access":"closed","key":"journals/eswa/MabuHOK13","doi":"10.1016/J.ESWA.2013.05.037","ee":"https://doi.org/10.1016/j.eswa.2013.05.037","url":"https://dblp.org/rec/journals/eswa/MabuHOK13"},
+"url":"URL#3131706"
+},
+{
+"@score":"2",
+"@id":"3169660",
+"info":{"authors":{"author":[{"@pid":"58/3821","text":"Cain Evans"},{"@pid":"31/7715","text":"Konstantinos Pappas"},{"@pid":"80/6437","text":"Fatos Xhafa"}]},"title":"Utilizing artificial neural networks and genetic algorithms to build an algo-trading model for intra-day foreign exchange speculation.","venue":"Math. Comput. Model.","volume":"58","number":"5-6","pages":"1249-1266","year":"2013","type":"Journal Articles","access":"open","key":"journals/mcm/EvansPX13","doi":"10.1016/J.MCM.2013.02.002","ee":"https://doi.org/10.1016/j.mcm.2013.02.002","url":"https://dblp.org/rec/journals/mcm/EvansPX13"},
+"url":"URL#3169660"
+},
+{
+"@score":"2",
+"@id":"3411729",
+"info":{"authors":{"author":[{"@pid":"66/11295","text":"Luis Pedro Mendes"},{"@pid":"24/4465","text":"Pedro Godinho"},{"@pid":"44/1971","text":"Joana Dias"}]},"title":"A Forex trading system based on a genetic algorithm.","venue":"J. Heuristics","volume":"18","number":"4","pages":"627-656","year":"2012","type":"Journal Articles","access":"closed","key":"journals/heuristics/MendesGD12","doi":"10.1007/S10732-012-9201-Y","ee":"https://doi.org/10.1007/s10732-012-9201-y","url":"https://dblp.org/rec/journals/heuristics/MendesGD12"},
+"url":"URL#3411729"
+},
+{
+"@score":"2",
+"@id":"3429095",
+"info":{"authors":{"author":[{"@pid":"48/450","text":"Yang Yang"},{"@pid":"123/2981","text":"Zhaoping He"},{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"65/4910","text":"Kotaro Hirasawa"}]},"title":"A Cooperative Coevolutionary Stock Trading Model Using Genetic Network Programming-Sarsa.","venue":"J. Adv. Comput. Intell. Intell. Informatics","volume":"16","number":"5","pages":"581-590","year":"2012","type":"Journal Articles","access":"open","key":"journals/jaciii/YangHMH12","doi":"10.20965/JACIII.2012.P0581","ee":"https://doi.org/10.20965/jaciii.2012.p0581","url":"https://dblp.org/rec/journals/jaciii/YangHMH12"},
+"url":"URL#3429095"
+},
+{
+"@score":"2",
+"@id":"3491128",
+"info":{"authors":{"author":{"@pid":"86/1137","text":"Michael Mayo"}},"title":"Cartesian Genetic Programming for Trading: A Preliminary Investigation.","venue":"AusDM","pages":"149-156","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/ausdm/Mayo12","ee":"http://crpit.scem.westernsydney.edu.au/abstracts/CRPITV134Mayo.html","url":"https://dblp.org/rec/conf/ausdm/Mayo12"},
+"url":"URL#3491128"
+},
+{
+"@score":"2",
+"@id":"3552948",
+"info":{"authors":{"author":[{"@pid":"118/4969","text":"Rodrigo F. B. de Brito"},{"@pid":"80/3742","text":"Adriano L. I. Oliveira"}]},"title":"Comparative Study of FOREX Trading Systems Built with SVR+GHSOM and Genetic Algorithms Optimization of Technical Indicators.","venue":"ICTAI","pages":"351-358","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictai/BritoO12","doi":"10.1109/ICTAI.2012.55","ee":"https://doi.org/10.1109/ICTAI.2012.55","url":"https://dblp.org/rec/conf/ictai/BritoO12"},
+"url":"URL#3552948"
+},
+{
+"@score":"2",
+"@id":"3593402",
+"info":{"authors":{"author":[{"@pid":"87/3321","text":"Miguel Nicolau"},{"@pid":"61/6483-1","text":"Michael O&apos;Neill 0001"},{"@pid":"76/829","text":"Anthony Brabazon"}]},"title":"Applying Genetic Regulatory Networks to Index Trading.","venue":"PPSN","pages":"428-437","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/ppsn/NicolauOB12","doi":"10.1007/978-3-642-32964-7_43","ee":"https://doi.org/10.1007/978-3-642-32964-7_43","url":"https://dblp.org/rec/conf/ppsn/NicolauOB12"},
+"url":"URL#3593402"
+},
+{
+"@score":"2",
+"@id":"3622076",
+"info":{"authors":{"author":[{"@pid":"23/10769","text":"Shangkun Deng"},{"@pid":"37/3868","text":"Yizhou Sun"},{"@pid":"32/1494","text":"Akito Sakurai"}]},"title":"Robustness Test of Genetic Algorithm on Generating Rules for Currency Trading.","venue":"INNS-WC","pages":"86-98","year":"2012","type":"Conference and Workshop Papers","access":"open","key":"journals/procedia/DengSS12","doi":"10.1016/J.PROCS.2012.09.117","ee":"https://doi.org/10.1016/j.procs.2012.09.117","url":"https://dblp.org/rec/journals/procedia/DengSS12"},
+"url":"URL#3622076"
+},
+{
+"@score":"2",
+"@id":"3622493",
+"info":{"authors":{"author":[{"@pid":"115/9041","text":"Janko Straßburg"},{"@pid":"43/9636","text":"Christian González Martel"},{"@pid":"85/2901","text":"Vassil N. Alexandrov"}]},"title":"Parallel genetic algorithms for stock market trading rules.","venue":"ICCS","pages":"1306-1313","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"journals/procedia/StrassburgMA12","doi":"10.1016/J.PROCS.2012.04.143","ee":"https://doi.org/10.1016/j.procs.2012.04.143","url":"https://dblp.org/rec/journals/procedia/StrassburgMA12"},
+"url":"URL#3622493"
+},
+{
+"@score":"2",
+"@id":"3668493",
+"info":{"authors":{"author":[{"@pid":"20/105","text":"Akbar Esfahanipour"},{"@pid":"79/9344","text":"Somayeh Mousavi"}]},"title":"A genetic programming model to generate risk-adjusted technical trading rules in stock markets.","venue":"Expert Syst. Appl.","volume":"38","number":"7","pages":"8438-8445","year":"2011","type":"Journal Articles","access":"closed","key":"journals/eswa/EsfahanipourM11","doi":"10.1016/J.ESWA.2011.01.039","ee":"https://doi.org/10.1016/j.eswa.2011.01.039","url":"https://dblp.org/rec/journals/eswa/EsfahanipourM11"},
+"url":"URL#3668493"
+},
+{
+"@score":"2",
+"@id":"3688602",
+"info":{"authors":{"author":[{"@pid":"30/10086","text":"Yafei Xing"},{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"08/11246","text":"Lian Yuzhu"},{"@pid":"65/4910","text":"Kotaro Hirasawa"}]},"title":"Multi-Order Rules Extraction by Genetic Network Programming with Rule Accumulation and its Application to Stock Trading Problems.","venue":"J. Adv. Comput. Intell. Intell. Informatics","volume":"15","number":"5","pages":"515-524","year":"2011","type":"Journal Articles","access":"open","key":"journals/jaciii/XingMYH11","doi":"10.20965/JACIII.2011.P0515","ee":"https://doi.org/10.20965/jaciii.2011.p0515","url":"https://dblp.org/rec/journals/jaciii/XingMYH11"},
+"url":"URL#3688602"
+},
+{
+"@score":"2",
+"@id":"3688609",
+"info":{"authors":{"author":[{"@pid":"48/450","text":"Yang Yang"},{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"93/3389","text":"Jianhua Li"},{"@pid":"65/4910","text":"Kotaro Hirasawa"}]},"title":"Genetic Network Programming-Sarsa with Subroutines for Trading Rules on Stock Markets.","venue":"J. Adv. Comput. Intell. Intell. Informatics","volume":"15","number":"5","pages":"488-494","year":"2011","type":"Journal Articles","access":"open","key":"journals/jaciii/YangMLH11","doi":"10.20965/JACIII.2011.P0488","ee":"https://doi.org/10.20965/jaciii.2011.p0488","url":"https://dblp.org/rec/journals/jaciii/YangMLH11"},
+"url":"URL#3688609"
+},
+{
+"@score":"2",
+"@id":"3752607",
+"info":{"authors":{"author":[{"@pid":"38/8284","text":"Paulo Parracho"},{"@pid":"87/9882","text":"Rui Ferreira Neves"},{"@pid":"40/6389","text":"Nuno Horta"}]},"title":"Trading with optimized uptrend and downtrend pattern templates using a genetic algorithm kernel.","venue":"IEEE Congress on Evolutionary Computation","pages":"1895-1901","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/ParrachoNH11","doi":"10.1109/CEC.2011.5949846","ee":"https://doi.org/10.1109/CEC.2011.5949846","url":"https://dblp.org/rec/conf/cec/ParrachoNH11"},
+"url":"URL#3752607"
+},
+{
+"@score":"2",
+"@id":"3781313",
+"info":{"authors":{"author":[{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"65/4910","text":"Kotaro Hirasawa"}]},"title":"Enhanced rule extraction and classification mechanism of genetic network programming for stock trading signal generation.","venue":"GECCO","pages":"1659-1666","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/MabuH11","doi":"10.1145/2001576.2001800","ee":"https://doi.org/10.1145/2001576.2001800","url":"https://dblp.org/rec/conf/gecco/MabuH11"},
+"url":"URL#3781313"
+},
+{
+"@score":"2",
+"@id":"3781384",
+"info":{"authors":{"author":[{"@pid":"60/8359-2","text":"José Pinto 0002"},{"@pid":"87/9882","text":"Rui Ferreira Neves"},{"@pid":"40/6389","text":"Nuno Horta"}]},"title":"Fitness function evaluation for MA trading strategies based on genetic algorithms.","venue":"GECCO","pages":"819-820","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/PintoNH11","doi":"10.1145/2001858.2002105","ee":"https://doi.org/10.1145/2001858.2002105","url":"https://dblp.org/rec/conf/gecco/PintoNH11"},
+"url":"URL#3781384"
+},
+{
+"@score":"2",
+"@id":"3781541",
+"info":{"authors":{"author":[{"@pid":"15/4561","text":"Garnett Carl Wilson"},{"@pid":"66/9881","text":"Derek Leblanc"},{"@pid":"43/6150","text":"Wolfgang Banzhaf"}]},"title":"Stock trading using linear genetic programming with multiple time frames.","venue":"GECCO","pages":"1667-1674","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/WilsonLB11","doi":"10.1145/2001576.2001801","ee":"https://doi.org/10.1145/2001576.2001801","url":"https://dblp.org/rec/conf/gecco/WilsonLB11"},
+"url":"URL#3781541"
+},
+{
+"@score":"2",
+"@id":"3929983",
+"info":{"authors":{"author":[{"@pid":"20/105","text":"Akbar Esfahanipour"},{"@pid":"79/9344","text":"Somayeh Mousavi"}]},"title":"Genetic programming application to generate technical trading rules in stock markets.","venue":"Int. J. Reason. based Intell. Syst.","volume":"2","number":"3/4","pages":"244-250","year":"2010","type":"Journal Articles","access":"closed","key":"journals/ijris/EsfahanipourM10","doi":"10.1504/IJRIS.2010.036870","ee":"https://doi.org/10.1504/IJRIS.2010.036870","url":"https://dblp.org/rec/journals/ijris/EsfahanipourM10"},
+"url":"URL#3929983"
+},
+{
+"@score":"2",
+"@id":"3966791",
+"info":{"authors":{"author":[{"@pid":"57/5474","text":"Kazuhiro Matsui"},{"@pid":"26/3207","text":"Haruo Sato"}]},"title":"A Comparison of Genotype Representations to Acquire Stock Trading Strategy Using Genetic Algorithms.","venue":"Trans. Comput. Sci.","volume":"8","pages":"56-70","year":"2010","type":"Journal Articles","access":"closed","key":"journals/tcos/MatsuiS10","doi":"10.1007/978-3-642-16236-7_4","ee":"https://doi.org/10.1007/978-3-642-16236-7_4","url":"https://dblp.org/rec/journals/tcos/MatsuiS10"},
+"url":"URL#3966791"
+},
+{
+"@score":"2",
+"@id":"4016506",
+"info":{"authors":{"author":[{"@pid":"38/8284","text":"Paulo Parracho"},{"@pid":"87/9882","text":"Rui Ferreira Neves"},{"@pid":"40/6389","text":"Nuno Horta"}]},"title":"Trading in financial markets using pattern recognition optimized by genetic algorithms.","venue":"GECCO","pages":"2105-2106","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/ParrachoNH10","doi":"10.1145/1830761.1830884","ee":"https://doi.org/10.1145/1830761.1830884","url":"https://dblp.org/rec/conf/gecco/ParrachoNH10"},
+"url":"URL#4016506"
+},
+{
+"@score":"2",
+"@id":"4016610",
+"info":{"authors":{"author":[{"@pid":"15/4561","text":"Garnett Carl Wilson"},{"@pid":"43/6150","text":"Wolfgang Banzhaf"}]},"title":"Interday foreign exchange trading using linear genetic programming.","venue":"GECCO","pages":"1139-1146","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/WilsonB10","doi":"10.1145/1830483.1830694","ee":"https://doi.org/10.1145/1830483.1830694","url":"https://dblp.org/rec/conf/gecco/WilsonB10"},
+"url":"URL#4016610"
+},
+{
+"@score":"2",
+"@id":"4049467",
+"info":{"authors":{"author":[{"@pid":"64/6143","text":"Ming Zhu"},{"@pid":"56/1348","text":"Lipo Wang"}]},"title":"Intelligent trading using support vector regression and multilayer perceptrons optimized with genetic algorithms.","venue":"IJCNN","pages":"1-5","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/ZhuW10","doi":"10.1109/IJCNN.2010.5596301","ee":"https://doi.org/10.1109/IJCNN.2010.5596301","url":"https://dblp.org/rec/conf/ijcnn/ZhuW10"},
+"url":"URL#4049467"
+},
+{
+"@score":"2",
+"@id":"4089497",
+"info":{"authors":{"author":[{"@pid":"57/5474","text":"Kazuhiro Matsui"},{"@pid":"26/3207","text":"Haruo Sato"}]},"title":"Neighborhood evaluation in acquiring stock trading strategy using genetic algorithms.","venue":"SoCPaR","pages":"369-372","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/socpar/MatsuiS10","doi":"10.1109/SOCPAR.2010.5686733","ee":"https://doi.org/10.1109/SOCPAR.2010.5686733","url":"https://dblp.org/rec/conf/socpar/MatsuiS10"},
+"url":"URL#4089497"
+},
+{
+"@score":"2",
+"@id":"4143319",
+"info":{"authors":{"author":[{"@pid":"88/2827-8","text":"Yan Chen 0008"},{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"11/3108","text":"Kaoru Shimada"},{"@pid":"65/4910","text":"Kotaro Hirasawa"}]},"title":"A genetic network programming with learning approach for enhanced stock trading model.","venue":"Expert Syst. Appl.","volume":"36","number":"10","pages":"12537-12546","year":"2009","type":"Journal Articles","access":"closed","key":"journals/eswa/ChenMSH09","doi":"10.1016/J.ESWA.2009.05.054","ee":"https://doi.org/10.1016/j.eswa.2009.05.054","url":"https://dblp.org/rec/journals/eswa/ChenMSH09"},
+"url":"URL#4143319"
+},
+{
+"@score":"2",
+"@id":"4242416",
+"info":{"authors":{"author":[{"@pid":"32/7184","text":"Akinori Hirabayashi"},{"@pid":"127/1918","text":"Claus de Castro Aranha"},{"@pid":"58/2239","text":"Hitoshi Iba"}]},"title":"Optimization of the trading rule in foreign exchange using genetic algorithm.","venue":"GECCO","pages":"1529-1536","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/HirabayashiAI09","doi":"10.1145/1569901.1570106","ee":"https://doi.org/10.1145/1569901.1570106","url":"https://dblp.org/rec/conf/gecco/HirabayashiAI09"},
+"url":"URL#4242416"
+},
+{
+"@score":"2",
+"@id":"4293520",
+"info":{"authors":{"author":[{"@pid":"66/7966","text":"Dome Lohpetch"},{"@pid":"c/DavidWCorne","text":"David Corne"}]},"title":"Discovering Effective Technical Trading Rules with Genetic Programming: Towards Robustly Outperforming Buy-and-Hold.","venue":"NaBIC","pages":"439-444","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/nabic/LohpetchC09","doi":"10.1109/NABIC.2009.5393324","ee":"https://doi.org/10.1109/NABIC.2009.5393324","url":"https://dblp.org/rec/conf/nabic/LohpetchC09"},
+"url":"URL#4293520"
+},
+{
+"@score":"2",
+"@id":"4378896",
+"info":{"authors":{"author":[{"@pid":"88/2827-8","text":"Yan Chen 0008"},{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"11/3108","text":"Kaoru Shimada"},{"@pid":"65/4910","text":"Kotaro Hirasawa"}]},"title":"Trading Rules on Stock Markets Using Genetic Network Programming with Sarsa Learning.","venue":"J. Adv. Comput. Intell. Intell. Informatics","volume":"12","number":"4","pages":"383-392","year":"2008","type":"Journal Articles","access":"open","key":"journals/jaciii/ChenMSH08","doi":"10.20965/JACIII.2008.P0383","ee":"https://doi.org/10.20965/jaciii.2008.p0383","url":"https://dblp.org/rec/journals/jaciii/ChenMSH08"},
+"url":"URL#4378896"
+},
+{
+"@score":"2",
+"@id":"4453626",
+"info":{"authors":{"author":[{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"88/2827-8","text":"Yan Chen 0008"},{"@pid":"47/2581","text":"Etsushi Ohkawa"},{"@pid":"65/4910","text":"Kotaro Hirasawa"}]},"title":"Stock trading strategies by genetic network programming with flag nodes.","venue":"GECCO","pages":"1709-1710","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/MabuCOH08","doi":"10.1145/1389095.1389421","ee":"https://doi.org/10.1145/1389095.1389421","url":"https://dblp.org/rec/conf/gecco/MabuCOH08"},
+"url":"URL#4453626"
+},
+{
+"@score":"2",
+"@id":"4546391",
+"info":{"authors":{"author":[{"@pid":"22/1644","text":"Tomoharu Nakashima"},{"@pid":"72/6306","text":"Yasuyuki Yokota"},{"@pid":"279/7681","text":"Yukio Shoji"},{"@pid":"i/HisaoIshibuchi","text":"Hisao Ishibuchi"}]},"title":"A genetic approach to the design of autonomous agents for futures trading.","venue":"Artif. Life Robotics","volume":"11","number":"2","pages":"145-148","year":"2007","type":"Journal Articles","access":"closed","key":"journals/alr/NakashimaYSI07","doi":"10.1007/S10015-007-0418-Z","ee":"https://doi.org/10.1007/s10015-007-0418-z","url":"https://dblp.org/rec/journals/alr/NakashimaYSI07"},
+"url":"URL#4546391"
+},
+{
+"@score":"2",
+"@id":"4563987",
+"info":{"authors":{"author":{"@pid":"03/6390","text":"Laura Núñez-Letamendia"}},"title":"Fitting the control parameters of a genetic algorithm: An application to technical trading systems design.","venue":"Eur. J. Oper. Res.","volume":"179","number":"3","pages":"847-868","year":"2007","type":"Journal Articles","access":"closed","key":"journals/eor/Nunez-Letamendia07","doi":"10.1016/J.EJOR.2005.03.067","ee":"https://doi.org/10.1016/j.ejor.2005.03.067","url":"https://dblp.org/rec/journals/eor/Nunez-Letamendia07"},
+"url":"URL#4563987"
+},
+{
+"@score":"2",
+"@id":"4588829",
+"info":{"authors":{"author":[{"@pid":"89/9584","text":"Stephanos Papadamou"},{"@pid":"69/2983","text":"George Stephanides"}]},"title":"Improving technical trading systems by using a new MATLAB-based genetic algorithm procedure.","venue":"Math. Comput. Model.","volume":"46","number":"1-2","pages":"189-197","year":"2007","type":"Journal Articles","access":"open","key":"journals/mcm/PapadamouS07","doi":"10.1016/J.MCM.2006.12.033","ee":"https://doi.org/10.1016/j.mcm.2006.12.033","url":"https://dblp.org/rec/journals/mcm/PapadamouS07"},
+"url":"URL#4588829"
+},
+{
+"@score":"2",
+"@id":"4627692",
+"info":{"authors":{"author":[{"@pid":"88/2827-8","text":"Yan Chen 0008"},{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"65/4910","text":"Kotaro Hirasawa"},{"@pid":"85/4419","text":"Jinglu Hu"}]},"title":"Genetic network programming with sarsa learning and its application to creating stock trading rules.","venue":"IEEE Congress on Evolutionary Computation","pages":"220-227","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/ChenMHH07","doi":"10.1109/CEC.2007.4424475","ee":"https://doi.org/10.1109/CEC.2007.4424475","url":"https://dblp.org/rec/conf/cec/ChenMHH07"},
+"url":"URL#4627692"
+},
+{
+"@score":"2",
+"@id":"4627948",
+"info":{"authors":{"author":[{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"88/2827-8","text":"Yan Chen 0008"},{"@pid":"65/4910","text":"Kotaro Hirasawa"},{"@pid":"85/4419","text":"Jinglu Hu"}]},"title":"Stock trading rules using genetic network programming with actor-critic.","venue":"IEEE Congress on Evolutionary Computation","pages":"508-515","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/MabuCHH07","doi":"10.1109/CEC.2007.4424513","ee":"https://doi.org/10.1109/CEC.2007.4424513","url":"https://dblp.org/rec/conf/cec/MabuCHH07"},
+"url":"URL#4627948"
+},
+{
+"@score":"2",
+"@id":"4646904",
+"info":{"authors":{"author":[{"@pid":"88/2827-8","text":"Yan Chen 0008"},{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"65/4910","text":"Kotaro Hirasawa"},{"@pid":"85/4419","text":"Jinglu Hu"}]},"title":"Trading rules on stock markets using genetic network programming with sarsa learning.","venue":"GECCO","pages":"1503","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/ChenMHH07","doi":"10.1145/1276958.1277232","ee":"https://doi.org/10.1145/1276958.1277232","url":"https://dblp.org/rec/conf/gecco/ChenMHH07"},
+"url":"URL#4646904"
+},
+{
+"@score":"2",
+"@id":"4647141",
+"info":{"authors":{"author":[{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"88/2827-8","text":"Yan Chen 0008"},{"@pid":"65/4910","text":"Kotaro Hirasawa"},{"@pid":"85/4419","text":"Jinglu Hu"}]},"title":"Genetic network programming with actor-critic and its application to stock trading model.","venue":"GECCO","pages":"2263","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/MabuCHH07","doi":"10.1145/1276958.1277398","ee":"https://doi.org/10.1145/1276958.1277398","url":"https://dblp.org/rec/conf/gecco/MabuCHH07"},
+"url":"URL#4647141"
+},
+{
+"@score":"2",
+"@id":"4810328",
+"info":{"authors":{"author":[{"@pid":"144/3151","text":"Yoshihiro Izumi"},{"@pid":"144/3181","text":"Tokiyo Yamaguchi"},{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"65/4910","text":"Kotaro Hirasawa"},{"@pid":"144/3127","text":"Jingle Hu"}]},"title":"Trading Rules on the Stock Markets using Genetic Network Programming with Candlestick Chart.","venue":"IEEE Congress on Evolutionary Computation","pages":"2362-2367","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/IzumiYMHH06","doi":"10.1109/CEC.2006.1688600","ee":"https://doi.org/10.1109/CEC.2006.1688600","url":"https://dblp.org/rec/conf/cec/IzumiYMHH06"},
+"url":"URL#4810328"
+},
+{
+"@score":"2",
+"@id":"4868768",
+"info":{"authors":{"author":[{"@pid":"38/3","text":"Meng-Feng Yen"},{"@pid":"66/5587","text":"Tsung-Nan Chou"},{"@pid":"40/4892","text":"Ying-Yue Ho"}]},"title":"Inter-Commodity Spread Trading Using Neural Network and Genetic Programming Techniques.","venue":"JCIS","year":"2006","type":"Conference and Workshop Papers","access":"open","key":"conf/jcis/YenCH06","doi":"10.2991/JCIS.2006.165","ee":"https://doi.org/10.2991/jcis.2006.165","url":"https://dblp.org/rec/conf/jcis/YenCH06"},
+"url":"URL#4868768"
+},
+{
+"@score":"2",
+"@id":"5072080",
+"info":{"authors":{"author":[{"@pid":"31/2674","text":"Jean-Yves Potvin"},{"@pid":"79/4943","text":"Patrick Soriano"},{"@pid":"17/2253","text":"Maxime Vallée"}]},"title":"Generating trading rules on the stock markets with genetic programming.","venue":"Comput. Oper. Res.","volume":"31","number":"7","pages":"1033-1047","year":"2004","type":"Journal Articles","access":"closed","key":"journals/cor/PotvinSV04","doi":"10.1016/S0305-0548(03)00063-7","ee":"https://doi.org/10.1016/S0305-0548(03)00063-7","url":"https://dblp.org/rec/journals/cor/PotvinSV04"},
+"url":"URL#5072080"
+},
+{
+"@score":"2",
+"@id":"5083202",
+"info":{"authors":{"author":[{"@pid":"91/3386","text":"Andrei Hryshko"},{"@pid":"64/3941","text":"Tom Downs"}]},"title":"System for foreign exchange trading using genetic algorithms and reinforcement learning.","venue":"Int. J. Syst. Sci.","volume":"35","number":"13-14","pages":"763-774","year":"2004","type":"Journal Articles","access":"closed","key":"journals/ijsysc/HryshkoD04","doi":"10.1080/00207720412331303697","ee":"https://doi.org/10.1080/00207720412331303697","url":"https://dblp.org/rec/journals/ijsysc/HryshkoD04"},
+"url":"URL#5083202"
+},
+{
+"@score":"2",
+"@id":"5120252",
+"info":{"authors":{"author":{"@pid":"72/3603","text":"Serge Hayward"}},"title":"Setting up performance surface of an artificial neural network with genetic algorithm optimization: in search of an accurate and profitable prediction of stock trading.","venue":"IEEE Congress on Evolutionary Computation","pages":"948-954","year":"2004","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/Hayward04","doi":"10.1109/CEC.2004.1330963","ee":"https://doi.org/10.1109/CEC.2004.1330963","url":"https://dblp.org/rec/conf/cec/Hayward04"},
+"url":"URL#5120252"
+},
+{
+"@score":"2",
+"@id":"5138622",
+"info":{"authors":{"author":[{"@pid":"58/6757","text":"Cyril Schoreels"},{"@pid":"81/6813","text":"Brian Logan 0001"},{"@pid":"97/4637","text":"Jonathan M. Garibaldi"}]},"title":"Agent based Genetic Algorithm Employing Financial Technical Analysis for Making Trading Decisions Using Historical Equity Market Data.","venue":"IAT","pages":"421-424","year":"2004","type":"Conference and Workshop Papers","access":"closed","key":"conf/iat/SchoreelsLG04","doi":"10.1109/IAT.2004.1342986","ee":"https://doi.org/10.1109/IAT.2004.1342986","url":"https://dblp.org/rec/conf/iat/SchoreelsLG04"},
+"url":"URL#5138622"
+},
+{
+"@score":"2",
+"@id":"5249692",
+"info":{"authors":{"author":[{"@pid":"91/3386","text":"Andrei Hryshko"},{"@pid":"64/3941","text":"Tom Downs"}]},"title":"An implementation of genetic algorithms as a basis for a trading system on the foreign exchange market.","venue":"IEEE Congress on Evolutionary Computation","pages":"1695-1701","year":"2003","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/HryshkoD03","doi":"10.1109/CEC.2003.1299877","ee":"https://doi.org/10.1109/CEC.2003.1299877","url":"https://dblp.org/rec/conf/cec/HryshkoD03"},
+"url":"URL#5249692"
+},
+{
+"@score":"2",
+"@id":"5251020",
+"info":{"authors":{"author":[{"@pid":"85/6059","text":"H. S. Ng"},{"@pid":"75/6651","text":"K. P. Lam"},{"@pid":"150/2263","text":"S. S. Lam"}]},"title":"Incremental genetic fuzzy expert trading system for derivatives market timing.","venue":"CIFEr","pages":"421-427","year":"2003","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/NgLL03","doi":"10.1109/CIFER.2003.1196291","ee":"https://doi.org/10.1109/CIFER.2003.1196291","url":"https://dblp.org/rec/conf/cifer/NgLL03"},
+"url":"URL#5251020"
+},
+{
+"@score":"2",
+"@id":"5357238",
+"info":{"authors":{"author":[{"@pid":"95/4654","text":"Nils Svangård"},{"@pid":"05/2572","text":"Peter Nordin"},{"@pid":"148/0971","text":"Stefan Lloyd"},{"@pid":"309/0271","text":"Clas Wihlborg"}]},"title":"Evolving short-term trading strategies using genetic programming.","venue":"IEEE Congress on Evolutionary Computation","pages":"2006-2010","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/SvangardNLW02","doi":"10.1109/CEC.2002.1004551","ee":"https://doi.org/10.1109/CEC.2002.1004551","url":"https://dblp.org/rec/conf/cec/SvangardNLW02"},
+"url":"URL#5357238"
+},
+{
+"@score":"2",
+"@id":"5373019",
+"info":{"authors":{"author":{"@pid":"86/6865","text":"Clive Vassell"}},"title":"Genetic Commerce - Intelligent Share Trading.","venue":"International Conference on Computational Science","pages":"1032-1041","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccS/Vassell02","doi":"10.1007/3-540-47789-6_109","ee":"https://doi.org/10.1007/3-540-47789-6_109","url":"https://dblp.org/rec/conf/iccS/Vassell02"},
+"url":"URL#5373019"
+},
+{
+"@score":"2",
+"@id":"5397496",
+"info":{"authors":{"author":[{"@pid":"95/4654","text":"Nils Svangård"},{"@pid":"05/2572","text":"Peter Nordin"},{"@pid":"148/0971","text":"Stefan Lloyd"}]},"title":"Using SIMD Genetic Programming for Fault-Tolerant Trading Strategies.","venue":"SEAL","pages":"61-77","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/seal/SvangardNL02","doi":"10.1142/9789812561794_0004","ee":"https://doi.org/10.1142/9789812561794_0004","url":"https://dblp.org/rec/conf/seal/SvangardNL02"},
+"url":"URL#5397496"
+},
+{
+"@score":"2",
+"@id":"5418993",
+"info":{"authors":{"author":[{"@pid":"59/2790","text":"Ren Jie Kuo"},{"@pid":"20/2532","text":"C. H. Chen"},{"@pid":"37/3494","text":"Y. C. Hwang"}]},"title":"An intelligent stock trading decision support system through integration of genetic algorithm based fuzzy neural network and artificial neural network.","venue":"Fuzzy Sets Syst.","volume":"118","number":"1","pages":"21-45","year":"2001","type":"Journal Articles","access":"closed","key":"journals/fss/KuoCH01","doi":"10.1016/S0165-0114(98)00399-6","ee":"https://doi.org/10.1016/S0165-0114(98)00399-6","url":"https://dblp.org/rec/journals/fss/KuoCH01"},
+"url":"URL#5418993"
+},
+{
+"@score":"2",
+"@id":"5475429",
+"info":{"authors":{"author":[{"@pid":"54/434","text":"Rikiya Fukumoto"},{"@pid":"25/5572","text":"Hajime Kita"}]},"title":"A Multi-objective Genetic Algorithm Approach to Construction of Trading Agents for Artificial Market Study.","venue":"JSAI Workshops","pages":"132-141","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/jsai/FukumotoK01","doi":"10.1007/3-540-45548-5_16","ee":"https://doi.org/10.1007/3-540-45548-5_16","url":"https://dblp.org/rec/conf/jsai/FukumotoK01"},
+"url":"URL#5475429"
+},
+{
+"@score":"2",
+"@id":"5533378",
+"info":{"authors":{"author":{"@pid":"147/5603","text":"Dennis Ettes"}},"title":"Trading the stock markets using genetic fuzzy modeling.","venue":"CIFEr","pages":"22-25","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/Ettes00","doi":"10.1109/CIFER.2000.844591","ee":"https://doi.org/10.1109/CIFER.2000.844591","url":"https://dblp.org/rec/conf/cifer/Ettes00"},
+"url":"URL#5533378"
+},
+{
+"@score":"2",
+"@id":"5614101",
+"info":{"authors":{"author":[{"@pid":"87/1647","text":"Shu-Heng Chen"},{"@pid":"25/6250","text":"Wei-Yuan Lin"},{"@pid":"85/693","text":"Chueh-Iong Tsao"}]},"title":"Genetic Algorithms, Trading Strategies and Stochastic Processes: Some New Evidence from Monte Carlo Simulations.","venue":"GECCO","pages":"114-121","year":"1999","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/gecco/ChenLT99","url":"https://dblp.org/rec/conf/gecco/ChenLT99"},
+"url":"URL#5614101"
+},
+{
+"@score":"2",
+"@id":"5616176",
+"info":{"authors":{"author":[{"@pid":"87/1647","text":"Shu-Heng Chen"},{"@pid":"25/6250","text":"Wei-Yuan Lin"},{"@pid":"23/652","text":"Chueh-Yung Tsao"}]},"title":"Discovering Trading Rules with Genetic Algorithms: An Empirical Study Based on GARCH Time Series.","venue":"IC-AI","pages":"430-436","year":"1999","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/icai/ChenLT99","url":"https://dblp.org/rec/conf/icai/ChenLT99"},
+"url":"URL#5616176"
+},
+{
+"@score":"2",
+"@id":"5674974",
+"info":{"authors":{"author":{"@pid":"47/5766","text":"Dave Cliff"}},"title":"Genetic optimization of adaptive trading agents for double-auction markets.","venue":"CIFEr","pages":"252-258","year":"1998","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/Cliff98","doi":"10.1109/CIFER.1998.690152","ee":"https://doi.org/10.1109/CIFER.1998.690152","url":"https://dblp.org/rec/conf/cifer/Cliff98"},
+"url":"URL#5674974"
+},
+{
+"@score":"2",
+"@id":"5674986",
+"info":{"authors":{"author":[{"@pid":"14/5404","text":"Roger M. Stein"},{"@pid":"147/7539","text":"Robert N. Bernard"}]},"title":"Data mining the future: genetic discovery of good trading rules in agent-based financial market simulations.","venue":"CIFEr","pages":"171-179","year":"1998","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/SteinB98","doi":"10.1109/CIFER.1998.690081","ee":"https://doi.org/10.1109/CIFER.1998.690081","url":"https://dblp.org/rec/conf/cifer/SteinB98"},
+"url":"URL#5674986"
+},
+{
+"@score":"2",
+"@id":"5724715",
+"info":{"authors":{"author":[{"@pid":"39/1870","text":"Mouloud Oussaidène"},{"@pid":"07/3514","text":"Bastien Chopard"},{"@pid":"67/606","text":"Olivier V. Pictet"}]},"title":"Parallel Genetic Programming and its Application to Trading Model Induction.","venue":"Parallel Comput.","volume":"23","number":"8","pages":"1183-1198","year":"1997","type":"Journal Articles","access":"closed","key":"journals/pc/OussaideneCP97","doi":"10.1016/S0167-8191(97)00045-8","ee":"https://doi.org/10.1016/S0167-8191(97)00045-8","url":"https://dblp.org/rec/journals/pc/OussaideneCP97"},
+"url":"URL#5724715"
+}
+]
+}
+}
+}

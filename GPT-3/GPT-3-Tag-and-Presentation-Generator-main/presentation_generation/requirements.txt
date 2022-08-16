@@ -1,0 +1,8 @@
+django
+gunicorn
+django-heroku
+django-allauth
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+openai

@@ -1,0 +1,50 @@
+{
+"result":{
+"query":"transformer* trading*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"0.62"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"3",
+"@dc":"3",
+"@oc":"3",
+"@id":"47204991",
+"text":"trading"
+}
+},
+"hits":{
+"@total":"3",
+"@computed":"3",
+"@sent":"3",
+"@first":"0",
+"hit":[{
+"@score":"2",
+"@id":"69709",
+"info":{"authors":{"author":[{"@pid":"66/7952-1","text":"Masanori Hirano 0001"},{"@pid":"10/3765","text":"Kiyoshi Izumi"},{"@pid":"66/835","text":"Hiroki Sakaji"}]},"title":"STBM+: Advanced Stochastic Trading Behavior Model for Financial Markets using Residual Blocks or Transformers.","venue":"New Gener. Comput.","volume":"40","number":"1","pages":"7-24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/ngc/HiranoIS22","doi":"10.1007/S00354-021-00145-Z","ee":"https://doi.org/10.1007/s00354-021-00145-z","url":"https://dblp.org/rec/journals/ngc/HiranoIS22"},
+"url":"URL#69709"
+},
+{
+"@score":"2",
+"@id":"541741",
+"info":{"authors":{"author":[{"@pid":"26/7840","text":"Hongfei Xu"},{"@pid":"82/3447","text":"Josef van Genabith"},{"@pid":"211/9473","text":"Qiuhui Liu"},{"@pid":"55/6548","text":"Deyi Xiong"}]},"title":"Probing Word Translations in the Transformer and Trading Decoder for Encoder Layers.","venue":"NAACL-HLT","pages":"74-85","year":"2021","type":"Conference and Workshop Papers","access":"open","key":"conf/naacl/XuGLX21","doi":"10.18653/V1/2021.NAACL-MAIN.7","ee":"https://doi.org/10.18653/v1/2021.naacl-main.7","url":"https://dblp.org/rec/conf/naacl/XuGLX21"},
+"url":"URL#541741"
+},
+{
+"@score":"2",
+"@id":"654344",
+"info":{"authors":{"author":[{"@pid":"229/7037","text":"Kieran Wood"},{"@pid":"309/5781","text":"Sven Giegerich"},{"@pid":"64/1485","text":"Stephen J. Roberts"},{"@pid":"217/3236","text":"Stefan Zohren"}]},"title":"Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture.","venue":"CoRR","volume":"abs/2112.08534","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2112-08534","ee":"https://arxiv.org/abs/2112.08534","url":"https://dblp.org/rec/journals/corr/abs-2112-08534"},
+"url":"URL#654344"
+}
+]
+}
+}
+}

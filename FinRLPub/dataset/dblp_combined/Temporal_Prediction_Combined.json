@@ -1,0 +1,158 @@
+{
+"result":{
+"query":"temporal* prediction* trading*|stock*|finance*|financial*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"1.22"
+},
+"completions":{
+"@total":"5",
+"@computed":"5",
+"@sent":"5",
+"c":[
+{
+"@sc":"12",
+"@dc":"12",
+"@oc":"12",
+"@id":"47124640",
+"text":"stock"
+},
+{
+"@sc":"2",
+"@dc":"2",
+"@oc":"2",
+"@id":"46275674",
+"text":"financial"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47124680",
+"text":"stockem"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47124864",
+"text":"stoeckle"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47124642",
+"text":"stock2vec"
+}
+]
+},
+"hits":{
+"@total":"16",
+"@computed":"16",
+"@sent":"16",
+"@first":"0",
+"hit":[{
+"@score":"4",
+"@id":"1063424",
+"info":{"authors":{"author":[{"@pid":"02/3674","text":"Xing Wang"},{"@pid":"27/1332","text":"Yijun Wang"},{"@pid":"40/3229","text":"Bin Weng"},{"@pid":"133/2956","text":"Aleksandr Vinel"}]},"title":"Stock2Vec: A Hybrid Deep Learning Framework for Stock Market Prediction with Representation Learning and Temporal Convolutional Network.","venue":"CoRR","volume":"abs/2010.01197","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2010-01197","ee":"https://arxiv.org/abs/2010.01197","url":"https://dblp.org/rec/journals/corr/abs-2010-01197"},
+"url":"URL#1063424"
+},
+{
+"@score":"3",
+"@id":"172537",
+"info":{"authors":{"author":[{"@pid":"194/7881","text":"Mostafa Shabani"},{"@pid":"206/7050","text":"Dat Thanh Tran"},{"@pid":"200/8096","text":"Martin Magris"},{"@pid":"13/4913","text":"Juho Kanniainen"},{"@pid":"01/9539","text":"Alexandros Iosifidis"}]},"title":"Multi-head Temporal Attention-Augmented Bilinear Network for Financial time series prediction.","venue":"CoRR","volume":"abs/2201.05459","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2201-05459","ee":"https://arxiv.org/abs/2201.05459","url":"https://dblp.org/rec/journals/corr/abs-2201-05459"},
+"url":"URL#172537"
+},
+{
+"@score":"3",
+"@id":"234560",
+"info":{"authors":{"author":[{"@pid":"26/903","text":"Xingqi Wang"},{"@pid":"17/2247","text":"Kai Yang"},{"@pid":"259/6096","text":"Tailian Liu"}]},"title":"Stock Price Prediction Based on Morphological Similarity Clustering and Hierarchical Temporal Memory.","venue":"IEEE Access","volume":"9","pages":"67241-67248","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/WangYL21","doi":"10.1109/ACCESS.2021.3077004","ee":"https://doi.org/10.1109/ACCESS.2021.3077004","url":"https://dblp.org/rec/journals/access/WangYL21"},
+"url":"URL#234560"
+},
+{
+"@score":"3",
+"@id":"512385",
+"info":{"authors":{"author":[{"@pid":"118/7237","text":"Heyuan Wang"},{"@pid":"12/5028","text":"Shun Li"},{"@pid":"39/1084-3","text":"Tengjiao Wang 0003"},{"@pid":"243/2336","text":"Jiayi Zheng"}]},"title":"Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction.","venue":"IJCAI","pages":"3691-3698","year":"2021","type":"Conference and Workshop Papers","access":"open","key":"conf/ijcai/WangL0Z21","doi":"10.24963/IJCAI.2021/508","ee":"https://doi.org/10.24963/ijcai.2021/508","url":"https://dblp.org/rec/conf/ijcai/WangL0Z21"},
+"url":"URL#512385"
+},
+{
+"@score":"3",
+"@id":"624527",
+"info":{"authors":{"author":[{"@pid":"23/8313","text":"Chaoran Cui"},{"@pid":"85/6319","text":"Xiaojie Li"},{"@pid":"10/1178","text":"Juan Du"},{"@pid":"153/0702","text":"Chunyun Zhang"},{"@pid":"03/8117","text":"Xiushan Nie"},{"@pid":"93/6765","text":"Meng Wang"},{"@pid":"94/458","text":"Yilong Yin"}]},"title":"Temporal-Relational Hypergraph Tri-Attention Networks for Stock Trend Prediction.","venue":"CoRR","volume":"abs/2107.14033","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2107-14033","ee":"https://arxiv.org/abs/2107.14033","url":"https://dblp.org/rec/journals/corr/abs-2107-14033"},
+"url":"URL#624527"
+},
+{
+"@score":"3",
+"@id":"686058",
+"info":{"authors":{"author":[{"@pid":"119/7175","text":"Xiaolu Wei"},{"@pid":"289/8684","text":"Binbin Lei"},{"@pid":"72/7648","text":"Hongbing Ouyang"},{"@pid":"80/503","text":"Qiufeng Wu"}]},"title":"Stock Index Prices Prediction via Temporal Pattern Attention and Long-Short-Term Memory.","venue":"Adv. Multim.","volume":"2020","pages":"8831893:1-8831893:7","year":"2020","type":"Journal Articles","access":"open","key":"journals/amm/WeiLOW20","doi":"10.1155/2020/8831893","ee":"https://doi.org/10.1155/2020/8831893","url":"https://dblp.org/rec/journals/amm/WeiLOW20"},
+"url":"URL#686058"
+},
+{
+"@score":"3",
+"@id":"944683",
+"info":{"authors":{"author":[{"@pid":"39/2387","text":"Jifeng Sun"},{"@pid":"90/225","text":"Jianwu Lin"},{"@pid":"01/1901","text":"Yi Zhou"}]},"title":"Multi-Channel Temporal Graph Convolutional Network for Stock Return Prediction.","venue":"INDIN","pages":"423-428","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/indin/SunLZ20","doi":"10.1109/INDIN45582.2020.9442196","ee":"https://doi.org/10.1109/INDIN45582.2020.9442196","url":"https://dblp.org/rec/conf/indin/SunLZ20"},
+"url":"URL#944683"
+},
+{
+"@score":"3",
+"@id":"958436",
+"info":{"authors":{"author":[{"@pid":"39/784","text":"Martin Krüger"},{"@pid":"254/6319","text":"Anne Stockem Novo"},{"@pid":"192/4597","text":"Till Nattermann"},{"@pid":"32/2490","text":"Torsten Bertram"}]},"title":"Interaction-Aware Trajectory Prediction based on a 3D Spatio-Temporal Tensor Representation using Convolutional-Recurrent Neural Networks.","venue":"IV","pages":"1122-1127","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ivs/KrugerNNB20","doi":"10.1109/IV47402.2020.9304846","ee":"https://doi.org/10.1109/IV47402.2020.9304846","url":"https://dblp.org/rec/conf/ivs/KrugerNNB20"},
+"url":"URL#958436"
+},
+{
+"@score":"3",
+"@id":"1240980",
+"info":{"authors":{"author":[{"@pid":"183/9198","text":"Fuli Feng"},{"@pid":"59/1007","text":"Xiangnan He 0001"},{"@pid":"31/2864-10","text":"Xiang Wang 0010"},{"@pid":"68/6443","text":"Cheng Luo"},{"@pid":"49/1579-1","text":"Yiqun Liu 0001"},{"@pid":"24/6606","text":"Tat-Seng Chua"}]},"title":"Temporal Relational Ranking for Stock Prediction.","venue":"ACM Trans. Inf. Syst.","volume":"37","number":"2","pages":"27:1-27:30","year":"2019","type":"Journal Articles","access":"closed","key":"journals/tois/FengHWLLC19","doi":"10.1145/3309547","ee":"https://doi.org/10.1145/3309547","url":"https://dblp.org/rec/journals/tois/FengHWLLC19"},
+"url":"URL#1240980"
+},
+{
+"@score":"3",
+"@id":"1253156",
+"info":{"authors":{"author":[{"@pid":"52/2825","text":"Péter Jeszenszky"},{"@pid":"30/9957","text":"Panote Siriaraya"},{"@pid":"321/1242","text":"Philipp Stoeckle"},{"@pid":"j/AdamJatowt","text":"Adam Jatowt"}]},"title":"Spatio-Temporal Prediction of Dialectal Variant Usage.","venue":"LChange@ACL","pages":"186-195","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/acl-lchange/JeszenszkySSJ19","doi":"10.18653/V1/W19-4723","ee":"https://doi.org/10.18653/v1/W19-4723","url":"https://dblp.org/rec/conf/acl-lchange/JeszenszkySSJ19"},
+"url":"URL#1253156"
+},
+{
+"@score":"3",
+"@id":"1432195",
+"info":{"authors":{"author":[{"@pid":"213/1853","text":"Shumin Deng"},{"@pid":"139/4181","text":"Ningyu Zhang"},{"@pid":"43/2368-15","text":"Wen Zhang 0015"},{"@pid":"56/8110","text":"Jiaoyan Chen"},{"@pid":"59/6490","text":"Jeff Z. Pan"},{"@pid":"94/5089","text":"Huajun Chen"}]},"title":"Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network.","venue":"WWW","pages":"678-685","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/www/DengZZCPC19","doi":"10.1145/3308560.3317701","ee":"https://doi.org/10.1145/3308560.3317701","url":"https://dblp.org/rec/conf/www/DengZZCPC19"},
+"url":"URL#1432195"
+},
+{
+"@score":"3",
+"@id":"1851462",
+"info":{"authors":{"author":[{"@pid":"183/9198","text":"Fuli Feng"},{"@pid":"59/1007","text":"Xiangnan He 0001"},{"@pid":"31/2864-10","text":"Xiang Wang 0010"},{"@pid":"68/6443","text":"Cheng Luo"},{"@pid":"49/1579-1","text":"Yiqun Liu 0001"},{"@pid":"24/6606","text":"Tat-Seng Chua"}]},"title":"Temporal Relational Ranking for Stock Prediction.","venue":"CoRR","volume":"abs/1809.09441","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1809-09441","ee":"http://arxiv.org/abs/1809.09441","url":"https://dblp.org/rec/journals/corr/abs-1809-09441"},
+"url":"URL#1851462"
+},
+{
+"@score":"3",
+"@id":"2208928",
+"info":{"authors":{"author":[{"@pid":"153/8043","text":"Akira Yoshihara"},{"@pid":"68/4147","text":"Kazuhiro Seki"},{"@pid":"77/808","text":"Kuniaki Uehara"}]},"title":"Leveraging temporal properties of news events for stock market prediction.","venue":"Artif. Intell. Res.","volume":"5","number":"1","pages":"103-110","year":"2016","type":"Journal Articles","access":"open","key":"journals/aires/YoshiharaSU16","doi":"10.5430/AIR.V5N1P103","ee":"https://doi.org/10.5430/air.v5n1p103","url":"https://dblp.org/rec/journals/aires/YoshiharaSU16"},
+"url":"URL#2208928"
+},
+{
+"@score":"3",
+"@id":"3624235",
+"info":{"authors":{"author":[{"@pid":"134/2924","text":"Hyun-Syug Kang"},{"@pid":"134/2787","text":"Jianhua Diao"}]},"title":"An Integrated Hierarchical Temporal Memory Network for Continuous Multi-Interval Prediction of Stock Price Trends.","venue":"Software and Network Engineering","pages":"15-27","year":"2012","type":"Parts in Books or Collections","access":"closed","key":"series/sci/KangD12","doi":"10.1007/978-3-642-28670-4_2","ee":"https://doi.org/10.1007/978-3-642-28670-4_2","url":"https://dblp.org/rec/series/sci/KangD12"},
+"url":"URL#3624235"
+},
+{
+"@score":"3",
+"@id":"4622414",
+"info":{"authors":{"author":[{"@pid":"99/1071","text":"Richi Nayak"},{"@pid":"05/21","text":"Paul te Braak"}]},"title":"Temporal Pattern Matching for the Prediction of Stock Prices.","venue":"AIDM","pages":"99-107","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/ausdm/NayakB07","ee":"http://crpit.scem.westernsydney.edu.au/abstracts/CRPITV84Nayak.html","url":"https://dblp.org/rec/conf/ausdm/NayakB07"},
+"url":"URL#4622414"
+},
+{
+"@score":"3",
+"@id":"5566561",
+"info":{"authors":{"author":{"@pid":"28/2658","text":"Richard J. Povinelli"}},"title":"Identifying Temporal Patterns for Characterization and Prediction of Financial Time Series Events.","venue":"TSDM","pages":"46-61","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/tsdm/Povinelli00","doi":"10.1007/3-540-45244-3_5","ee":"https://doi.org/10.1007/3-540-45244-3_5","url":"https://dblp.org/rec/conf/tsdm/Povinelli00"},
+"url":"URL#5566561"
+}
+]
+}
+}
+}

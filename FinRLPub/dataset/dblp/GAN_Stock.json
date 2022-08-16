@@ -1,0 +1,62 @@
+{
+"result":{
+"query":"Generative* adversarial* networks* stock*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"0.52"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"6",
+"@dc":"5",
+"@oc":"6",
+"@id":"47124640",
+"text":"stock"
+}
+},
+"hits":{
+"@total":"5",
+"@computed":"5",
+"@sent":"5",
+"@first":"0",
+"hit":[{
+"@score":"5",
+"@id":"994062",
+"info":{"authors":{"author":[{"@pid":"194/0485","text":"Teema Leangarun"},{"@pid":"32/3479","text":"Poj Tangamchit"},{"@pid":"38/4197","text":"Suttipong Thajchayapong"}]},"title":"Using Generative Adversarial Networks for Detecting Stock Price Manipulation: The Stock Exchange of Thailand Case Study.","venue":"SSCI","pages":"2162-2169","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ssci/LeangarunTT20","doi":"10.1109/SSCI47803.2020.9308284","ee":"https://doi.org/10.1109/SSCI47803.2020.9308284","url":"https://dblp.org/rec/conf/ssci/LeangarunTT20"},
+"url":"URL#994062"
+},
+{
+"@score":"4",
+"@id":"358166",
+"info":{"authors":{"author":[{"@pid":"256/2315","text":"Bate He"},{"@pid":"34/1114","text":"Eisuke Kita"}]},"title":"The Application of Sequential Generative Adversarial Networks for Stock Price Prediction.","venue":"Rev. Socionetwork Strateg.","volume":"15","number":"2","pages":"455-470","year":"2021","type":"Journal Articles","access":"closed","key":"journals/rss/HeK21a","doi":"10.1007/S12626-021-00097-2","ee":"https://doi.org/10.1007/s12626-021-00097-2","url":"https://dblp.org/rec/journals/rss/HeK21a"},
+"url":"URL#358166"
+},
+{
+"@score":"4",
+"@id":"374823",
+"info":{"authors":{"author":{"@pid":"313/8523","text":"Daiyou Xiao"}},"title":"Research on the Application of Generative Adversarial Networks in the Generation of Stock Market Forecast Trend Images.","venue":"Sci. Program.","volume":"2021","pages":"7321671:1-7321671:12","year":"2021","type":"Journal Articles","access":"open","key":"journals/sp/Xiao21a","doi":"10.1155/2021/7321671","ee":"https://doi.org/10.1155/2021/7321671","url":"https://dblp.org/rec/journals/sp/Xiao21a"},
+"url":"URL#374823"
+},
+{
+"@score":"4",
+"@id":"919199",
+"info":{"authors":{"author":[{"@pid":"256/2315","text":"Bate He"},{"@pid":"34/1114","text":"Eisuke Kita"}]},"title":"Stock Price Prediction by Using Hybrid Sequential Generative Adversarial Networks.","venue":"ICDM","pages":"341-347","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdm/HeK20","doi":"10.1109/ICDMW51313.2020.00054","ee":"https://doi.org/10.1109/ICDMW51313.2020.00054","url":"https://dblp.org/rec/conf/icdm/HeK20"},
+"url":"URL#919199"
+},
+{
+"@score":"4",
+"@id":"1799671",
+"info":{"authors":{"author":[{"@pid":"194/0485","text":"Teema Leangarun"},{"@pid":"32/3479","text":"Poj Tangamchit"},{"@pid":"38/4197","text":"Suttipong Thajchayapong"}]},"title":"Stock Price Manipulation Detection using Generative Adversarial Networks.","venue":"SSCI","pages":"2104-2111","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/ssci/LeangarunTT18","doi":"10.1109/SSCI.2018.8628777","ee":"https://doi.org/10.1109/SSCI.2018.8628777","url":"https://dblp.org/rec/conf/ssci/LeangarunTT18"},
+"url":"URL#1799671"
+}
+]
+}
+}
+}

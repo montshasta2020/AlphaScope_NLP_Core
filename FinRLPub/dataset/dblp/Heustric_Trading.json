@@ -1,0 +1,110 @@
+{
+"result":{
+"query":"heuristic* trading*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"0.83"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"47204991",
+"text":"trading"
+}
+},
+"hits":{
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"2",
+"@id":"284121",
+"info":{"authors":{"author":[{"@pid":"126/7843","text":"Alexander Loginov"},{"@pid":"35/5521","text":"Malcolm I. Heywood"},{"@pid":"15/4561","text":"Garnett Carl Wilson"}]},"title":"Stock selection heuristics for performing frequent intraday trading with genetic programming.","venue":"Genet. Program. Evolvable Mach.","volume":"22","number":"1","pages":"35-72","year":"2021","type":"Journal Articles","access":"closed","key":"journals/gpem/LoginovHW21","doi":"10.1007/S10710-020-09390-5","ee":"https://doi.org/10.1007/s10710-020-09390-5","url":"https://dblp.org/rec/journals/gpem/LoginovHW21"},
+"url":"URL#284121"
+},
+{
+"@score":"2",
+"@id":"629949",
+"info":{"authors":{"author":[{"@pid":"37/4089","text":"Remo Pareschi"},{"@pid":"271/9100","text":"Federico Zappone"}]},"title":"Integrating Heuristics and Learning in a Computational Architecture for Cognitive Trading.","venue":"CoRR","volume":"abs/2108.12333","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2108-12333","ee":"https://arxiv.org/abs/2108.12333","url":"https://dblp.org/rec/journals/corr/abs-2108-12333"},
+"url":"URL#629949"
+},
+{
+"@score":"2",
+"@id":"1689003",
+"info":{"authors":{"author":{"@pid":"207/1707","text":"Siddharth Das"}},"title":"An Automated Stock Trading Heuristic, Dependent on Volatility, for Common People.","venue":"EIT","pages":"681-686","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/eit/Das18","doi":"10.1109/EIT.2018.8500139","ee":"https://doi.org/10.1109/EIT.2018.8500139","url":"https://dblp.org/rec/conf/eit/Das18"},
+"url":"URL#1689003"
+},
+{
+"@score":"2",
+"@id":"1892977",
+"info":{"authors":{"author":{"@pid":"198/8846","text":"Michael Hassler"}},"title":"Heuristic decision rules for short-term trading of renewable energy with co-located energy storage.","venue":"Comput. Oper. Res.","volume":"83","pages":"199-213","year":"2017","type":"Journal Articles","access":"closed","key":"journals/cor/Hassler17","doi":"10.1016/J.COR.2016.12.027","ee":"https://doi.org/10.1016/j.cor.2016.12.027","url":"https://dblp.org/rec/journals/cor/Hassler17"},
+"url":"URL#1892977"
+},
+{
+"@score":"2",
+"@id":"2048047",
+"info":{"authors":{"author":{"@pid":"35/4065","text":"Ali Haydar Özer"}},"title":"An Electronic Market Model with Mathematical Formulation and Heuristics for Large-Scale Book Trading.","venue":"FedCSIS","pages":"459-467","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/fedcsis/Ozer17","doi":"10.15439/2017F291","ee":"https://doi.org/10.15439/2017F291","url":"https://dblp.org/rec/conf/fedcsis/Ozer17"},
+"url":"URL#2048047"
+},
+{
+"@score":"2",
+"@id":"2212333",
+"info":{"authors":{"author":[{"@pid":"179/1153","text":"Murat Ozturk"},{"@pid":"t/IJToroslu","text":"Ismail Hakki Toroslu"},{"@pid":"11/6904","text":"Guven Fidan"}]},"title":"Heuristic based trading system on Forex data using technical indicator rules.","venue":"Appl. Soft Comput.","volume":"43","pages":"170-186","year":"2016","type":"Journal Articles","access":"closed","key":"journals/asc/OzturkTF16","doi":"10.1016/J.ASOC.2016.01.048","ee":"https://doi.org/10.1016/j.asoc.2016.01.048","url":"https://dblp.org/rec/journals/asc/OzturkTF16"},
+"url":"URL#2212333"
+},
+{
+"@score":"2",
+"@id":"2731853",
+"info":{"authors":{"author":[{"@pid":"61/9846","text":"Marcelo Mandelli"},{"@pid":"22/1628","text":"Luciano Ost"},{"@pid":"88/5014","text":"Gilles Sassatelli"},{"@pid":"m/FernandoGehmMoraes","text":"Fernando Gehm Moraes"}]},"title":"Trading-off system load and communication in mapping heuristics for improving NoC-based MPSoCs reliability.","venue":"ISQED","pages":"392-396","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/isqed/MandelliOSM15","doi":"10.1109/ISQED.2015.7085457","ee":"https://doi.org/10.1109/ISQED.2015.7085457","url":"https://dblp.org/rec/conf/isqed/MandelliOSM15"},
+"url":"URL#2731853"
+},
+{
+"@score":"2",
+"@id":"3256866",
+"info":{"authors":{"author":[{"@pid":"126/7843","text":"Alexander Loginov"},{"@pid":"35/5521","text":"Malcolm I. Heywood"}]},"title":"On the impact of streaming interface heuristics on GP trading agents: an FX benchmarking study.","venue":"GECCO","pages":"1341-1348","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/LoginovH13","doi":"10.1145/2463372.2463522","ee":"https://doi.org/10.1145/2463372.2463522","url":"https://dblp.org/rec/conf/gecco/LoginovH13"},
+"url":"URL#3256866"
+},
+{
+"@score":"2",
+"@id":"3411729",
+"info":{"authors":{"author":[{"@pid":"66/11295","text":"Luis Pedro Mendes"},{"@pid":"24/4465","text":"Pedro Godinho"},{"@pid":"44/1971","text":"Joana Dias"}]},"title":"A Forex trading system based on a genetic algorithm.","venue":"J. Heuristics","volume":"18","number":"4","pages":"627-656","year":"2012","type":"Journal Articles","access":"closed","key":"journals/heuristics/MendesGD12","doi":"10.1007/S10732-012-9201-Y","ee":"https://doi.org/10.1007/s10732-012-9201-y","url":"https://dblp.org/rec/journals/heuristics/MendesGD12"},
+"url":"URL#3411729"
+},
+{
+"@score":"2",
+"@id":"3997426",
+"info":{"authors":{"author":[{"@pid":"33/784","text":"Georg Buss"},{"@pid":"44/765","text":"Kevin Lee"},{"@pid":"97/3958","text":"Daniel Veit"}]},"title":"Scalable Grid Resource Trading with Greedy Heuristics.","venue":"CISIS","pages":"427-432","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/cisis/BussLV10","doi":"10.1109/CISIS.2010.146","ee":"https://doi.org/10.1109/CISIS.2010.146","url":"https://dblp.org/rec/conf/cisis/BussLV10"},
+"url":"URL#3997426"
+},
+{
+"@score":"2",
+"@id":"4411522",
+"info":{"authors":{"author":[{"@pid":"54/3241","text":"William Leigh"},{"@pid":"67/7043","text":"Cheryl J. Frohlich"},{"@pid":"61/355","text":"Steven Hornik"},{"@pid":"04/4750","text":"Russell L. Purvis"},{"@pid":"06/3657","text":"Tom L. Roberts"}]},"title":"Trading With a Stock Chart Heuristic.","venue":"IEEE Trans. Syst. Man Cybern. Part A","volume":"38","number":"1","pages":"93-104","year":"2008","type":"Journal Articles","access":"closed","key":"journals/tsmc/LeighFHPR08","doi":"10.1109/TSMCA.2007.909508","ee":"https://doi.org/10.1109/TSMCA.2007.909508","url":"https://dblp.org/rec/journals/tsmc/LeighFHPR08"},
+"url":"URL#4411522"
+},
+{
+"@score":"2",
+"@id":"5322173",
+"info":{"authors":{"author":[{"@pid":"54/3241","text":"William Leigh"},{"@pid":"25/1153","text":"Naval Modani"},{"@pid":"04/4750","text":"Russell L. Purvis"},{"@pid":"06/3657","text":"Tom L. Roberts"}]},"title":"Stock market trading rule discovery using technical charting heuristics.","venue":"Expert Syst. Appl.","volume":"23","number":"2","pages":"155-159","year":"2002","type":"Journal Articles","access":"closed","key":"journals/eswa/LeighMPR02","doi":"10.1016/S0957-4174(02)00034-9","ee":"https://doi.org/10.1016/S0957-4174(02)00034-9","url":"https://dblp.org/rec/journals/eswa/LeighMPR02"},
+"url":"URL#5322173"
+},
+{
+"@score":"2",
+"@id":"5768819",
+"info":{"authors":{"author":[{"@pid":"b/AchimBachem","text":"Achim Bachem"},{"@pid":"h/WinfriedHochstattler","text":"Winfried Hochstättler"},{"@pid":"67/6562","text":"Martin Malich"}]},"title":"The Simulated Trading Heuristic for Solving Vehicle Routing Problems.","venue":"Discret. Appl. Math.","volume":"65","number":"1-3","pages":"47-72","year":"1996","type":"Journal Articles","access":"open","key":"journals/dam/BachemHM96","doi":"10.1016/0166-218X(95)00027-O","ee":"https://doi.org/10.1016/0166-218X(95)00027-O","url":"https://dblp.org/rec/journals/dam/BachemHM96"},
+"url":"URL#5768819"
+}
+]
+}
+}
+}

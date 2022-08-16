@@ -1,0 +1,152 @@
+{
+"result":{
+"query":"data* mining* trading*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"1.89"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"20",
+"@dc":"20",
+"@oc":"20",
+"@id":"47204991",
+"text":"trading"
+}
+},
+"hits":{
+"@total":"20",
+"@computed":"20",
+"@sent":"20",
+"@first":"0",
+"hit":[{
+"@score":"4",
+"@id":"1433388",
+"info":{"authors":{"author":{"@pid":"174/6792","text":"Katarzyna Baraniak"}},"title":"ISMIS 2017 Data Mining Competition: Trading Based on Recommendations - XGBoost Approach with Feature Engineering.","venue":"Intelligent Methods and Big Data in Industrial Applications","pages":"145-154","year":"2019","type":"Parts in Books or Collections","access":"closed","key":"books/sp/19/Baraniak19","doi":"10.1007/978-3-319-77604-0_11","ee":"https://doi.org/10.1007/978-3-319-77604-0_11","url":"https://dblp.org/rec/books/sp/19/Baraniak19"},
+"url":"URL#1433388"
+},
+{
+"@score":"3",
+"@id":"35851",
+"info":{"authors":{"author":[{"@pid":"97/10627","text":"Fang Lv"},{"@pid":"35/7092","text":"Wei Wang"},{"@pid":"312/1016","text":"Linxuan Han"},{"@pid":"18/5410","text":"Di Wang"},{"@pid":"19/10206","text":"Yulong Pei"},{"@pid":"93/8349","text":"Junheng Huang"},{"@pid":"31/7938","text":"Bailing Wang"},{"@pid":"37/4649","text":"Mykola Pechenizkiy"}]},"title":"Mining trading patterns of pyramid schemes from financial time series data.","venue":"Future Gener. Comput. Syst.","volume":"134","pages":"388-398","year":"2022","type":"Journal Articles","access":"closed","key":"journals/fgcs/LvWHWPHWP22","doi":"10.1016/J.FUTURE.2022.02.017","ee":"https://doi.org/10.1016/j.future.2022.02.017","url":"https://dblp.org/rec/journals/fgcs/LvWHWPHWP22"},
+"url":"URL#35851"
+},
+{
+"@score":"3",
+"@id":"242973",
+"info":{"authors":{"author":[{"@pid":"44/378","text":"Hui-Chih Hung"},{"@pid":"292/8364","text":"Yu-Jen Chuang"},{"@pid":"50/4032","text":"Muh-Cherng Wu"}]},"title":"Customizable and committee data mining framework for stock trading.","venue":"Appl. Soft Comput.","volume":"105","pages":"107277","year":"2021","type":"Journal Articles","access":"closed","key":"journals/asc/HungCW21","doi":"10.1016/J.ASOC.2021.107277","ee":"https://doi.org/10.1016/j.asoc.2021.107277","url":"https://dblp.org/rec/journals/asc/HungCW21"},
+"url":"URL#242973"
+},
+{
+"@score":"3",
+"@id":"1166764",
+"info":{"authors":{"author":[{"@pid":"248/6563","text":"M. Fevzi Esen"},{"@pid":"164/0055","text":"Emrah Bilgic"},{"@pid":"248/6699","text":"Ulkem Basdas"}]},"title":"How to detect illegal corporate insider trading? A data mining approach for detecting suspicious insider transactions.","venue":"Intell. Syst. Account. Finance Manag.","volume":"26","number":"2","pages":"60-70","year":"2019","type":"Journal Articles","access":"closed","key":"journals/isafm/EsenBB19","doi":"10.1002/ISAF.1446","ee":"https://doi.org/10.1002/isaf.1446","url":"https://dblp.org/rec/journals/isafm/EsenBB19"},
+"url":"URL#1166764"
+},
+{
+"@score":"3",
+"@id":"2105265",
+"info":{"authors":{"author":[{"@pid":"201/5096","text":"Mathurin Aché"},{"@pid":"02/2713","text":"Andrzej Janusz"},{"@pid":"130/6534","text":"Kamil Zbikowski"},{"@pid":"53/3187","text":"Dominik Slezak"},{"@pid":"12/1192","text":"Marzena Kryszkiewicz"},{"@pid":"16/2796","text":"Henryk Rybinski"},{"@pid":"54/5712","text":"Piotr Gawrysiak"}]},"title":"ISMIS 2017 Data Mining Competition: Trading Based on Recommendations.","venue":"ISMIS","pages":"697-707","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/ismis/AcheJZSKRG17","doi":"10.1007/978-3-319-60438-1_68","ee":"https://doi.org/10.1007/978-3-319-60438-1_68","url":"https://dblp.org/rec/conf/ismis/AcheJZSKRG17"},
+"url":"URL#2105265"
+},
+{
+"@score":"3",
+"@id":"2997786",
+"info":{"authors":{"author":[{"@pid":"65/5204","text":"Vincent Chan"},{"@pid":"160/2408","text":"Tony Hao Wu"},{"@pid":"23/590","text":"Grantham Pang"}]},"title":"Decision support and data mining for direct consumer-to-consumer trading.","venue":"ICITST","pages":"205-208","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/icitst/ChanWP14","doi":"10.1109/ICITST.2014.7038806","ee":"https://doi.org/10.1109/ICITST.2014.7038806","url":"https://dblp.org/rec/conf/icitst/ChanWP14"},
+"url":"URL#2997786"
+},
+{
+"@score":"3",
+"@id":"3834467",
+"info":{"authors":{"author":{"@pid":"86/1137","text":"Michael Mayo"}},"title":"Hybridizing Data Stream Mining and Technical Indicators in Automated Trading Systems.","venue":"MDAI","pages":"79-90","year":"2011","type":"Conference and Workshop Papers","access":"closed","key":"conf/mdai/Mayo11","doi":"10.1007/978-3-642-22589-5_9","ee":"https://doi.org/10.1007/978-3-642-22589-5_9","url":"https://dblp.org/rec/conf/mdai/Mayo11"},
+"url":"URL#3834467"
+},
+{
+"@score":"3",
+"@id":"3910580",
+"info":{"authors":{"author":[{"@pid":"78/3145","text":"Germán Creamer"},{"@pid":"s/SalvatoreJStolfo","text":"Salvatore J. Stolfo"}]},"title":"Erratum to: A link mining algorithm for earnings forecast and trading.","venue":"Data Min. Knowl. Discov.","volume":"21","number":"3","pages":"542","year":"2010","type":"Journal Articles","access":"closed","key":"journals/datamine/CreamerS10","doi":"10.1007/S10618-010-0166-X","ee":"https://doi.org/10.1007/s10618-010-0166-x","url":"https://dblp.org/rec/journals/datamine/CreamerS10"},
+"url":"URL#3910580"
+},
+{
+"@score":"3",
+"@id":"3946548",
+"info":{"authors":{"author":[{"@pid":"65/7429","text":"Ya-Wen Chang Chien"},{"@pid":"42/180","text":"Yen-Liang Chen"}]},"title":"Mining associative classification rules with stock trading data - A GA-based method.","venue":"Knowl. Based Syst.","volume":"23","number":"6","pages":"605-614","year":"2010","type":"Journal Articles","access":"closed","key":"journals/kbs/ChienC10","doi":"10.1016/J.KNOSYS.2010.04.007","ee":"https://doi.org/10.1016/j.knosys.2010.04.007","url":"https://dblp.org/rec/journals/kbs/ChienC10"},
+"url":"URL#3946548"
+},
+{
+"@score":"3",
+"@id":"4078859",
+"info":{"authors":{"author":[{"@pid":"23/2997","text":"Alexandros Agapitos"},{"@pid":"61/6483-1","text":"Michael O&apos;Neill 0001"},{"@pid":"76/829","text":"Anthony Brabazon"}]},"title":"Evolutionary Learning of Technical Trading Rules without Data-Mining Bias.","venue":"PPSN","pages":"294-303","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/ppsn/AgapitosOB10","doi":"10.1007/978-3-642-15844-5_30","ee":"https://doi.org/10.1007/978-3-642-15844-5_30","url":"https://dblp.org/rec/conf/ppsn/AgapitosOB10"},
+"url":"URL#4078859"
+},
+{
+"@score":"3",
+"@id":"4137453",
+"info":{"authors":{"author":[{"@pid":"78/3145","text":"Germán Creamer"},{"@pid":"s/SalvatoreJStolfo","text":"Salvatore J. Stolfo"}]},"title":"A link mining algorithm for earnings forecast and trading.","venue":"Data Min. Knowl. Discov.","volume":"18","number":"3","pages":"419-445","year":"2009","type":"Journal Articles","access":"closed","key":"journals/datamine/CreamerS09","doi":"10.1007/S10618-008-0124-Z","ee":"https://doi.org/10.1007/s10618-008-0124-z","url":"https://dblp.org/rec/journals/datamine/CreamerS09"},
+"url":"URL#4137453"
+},
+{
+"@score":"3",
+"@id":"4511571",
+"info":{"authors":{"author":[{"@pid":"89/449","text":"Giovanni Montana"},{"@pid":"09/4525","text":"Kostas Triantafyllopoulos"},{"@pid":"90/3815","text":"Theodoros Tsagaris"}]},"title":"Data stream mining for market-neutral algorithmic trading.","venue":"SAC","pages":"966-970","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/sac/MontanaTT08","doi":"10.1145/1363686.1363910","ee":"https://doi.org/10.1145/1363686.1363910","url":"https://dblp.org/rec/conf/sac/MontanaTT08"},
+"url":"URL#4511571"
+},
+{
+"@score":"3",
+"@id":"4531256",
+"info":{"authors":{"author":[{"@pid":"20/2227","text":"Christopher Stone"},{"@pid":"36/1518","text":"Larry Bull"}]},"title":"Foreign Exchange Trading Using a Learning Classifier System.","venue":"Learning Classifier Systems in Data Mining","pages":"169-189","year":"2008","type":"Parts in Books or Collections","access":"closed","key":"series/sci/StoneB08","doi":"10.1007/978-3-540-78979-6_8","ee":"https://doi.org/10.1007/978-3-540-78979-6_8","url":"https://dblp.org/rec/series/sci/StoneB08"},
+"url":"URL#4531256"
+},
+{
+"@score":"3",
+"@id":"4629439",
+"info":{"authors":{"author":[{"@pid":"14/6479","text":"Gil Rachlin"},{"@pid":"84/2603","text":"Mark Last"},{"@pid":"96/3897","text":"Dima Alberg"},{"@pid":"63/612","text":"Abraham Kandel"}]},"title":"ADMIRAL: A Data Mining Based Financial Trading System.","venue":"CIDM","pages":"720-725","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/cidm/RachlinLAK07","doi":"10.1109/CIDM.2007.368947","ee":"https://doi.org/10.1109/CIDM.2007.368947","url":"https://dblp.org/rec/conf/cidm/RachlinLAK07"},
+"url":"URL#4629439"
+},
+{
+"@score":"3",
+"@id":"4637065",
+"info":{"authors":{"author":[{"@pid":"94/5910","text":"B. Chandra 0001"},{"@pid":"23/6223","text":"P. Paul Varghese"},{"@pid":"69/3531","text":"Ashok Wardhan"}]},"title":"Mining Data for Profitable Trading.","venue":"DMIN","pages":"22-30","year":"2007","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/dmin/ChandraVW07","url":"https://dblp.org/rec/conf/dmin/ChandraVW07"},
+"url":"URL#4637065"
+},
+{
+"@score":"3",
+"@id":"5074573",
+"info":{"authors":{"author":[{"@pid":"93/6190","text":"Kumar Mehta"},{"@pid":"22/3484","text":"Siddhartha Bhattacharyya"}]},"title":"Adequacy of training data for evolutionary mining of trading rules.","venue":"Decis. Support Syst.","volume":"37","number":"4","pages":"461-474","year":"2004","type":"Journal Articles","access":"closed","key":"journals/dss/MehtaB04","doi":"10.1016/S0167-9236(03)00091-5","ee":"https://doi.org/10.1016/S0167-9236(03)00091-5","url":"https://dblp.org/rec/journals/dss/MehtaB04"},
+"url":"URL#5074573"
+},
+{
+"@score":"3",
+"@id":"5076641",
+"info":{"authors":{"author":[{"@pid":"81/1863","text":"Se-Hak Chun"},{"@pid":"64/6841","text":"Steven H. Kim"}]},"title":"Data mining for financial prediction and trading: application to single and multiple markets.","venue":"Expert Syst. Appl.","volume":"26","number":"2","pages":"131-139","year":"2004","type":"Journal Articles","access":"closed","key":"journals/eswa/ChunK04","doi":"10.1016/S0957-4174(03)00113-1","ee":"https://doi.org/10.1016/S0957-4174(03)00113-1","url":"https://dblp.org/rec/journals/eswa/ChunK04"},
+"url":"URL#5076641"
+},
+{
+"@score":"3",
+"@id":"5379921",
+"info":{"authors":{"author":[{"@pid":"04/6192","text":"Dianhui Wang"},{"@pid":"25/4706","text":"Tharam S. Dillon"},{"@pid":"c/ElizabethChang","text":"Elizabeth Chang 0001"}]},"title":"Trading off between Misclassification, Recognition and Generalization in Data Mining with Continuous Features.","venue":"IEA/AIE","pages":"303-313","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/ieaaie/WangDC02","doi":"10.1007/3-540-48035-8_30","ee":"https://doi.org/10.1007/3-540-48035-8_30","url":"https://dblp.org/rec/conf/ieaaie/WangDC02"},
+"url":"URL#5379921"
+},
+{
+"@score":"3",
+"@id":"5559625",
+"info":{"authors":{"author":[{"@pid":"34/4418","text":"Véronique Plihon"},{"@pid":"84/3254-9","text":"Fei Wu 0009"},{"@pid":"g/GeorgesGardarin","text":"Georges Gardarin"}]},"title":"A Financial Data Mining Trading System.","venue":"NLDB","pages":"370","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/nldb/PlihonWG00","doi":"10.1007/3-540-45399-7_36","ee":"https://doi.org/10.1007/3-540-45399-7_36","url":"https://dblp.org/rec/conf/nldb/PlihonWG00"},
+"url":"URL#5559625"
+},
+{
+"@score":"3",
+"@id":"5674986",
+"info":{"authors":{"author":[{"@pid":"14/5404","text":"Roger M. Stein"},{"@pid":"147/7539","text":"Robert N. Bernard"}]},"title":"Data mining the future: genetic discovery of good trading rules in agent-based financial market simulations.","venue":"CIFEr","pages":"171-179","year":"1998","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/SteinB98","doi":"10.1109/CIFER.1998.690081","ee":"https://doi.org/10.1109/CIFER.1998.690081","url":"https://dblp.org/rec/conf/cifer/SteinB98"},
+"url":"URL#5674986"
+}
+]
+}
+}
+}

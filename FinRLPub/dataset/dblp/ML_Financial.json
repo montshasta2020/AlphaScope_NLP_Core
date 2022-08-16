@@ -1,0 +1,845 @@
+{
+"result":{
+"query":"machine* learning* financial*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"62.00"
+},
+"completions":{
+"@total":"2",
+"@computed":"2",
+"@sent":"2",
+"c":[
+{
+"@sc":"133",
+"@dc":"133",
+"@oc":"133",
+"@id":"46275674",
+"text":"financial"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"46275681",
+"text":"financially"
+}
+]
+},
+"hits":{
+"@total":"134",
+"@computed":"134",
+"@sent":"134",
+"@first":"0",
+"hit":[{
+"@score":"4",
+"@id":"177126",
+"info":{"authors":{"author":[{"@pid":"138/0749","text":"Sebastian Becker"},{"@pid":"35/9470","text":"Arnulf Jentzen"},{"@pid":"297/2635","text":"Marvin S. Müller"},{"@pid":"227/2682","text":"Philippe von Wurstemberger"}]},"title":"Learning the random variables in Monte Carlo simulations with stochastic gradient descent: Machine learning for parametric PDEs and financial derivative pricing.","venue":"CoRR","volume":"abs/2202.02717","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2202-02717","ee":"https://arxiv.org/abs/2202.02717","url":"https://dblp.org/rec/journals/corr/abs-2202-02717"},
+"url":"URL#177126"
+},
+{
+"@score":"4",
+"@id":"243186",
+"info":{"authors":{"author":[{"@pid":"251/4470","text":"D. K. Mohanty"},{"@pid":"259/6822","text":"Ajaya Kumar Parida"},{"@pid":"285/3444","text":"Shelly Suman Khuntia"}]},"title":"Financial market prediction under deep learning framework using auto encoder and kernel extreme learning machine.","venue":"Appl. Soft Comput.","volume":"99","pages":"106898","year":"2021","type":"Journal Articles","access":"closed","key":"journals/asc/MohantyPK21","doi":"10.1016/J.ASOC.2020.106898","ee":"https://doi.org/10.1016/j.asoc.2020.106898","url":"https://dblp.org/rec/journals/asc/MohantyPK21"},
+"url":"URL#243186"
+},
+{
+"@score":"4",
+"@id":"359624",
+"info":{"authors":{"author":[{"@pid":"45/3942","text":"Abolfazl Mehbodniya"},{"@pid":"301/6168","text":"Izhar Alam"},{"@pid":"269/3431","text":"Sagar Pande"},{"@pid":"264/2224","text":"Rahul Neware"},{"@pid":"301/6203","text":"Kantilal Pitambar Rane"},{"@pid":"237/1441","text":"Mohammad Shabaz"},{"@pid":"303/5422","text":"Mangena Venu Madhavan"}]},"title":"Financial Fraud Detection in Healthcare Using Machine Learning and Deep Learning Techniques.","venue":"Secur. Commun. Networks","volume":"2021","pages":"9293877:1-9293877:8","year":"2021","type":"Journal Articles","access":"open","key":"journals/scn/MehbodniyaAPNRS21","doi":"10.1155/2021/9293877","ee":"https://doi.org/10.1155/2021/9293877","url":"https://dblp.org/rec/journals/scn/MehbodniyaAPNRS21"},
+"url":"URL#359624"
+},
+{
+"@score":"4",
+"@id":"470816",
+"info":{"authors":{"author":[{"@pid":"227/0832","text":"Alessandro Baldo 0001"},{"@pid":"c/AlfredoCuzzocrea","text":"Alfredo Cuzzocrea"},{"@pid":"180/3898","text":"Edoardo Fadda"},{"@pid":"302/2193","text":"Pablo G. Bringas"}]},"title":"Financial Forecasting via Deep-Learning and Machine-Learning Tools over Two-Dimensional Objects Transformed from Time Series.","venue":"HAIS","pages":"550-563","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/hais/BaldoCFB21","doi":"10.1007/978-3-030-86271-8_46","ee":"https://doi.org/10.1007/978-3-030-86271-8_46","url":"https://dblp.org/rec/conf/hais/BaldoCFB21"},
+"url":"URL#470816"
+},
+{
+"@score":"4",
+"@id":"738604",
+"info":{"authors":{"author":[{"@pid":"184/4020","text":"J. M. Calabuig"},{"@pid":"241/5975","text":"Hervé Falciani"},{"@pid":"170/7397","text":"Enrique Alfonso Sánchez-Pérez"}]},"title":"Dreaming machine learning: Lipschitz extensions for reinforcement learning on financial markets.","venue":"Neurocomputing","volume":"398","pages":"172-184","year":"2020","type":"Journal Articles","access":"closed","key":"journals/ijon/CalabuigFS20","doi":"10.1016/J.NEUCOM.2020.02.052","ee":"https://doi.org/10.1016/j.neucom.2020.02.052","url":"https://dblp.org/rec/journals/ijon/CalabuigFS20"},
+"url":"URL#738604"
+},
+{
+"@score":"4",
+"@id":"1466927",
+"info":{"authors":{"author":[{"@pid":"184/4020","text":"J. M. Calabuig"},{"@pid":"241/5975","text":"Hervé Falciani"},{"@pid":"170/7397","text":"Enrique Alfonso Sánchez-Pérez"}]},"title":"Dreaming machine learning: Lipschitz extensions for reinforcement learning on financial markets.","venue":"CoRR","volume":"abs/1907.05697","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1907-05697","ee":"http://arxiv.org/abs/1907.05697","url":"https://dblp.org/rec/journals/corr/abs-1907-05697"},
+"url":"URL#1466927"
+},
+{
+"@score":"3",
+"@id":"2134",
+"info":{"authors":{"author":[{"@pid":"325/0280","text":"Matin N. Ashtiani"},{"@pid":"27/2793","text":"Bijan Raahemi"}]},"title":"Intelligent Fraud Detection in Financial Statements Using Machine Learning and Data Mining: A Systematic Literature Review.","venue":"IEEE Access","volume":"10","pages":"72504-72525","year":"2022","type":"Journal Articles","access":"open","key":"journals/access/AshtianiR22","doi":"10.1109/ACCESS.2021.3096799","ee":"https://doi.org/10.1109/ACCESS.2021.3096799","url":"https://dblp.org/rec/journals/access/AshtianiR22"},
+"url":"URL#2134"
+},
+{
+"@score":"3",
+"@id":"3903",
+"info":{"authors":{"author":[{"@pid":"320/2396","text":"Rathimala Kannan"},{"@pid":"324/6083","text":"Khor Woon Shing"},{"@pid":"324/5846","text":"Kannan Ramakrishnan"},{"@pid":"324/5826","text":"Hway Boon Ong"},{"@pid":"227/1488","text":"Andry Alamsyah"}]},"title":"Machine Learning Models for Predicting Financially Vigilant Low-Income Households.","venue":"IEEE Access","volume":"10","pages":"70418-70427","year":"2022","type":"Journal Articles","access":"open","key":"journals/access/KannanSROA22","doi":"10.1109/ACCESS.2022.3187564","ee":"https://doi.org/10.1109/ACCESS.2022.3187564","url":"https://dblp.org/rec/journals/access/KannanSROA22"},
+"url":"URL#3903"
+},
+{
+"@score":"3",
+"@id":"5999",
+"info":{"authors":{"author":[{"@pid":"270/7898","text":"Zeinab Shahbazi"},{"@pid":"67/663","text":"Yung-Cheol Byun"}]},"title":"Machine Learning-Based Analysis of Cryptocurrency Market Financial Risk Management.","venue":"IEEE Access","volume":"10","pages":"37848-37856","year":"2022","type":"Journal Articles","access":"open","key":"journals/access/ShahbaziB22a","doi":"10.1109/ACCESS.2022.3162858","ee":"https://doi.org/10.1109/ACCESS.2022.3162858","url":"https://dblp.org/rec/journals/access/ShahbaziB22a"},
+"url":"URL#5999"
+},
+{
+"@score":"3",
+"@id":"30639",
+"info":{"authors":{"author":[{"@pid":"43/656","text":"Tao Liu"},{"@pid":"174/9726","text":"Zhongyang Yu"}]},"title":"The analysis of financial market risk based on machine learning and particle swarm optimization algorithm.","venue":"EURASIP J. Wirel. Commun. Netw.","volume":"2022","number":"1","pages":"31","year":"2022","type":"Journal Articles","access":"open","key":"journals/ejwcn/LiuY22","doi":"10.1186/S13638-022-02117-3","ee":"https://doi.org/10.1186/s13638-022-02117-3","url":"https://dblp.org/rec/journals/ejwcn/LiuY22"},
+"url":"URL#30639"
+},
+{
+"@score":"3",
+"@id":"33417",
+"info":{"authors":{"author":[{"@pid":"187/4386","text":"Silvia García-Méndez"},{"@pid":"280/7690","text":"Francisco De Arriba-Pérez"},{"@pid":"318/0445","text":"Ana Barros-Vila"},{"@pid":"12/698","text":"Francisco J. González-Castaño"}]},"title":"Detection of temporality at discourse level on financial news by combining Natural Language Processing and Machine Learning.","venue":"Expert Syst. Appl.","volume":"197","pages":"116648","year":"2022","type":"Journal Articles","access":"open","key":"journals/eswa/Garcia-MendezAB22","doi":"10.1016/J.ESWA.2022.116648","ee":"https://doi.org/10.1016/j.eswa.2022.116648","url":"https://dblp.org/rec/journals/eswa/Garcia-MendezAB22"},
+"url":"URL#33417"
+},
+{
+"@score":"3",
+"@id":"42894",
+"info":{"authors":{"author":[{"@pid":"317/9210","text":"Varun Dogra"},{"@pid":"204/3600","text":"Sahil Verma"},{"@pid":"317/9615","text":"Kavita Verma"},{"@pid":"238/5807","text":"NZ Jhanjhi"},{"@pid":"97/9748","text":"Uttam Ghosh"},{"@pid":"157/7957","text":"Dac-Nhuong Le"}]},"title":"A Comparative Analysis of Machine Learning Models for Banking News Extraction by Multiclass Classification With Imbalanced Datasets of Financial News: Challenges and Solutions.","venue":"Int. J. Interact. Multim. Artif. Intell.","volume":"7","number":"3","pages":"35","year":"2022","type":"Journal Articles","access":"open","key":"journals/ijimai/DograVVJGL22","doi":"10.9781/IJIMAI.2022.02.002","ee":"https://doi.org/10.9781/ijimai.2022.02.002","url":"https://dblp.org/rec/journals/ijimai/DograVVJGL22"},
+"url":"URL#42894"
+},
+{
+"@score":"3",
+"@id":"53595",
+"info":{"authors":{"author":{"@pid":"95/6457","text":"Jian Yi"}},"title":"Research on enterprise financial economics early warning based on machine learning method.","venue":"J. Comput. Methods Sci. Eng.","volume":"22","number":"2","pages":"529-539","year":"2022","type":"Journal Articles","access":"closed","key":"journals/jcmse/Yi22","doi":"10.3233/JCM-215783","ee":"https://doi.org/10.3233/JCM-215783","url":"https://dblp.org/rec/journals/jcmse/Yi22"},
+"url":"URL#53595"
+},
+{
+"@score":"3",
+"@id":"68476",
+"info":{"authors":{"author":[{"@pid":"324/9417","text":"Renato Alexandre de Lima Lemos"},{"@pid":"26/10582","text":"Thiago Christiano Silva 0001"},{"@pid":"17/740","text":"Benjamin Miranda Tabak"}]},"title":"Propension to customer churn in a financial institution: a machine learning approach.","venue":"Neural Comput. Appl.","volume":"34","number":"14","pages":"11751-11768","year":"2022","type":"Journal Articles","access":"closed","key":"journals/nca/LemosST22","doi":"10.1007/S00521-022-07067-X","ee":"https://doi.org/10.1007/s00521-022-07067-x","url":"https://dblp.org/rec/journals/nca/LemosST22"},
+"url":"URL#68476"
+},
+{
+"@score":"3",
+"@id":"68798",
+"info":{"authors":{"author":[{"@pid":"76/2727","text":"Wen Wei"},{"@pid":"49/2064","text":"Qiwen Zhang"}]},"title":"Evaluation of rural financial ecological environment based on machine learning and improved neural network.","venue":"Neural Comput. Appl.","volume":"34","number":"12","pages":"9335-9352","year":"2022","type":"Journal Articles","access":"closed","key":"journals/nca/WeiZ22","doi":"10.1007/S00521-021-06312-Z","ee":"https://doi.org/10.1007/s00521-021-06312-z","url":"https://dblp.org/rec/journals/nca/WeiZ22"},
+"url":"URL#68798"
+},
+{
+"@score":"3",
+"@id":"167558",
+"info":{"authors":{"author":[{"@pid":"26/5572","text":"Ting-Kai Hwang"},{"@pid":"95/8480","text":"Wei-Chun Chen"},{"@pid":"320/6490","text":"Wan-Chi Chiang"},{"@pid":"93/2611","text":"Yung-Ming Li"}]},"title":"Machine Learning Detection for Financial Statement Fraud.","venue":"WorldCIST","pages":"148-154","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/worldcist/HwangCCL22","doi":"10.1007/978-3-031-04819-7_16","ee":"https://doi.org/10.1007/978-3-031-04819-7_16","url":"https://dblp.org/rec/conf/worldcist/HwangCCL22"},
+"url":"URL#167558"
+},
+{
+"@score":"3",
+"@id":"182355",
+"info":{"authors":{"author":[{"@pid":"314/9685","text":"Philippe Cotte"},{"@pid":"09/5403","text":"Pierre Lagier"},{"@pid":"222/7078","text":"Vincent Margot"},{"@pid":"63/4825","text":"Christophe Geissler"}]},"title":"Making use of supercomputers in financial machine learning.","venue":"CoRR","volume":"abs/2203.00427","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2203-00427","doi":"10.48550/ARXIV.2203.00427","ee":"https://doi.org/10.48550/arXiv.2203.00427","url":"https://dblp.org/rec/journals/corr/abs-2203-00427"},
+"url":"URL#182355"
+},
+{
+"@score":"3",
+"@id":"233897",
+"info":{"authors":{"author":[{"@pid":"293/0489","text":"Shweta Tiwari"},{"@pid":"r/HeriRamampiaro","text":"Heri Ramampiaro"},{"@pid":"99/3622","text":"Helge Langseth"}]},"title":"Machine Learning in Financial Market Surveillance: A Survey.","venue":"IEEE Access","volume":"9","pages":"159734-159754","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/TiwariRL21","doi":"10.1109/ACCESS.2021.3130843","ee":"https://doi.org/10.1109/ACCESS.2021.3130843","url":"https://dblp.org/rec/journals/access/TiwariRL21"},
+"url":"URL#233897"
+},
+{
+"@score":"3",
+"@id":"262233",
+"info":{"authors":{"author":[{"@pid":"44/3684","text":"Yi Wu"},{"@pid":"17/6262","text":"Yuwen Pan"}]},"title":"Application Analysis of Credit Scoring of Financial Institutions Based on Machine Learning Model.","venue":"Complex.","volume":"2021","pages":"9222617:1-9222617:12","year":"2021","type":"Journal Articles","access":"open","key":"journals/complexity/WuP21","doi":"10.1155/2021/9222617","ee":"https://doi.org/10.1155/2021/9222617","url":"https://dblp.org/rec/journals/complexity/WuP21"},
+"url":"URL#262233"
+},
+{
+"@score":"3",
+"@id":"290815",
+"info":{"authors":{"author":[{"@pid":"287/8120","text":"Serhan Hamal"},{"@pid":"121/5787","text":"Özlem Senvar"}]},"title":"Comparing performances and effectiveness of machine learning classifiers in detecting financial accounting fraud for Turkish SMEs.","venue":"Int. J. Comput. Intell. Syst.","volume":"14","number":"1","pages":"769-782","year":"2021","type":"Journal Articles","access":"open","key":"journals/ijcisys/HamalS21","doi":"10.2991/IJCIS.D.210203.007","ee":"https://doi.org/10.2991/ijcis.d.210203.007","url":"https://dblp.org/rec/journals/ijcisys/HamalS21"},
+"url":"URL#290815"
+},
+{
+"@score":"3",
+"@id":"307061",
+"info":{"authors":{"author":[{"@pid":"301/9470","text":"Rasmus Kær Jørgensen"},{"@pid":"38/6146","text":"Christian Igel"}]},"title":"Machine learning for financial transaction classification across companies using character-level word embeddings of text fields.","venue":"Intell. Syst. Account. Finance Manag.","volume":"28","number":"3","pages":"159-172","year":"2021","type":"Journal Articles","access":"closed","key":"journals/isafm/JorgensenI21","doi":"10.1002/ISAF.1500","ee":"https://doi.org/10.1002/isaf.1500","url":"https://dblp.org/rec/journals/isafm/JorgensenI21"},
+"url":"URL#307061"
+},
+{
+"@score":"3",
+"@id":"312002",
+"info":{"authors":{"author":{"@pid":"83/7041","text":"Tien-Yu Hsu"}},"title":"Machine learning applied to stock index performance enhancement.","venue":"J. Bank. Financial Technol.","volume":"5","number":"1","pages":"21-33","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jbft/Hsu21","doi":"10.1007/S42786-021-00025-6","ee":"https://doi.org/10.1007/s42786-021-00025-6","url":"https://dblp.org/rec/journals/jbft/Hsu21"},
+"url":"URL#312002"
+},
+{
+"@score":"3",
+"@id":"312003",
+"info":{"authors":{"author":{"@pid":"83/7041","text":"Tien-Yu Hsu"}},"title":"Correction to: Machine learning applied to stock index performance enhancement.","venue":"J. Bank. Financial Technol.","volume":"5","number":"2","pages":"143","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jbft/Hsu21a","doi":"10.1007/S42786-021-00033-6","ee":"https://doi.org/10.1007/s42786-021-00033-6","url":"https://dblp.org/rec/journals/jbft/Hsu21a"},
+"url":"URL#312003"
+},
+{
+"@score":"3",
+"@id":"312507",
+"info":{"authors":{"author":[{"@pid":"28/6468","text":"Ting-Hsuan Chen"},{"@pid":"287/0539","text":"Rong-Cih Chang"}]},"title":"Using machine learning to evaluate the influence of FinTech patents: The case of Taiwan&apos;s financial industry.","venue":"J. Comput. Appl. Math.","volume":"390","pages":"113215","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jcam/ChenC21","doi":"10.1016/J.CAM.2020.113215","ee":"https://doi.org/10.1016/j.cam.2020.113215","url":"https://dblp.org/rec/journals/jcam/ChenC21"},
+"url":"URL#312507"
+},
+{
+"@score":"3",
+"@id":"318589",
+"info":{"authors":{"author":{"@pid":"72/10148","text":"Yubo Cao"}},"title":"Innovation of enterprise financial management based on machine learning and artificial intelligence technology.","venue":"J. Intell. Fuzzy Syst.","volume":"40","number":"4","pages":"6767-6778","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jifs/Cao21","doi":"10.3233/JIFS-189510","ee":"https://doi.org/10.3233/JIFS-189510","url":"https://dblp.org/rec/journals/jifs/Cao21"},
+"url":"URL#318589"
+},
+{
+"@score":"3",
+"@id":"318753",
+"info":{"authors":{"author":{"@pid":"261/2682","text":"Xuan Fan"}},"title":"Regression analysis of supply chain financial risk based on machine learning and fuzzy decision model.","venue":"J. Intell. Fuzzy Syst.","volume":"40","number":"4","pages":"6925-6935","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jifs/Fan21","doi":"10.3233/JIFS-189523","ee":"https://doi.org/10.3233/JIFS-189523","url":"https://dblp.org/rec/journals/jifs/Fan21"},
+"url":"URL#318753"
+},
+{
+"@score":"3",
+"@id":"319504",
+"info":{"authors":{"author":{"@pid":"12/5905","text":"Hongjin Sun"}},"title":"Analysis of risk factors in financial supply chain based on machine learning and IoT technology.","venue":"J. Intell. Fuzzy Syst.","volume":"40","number":"4","pages":"6421-6431","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jifs/Sun21a","doi":"10.3233/JIFS-189482","ee":"https://doi.org/10.3233/JIFS-189482","url":"https://dblp.org/rec/journals/jifs/Sun21a"},
+"url":"URL#319504"
+},
+{
+"@score":"3",
+"@id":"319543",
+"info":{"authors":{"author":[{"@pid":"181/2690","text":"Jie Tian"},{"@pid":"242/7533","text":"Yaoqiang Wang"},{"@pid":"60/2826","text":"Wenjing Cui"},{"@pid":"40/2555","text":"Kun Zhao"}]},"title":"Simulation analysis of financial stock market based on machine learning and GARCH model.","venue":"J. Intell. Fuzzy Syst.","volume":"40","number":"2","pages":"2277-2287","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jifs/TianWCZ21","doi":"10.3233/JIFS-189225","ee":"https://doi.org/10.3233/JIFS-189225","url":"https://dblp.org/rec/journals/jifs/TianWCZ21"},
+"url":"URL#319543"
+},
+{
+"@score":"3",
+"@id":"319778",
+"info":{"authors":{"author":{"@pid":"292/3504","text":"Cao Yanli"}},"title":"Internet financial supervision based on machine learning and improved neural network.","venue":"J. Intell. Fuzzy Syst.","volume":"40","number":"4","pages":"7297-7308","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jifs/Yanli21","doi":"10.3233/JIFS-189555","ee":"https://doi.org/10.3233/JIFS-189555","url":"https://dblp.org/rec/journals/jifs/Yanli21"},
+"url":"URL#319778"
+},
+{
+"@score":"3",
+"@id":"319855",
+"info":{"authors":{"author":[{"@pid":"39/488","text":"Chengyuan Zhang"},{"@pid":"14/7844","text":"Mingliang Li"},{"@pid":"76/6452","text":"Yongqiang Li"}]},"title":"Financial risk analysis of real estate bubble based on machine learning and factor analysis model.","venue":"J. Intell. Fuzzy Syst.","volume":"40","number":"4","pages":"6493-6504","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jifs/ZhangLL21","doi":"10.3233/JIFS-189488","ee":"https://doi.org/10.3233/JIFS-189488","url":"https://dblp.org/rec/journals/jifs/ZhangLL21"},
+"url":"URL#319855"
+},
+{
+"@score":"3",
+"@id":"331126",
+"info":{"authors":{"author":[{"@pid":"39/721","text":"Hui Wang"},{"@pid":"13/1779","text":"Xue Yang"},{"@pid":"77/30","text":"Ingoo Han"}]},"title":"Financial investor information impact based on FPGA and machine learning.","venue":"Microprocess. Microsystems","volume":"80","pages":"103550","year":"2021","type":"Journal Articles","access":"closed","key":"journals/mam/WangYH21","doi":"10.1016/J.MICPRO.2020.103550","ee":"https://doi.org/10.1016/j.micpro.2020.103550","url":"https://dblp.org/rec/journals/mam/WangYH21"},
+"url":"URL#331126"
+},
+{
+"@score":"3",
+"@id":"331182",
+"info":{"authors":{"author":{"@pid":"87/9265","text":"Xisheng Yu"}},"title":"Development of financial option pricing system based on fpga and machine learning.","venue":"Microprocess. Microsystems","volume":"81","pages":"103708","year":"2021","type":"Journal Articles","access":"closed","key":"journals/mam/Yu21c","doi":"10.1016/J.MICPRO.2020.103708","ee":"https://doi.org/10.1016/j.micpro.2020.103708","url":"https://dblp.org/rec/journals/mam/Yu21c"},
+"url":"URL#331182"
+},
+{
+"@score":"3",
+"@id":"339226",
+"info":{"authors":{"author":[{"@pid":"25/4202","text":"Xiaohui Wei"},{"@pid":"278/6662","text":"Wanling Chen"},{"@pid":"66/2069","text":"Xiao Li"}]},"title":"Exploring the financial indicators to improve the pattern recognition of economic data based on machine learning.","venue":"Neural Comput. Appl.","volume":"33","number":"2","pages":"723-737","year":"2021","type":"Journal Articles","access":"closed","key":"journals/nca/WeiCL21","doi":"10.1007/S00521-020-05094-0","ee":"https://doi.org/10.1007/s00521-020-05094-0","url":"https://dblp.org/rec/journals/nca/WeiCL21"},
+"url":"URL#339226"
+},
+{
+"@score":"3",
+"@id":"369398",
+"info":{"authors":{"author":[{"@pid":"69/510-42","text":"Tao Chen 0042"},{"@pid":"53/4825","text":"Michael Ludkovski"}]},"title":"A Machine Learning Approach to Adaptive Robust Utility Maximization and Hedging.","venue":"SIAM J. Financial Math.","volume":"12","number":"3","pages":"1226-1256","year":"2021","type":"Journal Articles","access":"closed","key":"journals/siamfm/ChenL21a","doi":"10.1137/20M1336023","ee":"https://doi.org/10.1137/20M1336023","url":"https://dblp.org/rec/journals/siamfm/ChenL21a"},
+"url":"URL#369398"
+},
+{
+"@score":"3",
+"@id":"413459",
+"info":{"authors":{"author":[{"@pid":"283/1883","text":"Magdi El Bannany"},{"@pid":"294/2438","text":"Ahlam H. Dehghan"},{"@pid":"72/5176","text":"Ahmed M. Khedr"}]},"title":"Prediction of Financial Statement Fraud using Machine Learning Techniques in UAE.","venue":"SSD","pages":"649-654","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/IEEEssd/BannanyDK21","doi":"10.1109/SSD52085.2021.9429297","ee":"https://doi.org/10.1109/SSD52085.2021.9429297","url":"https://dblp.org/rec/conf/IEEEssd/BannanyDK21"},
+"url":"URL#413459"
+},
+{
+"@score":"3",
+"@id":"421277",
+"info":{"authors":{"author":{"@pid":"195/2164","text":"Shaoyi Li"}},"title":"Research on Financial Risk Control Model and Algorithm Based on Machine Learning under the Background of Rural Revitalization Strategy.","venue":"AIAM","pages":"3010-3014","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/aiam/Li21n","doi":"10.1145/3495018.3501225","ee":"https://doi.org/10.1145/3495018.3501225","url":"https://dblp.org/rec/conf/aiam/Li21n"},
+"url":"URL#421277"
+},
+{
+"@score":"3",
+"@id":"477421",
+"info":{"authors":{"author":[{"@pid":"320/0102","text":"Cynthia Pagliaro"},{"@pid":"151/6660","text":"Dhagash Mehta"},{"@pid":"21/11302","text":"Han-Tai Shiao"},{"@pid":"156/0193","text":"Shaofei Wang"},{"@pid":"320/0191","text":"Luwei Xiong"}]},"title":"Investor behavior modeling by analyzing financial advisor notes: a machine learning perspective.","venue":"ICAIF","pages":"23:1-23:8","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaif/PagliaroMSWX21","doi":"10.1145/3490354.3494388","ee":"https://doi.org/10.1145/3490354.3494388","url":"https://dblp.org/rec/conf/icaif/PagliaroMSWX21"},
+"url":"URL#477421"
+},
+{
+"@score":"3",
+"@id":"477700",
+"info":{"authors":{"author":[{"@pid":"143/6158","text":"Jianzhe Liu"},{"@pid":"304/9511","text":"Zipei Liu"}]},"title":"Research on Machine Learning Prediction algorithm of Financial data based on Stochastic Process Analysis and Evolutionary Algorithm.","venue":"ICAIIS","pages":"158:1-158:5","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaiis/LiuL21","doi":"10.1145/3469213.3470361","ee":"https://doi.org/10.1145/3469213.3470361","url":"https://dblp.org/rec/conf/icaiis/LiuL21"},
+"url":"URL#477700"
+},
+{
+"@score":"3",
+"@id":"494910",
+"info":{"authors":{"author":[{"@pid":"32/10223","text":"Jiannan Yu"},{"@pid":"91/1977","text":"Jinlou Zhao"}]},"title":"Predict Risk Assessment in Financial Market System Based on Machine Learning Algorithm.","venue":"ICISCAE","pages":"1998-2001","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/iciscae/YuZ21","doi":"10.1145/3482632.3484085","ee":"https://doi.org/10.1145/3482632.3484085","url":"https://dblp.org/rec/conf/iciscae/YuZ21"},
+"url":"URL#494910"
+},
+{
+"@score":"3",
+"@id":"503537",
+"info":{"authors":{"author":[{"@pid":"308/3758","text":"Gim Hoy Soong"},{"@pid":"299/1019","text":"Chye Cheah Tan"}]},"title":"Sentiment Analysis on 10-K Financial Reports using Machine Learning Approaches.","venue":"ICSET","pages":"124-129","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icsengt/SoongT21","doi":"10.1109/ICSET53708.2021.9612552","ee":"https://doi.org/10.1109/ICSET53708.2021.9612552","url":"https://dblp.org/rec/conf/icsengt/SoongT21"},
+"url":"URL#503537"
+},
+{
+"@score":"3",
+"@id":"515677",
+"info":{"authors":{"author":[{"@pid":"266/2979","text":"Luisa Roa"},{"@pid":"286/1177","text":"Andrés Rodríguez-Rey"},{"@pid":"32/10814","text":"Alejandro Correa Bahnsen"},{"@pid":"299/0446","text":"Carlos Valencia Arboleda"}]},"title":"Supporting Financial Inclusion with Graph Machine Learning and Super-App Alternative Data.","venue":"IntelliSys","pages":"216-230","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/intellisys/RoaRBA21","doi":"10.1007/978-3-030-82196-8_16","ee":"https://doi.org/10.1007/978-3-030-82196-8_16","url":"https://dblp.org/rec/conf/intellisys/RoaRBA21"},
+"url":"URL#515677"
+},
+{
+"@score":"3",
+"@id":"534531",
+"info":{"authors":{"author":[{"@pid":"305/8464","text":"Amani Drissi"},{"@pid":"305/8439","text":"Ahmed Khemiri"},{"@pid":"81/2116","text":"Salma Sassi"},{"@pid":"c/RichardChbeir","text":"Richard Chbeir"}]},"title":"A New Automatic Ontology Construction Method Based on Machine Learning Techniques: Application on financial corpus.","venue":"MEDES","pages":"57-61","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/medes/DrissiKSC21","doi":"10.1145/3444757.3485111","ee":"https://doi.org/10.1145/3444757.3485111","url":"https://dblp.org/rec/conf/medes/DrissiKSC21"},
+"url":"URL#534531"
+},
+{
+"@score":"3",
+"@id":"589048",
+"info":{"authors":{"author":[{"@pid":"266/2979","text":"Luisa Roa"},{"@pid":"286/1177","text":"Andrés Rodríguez-Rey"},{"@pid":"32/10814","text":"Alejandro Correa Bahnsen"},{"@pid":"159/0940","text":"Carlos F. Valencia"}]},"title":"Supporting Financial Inclusion with Graph Machine Learning and Super-App Alternative Data.","venue":"CoRR","volume":"abs/2102.09974","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2102-09974","ee":"https://arxiv.org/abs/2102.09974","url":"https://dblp.org/rec/journals/corr/abs-2102-09974"},
+"url":"URL#589048"
+},
+{
+"@score":"3",
+"@id":"590758",
+"info":{"authors":{"author":[{"@pid":"286/8595","text":"Kristof Lommers"},{"@pid":"285/6535","text":"Ouns El Harzli"},{"@pid":"152/4821","text":"Jack Kim"}]},"title":"Confronting Machine Learning With Financial Research.","venue":"CoRR","volume":"abs/2103.00366","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2103-00366","ee":"https://arxiv.org/abs/2103.00366","url":"https://dblp.org/rec/journals/corr/abs-2103-00366"},
+"url":"URL#590758"
+},
+{
+"@score":"3",
+"@id":"595051",
+"info":{"authors":{"author":[{"@pid":"14/5759","text":"Chong Huang"},{"@pid":"33/8193","text":"Arash Nourian"},{"@pid":"288/1442","text":"Kevin Griest"}]},"title":"Hidden Technical Debts for Fair Machine Learning in Financial Services.","venue":"CoRR","volume":"abs/2103.10510","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2103-10510","ee":"https://arxiv.org/abs/2103.10510","url":"https://dblp.org/rec/journals/corr/abs-2103-10510"},
+"url":"URL#595051"
+},
+{
+"@score":"3",
+"@id":"620841",
+"info":{"authors":{"author":[{"@pid":"297/5149","text":"Helmut Wasserbacher"},{"@pid":"13/6630","text":"Martin Spindler"}]},"title":"Machine Learning for Financial Forecasting, Planning and Analysis: Recent Developments and Pitfalls.","venue":"CoRR","volume":"abs/2107.04851","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2107-04851","ee":"https://arxiv.org/abs/2107.04851","url":"https://dblp.org/rec/journals/corr/abs-2107-04851"},
+"url":"URL#620841"
+},
+{
+"@score":"3",
+"@id":"625023",
+"info":{"authors":{"author":[{"@pid":"222/0435","text":"Eghbal Rahimikia"},{"@pid":"217/3236","text":"Stefan Zohren"},{"@pid":"119/9203","text":"Ser-Huang Poon"}]},"title":"Realised Volatility Forecasting: Machine Learning via Financial Word Embedding.","venue":"CoRR","volume":"abs/2108.00480","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2108-00480","ee":"https://arxiv.org/abs/2108.00480","url":"https://dblp.org/rec/journals/corr/abs-2108-00480"},
+"url":"URL#625023"
+},
+{
+"@score":"3",
+"@id":"642612",
+"info":{"authors":{"author":[{"@pid":"146/6208","text":"Douglas Castilho"},{"@pid":"304/9017","text":"Tharsis T. P. Souza"},{"@pid":"41/9671","text":"Soong Moon Kang"},{"@pid":"g/JGama","text":"João Gama 0001"},{"@pid":"c/ACPLFdCarvalho","text":"André C. P. L. F. de Carvalho"}]},"title":"Forecasting Financial Market Structure from Network Features using Machine Learning.","venue":"CoRR","volume":"abs/2110.11751","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2110-11751","ee":"https://arxiv.org/abs/2110.11751","url":"https://dblp.org/rec/journals/corr/abs-2110-11751"},
+"url":"URL#642612"
+},
+{
+"@score":"3",
+"@id":"662224",
+"info":{"authors":{"author":{"@pid":"248/8057","text":"Baptiste Barreau"}},"title":"Machine Learning for Financial Products Recommendation. (Apprentissage Statistique pour la Recommandation de Produits Financiers).","year":"2020","type":"Books and Theses","access":"closed","key":"phd/hal/Barreau20","ee":"https://tel.archives-ouvertes.fr/tel-02974918","url":"https://dblp.org/rec/phd/hal/Barreau20"},
+"url":"URL#662224"
+},
+{
+"@score":"3",
+"@id":"666797",
+"info":{"authors":{"author":[{"@pid":"06/2475","text":"Jui-Sheng Chou"},{"@pid":"257/7574","text":"Dinh-Nhat Truong"},{"@pid":"257/7789","text":"Thuy-Linh Le"}]},"title":"Interval Forecasting of Financial Time Series by Accelerated Particle Swarm-Optimized Multi-Output Machine Learning System.","venue":"IEEE Access","volume":"8","pages":"14798-14808","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/ChouTL20","doi":"10.1109/ACCESS.2020.2965598","ee":"https://doi.org/10.1109/ACCESS.2020.2965598","url":"https://dblp.org/rec/journals/access/ChouTL20"},
+"url":"URL#666797"
+},
+{
+"@score":"3",
+"@id":"673772",
+"info":{"authors":{"author":[{"@pid":"275/7894","text":"Akib Mashrur"},{"@pid":"05/6715-1","text":"Wei Luo 0001"},{"@pid":"97/2967","text":"Nayyar Abbas Zaidi"},{"@pid":"07/3794","text":"Antonio Robles-Kelly"}]},"title":"Machine Learning for Financial Risk Management: A Survey.","venue":"IEEE Access","volume":"8","pages":"203203-203223","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/MashrurLZR20","doi":"10.1109/ACCESS.2020.3036322","ee":"https://doi.org/10.1109/ACCESS.2020.3036322","url":"https://dblp.org/rec/journals/access/MashrurLZR20"},
+"url":"URL#673772"
+},
+{
+"@score":"3",
+"@id":"701843",
+"info":{"authors":{"author":[{"@pid":"38/2063","text":"Enza Messina"},{"@pid":"70/1513","text":"Christina Erlwein-Sayer"},{"@pid":"33/3944","text":"Gautam Mitra"}]},"title":"AI, Machine Learning and sentiment analysis applied to financial markets and consumer markets.","venue":"Comput. Manag. Sci.","volume":"17","number":"4","pages":"493-494","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cms/MessinaEM20","doi":"10.1007/S10287-020-00384-3","ee":"https://doi.org/10.1007/s10287-020-00384-3","url":"https://dblp.org/rec/journals/cms/MessinaEM20"},
+"url":"URL#701843"
+},
+{
+"@score":"3",
+"@id":"704905",
+"info":{"authors":{"author":[{"@pid":"31/3925","text":"Hui Sun"},{"@pid":"58/529","text":"Xiong Zhong"}]},"title":"Impact of Financial R&amp;D Resource Allocation Efficiency Based on VR Technology and Machine Learning in Complex Systems on Total Factor Productivity.","venue":"Complex.","volume":"2020","pages":"6679846:1-6679846:15","year":"2020","type":"Journal Articles","access":"open","key":"journals/complexity/SunZ20","doi":"10.1155/2020/6679846","ee":"https://doi.org/10.1155/2020/6679846","url":"https://dblp.org/rec/journals/complexity/SunZ20"},
+"url":"URL#704905"
+},
+{
+"@score":"3",
+"@id":"704907",
+"info":{"authors":{"author":[{"@pid":"17/740","text":"Benjamin Miranda Tabak"},{"@pid":"26/10582","text":"Thiago C. Silva 0001"},{"@pid":"63/5422-1","text":"Liang Zhao 0001"},{"@pid":"222/7710","text":"Ahmet Sensoy"}]},"title":"Applications of Machine Learning Methods in Complex Economics and Financial Networks.","venue":"Complex.","volume":"2020","pages":"4247587:1-4247587:2","year":"2020","type":"Journal Articles","access":"open","key":"journals/complexity/TabakSZS20","doi":"10.1155/2020/4247587","ee":"https://doi.org/10.1155/2020/4247587","url":"https://dblp.org/rec/journals/complexity/TabakSZS20"},
+"url":"URL#704907"
+},
+{
+"@score":"3",
+"@id":"748045",
+"info":{"authors":{"author":[{"@pid":"240/3273","text":"J. Uthayakumar"},{"@pid":"198/6327","text":"Noura Metawa"},{"@pid":"94/5167-2","text":"K. Shankar 0002"},{"@pid":"220/2208","text":"S. K. Lakshmanaprabu"}]},"title":"Intelligent hybrid model for financial crisis prediction using machine learning techniques.","venue":"Inf. Syst. E Bus. Manag.","volume":"18","number":"4","pages":"617-645","year":"2020","type":"Journal Articles","access":"closed","key":"journals/isem/UthayakumarMSL20","doi":"10.1007/S10257-018-0388-9","ee":"https://doi.org/10.1007/s10257-018-0388-9","url":"https://dblp.org/rec/journals/isem/UthayakumarMSL20"},
+"url":"URL#748045"
+},
+{
+"@score":"3",
+"@id":"751431",
+"info":{"authors":{"author":[{"@pid":"278/7194","text":"Siddharth Bhatore"},{"@pid":"192/7511","text":"Lalit Mohan S."},{"@pid":"r/RaghuReddy","text":"Y. Raghu Reddy"}]},"title":"Machine learning techniques for credit risk evaluation: a systematic literature review.","venue":"J. Bank. Financial Technol.","volume":"4","number":"1","pages":"111-138","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jbft/BhatoreSR20","doi":"10.1007/S42786-020-00020-3","ee":"https://doi.org/10.1007/s42786-020-00020-3","url":"https://dblp.org/rec/journals/jbft/BhatoreSR20"},
+"url":"URL#751431"
+},
+{
+"@score":"3",
+"@id":"752263",
+"info":{"authors":{"author":[{"@pid":"77/8117","text":"Cheng-Feng Wu"},{"@pid":"81/2108","text":"Shian-Chang Huang"},{"@pid":"30/8438","text":"Tsangyao Chang"},{"@pid":"90/7577","text":"Chei-Chang Chiou"},{"@pid":"258/9017","text":"Hsin-Pei Hsueh"}]},"title":"The nexus of financial development and economic growth across major Asian economies: Evidence from bootstrap ARDL testing and machine learning approach.","venue":"J. Comput. Appl. Math.","volume":"372","pages":"112660","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jcam/WuHCCH20","doi":"10.1016/J.CAM.2019.112660","ee":"https://doi.org/10.1016/j.cam.2019.112660","url":"https://dblp.org/rec/journals/jcam/WuHCCH20"},
+"url":"URL#752263"
+},
+{
+"@score":"3",
+"@id":"759365",
+"info":{"authors":{"author":[{"@pid":"03/5835","text":"Leina Zheng"},{"@pid":"25/1354","text":"Tiejun Pan"},{"@pid":"95/3736","text":"Jun Liu"},{"@pid":"93/5269","text":"Guo Ming"},{"@pid":"226/7677","text":"Mengli Zhang"},{"@pid":"125/8189","text":"Jun Wang"}]},"title":"Quantitative trading system based on machine learning in Chinese financial market.","venue":"J. Intell. Fuzzy Syst.","volume":"38","number":"2","pages":"1423-1433","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jifs/ZhengPLMZW20","doi":"10.3233/JIFS-179505","ee":"https://doi.org/10.3233/JIFS-179505","url":"https://dblp.org/rec/journals/jifs/ZhengPLMZW20"},
+"url":"URL#759365"
+},
+{
+"@score":"3",
+"@id":"776177",
+"info":{"authors":{"author":[{"@pid":"81/251","text":"An-Sing Chen"},{"@pid":"82/4727","text":"Mark T. Leung"},{"@pid":"268/9384","text":"Shaotao Pan"},{"@pid":"268/9397","text":"Ching-Yun Chou"}]},"title":"Financial hedging in energy market by cross-learning machines.","venue":"Neural Comput. Appl.","volume":"32","number":"14","pages":"10321-10335","year":"2020","type":"Journal Articles","access":"closed","key":"journals/nca/ChenLPC20","doi":"10.1007/S00521-019-04572-4","ee":"https://doi.org/10.1007/s00521-019-04572-4","url":"https://dblp.org/rec/journals/nca/ChenLPC20"},
+"url":"URL#776177"
+},
+{
+"@score":"3",
+"@id":"793020",
+"info":{"authors":{"author":[{"@pid":"203/0348","text":"Ling Pang"},{"@pid":"64/894","text":"Yongli Liu"}]},"title":"Construction and Application of a Financial Big Data Analysis Model Based on Machine Learning.","venue":"Rev. d&apos;Intelligence Artif.","volume":"34","number":"3","pages":"345-350","year":"2020","type":"Journal Articles","access":"open","key":"journals/ria/PangL20","doi":"10.18280/RIA.340313","ee":"https://doi.org/10.18280/ria.340313","url":"https://dblp.org/rec/journals/ria/PangL20"},
+"url":"URL#793020"
+},
+{
+"@score":"3",
+"@id":"808027",
+"info":{"authors":{"author":[{"@pid":"257/3844","text":"Jay F. K. Au Yeung"},{"@pid":"236/4266","text":"Zi-Kai Wei"},{"@pid":"01/3712","text":"Kit Yan Chan"},{"@pid":"08/1451","text":"Henry Y. K. Lau"},{"@pid":"35/3388","text":"Ka-Fai Cedric Yiu"}]},"title":"Jump detection in financial time series using machine learning algorithms.","venue":"Soft Comput.","volume":"24","number":"3","pages":"1789-1801","year":"2020","type":"Journal Articles","access":"closed","key":"journals/soco/YeungWCLY20","doi":"10.1007/S00500-019-04006-2","ee":"https://doi.org/10.1007/s00500-019-04006-2","url":"https://dblp.org/rec/journals/soco/YeungWCLY20"},
+"url":"URL#808027"
+},
+{
+"@score":"3",
+"@id":"842521",
+"info":{"authors":{"author":[{"@pid":"283/1563","text":"Meenu Sreedharan"},{"@pid":"72/5176","text":"Ahmed M. Khedr"},{"@pid":"283/1883","text":"Magdi El Bannany"}]},"title":"A Comparative Analysis of Machine Learning Classifiers and Ensemble Techniques in Financial Distress Prediction.","venue":"SSD","pages":"653-657","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/IEEEssd/SreedharanKB20","doi":"10.1109/SSD49366.2020.9364178","ee":"https://doi.org/10.1109/SSD49366.2020.9364178","url":"https://dblp.org/rec/conf/IEEEssd/SreedharanKB20"},
+"url":"URL#842521"
+},
+{
+"@score":"3",
+"@id":"868639",
+"info":{"authors":{"author":[{"@pid":"152/6215","text":"Cen Chen"},{"@pid":"207/4843","text":"Bingzhe Wu"},{"@pid":"58/6810-56","text":"Li Wang 0056"},{"@pid":"26/1492-1","text":"Chaochao Chen 0001"},{"@pid":"15/7663","text":"Jin Tan"},{"@pid":"181/2817","text":"Lei Wang"},{"@pid":"99/3847-11","text":"Jun Zhou 0011"},{"@pid":"z/BenyuZhang","text":"Benyu Zhang"}]},"title":"Nebula: A Scalable Privacy-Preserving Machine Learning System in Ant Financial.","venue":"CIKM","pages":"3369-3372","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/cikm/ChenWW0TWZZ20","doi":"10.1145/3340531.3417418","ee":"https://doi.org/10.1145/3340531.3417418","url":"https://dblp.org/rec/conf/cikm/ChenWW0TWZZ20"},
+"url":"URL#868639"
+},
+{
+"@score":"3",
+"@id":"907156",
+"info":{"authors":{"author":[{"@pid":"17/11156","text":"Boluwaji A. Akinnuwesi"},{"@pid":"262/4847","text":"Stephen Gbenga Fashoto"},{"@pid":"30/10259","text":"Andile Simphiwe Metfula"},{"@pid":"262/5030","text":"Adetutu N. Akinnuwesi"}]},"title":"Experimental Application of Machine Learning on Financial Inclusion Data for Governance in Eswatini.","venue":"I3E","pages":"414-425","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/i3e/AkinnuwesiFMA20","doi":"10.1007/978-3-030-45002-1_36","ee":"https://doi.org/10.1007/978-3-030-45002-1_36","url":"https://dblp.org/rec/conf/i3e/AkinnuwesiFMA20"},
+"url":"URL#907156"
+},
+{
+"@score":"3",
+"@id":"908730",
+"info":{"authors":{"author":{"@pid":"94/400","text":"Peter A. Chew"}},"title":"Unsupervised-learning financial reconciliation: a robust, accurate approach inspired by machine translation.","venue":"ICAIF","pages":"46:1-46:12","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaif/Chew20","doi":"10.1145/3383455.3422517","ee":"https://doi.org/10.1145/3383455.3422517","url":"https://dblp.org/rec/conf/icaif/Chew20"},
+"url":"URL#908730"
+},
+{
+"@score":"3",
+"@id":"913581",
+"info":{"authors":{"author":[{"@pid":"267/8180","text":"Jessica Ivonne Lozano-Medina"},{"@pid":"169/0275","text":"Laura Hervert-Escobar"},{"@pid":"16/5281","text":"Neil Hernández-Gress"}]},"title":"Risk Profiles of Financial Service Portfolio for Women Segment Using Machine Learning Algorithms.","venue":"ICCS","pages":"561-574","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccS/Lozano-MedinaHH20","doi":"10.1007/978-3-030-50436-6_42","ee":"https://doi.org/10.1007/978-3-030-50436-6_42","url":"https://dblp.org/rec/conf/iccS/Lozano-MedinaHH20"},
+"url":"URL#913581"
+},
+{
+"@score":"3",
+"@id":"920394",
+"info":{"authors":{"author":[{"@pid":"266/5354","text":"Victor Ulisses Pugliese"},{"@pid":"266/5381","text":"Renato Duarte Costa"},{"@pid":"h/CelsoMassakiHirata","text":"Celso Massaki Hirata"}]},"title":"Comparative Evaluation of the Supervised Machine Learning Classification Methods and the Concept Drift Detection Methods in the Financial Business Problems.","venue":"ICEIS","pages":"268-292","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/iceis/PuglieseCH20","doi":"10.1007/978-3-030-75418-1_13","ee":"https://doi.org/10.1007/978-3-030-75418-1_13","url":"https://dblp.org/rec/conf/iceis/PuglieseCH20"},
+"url":"URL#920394"
+},
+{
+"@score":"3",
+"@id":"923281",
+"info":{"authors":{"author":[{"@pid":"55/1332","text":"Xiaohui Zhang"},{"@pid":"172/7187","text":"Qianzhou Du"},{"@pid":"92/1805","text":"Zhongju Zhang"}]},"title":"An Explainable Machine Learning Framework for Fake Financial News Detection.","venue":"ICIS","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icis/ZhangDZ20","ee":"https://aisel.aisnet.org/icis2020/adv_research_methods/adv_research_methods/6","url":"https://dblp.org/rec/conf/icis/ZhangDZ20"},
+"url":"URL#923281"
+},
+{
+"@score":"3",
+"@id":"958129",
+"info":{"authors":{"author":[{"@pid":"277/2670","text":"Nhan Nathan Tri Luong"},{"@pid":"89/2798","text":"Zoran Milosevic"},{"@pid":"66/2790-1","text":"Andrew Berry 0001"},{"@pid":"63/1104","text":"Fethi A. Rabhi"}]},"title":"A Visual Interactive Analytics Interface for Complex Event Processing and Machine Learning Processing of Financial Market Data.","venue":"IV","pages":"189-194","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/iv/LuongMBR20","doi":"10.1109/IV51561.2020.00039","ee":"https://doi.org/10.1109/IV51561.2020.00039","url":"https://dblp.org/rec/conf/iv/LuongMBR20"},
+"url":"URL#958129"
+},
+{
+"@score":"3",
+"@id":"958773",
+"info":{"authors":{"author":[{"@pid":"279/2183","text":"Syafiq Hidayattullah"},{"@pid":"232/0385","text":"Isti Surjandari"},{"@pid":"256/9948","text":"Enrico Laoh"}]},"title":"Financial Statement Fraud Detection in Indonesia Listed Companies using Machine Learning based on Meta-Heuristic Optimization.","venue":"IWBIS","pages":"79-84","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/iwbis/HidayattullahSL20","doi":"10.1109/IWBIS50925.2020.9255563","ee":"https://doi.org/10.1109/IWBIS50925.2020.9255563","url":"https://dblp.org/rec/conf/iwbis/HidayattullahSL20"},
+"url":"URL#958773"
+},
+{
+"@score":"3",
+"@id":"961129",
+"info":{"authors":{"author":{"@pid":"183/3103","text":"Joanna Wyrobek"}},"title":"Application of machine learning models and artificial intelligence to analyze annual financial statements to identify companies with unfair corporate culture.","venue":"KES","pages":"3037-3046","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/kes/Wyrobek20","doi":"10.1016/J.PROCS.2020.09.335","ee":"https://doi.org/10.1016/j.procs.2020.09.335","url":"https://dblp.org/rec/conf/kes/Wyrobek20"},
+"url":"URL#961129"
+},
+{
+"@score":"3",
+"@id":"964001",
+"info":{"authors":{"author":[{"@pid":"281/3187","text":"Vasily Derbentsev"},{"@pid":"249/5089","text":"Andriy Matviychuk"},{"@pid":"278/4805","text":"Nataliia Datsenko"},{"@pid":"281/3114","text":"Vitalii Bezkorovainyi"},{"@pid":"281/3055","text":"Albert Azaryan"}]},"title":"Machine learning approaches for financial time series forecasting.","venue":"M3E2-MLPEED","pages":"434-450","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/m3e2/DerbentsevMDBA20","ee":"http://ceur-ws.org/Vol-2713/paper47.pdf","url":"https://dblp.org/rec/conf/m3e2/DerbentsevMDBA20"},
+"url":"URL#964001"
+},
+{
+"@score":"3",
+"@id":"975892",
+"info":{"authors":{"author":[{"@pid":"278/5721","text":"Malika Becha"},{"@pid":"20/1672","text":"Olfa Dridi"},{"@pid":"278/5595","text":"Oumayma Riabi"},{"@pid":"278/5723","text":"Yasmine Benmessaoud"}]},"title":"Use of Machine Learning Techniques in Financial Forecasting.","venue":"OCTA","pages":"1-6","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/octa/BechaDRB20","doi":"10.1109/OCTA49274.2020.9151854","ee":"https://doi.org/10.1109/OCTA49274.2020.9151854","url":"https://dblp.org/rec/conf/octa/BechaDRB20"},
+"url":"URL#975892"
+},
+{
+"@score":"3",
+"@id":"990157",
+"info":{"authors":{"author":[{"@pid":"225/3008","text":"Yahya Altuntas"},{"@pid":"157/0000","text":"Adnan Fatih Kocamaz"},{"@pid":"283/8520","text":"Abdullah Mert Ülkgün"}]},"title":"Determination of Individual Investors&apos; Financial Risk Tolerance by Machine Learning Methods.","venue":"SIU","pages":"1-4","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/siu/AltuntasKU20","doi":"10.1109/SIU49456.2020.9302294","ee":"https://doi.org/10.1109/SIU49456.2020.9302294","url":"https://dblp.org/rec/conf/siu/AltuntasKU20"},
+"url":"URL#990157"
+},
+{
+"@score":"3",
+"@id":"993983",
+"info":{"authors":{"author":[{"@pid":"181/9125","text":"Fernando Garcia Diniz Campos Ferreira"},{"@pid":"43/8647","text":"Amir H. Gandomi"},{"@pid":"56/2805","text":"Rodrigo T. N. Cardoso"}]},"title":"Financial time-series analysis of Brazilian stock market using machine learning.","venue":"SSCI","pages":"2853-2860","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ssci/FerreiraGC20","doi":"10.1109/SSCI47803.2020.9308470","ee":"https://doi.org/10.1109/SSCI47803.2020.9308470","url":"https://dblp.org/rec/conf/ssci/FerreiraGC20"},
+"url":"URL#993983"
+},
+{
+"@score":"3",
+"@id":"1027280",
+"info":{"authors":{"author":{"@pid":"262/3427","text":"Philip Ndikum"}},"title":"Machine Learning Algorithms for Financial Asset Price Forecasting.","venue":"CoRR","volume":"abs/2004.01504","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2004-01504","ee":"https://arxiv.org/abs/2004.01504","url":"https://dblp.org/rec/journals/corr/abs-2004-01504"},
+"url":"URL#1027280"
+},
+{
+"@score":"3",
+"@id":"1086333",
+"info":{"authors":{"author":{"@pid":"39/3861-29","text":"Thomas G. Fischer"}},"title":"Machine learning in financial markets.","pages":"1-238","year":"2019","type":"Books and Theses","access":"unavailable","key":"phd/dnb/Fischer19","ee":"https://d-nb.info/1187154571","url":"https://dblp.org/rec/phd/dnb/Fischer19"},
+"url":"URL#1086333"
+},
+{
+"@score":"3",
+"@id":"1106768",
+"info":{"authors":{"author":{"@pid":"255/6924","text":"Zachary David"}},"title":"Information leakage in financial machine learning research.","venue":"Algorithmic Finance","volume":"8","number":"1-2","pages":"1-4","year":"2019","type":"Journal Articles","access":"closed","key":"journals/af/David19","doi":"10.3233/AF-190900","ee":"https://doi.org/10.3233/AF-190900","url":"https://dblp.org/rec/journals/af/David19"},
+"url":"URL#1106768"
+},
+{
+"@score":"3",
+"@id":"1108093",
+"info":{"authors":{"author":[{"@pid":"161/4951","text":"Vasilios Plakandaras"},{"@pid":"157/9129","text":"Periklis Gogas"},{"@pid":"04/6819","text":"Theophilos Papadimitriou"}]},"title":"The Effects of Geopolitical Uncertainty in Forecasting Financial Markets: A Machine Learning Approach.","venue":"Algorithms","volume":"12","number":"1","pages":"1","year":"2019","type":"Journal Articles","access":"open","key":"journals/algorithms/PlakandarasGP19","doi":"10.3390/A12010001","ee":"https://doi.org/10.3390/a12010001","url":"https://dblp.org/rec/journals/algorithms/PlakandarasGP19"},
+"url":"URL#1108093"
+},
+{
+"@score":"3",
+"@id":"1109988",
+"info":{"authors":{"author":[{"@pid":"90/3930","text":"César Fernández"},{"@pid":"30/3718","text":"Luis Salinas"},{"@pid":"66/7635","text":"Claudio E. Torres"}]},"title":"A meta extreme learning machine method for forecasting financial time series.","venue":"Appl. Intell.","volume":"49","number":"2","pages":"532-554","year":"2019","type":"Journal Articles","access":"closed","key":"journals/apin/FernandezST19","doi":"10.1007/S10489-018-1282-3","ee":"https://doi.org/10.1007/s10489-018-1282-3","url":"https://dblp.org/rec/journals/apin/FernandezST19"},
+"url":"URL#1109988"
+},
+{
+"@score":"3",
+"@id":"1111329",
+"info":{"authors":{"author":[{"@pid":"97/7906","text":"Indranil Ghosh"},{"@pid":"70/6913","text":"Rabin K. Jana"},{"@pid":"153/3625","text":"Manas K. Sanyal"}]},"title":"Analysis of temporal pattern, causal interaction and predictive modeling of financial markets using nonlinear dynamics, econometric models and machine learning algorithms.","venue":"Appl. Soft Comput.","volume":"82","year":"2019","type":"Journal Articles","access":"closed","key":"journals/asc/GhoshJS19","doi":"10.1016/J.ASOC.2019.105553","ee":"https://doi.org/10.1016/j.asoc.2019.105553","url":"https://dblp.org/rec/journals/asc/GhoshJS19"},
+"url":"URL#1111329"
+},
+{
+"@score":"3",
+"@id":"1111382",
+"info":{"authors":{"author":[{"@pid":"156/6117","text":"Yu-Pei Huang"},{"@pid":"38/3","text":"Meng-Feng Yen"}]},"title":"A new perspective of performance comparison among machine learning algorithms for financial distress prediction.","venue":"Appl. Soft Comput.","volume":"83","year":"2019","type":"Journal Articles","access":"closed","key":"journals/asc/HuangY19","doi":"10.1016/J.ASOC.2019.105663","ee":"https://doi.org/10.1016/j.asoc.2019.105663","url":"https://dblp.org/rec/journals/asc/HuangY19"},
+"url":"URL#1111382"
+},
+{
+"@score":"3",
+"@id":"1128405",
+"info":{"authors":{"author":[{"@pid":"07/5975","text":"Salvatore Carta"},{"@pid":"227/2073","text":"Andrea Corriga"},{"@pid":"123/7604","text":"Anselmo Ferreira"},{"@pid":"r/DiegoReforgiatoRecupero","text":"Diego Reforgiato Recupero"},{"@pid":"163/2538","text":"Roberto Saia"}]},"title":"A Holistic Auto-Configurable Ensemble Machine Learning Strategy for Financial Trading.","venue":"Comput.","volume":"7","number":"4","pages":"67","year":"2019","type":"Journal Articles","access":"open","key":"journals/computation/CartaCFRS19","doi":"10.3390/COMPUTATION7040067","ee":"https://doi.org/10.3390/computation7040067","url":"https://dblp.org/rec/journals/computation/CartaCFRS19"},
+"url":"URL#1128405"
+},
+{
+"@score":"3",
+"@id":"1140360",
+"info":{"authors":{"author":[{"@pid":"217/1209","text":"Bruno Miranda Henrique"},{"@pid":"217/1247","text":"Vinicius Amorim Sobreiro"},{"@pid":"187/5656","text":"Herbert Kimura"}]},"title":"Literature review: Machine learning techniques applied to financial market prediction.","venue":"Expert Syst. Appl.","volume":"124","pages":"226-251","year":"2019","type":"Journal Articles","access":"closed","key":"journals/eswa/HenriqueSK19","doi":"10.1016/J.ESWA.2019.01.012","ee":"https://doi.org/10.1016/j.eswa.2019.01.012","url":"https://dblp.org/rec/journals/eswa/HenriqueSK19"},
+"url":"URL#1140360"
+},
+{
+"@score":"3",
+"@id":"1140458",
+"info":{"authors":{"author":[{"@pid":"228/7344","text":"Tae Kyun Lee"},{"@pid":"228/7672","text":"Joon Hyung Cho"},{"@pid":"228/7635","text":"Deuk Sin Kwon"},{"@pid":"14/4000","text":"So Young Sohn"}]},"title":"Global stock market investment strategies based on financial network indicators using machine learning techniques.","venue":"Expert Syst. Appl.","volume":"117","pages":"228-242","year":"2019","type":"Journal Articles","access":"closed","key":"journals/eswa/LeeCKS19","doi":"10.1016/J.ESWA.2018.09.005","ee":"https://doi.org/10.1016/j.eswa.2018.09.005","url":"https://dblp.org/rec/journals/eswa/LeeCKS19"},
+"url":"URL#1140458"
+},
+{
+"@score":"3",
+"@id":"1140586",
+"info":{"authors":{"author":[{"@pid":"202/8281","text":"Felipe D. Paiva"},{"@pid":"56/2805","text":"Rodrigo T. N. Cardoso"},{"@pid":"202/8366","text":"Gustavo P. Hanaoka"},{"@pid":"228/7649","text":"Wendel Moreira Duarte"}]},"title":"Decision-making for financial trading: A fusion approach of machine learning and portfolio selection.","venue":"Expert Syst. Appl.","volume":"115","pages":"635-655","year":"2019","type":"Journal Articles","access":"closed","key":"journals/eswa/PaivaCHD19","doi":"10.1016/J.ESWA.2018.08.003","ee":"https://doi.org/10.1016/j.eswa.2018.08.003","url":"https://dblp.org/rec/journals/eswa/PaivaCHD19"},
+"url":"URL#1140586"
+},
+{
+"@score":"3",
+"@id":"1196042",
+"info":{"authors":{"author":[{"@pid":"154/0166","text":"Xiaomeng Ma"},{"@pid":"190/4842","text":"Shuliang Lv"}]},"title":"Financial credit risk prediction in internet finance driven by machine learning.","venue":"Neural Comput. Appl.","volume":"31","number":"12","pages":"8359-8367","year":"2019","type":"Journal Articles","access":"closed","key":"journals/nca/MaL19","doi":"10.1007/S00521-018-3963-6","ee":"https://doi.org/10.1007/s00521-018-3963-6","url":"https://dblp.org/rec/journals/nca/MaL19"},
+"url":"URL#1196042"
+},
+{
+"@score":"3",
+"@id":"1196081",
+"info":{"authors":{"author":[{"@pid":"126/2201","text":"Usha Manasi Mohapatra"},{"@pid":"39/6234","text":"Babita Majhi"},{"@pid":"83/6158","text":"Suresh Chandra Satapathy"}]},"title":"Financial time series prediction using distributed machine learning techniques.","venue":"Neural Comput. Appl.","volume":"31","number":"8","pages":"3369-3384","year":"2019","type":"Journal Articles","access":"closed","key":"journals/nca/MohapatraMS19","doi":"10.1007/S00521-017-3283-2","ee":"https://doi.org/10.1007/s00521-017-3283-2","url":"https://dblp.org/rec/journals/nca/MohapatraMS19"},
+"url":"URL#1196081"
+},
+{
+"@score":"3",
+"@id":"1261276",
+"info":{"authors":{"author":{"@pid":"190/1024","text":"Minjung Choi"}},"title":"Feature Generation Using Machine Learning from Large Sparse Financial Data.","venue":"AMCIS","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/amcis/Choi19","ee":"https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/8","url":"https://dblp.org/rec/conf/amcis/Choi19"},
+"url":"URL#1261276"
+},
+{
+"@score":"3",
+"@id":"1261581",
+"info":{"authors":{"author":[{"@pid":"240/3331","text":"Jesse Roberts"},{"@pid":"116/2813-2","text":"Matthias Volk 0002"},{"@pid":"11/3746","text":"Robert Neumann"},{"@pid":"t/KTurowski","text":"Klaus Turowski"}]},"title":"Machine Learning Techniques for Annotations of Large Financial Text Datasets.","venue":"AMCIS","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/amcis/Roberts0NT19","ee":"https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/17","url":"https://dblp.org/rec/conf/amcis/Roberts0NT19"},
+"url":"URL#1261581"
+},
+{
+"@score":"3",
+"@id":"1315058",
+"info":{"authors":{"author":[{"@pid":"195/8770","text":"Jingya Wu"},{"@pid":"39/1010","text":"Wenyan Lu"},{"@pid":"12/7075","text":"Guihai Yan"},{"@pid":"37/5372-1","text":"Xiaowei Li 0001"}]},"title":"MLA: Machine Learning Adaptation for Realtime Streaming Financial Applications.","venue":"IGSC","pages":"1-6","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/green/WuLY019","doi":"10.1109/IGSC48788.2019.8957203","ee":"https://doi.org/10.1109/IGSC48788.2019.8957203","url":"https://dblp.org/rec/conf/green/WuLY019"},
+"url":"URL#1315058"
+},
+{
+"@score":"3",
+"@id":"1345756",
+"info":{"authors":{"author":[{"@pid":"214/3163","text":"Zongying Liu"},{"@pid":"71/2077","text":"Chu Kiong Loo"},{"@pid":"32/5900","text":"Kitsuchart Pasupa"}]},"title":"Real-Time Financial Data Prediction Using Meta-cognitive Recurrent Kernel Online Sequential Extreme Learning Machine.","venue":"ICONIP","pages":"488-498","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/iconip/LiuLP19","doi":"10.1007/978-3-030-36718-3_41","ee":"https://doi.org/10.1007/978-3-030-36718-3_41","url":"https://dblp.org/rec/conf/iconip/LiuLP19"},
+"url":"URL#1345756"
+},
+{
+"@score":"3",
+"@id":"1353606",
+"info":{"authors":{"author":[{"@pid":"252/2153","text":"Ahmed K. Taha"},{"@pid":"20/822","text":"Mohamed Hamed Kholief"},{"@pid":"43/6145","text":"Walid Abdelmoez"}]},"title":"Adaptive Machine Learning-Based Stock Prediction Using Financial Time Series Technical Indicators.","venue":"IDEAL","pages":"191-199","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/ideal/TahaKA19","doi":"10.1007/978-3-030-33617-2_21","ee":"https://doi.org/10.1007/978-3-030-33617-2_21","url":"https://dblp.org/rec/conf/ideal/TahaKA19"},
+"url":"URL#1353606"
+},
+{
+"@score":"3",
+"@id":"1379324",
+"info":{"authors":{"author":[{"@pid":"272/9633","text":"Mohammed Mahmudur Rahman"},{"@pid":"245/3066","text":"Zinnia Sultana"},{"@pid":"272/9802","text":"Musrat Jahan"},{"@pid":"272/9712","text":"Ramis Fariha"}]},"title":"Prediction of Financial Distress in Bangladesh&apos;s Banking Sector Using Data Mining and Machine-Learning Technique.","venue":"IJCCI","pages":"151-162","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/iwci/RahmanSJF19","doi":"10.1007/978-981-15-3607-6_12","ee":"https://doi.org/10.1007/978-981-15-3607-6_12","url":"https://dblp.org/rec/conf/iwci/RahmanSJF19"},
+"url":"URL#1379324"
+},
+{
+"@score":"3",
+"@id":"1465944",
+"info":{"authors":{"author":{"@pid":"222/2937","text":"Fabrice Daniel"}},"title":"Financial Time Series Data Processing for Machine Learning.","venue":"CoRR","volume":"abs/1907.03010","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1907-03010","ee":"http://arxiv.org/abs/1907.03010","url":"https://dblp.org/rec/journals/corr/abs-1907-03010"},
+"url":"URL#1465944"
+},
+{
+"@score":"3",
+"@id":"1469351",
+"info":{"authors":{"author":[{"@pid":"48/5512","text":"Jingwen Wang"},{"@pid":"170/4637","text":"Jingxin Liu"},{"@pid":"245/9670","text":"Juntao Pu"},{"@pid":"159/7016","text":"Qinghong Yang"},{"@pid":"160/5976","text":"Zhongchen Miao"},{"@pid":"02/563","text":"Jian Gao"},{"@pid":"148/7042","text":"You Song"}]},"title":"An alarm prediction framework for financial IT system using hybrid machine learning methods.","venue":"CoRR","volume":"abs/1907.12778","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1907-12778","ee":"http://arxiv.org/abs/1907.12778","url":"https://dblp.org/rec/journals/corr/abs-1907-12778"},
+"url":"URL#1469351"
+},
+{
+"@score":"3",
+"@id":"1495367",
+"info":{"authors":{"author":[{"@pid":"251/1524","text":"Oliver Masters"},{"@pid":"240/8175","text":"Hamish Hunt"},{"@pid":"116/1695","text":"Enrico Steffinlongo"},{"@pid":"77/11493","text":"Jack Crawford"},{"@pid":"61/3448","text":"Flávio Bergamaschi"}]},"title":"Towards a Homomorphic Machine Learning Big Data Pipeline for the Financial Services Sector.","venue":"IACR Cryptol. ePrint Arch.","volume":"2019","pages":"1113","year":"2019","type":"Informal Publications","access":"open","key":"journals/iacr/MastersHSCB19","ee":"https://eprint.iacr.org/2019/1113","url":"https://dblp.org/rec/journals/iacr/MastersHSCB19"},
+"url":"URL#1495367"
+},
+{
+"@score":"3",
+"@id":"1499525",
+"info":{"authors":{"author":{"@pid":"180/0054","text":"Blaz Zlicar"}},"title":"Algorithms for noisy and nonstationary data: advances in financial time series forecasting and pattern detection with machine learning.","year":"2018","type":"Books and Theses","access":"closed","key":"phd/ethos/Zlicar18","ee":"https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.747338","url":"https://dblp.org/rec/phd/ethos/Zlicar18"},
+"url":"URL#1499525"
+},
+{
+"@score":"3",
+"@id":"1617670",
+"info":{"authors":{"author":[{"@pid":"77/5208","text":"Ricardo de A. Araújo"},{"@pid":"n/NadiaNedjah","text":"Nadia Nedjah"},{"@pid":"36/769","text":"José Manoel de Seixas"},{"@pid":"80/3742","text":"Adriano L. I. Oliveira"},{"@pid":"m/SRdeLemosMeira","text":"Silvio Romero de Lemos Meira"}]},"title":"Evolutionary-morphological learning machines for high-frequency financial time series prediction.","venue":"Swarm Evol. Comput.","volume":"42","pages":"1-15","year":"2018","type":"Journal Articles","access":"closed","key":"journals/swevo/AraujoNSOM18","doi":"10.1016/J.SWEVO.2018.03.009","ee":"https://doi.org/10.1016/j.swevo.2018.03.009","url":"https://dblp.org/rec/journals/swevo/AraujoNSOM18"},
+"url":"URL#1617670"
+},
+{
+"@score":"3",
+"@id":"1658219",
+"info":{"authors":{"author":[{"@pid":"224/5451","text":"Hanae Necba"},{"@pid":"117/6097","text":"Maryem Rhanoui"},{"@pid":"40/269","text":"Bouchra El Asri"}]},"title":"Using Unsupervised Machine Learning for Data Quality. Application to Financial Governmental Data Integration.","venue":"BDCA","pages":"197-209","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/bdca/NecbaRA18","doi":"10.1007/978-3-319-96292-4_16","ee":"https://doi.org/10.1007/978-3-319-96292-4_16","url":"https://dblp.org/rec/conf/bdca/NecbaRA18"},
+"url":"URL#1658219"
+},
+{
+"@score":"3",
+"@id":"1699850",
+"info":{"authors":{"author":[{"@pid":"41/4654","text":"Raymond Chiong"},{"@pid":"191/1253","text":"Zongwen Fan"},{"@pid":"31/11263","text":"Zhongyi Hu"},{"@pid":"91/10115","text":"Marc T. P. Adam"},{"@pid":"181/4904","text":"Bernhard Lutz"},{"@pid":"90/1401","text":"Dirk Neumann 0001"}]},"title":"A sentiment analysis-based machine learning approach for financial market prediction via news disclosures.","venue":"GECCO","pages":"278-279","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/ChiongFHAL018","doi":"10.1145/3205651.3205682","ee":"https://doi.org/10.1145/3205651.3205682","url":"https://dblp.org/rec/conf/gecco/ChiongFHAL018"},
+"url":"URL#1699850"
+},
+{
+"@score":"3",
+"@id":"1705462",
+"info":{"authors":{"author":[{"@pid":"71/3459","text":"Michael Frey"},{"@pid":"17/7416","text":"Andreas Emrich"},{"@pid":"f/PeterFettke","text":"Peter Fettke"},{"@pid":"l/PeterLoos","text":"Peter Loos"}]},"title":"Event Entry Time Prediction in Financial Business Processes Using Machine Learning - A Use Case From Loan Applications.","venue":"HICSS","pages":"1-9","year":"2018","type":"Conference and Workshop Papers","access":"open","key":"conf/hicss/FreyEFL18","ee":"https://hdl.handle.net/10125/50058","url":"https://dblp.org/rec/conf/hicss/FreyEFL18"},
+"url":"URL#1705462"
+},
+{
+"@score":"3",
+"@id":"1791787",
+"info":{"authors":{"author":[{"@pid":"148/8617","text":"Kumar Rahul"},{"@pid":"202/3152","text":"Nandini Seth"},{"@pid":"31/28","text":"U. Dinesh Kumar"}]},"title":"Spotting Earnings Manipulation: Using Machine Learning for Financial Fraud Detection.","venue":"SGAI Conf.","pages":"343-356","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/sgai/RahulSK18","doi":"10.1007/978-3-030-04191-5_29","ee":"https://doi.org/10.1007/978-3-030-04191-5_29","url":"https://dblp.org/rec/conf/sgai/RahulSK18"},
+"url":"URL#1791787"
+},
+{
+"@score":"3",
+"@id":"1812299",
+"info":{"authors":{"author":[{"@pid":"217/4624","text":"José Antonio García-Díaz"},{"@pid":"146/2232","text":"María del Pilar Salas-Zárate"},{"@pid":"92/10137","text":"Maria Luisa Hernández-Alcaraz"},{"@pid":"54/470","text":"Rafael Valencia-García"},{"@pid":"g/JuanMiguelGomez","text":"Juan Miguel Gómez-Berbís"}]},"title":"Machine Learning Based Sentiment Analysis on Spanish Financial Tweets.","venue":"WorldCIST","pages":"305-311","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/worldcist/Garcia-DiazSHVB18","doi":"10.1007/978-3-319-77703-0_31","ee":"https://doi.org/10.1007/978-3-319-77703-0_31","url":"https://dblp.org/rec/conf/worldcist/Garcia-DiazSHVB18"},
+"url":"URL#1812299"
+},
+{
+"@score":"3",
+"@id":"1868526",
+"info":{"authors":{"author":{"@pid":"45/1252","text":"Martin Victor Sewell"}},"title":"Application of machine learning to financial time series analysis.","year":"2017","type":"Books and Theses","access":"closed","key":"phd/ethos/Sewell17","ee":"https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.771741","url":"https://dblp.org/rec/phd/ethos/Sewell17"},
+"url":"URL#1868526"
+},
+{
+"@score":"3",
+"@id":"1870602",
+"info":{"authors":{"author":{"@pid":"26/1523","text":"Gerasimos G. Rigatos"}},"title":"State-Space Approaches for Modelling and Control in Financial Engineering - Systems Theory and Machine Learning Methods","venue":"Intelligent Systems Reference Library","volume":"125","pages":"1-294","publisher":"Springer","year":"2017","type":"Books and Theses","access":"closed","key":"series/isrl/2017-125","doi":"10.1007/978-3-319-52866-3","ee":"https://doi.org/10.1007/978-3-319-52866-3","url":"https://dblp.org/rec/series/isrl/2017-125"},
+"url":"URL#1870602"
+},
+{
+"@score":"3",
+"@id":"1945668",
+"info":{"authors":{"author":[{"@pid":"75/3354-2","text":"Petr Hájek 0002"},{"@pid":"33/1317","text":"Roberto Henriques"}]},"title":"Mining corporate annual reports for intelligent detection of financial statement fraud - A comparative study of machine learning methods.","venue":"Knowl. Based Syst.","volume":"128","pages":"139-152","year":"2017","type":"Journal Articles","access":"closed","key":"journals/kbs/HajekH17","doi":"10.1016/J.KNOSYS.2017.05.001","ee":"https://doi.org/10.1016/j.knosys.2017.05.001","url":"https://dblp.org/rec/journals/kbs/HajekH17"},
+"url":"URL#1945668"
+},
+{
+"@score":"3",
+"@id":"2131314",
+"info":{"authors":{"author":[{"@pid":"97/7906","text":"Indranil Ghosh"},{"@pid":"153/3625","text":"Manas K. Sanyal"},{"@pid":"70/6913","text":"R. K. Jana 0001"}]},"title":"Analysis of Causal Interactions and Predictive Modelling of Financial Markets Using Econometric Methods, Maximal Overlap Discrete Wavelet Transformation and Machine Learning: A Study in Asian Context.","venue":"PReMI","pages":"664-672","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/premi/GhoshSJ17","doi":"10.1007/978-3-319-69900-4_84","ee":"https://doi.org/10.1007/978-3-319-69900-4_84","url":"https://dblp.org/rec/conf/premi/GhoshSJ17"},
+"url":"URL#2131314"
+},
+{
+"@score":"3",
+"@id":"2138649",
+"info":{"authors":{"author":[{"@pid":"203/9396","text":"Tobias Cabanski"},{"@pid":"180/3140","text":"Julia Romberg"},{"@pid":"c/StefanConrad1","text":"Stefan Conrad 0001"}]},"title":"HHU at SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Data using Machine Learning Methods.","venue":"SemEval@ACL","pages":"832-836","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/semeval/CabanskiRC17","doi":"10.18653/V1/S17-2141","ee":"https://doi.org/10.18653/v1/S17-2141","url":"https://dblp.org/rec/conf/semeval/CabanskiRC17"},
+"url":"URL#2138649"
+},
+{
+"@score":"3",
+"@id":"2164408",
+"info":{"authors":{"author":[{"@pid":"20/3360","text":"Ilaria Bordino"},{"@pid":"50/6478","text":"Guido Caldarelli"},{"@pid":"10/5883","text":"Fabio Fumarola"},{"@pid":"63/3664","text":"Francesco Gullo"},{"@pid":"19/9362","text":"Tiziano Squartini"}]},"title":"Proceedings of the Second Workshop on MIning DAta for financial applicationS (MIDAS 2017) co-located with the 2017 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2017), Skopje, Macedonia, September 18, 2017.","venue":["MIDAS@PKDD/ECML","CEUR Workshop Proceedings"],"volume":"1941","publisher":"CEUR-WS.org","year":"2017","type":"Editorship","access":"open","key":"conf/pkdd/2017midas","ee":"http://ceur-ws.org/Vol-1941","url":"https://dblp.org/rec/conf/pkdd/2017midas"},
+"url":"URL#2164408"
+},
+{
+"@score":"3",
+"@id":"2200590",
+"info":{"title":"Financial Series Prediction: Comparison Between Precision of Time Series Models and Machine Learning Methods.","venue":"CoRR","volume":"abs/1706.00948","year":"2017","type":"Withdrawn Items","access":"withdrawn","key":"journals/corr/QianG17","ee":"http://arxiv.org/abs/1706.00948","url":"https://dblp.org/rec/journals/corr/QianG17"},
+"url":"URL#2200590"
+},
+{
+"@score":"3",
+"@id":"2203160",
+"info":{"authors":{"author":{"@pid":"140/1577","text":"Ash Booth"}},"title":"Automated algorithmic trading: machine learning and agent-based modelling in complex adaptive financial markets.","year":"2016","type":"Books and Theses","access":"closed","key":"phd/ethos/Booth16","ee":"https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.690300","url":"https://dblp.org/rec/phd/ethos/Booth16"},
+"url":"URL#2203160"
+},
+{
+"@score":"3",
+"@id":"2235236",
+"info":{"authors":{"author":[{"@pid":"151/3602","text":"Eduardo A. Gerlein"},{"@pid":"m/TMartinMcGinnity","text":"Thomas Martin McGinnity"},{"@pid":"80/4997","text":"Ammar Belatreche"},{"@pid":"18/1837","text":"Sonya A. Coleman"}]},"title":"Evaluating machine learning classification for financial trading: An empirical approach.","venue":"Expert Syst. Appl.","volume":"54","pages":"193-207","year":"2016","type":"Journal Articles","access":"closed","key":"journals/eswa/GerleinMBC16","doi":"10.1016/J.ESWA.2016.01.018","ee":"https://doi.org/10.1016/j.eswa.2016.01.018","url":"https://dblp.org/rec/journals/eswa/GerleinMBC16"},
+"url":"URL#2235236"
+},
+{
+"@score":"3",
+"@id":"2274269",
+"info":{"authors":{"author":[{"@pid":"a/AliNAkansu","text":"Ali N. Akansu"},{"@pid":"141/4359","text":"Dmitry Malioutov"},{"@pid":"03/1645","text":"Daniel P. Palomar"},{"@pid":"17/3984","text":"Emmanuelle Jay"},{"@pid":"41/6002","text":"Danilo P. Mandic"}]},"title":"Introduction to the Issue on Financial Signal Processing and Machine Learning for Electronic Trading.","venue":"IEEE J. Sel. Top. Signal Process.","volume":"10","number":"6","pages":"979-981","year":"2016","type":"Journal Articles","access":"closed","key":"journals/jstsp/AkansuMPJM16","doi":"10.1109/JSTSP.2016.2594458","ee":"https://doi.org/10.1109/JSTSP.2016.2594458","url":"https://dblp.org/rec/journals/jstsp/AkansuMPJM16"},
+"url":"URL#2274269"
+},
+{
+"@score":"3",
+"@id":"2476137",
+"info":{"authors":{"author":[{"@pid":"172/6980","text":"Tianyou Hu"},{"@pid":"32/9999","text":"Arvind Tripathi"}]},"title":"The Performance Evaluation of Machine Learning Classifiers on Financial Microblogging Platforms.","venue":"WEB","pages":"74-83","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/web/HuT16","doi":"10.1007/978-3-319-69644-7_7","ee":"https://doi.org/10.1007/978-3-319-69644-7_7","url":"https://dblp.org/rec/conf/web/HuT16"},
+"url":"URL#2476137"
+},
+{
+"@score":"3",
+"@id":"2484540",
+"info":{"authors":{"author":[{"@pid":"20/3360","text":"Ilaria Bordino"},{"@pid":"50/6478","text":"Guido Caldarelli"},{"@pid":"10/5883","text":"Fabio Fumarola"},{"@pid":"63/3664","text":"Francesco Gullo"},{"@pid":"19/9362","text":"Tiziano Squartini"}]},"title":"Proceedings of the First Workshop on MIning DAta for financial applicationS (MIDAS 2016) co-located with the 2016 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2016), Riva del Garda, Italy, September 19-23, 2016.","venue":["MIDAS@PKDD/ECML","CEUR Workshop Proceedings"],"volume":"1774","publisher":"CEUR-WS.org","year":"2016","type":"Editorship","access":"open","key":"conf/pkdd/2016midas","ee":"http://ceur-ws.org/Vol-1774","url":"https://dblp.org/rec/conf/pkdd/2016midas"},
+"url":"URL#2484540"
+},
+{
+"@score":"3",
+"@id":"2496997",
+"info":{"authors":{"author":[{"@pid":"167/2470","text":"Muhammad Raza Khan"},{"@pid":"02/909","text":"Joshua Evan Blumenstock"}]},"title":"Machine Learning Across Cultures: Modeling the Adoption of Financial Services for the Poor.","venue":"CoRR","volume":"abs/1606.05105","year":"2016","type":"Informal Publications","access":"open","key":"journals/corr/KhanB16","ee":"http://arxiv.org/abs/1606.05105","url":"https://dblp.org/rec/journals/corr/KhanB16"},
+"url":"URL#2496997"
+},
+{
+"@score":"3",
+"@id":"2512750",
+"info":{"authors":{"author":{"@pid":"200/7749","text":"Deitra Sawh"}},"title":"Financial Fraud Detection and Data Mining of Imbalanced Databases using State Space Machine Learning.","year":"2015","type":"Books and Theses","access":"closed","key":"phd/basesearch/Sawh15","ee":"https://hdl.handle.net/10012/10093","url":"https://dblp.org/rec/phd/basesearch/Sawh15"},
+"url":"URL#2512750"
+},
+{
+"@score":"3",
+"@id":"2672983",
+"info":{"authors":{"author":[{"@pid":"w/StephanMWinkler","text":"Stephan M. Winkler"},{"@pid":"82/5128","text":"Gabriel Kronberger"},{"@pid":"56/7232","text":"Michael Kommenda"},{"@pid":"33/7994","text":"Stefan Fink"},{"@pid":"79/3445","text":"Michael Affenzeller"}]},"title":"Dynamics of Predictability and Variable Influences Identified in Financial Data Using Sliding Window Machine Learning.","venue":"EUROCAST","pages":"326-333","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/eurocast/WinklerKKFA15","doi":"10.1007/978-3-319-27340-2_41","ee":"https://doi.org/10.1007/978-3-319-27340-2_41","url":"https://dblp.org/rec/conf/eurocast/WinklerKKFA15"},
+"url":"URL#2672983"
+},
+{
+"@score":"3",
+"@id":"2720679",
+"info":{"authors":{"author":[{"@pid":"150/3939","text":"Rodolfo C. Cavalcante"},{"@pid":"80/3742","text":"Adriano L. I. Oliveira"}]},"title":"An approach to handle concept drift in financial time series based on Extreme Learning Machines and explicit Drift Detection.","venue":"IJCNN","pages":"1-8","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/CavalcanteO15","doi":"10.1109/IJCNN.2015.7280721","ee":"https://doi.org/10.1109/IJCNN.2015.7280721","url":"https://dblp.org/rec/conf/ijcnn/CavalcanteO15"},
+"url":"URL#2720679"
+},
+{
+"@score":"3",
+"@id":"2832050",
+"info":{"authors":{"author":[{"@pid":"22/5495","text":"Jun-ya Gotoh"},{"@pid":"76/3850","text":"Akiko Takeda"},{"@pid":"19/7304","text":"Rei Yamamoto"}]},"title":"Interaction between financial risk measures and machine learning methods.","venue":"Comput. Manag. Sci.","volume":"11","number":"4","pages":"365-402","year":"2014","type":"Journal Articles","access":"closed","key":"journals/cms/GotohTY14","doi":"10.1007/S10287-013-0175-5","ee":"https://doi.org/10.1007/s10287-013-0175-5","url":"https://dblp.org/rec/journals/cms/GotohTY14"},
+"url":"URL#2832050"
+},
+{
+"@score":"3",
+"@id":"2859219",
+"info":{"authors":{"author":[{"@pid":"58/6957-4","text":"Qi Yu 0004"},{"@pid":"73/2366","text":"Yoan Miche"},{"@pid":"06/3383","text":"Eric Séverin"},{"@pid":"33/291","text":"Amaury Lendasse"}]},"title":"Bankruptcy prediction using Extreme Learning Machine and financial expertise.","venue":"Neurocomputing","volume":"128","pages":"296-302","year":"2014","type":"Journal Articles","access":"closed","key":"journals/ijon/YuMSL14","doi":"10.1016/J.NEUCOM.2013.01.063","ee":"https://doi.org/10.1016/j.neucom.2013.01.063","url":"https://dblp.org/rec/journals/ijon/YuMSL14"},
+"url":"URL#2859219"
+},
+{
+"@score":"3",
+"@id":"2889598",
+"info":{"authors":{"author":[{"@pid":"76/3850","text":"Akiko Takeda"},{"@pid":"76/6882","text":"Takafumi Kanamori"}]},"title":"Using financial risk measures for analyzing generalization performance of machine learning models.","venue":"Neural Networks","volume":"57","pages":"29-38","year":"2014","type":"Journal Articles","access":"closed","key":"journals/nn/TakedaK14","doi":"10.1016/J.NEUNET.2014.05.006","ee":"https://doi.org/10.1016/j.neunet.2014.05.006","url":"https://dblp.org/rec/journals/nn/TakedaK14"},
+"url":"URL#2889598"
+},
+{
+"@score":"3",
+"@id":"2903645",
+"info":{"authors":{"author":[{"@pid":"154/4445","text":"Rajashree Dash"},{"@pid":"52/8632","text":"Pradipta Kishore Dash"},{"@pid":"41/10029","text":"Ranjeeta Bisoi"}]},"title":"A self adaptive differential harmony search based optimized extreme learning machine for financial time series prediction.","venue":"Swarm Evol. Comput.","volume":"19","pages":"25-42","year":"2014","type":"Journal Articles","access":"closed","key":"journals/swevo/DashDB14","doi":"10.1016/J.SWEVO.2014.07.003","ee":"https://doi.org/10.1016/j.swevo.2014.07.003","url":"https://dblp.org/rec/journals/swevo/DashDB14"},
+"url":"URL#2903645"
+},
+{
+"@score":"3",
+"@id":"3107629",
+"info":{"authors":{"author":[{"@pid":"130/3975","text":"Shawn Mankad"},{"@pid":"57/5145","text":"George Michailidis"},{"@pid":"30/2442","text":"Andrei Kirilenko"}]},"title":"Discovering the ecosystem of an electronic financial market with a dynamic machine-learning method.","venue":"Algorithmic Finance","volume":"2","number":"2","pages":"151-165","year":"2013","type":"Journal Articles","access":"closed","key":"journals/af/MankadMK13","doi":"10.3233/AF-13023","ee":"https://doi.org/10.3233/AF-13023","url":"https://dblp.org/rec/journals/af/MankadMK13"},
+"url":"URL#3107629"
+},
+{
+"@score":"3",
+"@id":"3381954",
+"info":{"authors":{"author":{"@pid":"94/9388","text":"Tristan Fletcher"}},"title":"Machine learning for financial market prediction.","year":"2012","type":"Books and Theses","access":"closed","key":"phd/ethos/Fletcher12","ee":"http://discovery.ucl.ac.uk/1338146/","url":"https://dblp.org/rec/phd/ethos/Fletcher12"},
+"url":"URL#3381954"
+},
+{
+"@score":"3",
+"@id":"3473967",
+"info":{"authors":{"author":[{"@pid":"59/4249","text":"Wei-Yang Lin"},{"@pid":"83/482","text":"Ya-Han Hu"},{"@pid":"69/6140","text":"Chih-Fong Tsai"}]},"title":"Machine Learning in Financial Crisis Prediction: A Survey.","venue":"IEEE Trans. Syst. Man Cybern. Part C","volume":"42","number":"4","pages":"421-436","year":"2012","type":"Journal Articles","access":"closed","key":"journals/tsmc/LinHT12","doi":"10.1109/TSMCC.2011.2170420","ee":"https://doi.org/10.1109/TSMCC.2011.2170420","url":"https://dblp.org/rec/journals/tsmc/LinHT12"},
+"url":"URL#3473967"
+},
+{
+"@score":"3",
+"@id":"3544160",
+"info":{"authors":{"author":[{"@pid":"02/4112","text":"Dursun Delen"},{"@pid":"18/6414","text":"Ramesh Sharda"}]},"title":"Forecasting Financial Success of Hollywood Movies - A Comparative Analysis of Machine Learning Methods.","venue":"ICINCO","pages":"653-656","year":"2012","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/icinco/DelenS12","url":"https://dblp.org/rec/conf/icinco/DelenS12"},
+"url":"URL#3544160"
+},
+{
+"@score":"3",
+"@id":"3624125",
+"info":{"authors":{"author":[{"@pid":"40/6847","text":"Antonia Azzini"},{"@pid":"65/6788","text":"Matteo De Felice"},{"@pid":"t/AndreaTettamanzi","text":"Andrea G. B. Tettamanzi"}]},"title":"A Comparison between Nature-Inspired and Machine Learning Approaches to Detecting Trend Reversals in Financial Time Series.","venue":"Natural Computing in Computational Finance","pages":"39-59","year":"2012","type":"Parts in Books or Collections","access":"closed","key":"series/sci/AzziniFT12","doi":"10.1007/978-3-642-23336-4_3","ee":"https://doi.org/10.1007/978-3-642-23336-4_3","url":"https://dblp.org/rec/series/sci/AzziniFT12"},
+"url":"URL#3624125"
+},
+{
+"@score":"3",
+"@id":"4009835",
+"info":{"authors":{"author":[{"@pid":"16/10829","text":"Bjoern Krollner"},{"@pid":"54/3989","text":"Bruce J. Vanstone"},{"@pid":"79/5697","text":"Gavin R. Finnie"}]},"title":"Financial time series forecasting with machine learning techniques: a survey.","venue":"ESANN","year":"2010","type":"Conference and Workshop Papers","access":"open","key":"conf/esann/KrollnerVF10","ee":"https://www.esann.org/sites/default/files/proceedings/legacy/es2010-50.pdf","url":"https://dblp.org/rec/conf/esann/KrollnerVF10"},
+"url":"URL#4009835"
+},
+{
+"@score":"3",
+"@id":"4251041",
+"info":{"authors":{"author":[{"@pid":"87/3719","text":"Armando Vieira"},{"@pid":"96/3084","text":"João M. M. Duarte"},{"@pid":"48/4666","text":"Bernardete Ribeiro"},{"@pid":"77/3338","text":"João Carvalho das Neves"}]},"title":"Accurate Prediction of Financial Distress of Companies with Machine Learning Algorithms.","venue":"ICANNGA","pages":"569-576","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/icannga/VieiraDRN09","doi":"10.1007/978-3-642-04921-7_58","ee":"https://doi.org/10.1007/978-3-642-04921-7_58","url":"https://dblp.org/rec/conf/icannga/VieiraDRN09"},
+"url":"URL#4251041"
+},
+{
+"@score":"3",
+"@id":"4670450",
+"info":{"authors":{"author":[{"@pid":"73/7018","text":"Xiuquan Li"},{"@pid":"32/6262","text":"Zhidong Deng"}]},"title":"A Machine Learning Approach to Predict Turning Points for Chaotic Financial Time Series.","venue":"ICTAI","pages":"331-335","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictai/LiD07","doi":"10.1109/ICTAI.2007.105","ee":"https://doi.org/10.1109/ICTAI.2007.105","url":"https://dblp.org/rec/conf/ictai/LiD07"},
+"url":"URL#4670450"
+},
+{
+"@score":"3",
+"@id":"4885535",
+"info":{"authors":{"author":[{"@pid":"167/4988","text":"Sotiris B. Kotsiantis"},{"@pid":"02/6511","text":"Euaggelos Koumanakos"},{"@pid":"57/1852","text":"Dimitris Tzelepis"},{"@pid":"09/805","text":"Vasilis Tampakas"}]},"title":"Predicting Fraudulent Financial Statements with Machine Learning Techniques.","venue":"SETN","pages":"538-542","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/setn/KotsiantisKTT06","doi":"10.1007/11752912_63","ee":"https://doi.org/10.1007/11752912_63","url":"https://dblp.org/rec/conf/setn/KotsiantisKTT06"},
+"url":"URL#4885535"
+},
+{
+"@score":"3",
+"@id":"5550670",
+"info":{"authors":{"author":[{"@pid":"97/4531","text":"Hirotaka Nakayama"},{"@pid":"79/1784","text":"Kengo Yoshii"}]},"title":"Active Forgetting in Machine Learning and its Application to Financial Problems.","venue":"IJCNN","pages":"123-128","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/NakayamaY00","doi":"10.1109/IJCNN.2000.861445","ee":"https://doi.org/10.1109/IJCNN.2000.861445","url":"https://dblp.org/rec/conf/ijcnn/NakayamaY00"},
+"url":"URL#5550670"
+}
+]
+}
+}
+}

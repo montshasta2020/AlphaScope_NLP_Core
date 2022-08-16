@@ -1,0 +1,1 @@
+{"Tags for text": "\ncharter,open ai", "Summary for text": "\nThis tutorial video talks about the charter of Open AI. The core concepts behind this framework will be elaborated.\n\n", "Title for text": "\nCharter of open AI\n\nText to"}

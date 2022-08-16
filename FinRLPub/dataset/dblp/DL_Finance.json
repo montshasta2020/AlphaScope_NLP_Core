@@ -1,0 +1,188 @@
+{
+"result":{
+"query":"deep* learning* finance*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"2.83"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"27",
+"@dc":"26",
+"@oc":"27",
+"@id":"46275665",
+"text":"finance"
+}
+},
+"hits":{
+"@total":"26",
+"@computed":"26",
+"@sent":"26",
+"@first":"0",
+"hit":[{
+"@score":"4",
+"@id":"1066831",
+"info":{"authors":{"author":[{"@pid":"23/2060","text":"Dan Wang"},{"@pid":"276/7636","text":"Tianrui Wang"},{"@pid":"02/988","text":"Ionut Florescu"}]},"title":"Is Image Encoding Beneficial for Deep Learning in Finance? An Analysis of Image Encoding Methods for the Application of Convolutional Neural Networks in Finance.","venue":"CoRR","volume":"abs/2010.08698","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2010-08698","ee":"https://arxiv.org/abs/2010.08698","url":"https://dblp.org/rec/journals/corr/abs-2010-08698"},
+"url":"URL#1066831"
+},
+{
+"@score":"4",
+"@id":"1166769",
+"info":{"authors":{"author":[{"@pid":"258/9112","text":"Mahla Nikou"},{"@pid":"258/8704","text":"Gholamreza Mansourfar"},{"@pid":"42/8275","text":"Jamshid Bagherzadeh"}]},"title":"Stock price prediction using DEEP learning algorithm and its comparison with machine learning algorithms.","venue":"Intell. Syst. Account. Finance Manag.","volume":"26","number":"4","pages":"164-174","year":"2019","type":"Journal Articles","access":"closed","key":"journals/isafm/NikouMB19","doi":"10.1002/ISAF.1459","ee":"https://doi.org/10.1002/isaf.1459","url":"https://dblp.org/rec/journals/isafm/NikouMB19"},
+"url":"URL#1166769"
+},
+{
+"@score":"3",
+"@id":"48582",
+"info":{"authors":{"author":[{"@pid":"23/2060","text":"Dan Wang"},{"@pid":"276/7636","text":"Tianrui Wang"},{"@pid":"02/988","text":"Ionut Florescu"}]},"title":"Is Image Encoding Beneficial for Deep Learning in Finance?","venue":"IEEE Internet Things J.","volume":"9","number":"8","pages":"5617-5628","year":"2022","type":"Journal Articles","access":"closed","key":"journals/iotj/WangWF22","doi":"10.1109/JIOT.2020.3030492","ee":"https://doi.org/10.1109/JIOT.2020.3030492","url":"https://dblp.org/rec/journals/iotj/WangWF22"},
+"url":"URL#48582"
+},
+{
+"@score":"3",
+"@id":"210020",
+"info":{"authors":{"author":[{"@pid":"323/4857","text":"Frensi Zejnullahu"},{"@pid":"323/5810","text":"Maurice Moser"},{"@pid":"265/5229","text":"Jörg Osterrieder"}]},"title":"Applications of Reinforcement Learning in Finance - Trading with a Double Deep Q-Network.","venue":"CoRR","volume":"abs/2206.14267","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2206-14267","doi":"10.48550/ARXIV.2206.14267","ee":"https://doi.org/10.48550/arXiv.2206.14267","url":"https://dblp.org/rec/journals/corr/abs-2206-14267"},
+"url":"URL#210020"
+},
+{
+"@score":"3",
+"@id":"234022",
+"info":{"authors":{"author":[{"@pid":"204/6775","text":"Le Pham Tuyen 0001"},{"@pid":"303/8154","text":"Cheolkyun Rho"},{"@pid":"303/8059","text":"Yelin Min"},{"@pid":"303/8088","text":"Sungreong Lee"},{"@pid":"38/5657","text":"DaeWoo Choi"}]},"title":"A2GAN: A Deep Reinforcement-Based Learning Algorithm for Risk-Aware in Finance.","venue":"IEEE Access","volume":"9","pages":"137165-137175","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/TuyenRMLC21","doi":"10.1109/ACCESS.2021.3117593","ee":"https://doi.org/10.1109/ACCESS.2021.3117593","url":"https://dblp.org/rec/journals/access/TuyenRMLC21"},
+"url":"URL#234022"
+},
+{
+"@score":"3",
+"@id":"256550",
+"info":{"authors":{"author":[{"@pid":"287/5432","text":"Sumei Ruan"},{"@pid":"12/6485","text":"Xusheng Sun"},{"@pid":"313/7268","text":"Ruanxingchen Yao"},{"@pid":"64/6025-171","text":"Wei Li 0171"}]},"title":"Deep Learning Based on Hierarchical Self-Attention for Finance Distress Prediction Incorporating Text.","venue":"Comput. Intell. Neurosci.","volume":"2021","pages":"1165296:1-1165296:11","year":"2021","type":"Journal Articles","access":"open","key":"journals/cin/RuanSYL21","doi":"10.1155/2021/1165296","ee":"https://doi.org/10.1155/2021/1165296","url":"https://dblp.org/rec/journals/cin/RuanSYL21"},
+"url":"URL#256550"
+},
+{
+"@score":"3",
+"@id":"307064",
+"info":{"authors":{"author":[{"@pid":"303/7500","text":"Manogna R. L"},{"@pid":"303/7802","text":"Aswini Kumar Mishra"}]},"title":"Forecasting spot prices of agricultural commodities in India: Application of deep-learning models.","venue":"Intell. Syst. Account. Finance Manag.","volume":"28","number":"1","pages":"72-83","year":"2021","type":"Journal Articles","access":"closed","key":"journals/isafm/LM21","doi":"10.1002/ISAF.1487","ee":"https://doi.org/10.1002/isaf.1487","url":"https://dblp.org/rec/journals/isafm/LM21"},
+"url":"URL#307064"
+},
+{
+"@score":"3",
+"@id":"430753",
+"info":{"authors":{"author":[{"@pid":"322/6465","text":"Yeming Chen"},{"@pid":"322/6955","text":"Xinyuan Han"}]},"title":"Research on Crisis Warning Model of Enterprise Finance Based on Deep Learning.","venue":"BIC","pages":"168-172","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/bic/ChenH21","doi":"10.1145/3448748.3448775","ee":"https://doi.org/10.1145/3448748.3448775","url":"https://dblp.org/rec/conf/bic/ChenH21"},
+"url":"URL#430753"
+},
+{
+"@score":"3",
+"@id":"477411",
+"info":{"authors":{"author":[{"@pid":"305/7531","text":"Zechu Li"},{"@pid":"125/9849","text":"Xiao-Yang Liu"},{"@pid":"294/4102","text":"Jiahao Zheng"},{"@pid":"117/2756","text":"Zhaoran Wang"},{"@pid":"75/6446","text":"Anwar Walid"},{"@pid":"96/2596","text":"Jian Guo"}]},"title":"FinRL-podracer: high performance and scalable deep reinforcement learning for quantitative finance.","venue":"ICAIF","pages":"48:1-48:9","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaif/LiLZWWG21","doi":"10.1145/3490354.3494413","ee":"https://doi.org/10.1145/3490354.3494413","url":"https://dblp.org/rec/conf/icaif/LiLZWWG21"},
+"url":"URL#477411"
+},
+{
+"@score":"3",
+"@id":"477415",
+"info":{"authors":{"author":[{"@pid":"125/9849","text":"Xiao-Yang Liu"},{"@pid":"226/0938","text":"Hongyang Yang"},{"@pid":"259/6255","text":"Jiechao Gao"},{"@pid":"246/4851","text":"Christina Dan Wang"}]},"title":"FinRL: deep reinforcement learning framework to automate trading in quantitative finance.","venue":"ICAIF","pages":"1:1-1:9","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaif/LiuYGW21","doi":"10.1145/3490354.3494366","ee":"https://doi.org/10.1145/3490354.3494366","url":"https://dblp.org/rec/conf/icaif/LiuYGW21"},
+"url":"URL#477415"
+},
+{
+"@score":"3",
+"@id":"539245",
+"info":{"authors":{"author":[{"@pid":"256/2240","text":"Chunhui Chen 0004"},{"@pid":"243/7621","text":"Yichun Zhou"}]},"title":"Application of Deep Reinforcement Learning Algorithm in Smart Finance.","venue":"MMBD/MLIS","pages":"40-48","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/mmbd/0004Z21","doi":"10.3233/FAIA210230","ee":"https://doi.org/10.3233/FAIA210230","url":"https://dblp.org/rec/conf/mmbd/0004Z21"},
+"url":"URL#539245"
+},
+{
+"@score":"3",
+"@id":"602366",
+"info":{"authors":{"author":[{"@pid":"20/6863","text":"Damiano Brigo"},{"@pid":"41/9247","text":"Xiaoshan Huang"},{"@pid":"232/5930","text":"Andrea Pallavicini"},{"@pid":"290/8656","text":"Haitz Saez de Ocariz Borde"}]},"title":"Interpretability in deep learning for finance: a case study for the Heston model.","venue":"CoRR","volume":"abs/2104.09476","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2104-09476","ee":"https://arxiv.org/abs/2104.09476","url":"https://dblp.org/rec/journals/corr/abs-2104-09476"},
+"url":"URL#602366"
+},
+{
+"@score":"3",
+"@id":"613254",
+"info":{"authors":{"author":[{"@pid":"225/4530","text":"Ziyin Liu"},{"@pid":"191/6744","text":"Kentaro Minami"},{"@pid":"126/1128","text":"Kentaro Imajo"}]},"title":"What Data Augmentation Do We Need for Deep-Learning-Based Finance?","venue":"CoRR","volume":"abs/2106.04114","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2106-04114","ee":"https://arxiv.org/abs/2106.04114","url":"https://dblp.org/rec/journals/corr/abs-2106-04114"},
+"url":"URL#613254"
+},
+{
+"@score":"3",
+"@id":"620726",
+"info":{"authors":{"author":[{"@pid":"38/7261","text":"René Carmona 0001"},{"@pid":"125/7744","text":"Mathieu Laurière"}]},"title":"Deep Learning for Mean Field Games and Mean Field Control with Applications to Finance.","venue":"CoRR","volume":"abs/2107.04568","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2107-04568","ee":"https://arxiv.org/abs/2107.04568","url":"https://dblp.org/rec/journals/corr/abs-2107-04568"},
+"url":"URL#620726"
+},
+{
+"@score":"3",
+"@id":"646552",
+"info":{"authors":{"author":[{"@pid":"305/7531","text":"Zechu Li"},{"@pid":"125/9849","text":"Xiao-Yang Liu"},{"@pid":"294/4102","text":"Jiahao Zheng"},{"@pid":"117/2756","text":"Zhaoran Wang"},{"@pid":"75/6446","text":"Anwar Walid"},{"@pid":"96/2596","text":"Jian Guo"}]},"title":"FinRL-Podracer: High Performance and Scalable Deep Reinforcement Learning for Quantitative Finance.","venue":"CoRR","volume":"abs/2111.05188","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2111-05188","ee":"https://arxiv.org/abs/2111.05188","url":"https://dblp.org/rec/journals/corr/abs-2111-05188"},
+"url":"URL#646552"
+},
+{
+"@score":"3",
+"@id":"648241",
+"info":{"authors":{"author":[{"@pid":"125/9849","text":"Xiao-Yang Liu"},{"@pid":"226/0938","text":"Hongyang Yang"},{"@pid":"259/6255","text":"Jiechao Gao"},{"@pid":"246/4851","text":"Christina Dan Wang"}]},"title":"FinRL: Deep Reinforcement Learning Framework to Automate Trading in Quantitative Finance.","venue":"CoRR","volume":"abs/2111.09395","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2111-09395","ee":"https://arxiv.org/abs/2111.09395","url":"https://dblp.org/rec/journals/corr/abs-2111-09395"},
+"url":"URL#648241"
+},
+{
+"@score":"3",
+"@id":"653659",
+"info":{"authors":{"author":[{"@pid":"125/9849","text":"Xiao-Yang Liu"},{"@pid":"309/8602","text":"Jingyang Rui"},{"@pid":"259/6255","text":"Jiechao Gao"},{"@pid":"52/6918","text":"Liuqing Yang"},{"@pid":"226/0938","text":"Hongyang Yang"},{"@pid":"117/2756","text":"Zhaoran Wang"},{"@pid":"246/4851","text":"Christina Dan Wang"},{"@pid":"96/2596","text":"Jian Guo"}]},"title":"FinRL-Meta: A Universe of Near-Real Market Environments for Data-Driven Deep Reinforcement Learning in Quantitative Finance.","venue":"CoRR","volume":"abs/2112.06753","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2112-06753","ee":"https://arxiv.org/abs/2112.06753","url":"https://dblp.org/rec/journals/corr/abs-2112-06753"},
+"url":"URL#653659"
+},
+{
+"@score":"3",
+"@id":"747033",
+"info":{"authors":{"author":{"@pid":"147/3678","text":"Monira Essa Aloud"}},"title":"The role of attribute selection in Deep ANNs learning framework for high-frequency financial trading.","venue":"Intell. Syst. Account. Finance Manag.","volume":"27","number":"2","pages":"43-54","year":"2020","type":"Journal Articles","access":"closed","key":"journals/isafm/Aloud20","doi":"10.1002/ISAF.1466","ee":"https://doi.org/10.1002/isaf.1466","url":"https://dblp.org/rec/journals/isafm/Aloud20"},
+"url":"URL#747033"
+},
+{
+"@score":"3",
+"@id":"828587",
+"info":{"authors":{"author":[{"@pid":"238/1106","text":"Sang Il Lee"},{"@pid":"07/2655","text":"Seong Joon Yoo"}]},"title":"Multimodal deep learning for finance: integrating and forecasting international stock markets.","venue":"J. Supercomput.","volume":"76","number":"10","pages":"8294-8312","year":"2020","type":"Journal Articles","access":"closed","key":"journals/tjs/LeeY20a","doi":"10.1007/S11227-019-03101-3","ee":"https://doi.org/10.1007/s11227-019-03101-3","url":"https://dblp.org/rec/journals/tjs/LeeY20a"},
+"url":"URL#828587"
+},
+{
+"@score":"3",
+"@id":"958652",
+"info":{"authors":{"author":[{"@pid":"253/1387","text":"Dovile Kuiziniene"},{"@pid":"04/75","text":"Tomas Krilavicius"}]},"title":"Deep Learning Methods Application in Finance: A Review of State of Art.","venue":"IVUS","pages":"59-69","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/ivus/KuizinieneK20","ee":"http://ceur-ws.org/Vol-2698/p10.pdf","url":"https://dblp.org/rec/conf/ivus/KuizinieneK20"},
+"url":"URL#958652"
+},
+{
+"@score":"3",
+"@id":"1074401",
+"info":{"authors":{"author":[{"@pid":"125/9849","text":"Xiao-Yang Liu"},{"@pid":"226/0938","text":"Hongyang Yang"},{"@pid":"11/1394","text":"Qian Chen"},{"@pid":"250/0635","text":"Runjia Zhang"},{"@pid":"52/6918","text":"Liuqing Yang"},{"@pid":"255/6487","text":"Bowen Xiao"},{"@pid":"246/4851","text":"Christina Dan Wang"}]},"title":"FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.","venue":"CoRR","volume":"abs/2011.09607","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2011-09607","ee":"https://arxiv.org/abs/2011.09607","url":"https://dblp.org/rec/journals/corr/abs-2011-09607"},
+"url":"URL#1074401"
+},
+{
+"@score":"3",
+"@id":"1448538",
+"info":{"authors":{"author":[{"@pid":"238/1106","text":"Sang Il Lee"},{"@pid":"07/2655","text":"Seong Joon Yoo"}]},"title":"Multimodal Deep Learning for Finance: Integrating and Forecasting International Stock Markets.","venue":"CoRR","volume":"abs/1903.06478","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1903-06478","ee":"http://arxiv.org/abs/1903.06478","url":"https://dblp.org/rec/journals/corr/abs-1903-06478"},
+"url":"URL#1448538"
+},
+{
+"@score":"3",
+"@id":"1489026",
+"info":{"authors":{"author":{"@pid":"254/3130","text":"Bernhard Hientzsch"}},"title":"Introduction to Solving Quant Finance Problems with Time-Stepped FBSDE and Deep Learning.","venue":"CoRR","volume":"abs/1911.12231","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1911-12231","ee":"http://arxiv.org/abs/1911.12231","url":"https://dblp.org/rec/journals/corr/abs-1911-12231"},
+"url":"URL#1489026"
+},
+{
+"@score":"3",
+"@id":"2182892",
+"info":{"authors":{"author":[{"@pid":"76/4882","text":"Luigi Troiano"},{"@pid":"194/4980","text":"Elena Mejuto"},{"@pid":"38/9324","text":"Pravesh Kriplani"}]},"title":"On Feature Reduction using Deep Learning for Trend Prediction in Finance.","venue":"CoRR","volume":"abs/1704.03205","year":"2017","type":"Informal Publications","access":"open","key":"journals/corr/TroianoMK17","ee":"http://arxiv.org/abs/1704.03205","url":"https://dblp.org/rec/journals/corr/TroianoMK17"},
+"url":"URL#2182892"
+},
+{
+"@score":"3",
+"@id":"2333844",
+"info":{"authors":{"author":[{"@pid":"d/MinYuhDay","text":"Min-Yuh Day"},{"@pid":"190/5304","text":"Chia-Chou Lee"}]},"title":"Deep learning for financial sentiment analysis on finance news providers.","venue":"ASONAM","pages":"1127-1134","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/asunam/DayL16","doi":"10.1109/ASONAM.2016.7752381","ee":"https://doi.org/10.1109/ASONAM.2016.7752381","url":"https://dblp.org/rec/conf/asunam/DayL16"},
+"url":"URL#2333844"
+},
+{
+"@score":"3",
+"@id":"2495094",
+"info":{"authors":{"author":[{"@pid":"176/5320","text":"J. B. Heaton"},{"@pid":"53/9381","text":"Nicholas G. Polson"},{"@pid":"176/5413","text":"J. H. Witte"}]},"title":"Deep Learning in Finance.","venue":"CoRR","volume":"abs/1602.06561","year":"2016","type":"Informal Publications","access":"open","key":"journals/corr/HeatonPW16","ee":"http://arxiv.org/abs/1602.06561","url":"https://dblp.org/rec/journals/corr/HeatonPW16"},
+"url":"URL#2495094"
+}
+]
+}
+}
+}

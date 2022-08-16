@@ -1,0 +1,311 @@
+{
+"result":{
+"query":"deep* learning* models* comparison*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"8.25"
+},
+"completions":{
+"@total":"2",
+"@computed":"2",
+"@sent":"2",
+"c":[
+{
+"@sc":"44",
+"@dc":"44",
+"@oc":"44",
+"@id":"46103135",
+"text":"comparison"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"46103138",
+"text":"comparisons"
+}
+]
+},
+"hits":{
+"@total":"45",
+"@computed":"45",
+"@sent":"45",
+"@first":"0",
+"hit":[{
+"@score":"13",
+"@id":"186255",
+"info":{"authors":{"author":[{"@pid":"317/2438","text":"Aeyan Ashraf"},{"@pid":"99/10293","text":"Asad Malik"},{"@pid":"87/966","text":"Zahid Khan"}]},"title":"POSTER: Diagnosis of COVID-19 through Transfer Learning Techniques on CT Scans: A Comparison of Deep Learning Models.","venue":"CoRR","volume":"abs/2203.09348","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2203-09348","doi":"10.48550/ARXIV.2203.09348","ee":"https://doi.org/10.48550/arXiv.2203.09348","url":"https://dblp.org/rec/journals/corr/abs-2203-09348"},
+"url":"URL#186255"
+},
+{
+"@score":"13",
+"@id":"216135",
+"info":{"authors":{"author":{"@pid":"325/5428","text":"Soham Bhosale"}},"title":"Comparison of Deep Learning and Machine Learning Models and Frameworks for Skin Lesion Classification.","venue":"CoRR","volume":"abs/2207.12715","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2207-12715","doi":"10.48550/ARXIV.2207.12715","ee":"https://doi.org/10.48550/arXiv.2207.12715","url":"https://dblp.org/rec/journals/corr/abs-2207-12715"},
+"url":"URL#216135"
+},
+{
+"@score":"13",
+"@id":"684993",
+"info":{"authors":{"author":[{"@pid":"230/1801","text":"Andrea Maria Nogueira Cavalcanti Ribeiro"},{"@pid":"260/3737","text":"Pedro Rafael X. do Carmo"},{"@pid":"249/8180","text":"Iago Richard Rodrigues Silva"},{"@pid":"s/DjamelSadok","text":"Djamel Sadok"},{"@pid":"135/3110","text":"Theo Lynn"},{"@pid":"18/8101","text":"Patricia Takako Endo"}]},"title":"Short-Term Firm-Level Energy-Consumption Forecasting for Energy-Intensive Manufacturing: A Comparison of Machine Learning and Deep Learning Models.","venue":"Algorithms","volume":"13","number":"11","pages":"274","year":"2020","type":"Journal Articles","access":"open","key":"journals/algorithms/RibeiroCSSLE20","doi":"10.3390/A13110274","ee":"https://doi.org/10.3390/a13110274","url":"https://dblp.org/rec/journals/algorithms/RibeiroCSSLE20"},
+"url":"URL#684993"
+},
+{
+"@score":"13",
+"@id":"721244",
+"info":{"authors":{"author":[{"@pid":"276/9661","text":"Niraj Thapa"},{"@pid":"68/649","text":"Zhipeng Liu"},{"@pid":"276/9644","text":"Dukka B. KC"},{"@pid":"61/8963","text":"Balakrishna Gokaraju"},{"@pid":"r/KaushikRoy3","text":"Kaushik Roy 0003"}]},"title":"Comparison of Machine Learning and Deep Learning Models for Network Intrusion Detection Systems.","venue":"Future Internet","volume":"12","number":"10","pages":"167","year":"2020","type":"Journal Articles","access":"open","key":"journals/fi/ThapaLKGR20","doi":"10.3390/FI12100167","ee":"https://doi.org/10.3390/fi12100167","url":"https://dblp.org/rec/journals/fi/ThapaLKGR20"},
+"url":"URL#721244"
+},
+{
+"@score":"13",
+"@id":"752423",
+"info":{"authors":{"author":[{"@pid":"241/9514","text":"Matthew C. Robinson"},{"@pid":"12/431","text":"Robert C. Glen"},{"@pid":"217/1660","text":"Alpha A. Lee"}]},"title":"Validating the validation: reanalyzing a large-scale comparison of deep learning and machine learning models for bioactivity prediction.","venue":"J. Comput. Aided Mol. Des.","volume":"34","number":"7","pages":"717-730","year":"2020","type":"Journal Articles","access":"open","key":"journals/jcamd/RobinsonGL20","doi":"10.1007/S10822-019-00274-0","ee":"https://doi.org/10.1007/s10822-019-00274-0","url":"https://dblp.org/rec/journals/jcamd/RobinsonGL20"},
+"url":"URL#752423"
+},
+{
+"@score":"13",
+"@id":"755536",
+"info":{"authors":{"author":[{"@pid":"87/7018","text":"Andrea Caroppo"},{"@pid":"81/3239","text":"Alessandro Leone"},{"@pid":"46/5521","text":"Pietro Siciliano"}]},"title":"Comparison Between Deep Learning Models and Traditional Machine Learning Approaches for Facial Expression Recognition in Ageing Adults.","venue":"J. Comput. Sci. Technol.","volume":"35","number":"5","pages":"1127-1146","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jcst/CaroppoLS20","doi":"10.1007/S11390-020-9665-4","ee":"https://doi.org/10.1007/s11390-020-9665-4","url":"https://dblp.org/rec/journals/jcst/CaroppoLS20"},
+"url":"URL#755536"
+},
+{
+"@score":"13",
+"@id":"1459183",
+"info":{"authors":{"author":[{"@pid":"241/9514","text":"Matthew C. Robinson"},{"@pid":"12/431","text":"Robert C. Glen"},{"@pid":"217/1660","text":"Alpha A. Lee"}]},"title":"Validating the Validation: Reanalyzing a large-scale comparison of Deep Learning and Machine Learning models for bioactivity prediction.","venue":"CoRR","volume":"abs/1905.11681","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1905-11681","ee":"http://arxiv.org/abs/1905.11681","url":"https://dblp.org/rec/journals/corr/abs-1905-11681"},
+"url":"URL#1459183"
+},
+{
+"@score":"10",
+"@id":"10873",
+"info":{"authors":{"author":[{"@pid":"201/1928","text":"Oscar Serradilla"},{"@pid":"221/9284","text":"Ekhi Zugasti"},{"@pid":"323/6325","text":"Jon Rodriguez"},{"@pid":"59/5122","text":"Urko Zurutuza"}]},"title":"Deep learning models for predictive maintenance: a survey, comparison, challenges and prospects.","venue":"Appl. Intell.","volume":"52","number":"10","pages":"10934-10964","year":"2022","type":"Journal Articles","access":"closed","key":"journals/apin/SerradillaZRZ22","doi":"10.1007/S10489-021-03004-Y","ee":"https://doi.org/10.1007/s10489-021-03004-y","url":"https://dblp.org/rec/journals/apin/SerradillaZRZ22"},
+"url":"URL#10873"
+},
+{
+"@score":"10",
+"@id":"15008",
+"info":{"authors":{"author":[{"@pid":"320/4424","text":"Aiko Urushibara"},{"@pid":"320/4466","text":"Tsukasa Saida"},{"@pid":"24/4677","text":"Kensaku Mori"},{"@pid":"320/4099","text":"Toshitaka Ishiguro"},{"@pid":"122/2322","text":"Kei Inoue"},{"@pid":"320/4851","text":"Tomohiko Masumoto"},{"@pid":"320/4860","text":"Toyomi Satoh"},{"@pid":"43/5359","text":"Takahito Nakajima"}]},"title":"The efficacy of deep learning models in the diagnosis of endometrial cancer using MRI: a comparison with radiologists.","venue":"BMC Medical Imaging","volume":"22","number":"1","pages":"80","year":"2022","type":"Journal Articles","access":"open","key":"journals/bmcmi/UrushibaraSMIIM22","doi":"10.1186/S12880-022-00808-3","ee":"https://doi.org/10.1186/s12880-022-00808-3","url":"https://dblp.org/rec/journals/bmcmi/UrushibaraSMIIM22"},
+"url":"URL#15008"
+},
+{
+"@score":"10",
+"@id":"68280",
+"info":{"authors":{"author":[{"@pid":"245/9690","text":"Gioele Ciaparrone"},{"@pid":"76/3019","text":"Leonardo Chiariglione"},{"@pid":"69/6674","text":"Roberto Tagliaferri"}]},"title":"A comparison of deep learning models for end-to-end face-based video retrieval in unconstrained videos.","venue":"Neural Comput. Appl.","volume":"34","number":"10","pages":"7489-7506","year":"2022","type":"Journal Articles","access":"open","key":"journals/nca/CiaparroneCT22","doi":"10.1007/S00521-021-06875-X","ee":"https://doi.org/10.1007/s00521-021-06875-x","url":"https://dblp.org/rec/journals/nca/CiaparroneCT22"},
+"url":"URL#68280"
+},
+{
+"@score":"10",
+"@id":"77425",
+"info":{"authors":{"author":[{"@pid":"323/0679","text":"Rajendra Sapkota"},{"@pid":"13/5262","text":"Puneet Sharma"},{"@pid":"256/5689","text":"Ingrid Mann"}]},"title":"Comparison of Deep Learning Models for the Classification of Noctilucent Cloud Images.","venue":"Remote. Sens.","volume":"14","number":"10","pages":"2306","year":"2022","type":"Journal Articles","access":"open","key":"journals/remotesensing/SapkotaSM22","doi":"10.3390/RS14102306","ee":"https://doi.org/10.3390/rs14102306","url":"https://dblp.org/rec/journals/remotesensing/SapkotaSM22"},
+"url":"URL#77425"
+},
+{
+"@score":"10",
+"@id":"120998",
+"info":{"authors":{"author":[{"@pid":"314/6404","text":"Marius Pullig"},{"@pid":"187/6248","text":"Benjamin Bergner"},{"@pid":"317/8540","text":"Amish Doshi"},{"@pid":"90/3388","text":"Anja Hennemuth"},{"@pid":"14/8095","text":"Zahi A. Fayad"},{"@pid":"45/7970","text":"Christoph Lippert"}]},"title":"Deep Learning Models for 3D MRI Brain Classification - A Multi-sequence Comparison.","venue":"Bildverarbeitung für die Medizin","pages":"204-209","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/bildmed/PulligBDHFL22","doi":"10.1007/978-3-658-36932-3_44","ee":"https://doi.org/10.1007/978-3-658-36932-3_44","url":"https://dblp.org/rec/conf/bildmed/PulligBDHFL22"},
+"url":"URL#120998"
+},
+{
+"@score":"10",
+"@id":"137761",
+"info":{"authors":{"author":[{"@pid":"263/4958","text":"Venkata Srikanth Nallanthighal"},{"@pid":"21/5537","text":"Aki Härmä"},{"@pid":"68/1093","text":"Helmer Strik"}]},"title":"Detection of COPD Exacerbation from Speech: Comparison of Acoustic Features and Deep Learning Based Speech Breathing Models.","venue":"ICASSP","pages":"9097-9101","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icassp/NallanthighalHS22","doi":"10.1109/ICASSP43922.2022.9747785","ee":"https://doi.org/10.1109/ICASSP43922.2022.9747785","url":"https://dblp.org/rec/conf/icassp/NallanthighalHS22"},
+"url":"URL#137761"
+},
+{
+"@score":"10",
+"@id":"191692",
+"info":{"authors":{"author":[{"@pid":"151/4762","text":"Yuejun Guo 0001"},{"@pid":"93/5629","text":"Qiang Hu"},{"@pid":"73/10839","text":"Maxime Cordy"},{"@pid":"127/0713","text":"Xiaofei Xie"},{"@pid":"00/7677","text":"Mike Papadakis"},{"@pid":"95/5206","text":"Yves Le Traon"}]},"title":"Labeling-Free Comparison Testing of Deep Learning Models.","venue":"CoRR","volume":"abs/2204.03994","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2204-03994","doi":"10.48550/ARXIV.2204.03994","ee":"https://doi.org/10.48550/arXiv.2204.03994","url":"https://dblp.org/rec/journals/corr/abs-2204-03994"},
+"url":"URL#191692"
+},
+{
+"@score":"10",
+"@id":"310408",
+"info":{"authors":{"author":[{"@pid":"250/6942","text":"Shikha Bhardwaj"},{"@pid":"240/4232","text":"Gitanjali Pandove"},{"@pid":"220/0343","text":"Pawan Kumar Dahiya"}]},"title":"An efficient comparison of two indexing-based deep learning models for the formation of a web-application based IoT-cloud network.","venue":"J. Ambient Intell. Humaniz. Comput.","volume":"12","number":"7","pages":"7903-7921","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jaihc/BhardwajPD21","doi":"10.1007/S12652-020-02500-2","ee":"https://doi.org/10.1007/s12652-020-02500-2","url":"https://dblp.org/rec/journals/jaihc/BhardwajPD21"},
+"url":"URL#310408"
+},
+{
+"@score":"10",
+"@id":"328934",
+"info":{"authors":{"author":[{"@pid":"280/8851","text":"Mayukh Sharma"},{"@pid":"190/7017","text":"Ilanthenral Kandasamy"},{"@pid":"79/10721-1","text":"W. B. Vasantha 0001"}]},"title":"Comparison of neutrosophic approach to various deep learning models for sentiment analysis.","venue":"Knowl. Based Syst.","volume":"223","pages":"107058","year":"2021","type":"Journal Articles","access":"closed","key":"journals/kbs/SharmaKV21","doi":"10.1016/J.KNOSYS.2021.107058","ee":"https://doi.org/10.1016/j.knosys.2021.107058","url":"https://dblp.org/rec/journals/kbs/SharmaKV21"},
+"url":"URL#328934"
+},
+{
+"@score":"10",
+"@id":"446970",
+"info":{"authors":{"author":[{"@pid":"290/4330","text":"Nur Aizah Rosli"},{"@pid":"45/2479","text":"Siti Norul Huda Sheikh Abdullah"},{"@pid":"225/7036","text":"Ahmad Nazri Zamani"},{"@pid":"181/7200","text":"Anahita Ghazvini"},{"@pid":"290/4253","text":"Nor Sakinah Md Othman"},{"@pid":"290/4237","text":"Nor Alia Athirah Abdul Muariff Tajuddin"}]},"title":"Comparison Multi Transfer Learning Models for Deep Fake Image Recognizer.","venue":"CRC","pages":"1-6","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/crc2/RosliAZGOT21","doi":"10.1109/CRC50527.2021.9392566","ee":"https://doi.org/10.1109/CRC50527.2021.9392566","url":"https://dblp.org/rec/conf/crc2/RosliAZGOT21"},
+"url":"URL#446970"
+},
+{
+"@score":"10",
+"@id":"499811",
+"info":{"authors":{"author":[{"@pid":"69/4977","text":"Joongheon Kim"},{"@pid":"218/1868","text":"Myungjae Shin"},{"@pid":"00/2842","text":"Dohyun Kim"},{"@pid":"208/3182","text":"Soohyun Park"},{"@pid":"222/5375","text":"Yeongeun Kang"},{"@pid":"39/2901","text":"Junghyun Kim"},{"@pid":"160/2679","text":"Haemin Lee"},{"@pid":"274/6999","text":"Won Joon Yun"},{"@pid":"15/4581","text":"Jaeho Choi"},{"@pid":"08/4233","text":"Seunghoon Park"},{"@pid":"260/1230","text":"Seunghyeok Oh"},{"@pid":"14/11190","text":"Jaesung Yoo"}]},"title":"Performance Comparison of SRCNN, VDSR, and SRDenseNet Deep Learning Models in Embedded Autonomous Driving Platforms.","venue":"ICOIN","pages":"56-58","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icoin/KimSKPKKLYCPOY21","doi":"10.1109/ICOIN50884.2021.9333896","ee":"https://doi.org/10.1109/ICOIN50884.2021.9333896","url":"https://dblp.org/rec/conf/icoin/KimSKPKKLYCPOY21"},
+"url":"URL#499811"
+},
+{
+"@score":"10",
+"@id":"502823",
+"info":{"authors":{"author":[{"@pid":"75/2820","text":"Juan Cao"},{"@pid":"310/7845","text":"Jiaran Chen"}]},"title":"Comparison of Deep Learning Models on Detection and Classification of Diabetic Retinopathy.","venue":"ICSAI","pages":"1-6","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icsai/CaoC21","doi":"10.1109/ICSAI53574.2021.9664179","ee":"https://doi.org/10.1109/ICSAI53574.2021.9664179","url":"https://dblp.org/rec/conf/icsai/CaoC21"},
+"url":"URL#502823"
+},
+{
+"@score":"10",
+"@id":"511693",
+"info":{"authors":{"author":[{"@pid":"66/1439","text":"Kenji Fukumoto"},{"@pid":"259/0478","text":"Rinji Suzuki"},{"@pid":"24/1069","text":"Hiroyuki Terada"},{"@pid":"309/7680","text":"Masafumi Bato"},{"@pid":"25/1907","text":"Akiyo Nadamoto"}]},"title":"Comparison of Deep Learning Models for Automatic Generation of Product Description on E-commerce site.","venue":"iiWAS","pages":"223-231","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/iiwas/FukumotoSTBN21","doi":"10.1145/3487664.3487696","ee":"https://doi.org/10.1145/3487664.3487696","url":"https://dblp.org/rec/conf/iiwas/FukumotoSTBN21"},
+"url":"URL#511693"
+},
+{
+"@score":"10",
+"@id":"582097",
+"info":{"authors":{"author":[{"@pid":"206/8894","text":"Shalini Pandey"},{"@pid":"k/GeorgeKarypis","text":"George Karypis"},{"@pid":"s/JaideepSrivastava","text":"Jaideep Srivastava"}]},"title":"An Empirical Comparison of Deep Learning Models for Knowledge Tracing on Large-Scale Dataset.","venue":"CoRR","volume":"abs/2101.06373","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2101-06373","ee":"https://arxiv.org/abs/2101.06373","url":"https://dblp.org/rec/journals/corr/abs-2101-06373"},
+"url":"URL#582097"
+},
+{
+"@score":"10",
+"@id":"594573",
+"info":{"authors":{"author":[{"@pid":"33/4679","text":"Zhenhua Wang"},{"@pid":"288/0462","text":"Olanrewaju Akande"},{"@pid":"188/5797","text":"Jason Poulos"},{"@pid":"73/237","text":"Fan Li"}]},"title":"Are deep learning models superior for missing data imputation in large surveys? Evidence from an empirical comparison.","venue":"CoRR","volume":"abs/2103.09316","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2103-09316","ee":"https://arxiv.org/abs/2103.09316","url":"https://dblp.org/rec/journals/corr/abs-2103-09316"},
+"url":"URL#594573"
+},
+{
+"@score":"10",
+"@id":"645368",
+"info":{"authors":{"author":{"@pid":"299/1408","text":"Rashmi Bakshi"}},"title":"A Comparison of Deep Learning Models for the Prediction of Hand Hygiene Videos.","venue":"CoRR","volume":"abs/2111.02322","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2111-02322","ee":"https://arxiv.org/abs/2111.02322","url":"https://dblp.org/rec/journals/corr/abs-2111-02322"},
+"url":"URL#645368"
+},
+{
+"@score":"10",
+"@id":"664530",
+"info":{"authors":{"author":[{"@pid":"03/3524-2","text":"Imran Ahmed 0002"},{"@pid":"247/6137","text":"Misbah Ahmad"},{"@pid":"31/2093","text":"Fakhri Alam Khan"},{"@pid":"16/2961-2","text":"Muhammad Asif 0002"}]},"title":"Comparison of Deep-Learning-Based Segmentation Models: Using Top View Person Images.","venue":"IEEE Access","volume":"8","pages":"136361-136373","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/AhmedAKA20","doi":"10.1109/ACCESS.2020.3011406","ee":"https://doi.org/10.1109/ACCESS.2020.3011406","url":"https://dblp.org/rec/journals/access/AhmedAKA20"},
+"url":"URL#664530"
+},
+{
+"@score":"10",
+"@id":"699671",
+"info":{"authors":{"author":[{"@pid":"289/6738","text":"Zhenjia Yue"},{"@pid":"36/2375","text":"Liangping Ma"},{"@pid":"168/0233","text":"Runfeng Zhang"}]},"title":"Comparison and Validation of Deep Learning Models for the Diagnosis of Pneumonia.","venue":"Comput. Intell. Neurosci.","volume":"2020","pages":"8876798:1-8876798:8","year":"2020","type":"Journal Articles","access":"open","key":"journals/cin/YueMZ20","doi":"10.1155/2020/8876798","ee":"https://doi.org/10.1155/2020/8876798","url":"https://dblp.org/rec/journals/cin/YueMZ20"},
+"url":"URL#699671"
+},
+{
+"@score":"10",
+"@id":"751394",
+"info":{"authors":{"author":[{"@pid":"210/9208","text":"Budi Padmaja"},{"@pid":"261/5364","text":"Madhu Bala Myneni"},{"@pid":"262/0596","text":"Epili Krishna Rao Patro"}]},"title":"A comparison on visual prediction models for MAMO (multi activity-multi object) recognition using deep learning.","venue":"J. Big Data","volume":"7","number":"1","pages":"24","year":"2020","type":"Journal Articles","access":"open","key":"journals/jbd/PadmajaMP20","doi":"10.1186/S40537-020-00296-8","ee":"https://doi.org/10.1186/s40537-020-00296-8","url":"https://dblp.org/rec/journals/jbd/PadmajaMP20"},
+"url":"URL#751394"
+},
+{
+"@score":"10",
+"@id":"771220",
+"info":{"authors":{"author":[{"@pid":"194/5623","text":"Ahmed Abdulaal"},{"@pid":"279/8700","text":"Aatish Patel"},{"@pid":"153/2372","text":"Esmita Charani"},{"@pid":"279/8128","text":"Sarah Denny"},{"@pid":"279/8106","text":"Saleh A. Alqahtani"},{"@pid":"279/8308","text":"Gary W. Davies"},{"@pid":"279/8473","text":"Nabeela Mughal"},{"@pid":"153/2371","text":"Luke S. P. Moore"}]},"title":"Comparison of deep learning with regression analysis in creating predictive models for SARS-CoV-2 outcomes.","venue":"BMC Medical Informatics Decis. Mak.","volume":"20","number":"1","pages":"299","year":"2020","type":"Journal Articles","access":"open","key":"journals/midm/AbdulaalPCDADMM20","doi":"10.1186/S12911-020-01316-6","ee":"https://doi.org/10.1186/s12911-020-01316-6","url":"https://dblp.org/rec/journals/midm/AbdulaalPCDADMM20"},
+"url":"URL#771220"
+},
+{
+"@score":"10",
+"@id":"791336",
+"info":{"authors":{"author":[{"@pid":"269/4390","text":"Arun Narenthiran Veeranampalayam Sivakumar"},{"@pid":"231/6670","text":"Jiating Li"},{"@pid":"24/4926","text":"Stephen Scott 0001"},{"@pid":"34/8860","text":"Eric Psota"},{"@pid":"269/3822","text":"Amit J. Jhala"},{"@pid":"178/1379","text":"Joe D. Luck"},{"@pid":"196/8810","text":"Yeyin Shi"}]},"title":"Comparison of Object Detection and Patch-Based Classification Deep Learning Models on Mid- to Late-Season Weed Detection in UAV Imagery.","venue":"Remote. Sens.","volume":"12","number":"13","pages":"2136","year":"2020","type":"Journal Articles","access":"open","key":"journals/remotesensing/SivakumarLSPJLS20","doi":"10.3390/RS12132136","ee":"https://doi.org/10.3390/rs12132136","url":"https://dblp.org/rec/journals/remotesensing/SivakumarLSPJLS20"},
+"url":"URL#791336"
+},
+{
+"@score":"10",
+"@id":"917228",
+"info":{"authors":{"author":[{"@pid":"251/5470","text":"Michela Zaccaria"},{"@pid":"133/4772","text":"Riccardo Monica"},{"@pid":"76/3927","text":"Jacopo Aleotti"}]},"title":"A Comparison of Deep Learning Models for Pallet Detection in Industrial Warehouses.","venue":"ICCP","pages":"417-422","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccp2/ZaccariaMA20","doi":"10.1109/ICCP51029.2020.9266168","ee":"https://doi.org/10.1109/ICCP51029.2020.9266168","url":"https://dblp.org/rec/conf/iccp2/ZaccariaMA20"},
+"url":"URL#917228"
+},
+{
+"@score":"10",
+"@id":"923318",
+"info":{"authors":{"author":[{"@pid":"237/4774","text":"Berk Cetinsaya"},{"@pid":"270/1139","text":"James Dials"},{"@pid":"196/0581","text":"Doga Demirel"},{"@pid":"46/2849","text":"Tansel Halic"},{"@pid":"24/1604","text":"Suvranu De"},{"@pid":"270/1447","text":"Mark Gromski"},{"@pid":"270/0850","text":"Douglas Rex"}]},"title":"Comparison Study of Deep Learning Models for Colorectal Lesions Classification.","venue":"ICISDM","pages":"84-88","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icisdm/CetinsayaDDHDGR20","doi":"10.1145/3404663.3404667","ee":"https://doi.org/10.1145/3404663.3404667","url":"https://dblp.org/rec/conf/icisdm/CetinsayaDDHDGR20"},
+"url":"URL#923318"
+},
+{
+"@score":"10",
+"@id":"933692",
+"info":{"authors":{"author":[{"@pid":"257/7424","text":"Liton Devnath"},{"@pid":"10/921","text":"Suhuai Luo"},{"@pid":"219/9799","text":"Peter F. Summons"},{"@pid":"06/2186","text":"Dadong Wang"}]},"title":"Performance Comparison of Deep Learning Models for Black Lung Detection on Chest X-ray Radiographs.","venue":"ICSIM","pages":"150-154","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icsim/DevnathLSW20","doi":"10.1145/3378936.3378968","ee":"https://doi.org/10.1145/3378936.3378968","url":"https://dblp.org/rec/conf/icsim/DevnathLSW20"},
+"url":"URL#933692"
+},
+{
+"@score":"10",
+"@id":"935274",
+"info":{"authors":{"author":[{"@pid":"120/7505","text":"Minyoung Jung"},{"@pid":"15/5407","text":"Jieun Kim"},{"@pid":"161/3212","text":"Jin Yea Jang"},{"@pid":"84/155","text":"Hyedong Jung"},{"@pid":"31/2916","text":"Saim Shin"}]},"title":"A Performance Comparison among Different Amounts of Context on Deep Learning Based Intent Classification Models.","venue":"ICTC","pages":"1336-1338","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictc/JungKJJS20","doi":"10.1109/ICTC49870.2020.9289467","ee":"https://doi.org/10.1109/ICTC49870.2020.9289467","url":"https://dblp.org/rec/conf/ictc/JungKJJS20"},
+"url":"URL#935274"
+},
+{
+"@score":"10",
+"@id":"1059094",
+"info":{"authors":{"author":[{"@pid":"274/2068","text":"Austen Groener"},{"@pid":"233/5596","text":"Gary Chern"},{"@pid":"04/2815","text":"Mark D. Pritt"}]},"title":"A Comparison of Deep Learning Object Detection Models for Satellite Imagery.","venue":"CoRR","volume":"abs/2009.04857","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2009-04857","ee":"https://arxiv.org/abs/2009.04857","url":"https://dblp.org/rec/journals/corr/abs-2009-04857"},
+"url":"URL#1059094"
+},
+{
+"@score":"10",
+"@id":"1059710",
+"info":{"authors":{"author":[{"@pid":"252/5067","text":"Paschalis Bizopoulos"},{"@pid":"09/6050","text":"Nicholas Vretos"},{"@pid":"30/714","text":"Petros Daras"}]},"title":"Comprehensive Comparison of Deep Learning Models for Lung and COVID-19 Lesion Segmentation in CT scans.","venue":"CoRR","volume":"abs/2009.06412","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2009-06412","ee":"https://arxiv.org/abs/2009.06412","url":"https://dblp.org/rec/journals/corr/abs-2009-06412"},
+"url":"URL#1059710"
+},
+{
+"@score":"10",
+"@id":"1064376",
+"info":{"authors":{"author":[{"@pid":"201/1928","text":"Oscar Serradilla"},{"@pid":"221/9284","text":"Ekhi Zugasti"},{"@pid":"59/5122","text":"Urko Zurutuza"}]},"title":"Deep learning models for predictive maintenance: a survey, comparison, challenges and prospect.","venue":"CoRR","volume":"abs/2010.03207","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2010-03207","ee":"https://arxiv.org/abs/2010.03207","url":"https://dblp.org/rec/journals/corr/abs-2010-03207"},
+"url":"URL#1064376"
+},
+{
+"@score":"10",
+"@id":"1072267",
+"info":{"authors":{"author":[{"@pid":"278/3057","text":"Eranga De Saa"},{"@pid":"208/4935","text":"Lochandaka Ranathunga"}]},"title":"Comparison between ARIMA and Deep Learning Models for Temperature Forecasting.","venue":"CoRR","volume":"abs/2011.04452","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2011-04452","ee":"https://arxiv.org/abs/2011.04452","url":"https://dblp.org/rec/journals/corr/abs-2011-04452"},
+"url":"URL#1072267"
+},
+{
+"@score":"10",
+"@id":"1077046",
+"info":{"authors":{"author":[{"@pid":"137/0222","text":"Giulia Cisotto"},{"@pid":"262/4278","text":"Alessio Zanga"},{"@pid":"280/1005","text":"Joanna Chlebus"},{"@pid":"50/3639","text":"Italo Zoppis"},{"@pid":"62/3822","text":"Sara Manzoni"},{"@pid":"01/1537","text":"Urszula Markowska-Kaczmar"}]},"title":"Comparison of Attention-based Deep Learning Models for EEG Classification.","venue":"CoRR","volume":"abs/2012.01074","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2012-01074","ee":"https://arxiv.org/abs/2012.01074","url":"https://dblp.org/rec/journals/corr/abs-2012-01074"},
+"url":"URL#1077046"
+},
+{
+"@score":"10",
+"@id":"1185572",
+"info":{"authors":{"author":[{"@pid":"259/7022","text":"Lanzhen Pei"},{"@pid":"70/8504","text":"Yingjun Zhao"},{"@pid":"75/3158","text":"Zhe Wang"},{"@pid":"259/7089","text":"Yunqian Luo"}]},"title":"采用深度学习的DGA域名检测模型比较 (Comparison of DGA Domain Detection Models Using Deep Learning).","venue":"计算机科学","volume":"46","number":"5","pages":"111-115","year":"2019","type":"Journal Articles","access":"open","key":"journals/jsjkx/PeiZWL19","doi":"10.11896/J.ISSN.1002-137X.2019.05.017","ee":"https://doi.org/10.11896/j.issn.1002-137X.2019.05.017","url":"https://dblp.org/rec/journals/jsjkx/PeiZWL19"},
+"url":"URL#1185572"
+},
+{
+"@score":"10",
+"@id":"1257937",
+"info":{"authors":{"author":[{"@pid":"259/6043","text":"Jamie O&apos;Halloran"},{"@pid":"60/2291","text":"Edward Curry"}]},"title":"A Comparison of Deep Learning Models in Human Activity Recognition and Behavioural Prediction on the MHEALTH Dataset.","venue":"AICS","pages":"212-223","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/aics/OHalloranC19","ee":"http://ceur-ws.org/Vol-2563/aics_21.pdf","url":"https://dblp.org/rec/conf/aics/OHalloranC19"},
+"url":"URL#1257937"
+},
+{
+"@score":"10",
+"@id":"1259102",
+"info":{"authors":{"author":[{"@pid":"274/2068","text":"Austen Groener"},{"@pid":"233/5596","text":"Gary Chern"},{"@pid":"04/2815","text":"Mark D. Pritt"}]},"title":"A Comparison of Deep Learning Object Detection Models for Satellite Imagery.","venue":"AIPR","pages":"1-10","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/aipr/GroenerCP19","doi":"10.1109/AIPR47015.2019.9174593","ee":"https://doi.org/10.1109/AIPR47015.2019.9174593","url":"https://dblp.org/rec/conf/aipr/GroenerCP19"},
+"url":"URL#1259102"
+},
+{
+"@score":"10",
+"@id":"1282335",
+"info":{"authors":{"author":[{"@pid":"259/3541","text":"Charles M. Pérez-Espinoza"},{"@pid":"259/3537","text":"Johanna Sanchez-Guerrero"},{"@pid":"217/4244","text":"Teresa Samaniego-Cobo"},{"@pid":"259/3535","text":"Nuvia Beltran-Robayo"}]},"title":"Comparison Between Two Deep Learning Models for Temperature Prediction at Guayaquil.","venue":"CITI","pages":"17-29","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/citi/Perez-EspinozaS19","doi":"10.1007/978-3-030-34989-9_2","ee":"https://doi.org/10.1007/978-3-030-34989-9_2","url":"https://dblp.org/rec/conf/citi/Perez-EspinozaS19"},
+"url":"URL#1282335"
+},
+{
+"@score":"10",
+"@id":"1393909",
+"info":{"authors":{"author":[{"@pid":"254/6908","text":"Yuttachon Promworn"},{"@pid":"164/9290","text":"Satjana Pattanasak"},{"@pid":"41/1733","text":"Chuchart Pintavirooj"},{"@pid":"116/3449","text":"Wibool Piyawattanametha"}]},"title":"Comparisons of Pap Smear Classification with Deep Learning Models.","venue":"NEMS","pages":"282-285","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/nems/PromwornPPP19","doi":"10.1109/NEMS.2019.8915600","ee":"https://doi.org/10.1109/NEMS.2019.8915600","url":"https://dblp.org/rec/conf/nems/PromwornPPP19"},
+"url":"URL#1393909"
+},
+{
+"@score":"10",
+"@id":"1487574",
+"info":{"authors":{"author":{"@pid":"254/3035","text":"Hongqian Qin"}},"title":"Comparison of Deep learning models on time series forecasting : a case study of Dissolved Oxygen Prediction.","venue":"CoRR","volume":"abs/1911.08414","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1911-08414","ee":"http://arxiv.org/abs/1911.08414","url":"https://dblp.org/rec/journals/corr/abs-1911-08414"},
+"url":"URL#1487574"
+},
+{
+"@score":"10",
+"@id":"1663186",
+"info":{"authors":{"author":[{"@pid":"213/8659","text":"Narsi Reddy"},{"@pid":"42/3832","text":"Ajita Rattani"},{"@pid":"37/4346","text":"Reza Derakhshani"}]},"title":"Comparison of Deep Learning Models for Biometric-based Mobile User Authentication.","venue":"BTAS","pages":"1-6","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/btas/ReddyRD18","doi":"10.1109/BTAS.2018.8698586","ee":"https://doi.org/10.1109/BTAS.2018.8698586","url":"https://dblp.org/rec/conf/btas/ReddyRD18"},
+"url":"URL#1663186"
+},
+{
+"@score":"10",
+"@id":"2108952",
+"info":{"authors":{"author":[{"@pid":"160/2808","text":"Yangdong Liu"},{"@pid":"118/5373","text":"Yizhe Wang"},{"@pid":"67/654","text":"Xiaoguang Yang"},{"@pid":"143/8204","text":"Linan Zhang"}]},"title":"Short-term travel time prediction by deep learning: A comparison of different LSTM-DNN models.","venue":"ITSC","pages":"1-8","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/itsc/LiuWYZ17","doi":"10.1109/ITSC.2017.8317886","ee":"https://doi.org/10.1109/ITSC.2017.8317886","url":"https://dblp.org/rec/conf/itsc/LiuWYZ17"},
+"url":"URL#2108952"
+}
+]
+}
+}
+}

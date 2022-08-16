@@ -1,0 +1,833 @@
+{
+"result":{
+"query":"stock* feature*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"26.56"
+},
+"completions":{
+"@total":"2",
+"@computed":"2",
+"@sent":"2",
+"c":[
+{
+"@sc":"96",
+"@dc":"94",
+"@oc":"96",
+"@id":"46265265",
+"text":"feature"
+},
+{
+"@sc":"39",
+"@dc":"39",
+"@oc":"39",
+"@id":"46265319",
+"text":"features"
+}
+]
+},
+"hits":{
+"@total":"132",
+"@computed":"132",
+"@sent":"132",
+"@first":"0",
+"hit":[{
+"@score":"3",
+"@id":"181774",
+"info":{"authors":{"author":[{"@pid":"250/2730","text":"Yu Sha"},{"@pid":"92/1909","text":"Johannes Faber"},{"@pid":"41/676","text":"Shuiping Gou"},{"@pid":"58/2670","text":"Bo Liu"},{"@pid":"64/6025","text":"Wei Li"},{"@pid":"142/4398","text":"Stefan Schramm"},{"@pid":"94/9498","text":"Horst Stöcker"},{"@pid":"314/6968","text":"Thomas Steckenreiter"},{"@pid":"314/6315","text":"Domagoj Vnucec"},{"@pid":"314/6558","text":"Nadine Wetzstein"},{"@pid":"132/8178","text":"Andreas Widl"},{"@pid":"82/1512","text":"Kai Zhou"}]},"title":"An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering.","venue":"CoRR","volume":"abs/2202.13226","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2202-13226","ee":"https://arxiv.org/abs/2202.13226","url":"https://dblp.org/rec/journals/corr/abs-2202-13226"},
+"url":"URL#181774"
+},
+{
+"@score":"3",
+"@id":"290512",
+"info":{"authors":{"author":[{"@pid":"13/4682","text":"Ping Zhang"},{"@pid":"301/9231","text":"Jia-Yao Yang"},{"@pid":"10/3520","text":"Hao Zhu"},{"@pid":"301/8869","text":"Yue-Jie Hou"},{"@pid":"97/4626","text":"Yi Liu"},{"@pid":"262/3777","text":"Chi-Chun Zhou"}]},"title":"Failure in Stock Price Prediction: A Comparison bettwen the Curve-Shape-Feature and Non-Curve-Shape-Feature Modes of Existing Machine Learning Algorithms.","venue":"Int. J. Comput. Commun. Control","volume":"16","number":"6","year":"2021","type":"Journal Articles","access":"open","key":"journals/ijccc/ZhangYZHLZ21","doi":"10.15837/IJCCC.2021.6.4549","ee":"https://doi.org/10.15837/ijccc.2021.6.4549","url":"https://dblp.org/rec/journals/ijccc/ZhangYZHLZ21"},
+"url":"URL#290512"
+},
+{
+"@score":"3",
+"@id":"680430",
+"info":{"authors":{"author":[{"@pid":"18/10950","text":"Xianghui Yuan"},{"@pid":"98/609","text":"Jin Yuan"},{"@pid":"258/5587","text":"Tianzhao Jiang"},{"@pid":"235/0584","text":"Qurat Ul Ain"}]},"title":"Integrated Long-Term Stock Selection Models Based on Feature Selection and Machine Learning Algorithms for China Stock Market.","venue":"IEEE Access","volume":"8","pages":"22672-22685","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/YuanYJA20","doi":"10.1109/ACCESS.2020.2969293","ee":"https://doi.org/10.1109/ACCESS.2020.2969293","url":"https://dblp.org/rec/journals/access/YuanYJA20"},
+"url":"URL#680430"
+},
+{
+"@score":"3",
+"@id":"1050165",
+"info":{"authors":{"author":[{"@pid":"200/0085","text":"Sudhir Sornapudi"},{"@pid":"51/2383","text":"R. Joe Stanley"},{"@pid":"41/579","text":"William V. Stoecker"},{"@pid":"69/3663","text":"L. Rodney Long"},{"@pid":"64/4801","text":"Zhiyun Xue"},{"@pid":"140/1474","text":"Rosemary Zuna"},{"@pid":"191/6787","text":"Shelliane R. Frazier"},{"@pid":"01/1603","text":"Sameer K. Antani"}]},"title":"Feature based Sequential Classifier with Attention Mechanism.","venue":"CoRR","volume":"abs/2007.11392","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2007-11392","ee":"https://arxiv.org/abs/2007.11392","url":"https://dblp.org/rec/journals/corr/abs-2007-11392"},
+"url":"URL#1050165"
+},
+{
+"@score":"3",
+"@id":"1156100",
+"info":{"authors":{"author":[{"@pid":"206/9570","text":"Haidar A. Almubarak"},{"@pid":"51/2383","text":"R. Joe Stanley"},{"@pid":"33/86","text":"Peng Guo"},{"@pid":"69/3663","text":"L. Rodney Long"},{"@pid":"01/1603","text":"Sameer K. Antani"},{"@pid":"t/GeorgeRThoma","text":"George R. Thoma"},{"@pid":"140/1474","text":"Rosemary Zuna"},{"@pid":"191/6787","text":"Shelliane R. Frazier"},{"@pid":"41/579","text":"William V. Stoecker"}]},"title":"A Hybrid Deep Learning and Handcrafted Feature Approach for Cervical Cancer Digital Histology Image Classification.","venue":"Int. J. Heal. Inf. Syst. Informatics","volume":"14","number":"2","pages":"66-87","year":"2019","type":"Journal Articles","access":"closed","key":"journals/ijhisi/AlmubarakSGLATZ19","doi":"10.4018/IJHISI.2019040105","ee":"https://doi.org/10.4018/IJHISI.2019040105","url":"https://dblp.org/rec/journals/ijhisi/AlmubarakSGLATZ19"},
+"url":"URL#1156100"
+},
+{
+"@score":"3",
+"@id":"1900574",
+"info":{"authors":{"author":[{"@pid":"158/1590","text":"Hakan Gündüz"},{"@pid":"69/6322","text":"Zehra Çataltepe"},{"@pid":"47/5558","text":"Yusuf Yaslan"}]},"title":"Stock daily return prediction using expanded features and feature selection.","venue":"Turkish J. Electr. Eng. Comput. Sci.","volume":"25","pages":"4829-4840","year":"2017","type":"Journal Articles","access":"open","key":"journals/elektrik/GunduzCY17","doi":"10.3906/ELK-1704-256","ee":"https://doi.org/10.3906/elk-1704-256","url":"https://dblp.org/rec/journals/elektrik/GunduzCY17"},
+"url":"URL#1900574"
+},
+{
+"@score":"3",
+"@id":"2152699",
+"info":{"authors":{"author":[{"@pid":"33/86","text":"Peng Guo"},{"@pid":"13/672","text":"Ronald J. Stanley"},{"@pid":"196/5869","text":"Justin G. Cole"},{"@pid":"41/11525","text":"Jason R. Hagerty"},{"@pid":"41/579","text":"William V. Stoecker"}]},"title":"Color Feature-based Pillbox Image Color Recognition.","venue":"VISIGRAPP","pages":"188-194","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/visapp/GuoSCHS17","doi":"10.5220/0006136001880194","ee":"https://doi.org/10.5220/0006136001880194","url":"https://dblp.org/rec/conf/visapp/GuoSCHS17"},
+"url":"URL#2152699"
+},
+{
+"@score":"3",
+"@id":"2310886",
+"info":{"authors":{"author":[{"@pid":"33/86","text":"Peng Guo"},{"@pid":"191/6780","text":"Koyel Banerjee"},{"@pid":"51/2383","text":"R. Joe Stanley"},{"@pid":"69/3663","text":"L. Rodney Long"},{"@pid":"01/1603","text":"Sameer K. Antani"},{"@pid":"t/GeorgeRThoma","text":"George R. Thoma"},{"@pid":"140/1474","text":"Rosemary Zuna"},{"@pid":"191/6787","text":"Shelliane R. Frazier"},{"@pid":"94/670","text":"Randy H. Moss"},{"@pid":"41/579","text":"William V. Stoecker"}]},"title":"Nuclei-Based Features for Uterine Cervical Cancer Histology Image Analysis With Fusion-Based Classification.","venue":"IEEE J. Biomed. Health Informatics","volume":"20","number":"6","pages":"1595-1607","year":"2016","type":"Journal Articles","access":"closed","key":"journals/titb/GuoBSLATZFMS16","doi":"10.1109/JBHI.2015.2483318","ee":"https://doi.org/10.1109/JBHI.2015.2483318","url":"https://dblp.org/rec/journals/titb/GuoBSLATZFMS16"},
+"url":"URL#2310886"
+},
+{
+"@score":"3",
+"@id":"2545369",
+"info":{"authors":{"author":[{"@pid":"153/6820","text":"Sujan Chowdhury"},{"@pid":"32/6785","text":"Brijesh K. Verma"},{"@pid":"25/234","text":"David R. Stockwell"}]},"title":"A novel texture feature based multiple classifier technique for roadside vegetation classification.","venue":"Expert Syst. Appl.","volume":"42","number":"12","pages":"5047-5055","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eswa/ChowdhuryVS15","doi":"10.1016/J.ESWA.2015.02.047","ee":"https://doi.org/10.1016/j.eswa.2015.02.047","url":"https://dblp.org/rec/journals/eswa/ChowdhuryVS15"},
+"url":"URL#2545369"
+},
+{
+"@score":"3",
+"@id":"3348699",
+"info":{"authors":{"author":[{"@pid":"132/2279","text":"Kaushik V. S. N. Ghantasala"},{"@pid":"61/9160","text":"Raeed H. Chowdhury"},{"@pid":"132/2322","text":"Uday Guntupalli"},{"@pid":"41/11525","text":"Jason R. Hagerty"},{"@pid":"94/670","text":"Randy H. Moss"},{"@pid":"123/3948","text":"Ryan K. Rader"},{"@pid":"41/579","text":"William V. Stoecker"}]},"title":"The Median Split Algorithm for Detection of Critical Melanoma Color Features.","venue":"VISAPP","pages":"492-495","year":"2013","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/visapp/GhantasalaCGHMRS13","url":"https://dblp.org/rec/conf/visapp/GhantasalaCGHMRS13"},
+"url":"URL#3348699"
+},
+{
+"@score":"3",
+"@id":"3658776",
+"info":{"authors":{"author":[{"@pid":"41/579","text":"William V. Stoecker"},{"@pid":"18/9161","text":"Mark Wronkiewiecz"},{"@pid":"61/9160","text":"Raeed H. Chowdhury"},{"@pid":"51/2383","text":"R. Joe Stanley"},{"@pid":"97/3265","text":"Jin Xu"},{"@pid":"39/9160","text":"Austin Bangert"},{"@pid":"87/9160","text":"Bijaya Shrestha"},{"@pid":"48/9160","text":"David A. Calcara"},{"@pid":"32/8577","text":"Harold S. Rabinovitz"},{"@pid":"82/9160","text":"Margaret Oliviero"},{"@pid":"13/9161","text":"Fatimah Ahmed"},{"@pid":"06/9161","text":"Lindall A. Perry"},{"@pid":"64/9160","text":"Rhett Drugge"}]},"title":"Detection of granularity in dermoscopy images of malignant melanoma using color and texture features.","venue":"Comput. Medical Imaging Graph.","volume":"35","number":"2","pages":"144-147","year":"2011","type":"Journal Articles","access":"closed","key":"journals/cmig/StoeckerWCSXBSCROAPD11","doi":"10.1016/J.COMPMEDIMAG.2010.09.005","ee":"https://doi.org/10.1016/j.compmedimag.2010.09.005","url":"https://dblp.org/rec/journals/cmig/StoeckerWCSXBSCROAPD11"},
+"url":"URL#3658776"
+},
+{
+"@score":"3",
+"@id":"3789255",
+"info":{"authors":{"author":[{"@pid":"94/10497","text":"Michael Hagenau"},{"@pid":"58/11055","text":"Michael Liebmann"},{"@pid":"90/1401","text":"Dirk Neumann 0001"}]},"title":"Impact of Feature Selection and Feature Types on Financial Stock Price Prediction.","venue":"KDIR","pages":"303-308","year":"2011","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/ic3k/HagenauLN11","url":"https://dblp.org/rec/conf/ic3k/HagenauLN11"},
+"url":"URL#3789255"
+},
+{
+"@score":"3",
+"@id":"3918797",
+"info":{"authors":{"author":[{"@pid":"25/4346","text":"Kristin M. Stock"},{"@pid":"73/7584","text":"Rob Atkinson"},{"@pid":"53/5364","text":"Chris Higgins"},{"@pid":"97/8651","text":"Mark Small"},{"@pid":"w/AndrewWoolf","text":"Andrew Woolf"},{"@pid":"63/8651","text":"Keiran Millard"},{"@pid":"10/8652","text":"David Arctur"}]},"title":"A semantic registry using a Feature Type Catalogue instead of ontologies to support spatial data infrastructures.","venue":"Int. J. Geogr. Inf. Sci.","volume":"24","number":"2","pages":"231-252","year":"2010","type":"Journal Articles","access":"closed","key":"journals/gis/StockAHSWMA10","doi":"10.1080/13658810802570291","ee":"https://doi.org/10.1080/13658810802570291","url":"https://dblp.org/rec/journals/gis/StockAHSWMA10"},
+"url":"URL#3918797"
+},
+{
+"@score":"3",
+"@id":"4133047",
+"info":{"authors":{"author":[{"@pid":"85/9161","text":"Azmath Khan"},{"@pid":"69/3748","text":"Kapil Gupta"},{"@pid":"51/2383","text":"R. Joe Stanley"},{"@pid":"41/579","text":"William V. Stoecker"},{"@pid":"94/670","text":"Randy H. Moss"},{"@pid":"45/8575","text":"Giuseppe Argenziano"},{"@pid":"99/8575","text":"H. Peter Soyer"},{"@pid":"32/8577","text":"Harold S. Rabinovitz"},{"@pid":"46/3801","text":"Armand B. Cognetta Jr."}]},"title":"Fuzzy logic techniques for blotch feature evaluation in dermoscopy images.","venue":"Comput. Medical Imaging Graph.","volume":"33","number":"1","pages":"50-57","year":"2009","type":"Journal Articles","access":"closed","key":"journals/cmig/KhanGSSMASRC09","doi":"10.1016/J.COMPMEDIMAG.2008.10.001","ee":"https://doi.org/10.1016/j.compmedimag.2008.10.001","url":"https://dblp.org/rec/journals/cmig/KhanGSSMASRC09"},
+"url":"URL#4133047"
+},
+{
+"@score":"3",
+"@id":"4574539",
+"info":{"authors":{"author":[{"@pid":"63/8651","text":"Keiran Millard"},{"@pid":"73/7584","text":"Rob Atkinson"},{"@pid":"w/AndrewWoolf","text":"Andrew Woolf"},{"@pid":"25/4346","text":"Kristin Stock"},{"@pid":"40/5275","text":"Roger A. Longhorn"},{"@pid":"53/5364","text":"Chris Higgins"},{"@pid":"97/8651","text":"Mark Small"},{"@pid":"170/7133","text":"Sander Hulst"},{"@pid":"79/9734","text":"Torill Hamre"},{"@pid":"22/3274","text":"Maria Ferreira"},{"@pid":"170/6950","text":"Irene Lucius"},{"@pid":"170/7090","text":"Peter Breger"},{"@pid":"126/7324","text":"John Pepper"},{"@pid":"170/7182","text":"Dominic Lowe"},{"@pid":"170/7020","text":"Quillon Harphen"},{"@pid":"53/961","text":"Stephen Wells"}]},"title":"Developing Feature Types and Related Catalogues for the Marine Community - Lessons from the MOTIIVE project.","venue":"Int. J. Spatial Data Infrastructures Res.","volume":"2","pages":"132-162","year":"2007","type":"Journal Articles","access":"open","key":"journals/ijsdir/MillardAWSLHSHH07","ee":"https://ijsdir.sadl.kuleuven.be/index.php/ijsdir/article/view/31","url":"https://dblp.org/rec/journals/ijsdir/MillardAWSLHSHH07"},
+"url":"URL#4574539"
+},
+{
+"@score":"2",
+"@id":"504",
+"info":{"authors":{"author":{"@pid":"234/6064","text":"Sofia Broomé"}},"title":"Learning Spatiotemporal Features in Low-Data and Fine-Grained Action Recognition with an Application to Equine Pain Behavior.","year":"2022","type":"Books and Theses","access":"closed","key":"phd/basesearch/Broome22","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-314125","url":"https://dblp.org/rec/phd/basesearch/Broome22"},
+"url":"URL#504"
+},
+{
+"@score":"2",
+"@id":"1857",
+"info":{"authors":{"author":[{"@pid":"317/3287","text":"Zýnnet Duygu Akþehýr"},{"@pid":"20/1716","text":"Erdal Kiliç"}]},"title":"How to Handle Data Imbalance and Feature Selection Problems in CNN-Based Stock Price Forecasting.","venue":"IEEE Access","volume":"10","pages":"31297-31305","year":"2022","type":"Journal Articles","access":"open","key":"journals/access/AkthehyrK22","doi":"10.1109/ACCESS.2022.3160797","ee":"https://doi.org/10.1109/ACCESS.2022.3160797","url":"https://dblp.org/rec/journals/access/AkthehyrK22"},
+"url":"URL#1857"
+},
+{
+"@score":"2",
+"@id":"10960",
+"info":{"authors":{"author":[{"@pid":"37/2862","text":"Xuerui Wang"},{"@pid":"87/9032","text":"Xiangyu Li"},{"@pid":"221/2198","text":"Shaoting Li"}]},"title":"A novel stock indices hybrid forecasting system based on features extraction and multi-objective optimizer.","venue":"Appl. Intell.","volume":"52","number":"10","pages":"11784-11807","year":"2022","type":"Journal Articles","access":"closed","key":"journals/apin/WangLL22a","doi":"10.1007/S10489-021-03031-9","ee":"https://doi.org/10.1007/s10489-021-03031-9","url":"https://dblp.org/rec/journals/apin/WangLL22a"},
+"url":"URL#10960"
+},
+{
+"@score":"2",
+"@id":"33552",
+"info":{"authors":{"author":[{"@pid":"78/6595","text":"Gang Ji"},{"@pid":"147/9258","text":"Jingmin Yu"},{"@pid":"57/6633-5","text":"Kai Hu 0005"},{"@pid":"56/9489","text":"Jie Xie"},{"@pid":"307/3723","text":"Xunsheng Ji"}]},"title":"An adaptive feature selection schema using improved technical indicators for predicting stock price movements.","venue":"Expert Syst. Appl.","volume":"200","pages":"116941","year":"2022","type":"Journal Articles","access":"closed","key":"journals/eswa/JiYHXJ22","doi":"10.1016/J.ESWA.2022.116941","ee":"https://doi.org/10.1016/j.eswa.2022.116941","url":"https://dblp.org/rec/journals/eswa/JiYHXJ22"},
+"url":"URL#33552"
+},
+{
+"@score":"2",
+"@id":"44031",
+"info":{"authors":{"author":[{"@pid":"276/8030","text":"Sashank Sridhar"},{"@pid":"284/4152","text":"Siddartha Mootha"}]},"title":"Stock market manipulation detection using feature modelling with hybrid recurrent neural networks.","venue":"Int. J. Netw. Virtual Organisations","volume":"26","number":"1/2","pages":"47-79","year":"2022","type":"Journal Articles","access":"closed","key":"journals/ijnvo/SridharM22","doi":"10.1504/IJNVO.2022.121864","ee":"https://doi.org/10.1504/IJNVO.2022.121864","url":"https://dblp.org/rec/journals/ijnvo/SridharM22"},
+"url":"URL#44031"
+},
+{
+"@score":"2",
+"@id":"46469",
+"info":{"authors":{"author":[{"@pid":"274/4118","text":"Kaniska Samanta"},{"@pid":"236/4762-1","text":"Soumya Chatterjee 0001"},{"@pid":"231/3361","text":"Rohit Bose"}]},"title":"Neuromuscular disease detection based on feature extraction from time-frequency images of EMG signals employing robust hyperbolic Stockwell transform.","venue":"Int. J. Imaging Syst. Technol.","volume":"32","number":"4","pages":"1251-1262","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imst/SamantaCB22","doi":"10.1002/IMA.22709","ee":"https://doi.org/10.1002/ima.22709","url":"https://dblp.org/rec/journals/imst/SamantaCB22"},
+"url":"URL#46469"
+},
+{
+"@score":"2",
+"@id":"89765",
+"info":{"authors":{"author":[{"@pid":"31/5395","text":"Xiaoning Li"},{"@pid":"231/8667","text":"Qiancheng Yu"},{"@pid":"71/7642","text":"Chen Tang"},{"@pid":"326/1058","text":"Zekun Lu"},{"@pid":"147/1628","text":"Yufan Yang"}]},"title":"Application of Feature Selection Based on Multilayer GA in Stock Prediction.","venue":"Symmetry","volume":"14","number":"7","pages":"1415","year":"2022","type":"Journal Articles","access":"open","key":"journals/symmetry/LiYTLY22","doi":"10.3390/SYM14071415","ee":"https://doi.org/10.3390/sym14071415","url":"https://dblp.org/rec/journals/symmetry/LiYTLY22"},
+"url":"URL#89765"
+},
+{
+"@score":"2",
+"@id":"224622",
+"info":{"authors":{"author":{"@pid":"274/0030","text":"Saud S. Alotaibi"}},"title":"Ensemble Technique With Optimal Feature Selection for Saudi Stock Market Prediction: A Novel Hybrid Red Deer-Grey Algorithm.","venue":"IEEE Access","volume":"9","pages":"64929-64944","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/Alotaibi21","doi":"10.1109/ACCESS.2021.3073507","ee":"https://doi.org/10.1109/ACCESS.2021.3073507","url":"https://dblp.org/rec/journals/access/Alotaibi21"},
+"url":"URL#224622"
+},
+{
+"@score":"2",
+"@id":"225822",
+"info":{"authors":{"author":[{"@pid":"283/5491","text":"Shile Chen"},{"@pid":"76/5367","text":"Changjun Zhou"}]},"title":"Stock Prediction Based on Genetic Algorithm Feature Selection and Long Short-Term Memory Neural Network.","venue":"IEEE Access","volume":"9","pages":"9066-9072","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/ChenZ21","doi":"10.1109/ACCESS.2020.3047109","ee":"https://doi.org/10.1109/ACCESS.2020.3047109","url":"https://dblp.org/rec/journals/access/ChenZ21"},
+"url":"URL#225822"
+},
+{
+"@score":"2",
+"@id":"226423",
+"info":{"authors":{"author":[{"@pid":"207/4078","text":"Pawel Drozdowski"},{"@pid":"266/9497","text":"Fabian Stockhardt"},{"@pid":"78/3731","text":"Christian Rathgeb"},{"@pid":"195/0877","text":"Dailé Osorio Roig"},{"@pid":"49/6273","text":"Christoph Busch 0001"}]},"title":"Feature Fusion Methods for Indexing and Retrieval of Biometric Data: Application to Face Recognition With Privacy Protection.","venue":"IEEE Access","volume":"9","pages":"139361-139378","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/DrozdowskiSRRB21","doi":"10.1109/ACCESS.2021.3118830","ee":"https://doi.org/10.1109/ACCESS.2021.3118830","url":"https://dblp.org/rec/journals/access/DrozdowskiSRRB21"},
+"url":"URL#226423"
+},
+{
+"@score":"2",
+"@id":"230050",
+"info":{"authors":{"author":[{"@pid":"161/4426","text":"Yaohu Lin"},{"@pid":"02/7650","text":"Shancun Liu"},{"@pid":"68/854","text":"Haijun Yang"},{"@pid":"64/2928","text":"Harris Wu"}]},"title":"Stock Trend Prediction Using Candlestick Charting and Ensemble Machine Learning Techniques With a Novelty Feature Engineering Scheme.","venue":"IEEE Access","volume":"9","pages":"101433-101446","year":"2021","type":"Journal Articles","access":"open","key":"journals/access/LinLYW21","doi":"10.1109/ACCESS.2021.3096825","ee":"https://doi.org/10.1109/ACCESS.2021.3096825","url":"https://dblp.org/rec/journals/access/LinLYW21"},
+"url":"URL#230050"
+},
+{
+"@score":"2",
+"@id":"256894",
+"info":{"authors":{"author":[{"@pid":"254/7232","text":"Dattatray P. Gandhmal"},{"@pid":"168/6833","text":"Kumar Kannan"}]},"title":"Wrapper-Enabled Feature Selection and CPLM-Based NARX Model for Stock Market Prediction.","venue":"Comput. J.","volume":"64","number":"2","pages":"169-184","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cj/GandhmalK21","doi":"10.1093/COMJNL/BXAA099","ee":"https://doi.org/10.1093/comjnl/bxaa099","url":"https://dblp.org/rec/journals/cj/GandhmalK21"},
+"url":"URL#256894"
+},
+{
+"@score":"2",
+"@id":"263739",
+"info":{"authors":{"author":[{"@pid":"276/8465","text":"Dragana Radojicic"},{"@pid":"177/7200","text":"Nina Radojicic"},{"@pid":"276/7885","text":"Simeon Kredatus"}]},"title":"A multicriteria optimization approach for the stock market feature selection.","venue":"Comput. Sci. Inf. Syst.","volume":"18","number":"3","pages":"749-769","year":"2021","type":"Journal Articles","access":"open","key":"journals/comsis/RadojicicRK21","doi":"10.2298/CSIS200326044R","ee":"https://doi.org/10.2298/csis200326044r","url":"https://dblp.org/rec/journals/comsis/RadojicicRK21"},
+"url":"URL#263739"
+},
+{
+"@score":"2",
+"@id":"264394",
+"info":{"authors":{"author":[{"@pid":"40/6717","text":"Li Xie"},{"@pid":"181/2830","text":"Sheng Yu"}]},"title":"Unsupervised feature extraction with convolutional autoencoder with application to daily stock market prediction.","venue":"Concurr. Comput. Pract. Exp.","volume":"33","number":"16","year":"2021","type":"Journal Articles","access":"closed","key":"journals/concurrency/XieY21","doi":"10.1002/CPE.6282","ee":"https://doi.org/10.1002/cpe.6282","url":"https://dblp.org/rec/journals/concurrency/XieY21"},
+"url":"URL#264394"
+},
+{
+"@score":"2",
+"@id":"274157",
+"info":{"authors":{"author":[{"@pid":"86/4628","text":"Yi Fu"},{"@pid":"291/0966","text":"Bingwen Li"},{"@pid":"122/8127","text":"Jinshi Zhao"},{"@pid":"291/0368","text":"Qianwen Bi"}]},"title":"Research on the Prediction of A-Share &quot;High Stock Dividend&quot; Phenomenon - A Feature Adaptive Improved Multi-Layers Ensemble Model.","venue":"Entropy","volume":"23","number":"4","pages":"416","year":"2021","type":"Journal Articles","access":"open","key":"journals/entropy/FuLZB21","doi":"10.3390/E23040416","ee":"https://doi.org/10.3390/e23040416","url":"https://dblp.org/rec/journals/entropy/FuLZB21"},
+"url":"URL#274157"
+},
+{
+"@score":"2",
+"@id":"277475",
+"info":{"authors":{"author":[{"@pid":"174/0778","text":"Anwar Ul Haq"},{"@pid":"202/3822","text":"Adnan Zeb"},{"@pid":"195/2233","text":"Zhenfeng Lei"},{"@pid":"93/5881","text":"Defu Zhang"}]},"title":"Forecasting daily stock trend using multi-filter feature selection and deep learning.","venue":"Expert Syst. Appl.","volume":"168","pages":"114444","year":"2021","type":"Journal Articles","access":"closed","key":"journals/eswa/HaqZLZ21","doi":"10.1016/J.ESWA.2020.114444","ee":"https://doi.org/10.1016/j.eswa.2020.114444","url":"https://dblp.org/rec/journals/eswa/HaqZLZ21"},
+"url":"URL#277475"
+},
+{
+"@score":"2",
+"@id":"278421",
+"info":{"authors":{"author":[{"@pid":"304/7671","text":"Kyung Keun Yun"},{"@pid":"47/7415","text":"Sang Won Yoon"},{"@pid":"121/1350","text":"Daehan Won"}]},"title":"Prediction of stock price direction using a hybrid GA-XGBoost algorithm with a three-stage feature engineering process.","venue":"Expert Syst. Appl.","volume":"186","pages":"115716","year":"2021","type":"Journal Articles","access":"closed","key":"journals/eswa/YunYW21","doi":"10.1016/J.ESWA.2021.115716","ee":"https://doi.org/10.1016/j.eswa.2021.115716","url":"https://dblp.org/rec/journals/eswa/YunYW21"},
+"url":"URL#278421"
+},
+{
+"@score":"2",
+"@id":"307200",
+"info":{"authors":{"author":[{"@pid":"c/WeiChen-61","text":"Wei Chen 0061"},{"@pid":"262/7404","text":"Manrui Jiang"},{"@pid":"33/301","text":"Wei-Guo Zhang"},{"@pid":"160/5999-1","text":"Zhensong Chen 0001"}]},"title":"A novel graph convolutional feature based convolutional neural network for stock trend prediction.","venue":"Inf. Sci.","volume":"556","pages":"67-94","year":"2021","type":"Journal Articles","access":"closed","key":"journals/isci/ChenJZ021","doi":"10.1016/J.INS.2020.12.068","ee":"https://doi.org/10.1016/j.ins.2020.12.068","url":"https://dblp.org/rec/journals/isci/ChenJZ021"},
+"url":"URL#307200"
+},
+{
+"@score":"2",
+"@id":"336108",
+"info":{"authors":{"author":[{"@pid":"216/9160","text":"Sina Dami"},{"@pid":"293/4842","text":"Mohammad Esterabi"}]},"title":"Predicting stock returns of Tehran exchange using LSTM neural network and feature engineering technique.","venue":"Multim. Tools Appl.","volume":"80","number":"13","pages":"19947-19970","year":"2021","type":"Journal Articles","access":"closed","key":"journals/mta/DamiE21","doi":"10.1007/S11042-021-10778-3","ee":"https://doi.org/10.1007/s11042-021-10778-3","url":"https://dblp.org/rec/journals/mta/DamiE21"},
+"url":"URL#336108"
+},
+{
+"@score":"2",
+"@id":"374577",
+"info":{"authors":{"author":[{"@pid":"187/9392","text":"Yezhen Liu"},{"@pid":"303/5647","text":"Xilong Yu"},{"@pid":"67/3525","text":"Yanhua Wu"},{"@pid":"303/5537","text":"Shuhong Song"}]},"title":"Forecasting Variation Trends of Stocks via Multiscale Feature Fusion and Long Short-Term Memory Learning.","venue":"Sci. Program.","volume":"2021","pages":"5113151:1-5113151:9","year":"2021","type":"Journal Articles","access":"open","key":"journals/sp/LiuYWS21","doi":"10.1155/2021/5113151","ee":"https://doi.org/10.1155/2021/5113151","url":"https://dblp.org/rec/journals/sp/LiuYWS21"},
+"url":"URL#374577"
+},
+{
+"@score":"2",
+"@id":"381897",
+"info":{"authors":{"author":[{"@pid":"193/7989","text":"Weihao Zheng"},{"@pid":"301/3542","text":"Tehila Eilam-Stock"},{"@pid":"20/815-2","text":"Tingting Wu 0002"},{"@pid":"180/9357","text":"Alfredo Spagna"},{"@pid":"66/3019-12","text":"Chao Chen 0012"},{"@pid":"00/6381-1","text":"Bin Hu 0001"},{"@pid":"47/1484","text":"Jin Fan"}]},"title":"Multi-Feature Based Network Revealing the Structural Abnormalities in Autism Spectrum Disorder.","venue":"IEEE Trans. Affect. Comput.","volume":"12","number":"3","pages":"732-742","year":"2021","type":"Journal Articles","access":"closed","key":"journals/taffco/ZhengEWS00F21","doi":"10.1109/TAFFC.2018.2890597","ee":"https://doi.org/10.1109/TAFFC.2018.2890597","url":"https://dblp.org/rec/journals/taffco/ZhengEWS00F21"},
+"url":"URL#381897"
+},
+{
+"@score":"2",
+"@id":"490199",
+"info":{"authors":{"author":[{"@pid":"178/5629","text":"Hanchao Li"},{"@pid":"38/9128","text":"Xiang Fei"},{"@pid":"98/2604-31","text":"Ming Yang 0031"},{"@pid":"76/2687","text":"Kuo-Ming Chao"},{"@pid":"126/8012","text":"Chaobo He"}]},"title":"From Music Information Retrieval to Stock Market Analysis: Theoretical Discussion on Feature Extraction Transfer.","venue":"ICEBE","pages":"54-58","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icebe/LiFYCH21","doi":"10.1109/ICEBE52470.2021.00027","ee":"https://doi.org/10.1109/ICEBE52470.2021.00027","url":"https://dblp.org/rec/conf/icebe/LiFYCH21"},
+"url":"URL#490199"
+},
+{
+"@score":"2",
+"@id":"504671",
+"info":{"authors":{"author":[{"@pid":"226/3517","text":"Zhenda Hu"},{"@pid":"94/37","text":"Zhaoxia Wang"},{"@pid":"93/9382","text":"Seng-Beng Ho"},{"@pid":"38/3641","text":"Ah-Hwee Tan"}]},"title":"Stock Market Trend Forecasting Based on Multiple Textual Features: A Deep Learning Method.","venue":"ICTAI","pages":"1002-1007","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictai/HuWHT21","doi":"10.1109/ICTAI52525.2021.00160","ee":"https://doi.org/10.1109/ICTAI52525.2021.00160","url":"https://dblp.org/rec/conf/ictai/HuWHT21"},
+"url":"URL#504671"
+},
+{
+"@score":"2",
+"@id":"513347",
+"info":{"authors":{"author":[{"@pid":"96/893-4","text":"Suman Saha 0004"},{"@pid":"30/3983","text":"Junbin Gao"},{"@pid":"24/1450","text":"Richard Gerlach"}]},"title":"Stock Movement Prediction on Ex-Dividend Day Using Event Specific Features and Machine Learning Techniques.","venue":"IJCNN","pages":"1-10","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/SahaGG21","doi":"10.1109/IJCNN52387.2021.9533799","ee":"https://doi.org/10.1109/IJCNN52387.2021.9533799","url":"https://dblp.org/rec/conf/ijcnn/SahaGG21"},
+"url":"URL#513347"
+},
+{
+"@score":"2",
+"@id":"537980",
+"info":{"authors":{"author":[{"@pid":"297/4314","text":"Aristotle Tan"},{"@pid":"36/11296","text":"Hui-Ngo Goh"},{"@pid":"04/8109","text":"Lai-Kuan Wong"}]},"title":"Acquiring Input Features from Stock Market Summaries: A NLG Perspective.","venue":"MIWAI","pages":"81-93","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miwai/TanGW21","doi":"10.1007/978-3-030-80253-0_8","ee":"https://doi.org/10.1007/978-3-030-80253-0_8","url":"https://dblp.org/rec/conf/miwai/TanGW21"},
+"url":"URL#537980"
+},
+{
+"@score":"2",
+"@id":"561361",
+"info":{"authors":{"author":[{"@pid":"298/9181","text":"Shanyan Lai"},{"@pid":"27/3203","text":"Chunyang Ye"},{"@pid":"05/11437","text":"Hongyu Jiang"},{"@pid":"55/1832","text":"Hui Zhou"}]},"title":"Chinese stock trend prediction based on multi-feature learning and model fusion.","venue":"SMDS","pages":"18-23","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/smds/LaiYJZ21","doi":"10.1109/SMDS53860.2021.00013","ee":"https://doi.org/10.1109/SMDS53860.2021.00013","url":"https://dblp.org/rec/conf/smds/LaiYJZ21"},
+"url":"URL#561361"
+},
+{
+"@score":"2",
+"@id":"594502",
+"info":{"authors":{"author":[{"@pid":"118/6970","text":"Jaideep Singh"},{"@pid":"212/0065","text":"Matloob Khushi"}]},"title":"Feature Learning for Stock Price Prediction Shows a Significant Role of Analyst Rating.","venue":"CoRR","volume":"abs/2103.09106","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2103-09106","ee":"https://arxiv.org/abs/2103.09106","url":"https://dblp.org/rec/journals/corr/abs-2103-09106"},
+"url":"URL#594502"
+},
+{
+"@score":"2",
+"@id":"623998",
+"info":{"authors":{"author":[{"@pid":"207/4078","text":"Pawel Drozdowski"},{"@pid":"266/9497","text":"Fabian Stockhardt"},{"@pid":"78/3731","text":"Christian Rathgeb"},{"@pid":"195/0877","text":"Dailé Osorio Roig"},{"@pid":"49/6273","text":"Christoph Busch 0001"}]},"title":"Feature Fusion Methods for Indexing and Retrieval of Biometric Data: Application to Face Recognition with Privacy Protection.","venue":"CoRR","volume":"abs/2107.12675","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2107-12675","ee":"https://arxiv.org/abs/2107.12675","url":"https://dblp.org/rec/journals/corr/abs-2107-12675"},
+"url":"URL#623998"
+},
+{
+"@score":"2",
+"@id":"624186",
+"info":{"authors":{"author":[{"@pid":"298/0558","text":"A. K. M. Amanat Ullah"},{"@pid":"298/0727","text":"Fahim Imtiaz"},{"@pid":"298/0569","text":"Miftah Uddin Md Ihsan"},{"@pid":"00/10963","text":"Md. Golam Rabiul Alam"},{"@pid":"87/3250","text":"Mahbub Majumdar"}]},"title":"Combining Machine Learning Classifiers for Stock Trading with Effective Feature Extraction.","venue":"CoRR","volume":"abs/2107.13148","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2107-13148","ee":"https://arxiv.org/abs/2107.13148","url":"https://dblp.org/rec/journals/corr/abs-2107-13148"},
+"url":"URL#624186"
+},
+{
+"@score":"2",
+"@id":"665730",
+"info":{"authors":{"author":[{"@pid":"32/1047","text":"Salah Bouktif"},{"@pid":"260/3796","text":"Ali Fiaz"},{"@pid":"118/6134","text":"Mamoun Awad"}]},"title":"Augmented Textual Features-Based Stock Market Prediction.","venue":"IEEE Access","volume":"8","pages":"40269-40282","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/BouktifFA20","doi":"10.1109/ACCESS.2020.2976725","ee":"https://doi.org/10.1109/ACCESS.2020.2976725","url":"https://dblp.org/rec/journals/access/BouktifFA20"},
+"url":"URL#665730"
+},
+{
+"@score":"2",
+"@id":"674664",
+"info":{"authors":{"author":[{"@pid":"268/2418","text":"Edgar P. Torres P."},{"@pid":"268/2398","text":"Edgar A. Torres Hernández"},{"@pid":"268/2480","text":"Myriam Hernández Álvarez"},{"@pid":"75/9011","text":"Sang Guun Yoo"}]},"title":"Emotion Recognition Related to Stock Trading Using Machine Learning Algorithms With Feature Selection.","venue":"IEEE Access","volume":"8","pages":"199719-199732","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/PHAY20","doi":"10.1109/ACCESS.2020.3035539","ee":"https://doi.org/10.1109/ACCESS.2020.3035539","url":"https://dblp.org/rec/journals/access/PHAY20"},
+"url":"URL#674664"
+},
+{
+"@score":"2",
+"@id":"681947",
+"info":{"authors":{"author":[{"@pid":"248/3462","text":"Mengna Zhou"},{"@pid":"155/6728","text":"Jizheng Yi"},{"@pid":"257/1224","text":"Jieqiong Yang"},{"@pid":"248/3428","text":"Yi Sima"}]},"title":"Characteristic Representation of Stock Time Series Based on Trend Feature Points.","venue":"IEEE Access","volume":"8","pages":"97016-97031","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/ZhouYYS20","doi":"10.1109/ACCESS.2020.2995958","ee":"https://doi.org/10.1109/ACCESS.2020.2995958","url":"https://dblp.org/rec/journals/access/ZhouYYS20"},
+"url":"URL#681947"
+},
+{
+"@score":"2",
+"@id":"683744",
+"info":{"authors":{"author":[{"@pid":"210/5936","text":"Valentina Leone"},{"@pid":"12/5266","text":"Luigi Di Caro"},{"@pid":"84/5009","text":"Serena Villata"}]},"title":"Taking stock of legal ontologies: a feature-based comparative analysis.","venue":"Artif. Intell. Law","volume":"28","number":"2","pages":"207-235","year":"2020","type":"Journal Articles","access":"closed","key":"journals/ail/LeoneCV20","doi":"10.1007/S10506-019-09252-1","ee":"https://doi.org/10.1007/s10506-019-09252-1","url":"https://dblp.org/rec/journals/ail/LeoneCV20"},
+"url":"URL#683744"
+},
+{
+"@score":"2",
+"@id":"688683",
+"info":{"authors":{"author":[{"@pid":"162/5712","text":"Ankit Thakkar"},{"@pid":"240/5088","text":"Kinjal Chaudhari"}]},"title":"Predicting stock trend using an integrated term frequency-inverse document frequency-based feature weight matrix with neural networks.","venue":"Appl. Soft Comput.","volume":"96","pages":"106684","year":"2020","type":"Journal Articles","access":"closed","key":"journals/asc/ThakkarC20","doi":"10.1016/J.ASOC.2020.106684","ee":"https://doi.org/10.1016/j.asoc.2020.106684","url":"https://dblp.org/rec/journals/asc/ThakkarC20"},
+"url":"URL#688683"
+},
+{
+"@score":"2",
+"@id":"728011",
+"info":{"authors":{"author":[{"@pid":"248/1868","text":"A. Kavipriya"},{"@pid":"92/5476","text":"A. Muthukumar"}]},"title":"Innovative approach for multimodal fusion recognition based feature extraction using band-limited phase-only correlation and discrete orthonormal Stockwell transform.","venue":"IET Image Process.","volume":"14","number":"15","pages":"3669-3675","year":"2020","type":"Journal Articles","access":"closed","key":"journals/iet-ipr/KavipriyaM20","doi":"10.1049/IET-IPR.2020.0145","ee":"https://doi.org/10.1049/iet-ipr.2020.0145","url":"https://dblp.org/rec/journals/iet-ipr/KavipriyaM20"},
+"url":"URL#728011"
+},
+{
+"@score":"2",
+"@id":"744335",
+"info":{"authors":{"author":[{"@pid":"139/1228","text":"Zhiyan Zhao"},{"@pid":"98/4432","text":"Bin Wu"},{"@pid":"64/3395","text":"Ting Zhou"}]},"title":"Feature Analysis of Degradation Signal of Rolling Stock Lateral Damper.","venue":"Inf.","volume":"11","number":"6","pages":"298","year":"2020","type":"Journal Articles","access":"open","key":"journals/information/ZhaoWZ20","doi":"10.3390/INFO11060298","ee":"https://doi.org/10.3390/info11060298","url":"https://dblp.org/rec/journals/information/ZhaoWZ20"},
+"url":"URL#744335"
+},
+{
+"@score":"2",
+"@id":"899141",
+"info":{"authors":{"author":[{"@pid":"269/4814","text":"Dong-Hee Cho"},{"@pid":"34/4215","text":"Seung-Hyun Moon"},{"@pid":"05/6068","text":"Yong-Hyuk Kim"}]},"title":"A daily stock index predictor using feature selection based on a genetic wrapper.","venue":"GECCO Companion","pages":"31-32","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/ChoMK20","doi":"10.1145/3377929.3398154","ee":"https://doi.org/10.1145/3377929.3398154","url":"https://dblp.org/rec/conf/gecco/ChoMK20"},
+"url":"URL#899141"
+},
+{
+"@score":"2",
+"@id":"935400",
+"info":{"authors":{"author":[{"@pid":"260/4754","text":"Ji Sung Lee"},{"@pid":"218/3730","text":"Hyeon Sung Cho"},{"@pid":"12/1612","text":"Kyo-Il Chung"},{"@pid":"230/2690","text":"Ji Sang Park"}]},"title":"Feature Selection for Stock forecasting using Multivariate Convolution Neural Network.","venue":"ICTC","pages":"1270-1272","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/ictc/LeeCCP20","doi":"10.1109/ICTC49870.2020.9289492","ee":"https://doi.org/10.1109/ICTC49870.2020.9289492","url":"https://dblp.org/rec/conf/ictc/LeeCCP20"},
+"url":"URL#935400"
+},
+{
+"@score":"2",
+"@id":"980289",
+"info":{"authors":{"author":[{"@pid":"139/2369","text":"Peter Washington 0001"},{"@pid":"141/5089","text":"Kelley Marie Paskov"},{"@pid":"132/3814","text":"Haik Kalantarian"},{"@pid":"233/3994","text":"Nate Tyler Stockham"},{"@pid":"179/5273","text":"Catalin Voss"},{"@pid":"163/1428","text":"Aaron Kline"},{"@pid":"299/4260","text":"Ritik Patnaik"},{"@pid":"233/3659","text":"Brianna Sierra Chrisman"},{"@pid":"233/4077","text":"Maya Varma"},{"@pid":"250/2623","text":"Qandeel Tariq"},{"@pid":"281/6990","text":"Kaitlyn Dunlap"},{"@pid":"224/1227","text":"Jessey Schwartz"},{"@pid":"179/4983","text":"Nick Haber"},{"@pid":"67/2444","text":"Dennis P. Wall"}]},"title":"Feature Selection and Dimension Reduction of Social Autism Data.","venue":"PSB","pages":"707-718","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/psb/0001PKSVKPCVTDS20","ee":"https://psb.stanford.edu/psb-online/proceedings/psb20/Washington.pdf","url":"https://dblp.org/rec/conf/psb/0001PKSVKPCVTDS20"},
+"url":"URL#980289"
+},
+{
+"@score":"2",
+"@id":"1091656",
+"info":{"authors":{"author":[{"@pid":"251/6565","text":"Yingxuan Chen"},{"@pid":"53/282","text":"Weiwei Lin"},{"@pid":"w/JamesZijunWang","text":"James Z. Wang 0002"}]},"title":"A Dual-Attention-Based Stock Price Trend Prediction Model With Dual Features.","venue":"IEEE Access","volume":"7","pages":"148047-148058","year":"2019","type":"Journal Articles","access":"open","key":"journals/access/ChenLW19b","doi":"10.1109/ACCESS.2019.2946223","ee":"https://doi.org/10.1109/ACCESS.2019.2946223","url":"https://dblp.org/rec/journals/access/ChenLW19b"},
+"url":"URL#1091656"
+},
+{
+"@score":"2",
+"@id":"1110107",
+"info":{"authors":{"author":[{"@pid":"229/3308","text":"Yoojeong Song"},{"@pid":"85/4031","text":"Jae Won Lee"},{"@pid":"92/3440","text":"Jongwoo Lee"}]},"title":"A study on novel filtering and relationship between input-features and target-vectors in a deep learning model for stock price prediction.","venue":"Appl. Intell.","volume":"49","number":"3","pages":"897-911","year":"2019","type":"Journal Articles","access":"closed","key":"journals/apin/SongLL19","doi":"10.1007/S10489-018-1308-X","ee":"https://doi.org/10.1007/s10489-018-1308-x","url":"https://dblp.org/rec/journals/apin/SongLL19"},
+"url":"URL#1110107"
+},
+{
+"@score":"2",
+"@id":"1140835",
+"info":{"authors":{"author":[{"@pid":"251/9046","text":"Smruti Rekha Das"},{"@pid":"87/8011","text":"Debahuti Mishra"},{"@pid":"16/9323","text":"Minakhi Rout"}]},"title":"Stock market prediction using Firefly algorithm with evolutionary framework optimized feature reduction for OSELM method.","venue":"Expert Syst. Appl. X","volume":"4","pages":"100016","year":"2019","type":"Journal Articles","access":"open","key":"journals/eswax/DasMR19","doi":"10.1016/J.ESWAX.2019.100016","ee":"https://doi.org/10.1016/j.eswax.2019.100016","url":"https://dblp.org/rec/journals/eswax/DasMR19"},
+"url":"URL#1140835"
+},
+{
+"@score":"2",
+"@id":"1149347",
+"info":{"authors":{"author":[{"@pid":"190/3780","text":"V. Deepa"},{"@pid":"29/11496","text":"C. Sathish Kumar"},{"@pid":"243/4949","text":"Sheena Susan Andrews"}]},"title":"Automated detection of microaneurysms using Stockwell transform and statistical features.","venue":"IET Image Process.","volume":"13","number":"8","pages":"1341-1348","year":"2019","type":"Journal Articles","access":"closed","key":"journals/iet-ipr/DeepaKA19","doi":"10.1049/IET-IPR.2018.5672","ee":"https://doi.org/10.1049/iet-ipr.2018.5672","url":"https://dblp.org/rec/journals/iet-ipr/DeepaKA19"},
+"url":"URL#1149347"
+},
+{
+"@score":"2",
+"@id":"1161909",
+"info":{"authors":{"author":[{"@pid":"73/7741","text":"A. Revathi"},{"@pid":"220/1826","text":"N. Sasikaladevi"}]},"title":"Hearing impaired speech recognition: Stockwell features and models.","venue":"Int. J. Speech Technol.","volume":"22","number":"4","pages":"979-991","year":"2019","type":"Journal Articles","access":"closed","key":"journals/ijst/RevathiS19","doi":"10.1007/S10772-019-09644-3","ee":"https://doi.org/10.1007/s10772-019-09644-3","url":"https://dblp.org/rec/journals/ijst/RevathiS19"},
+"url":"URL#1161909"
+},
+{
+"@score":"2",
+"@id":"1187997",
+"info":{"authors":{"author":[{"@pid":"84/2005","text":"Wen Long"},{"@pid":"220/9968","text":"Zhichen Lu"},{"@pid":"193/4199","text":"Lingxiao Cui"}]},"title":"Deep learning-based feature engineering for stock price movement prediction.","venue":"Knowl. Based Syst.","volume":"164","pages":"163-173","year":"2019","type":"Journal Articles","access":"closed","key":"journals/kbs/LongLC19","doi":"10.1016/J.KNOSYS.2018.10.034","ee":"https://doi.org/10.1016/j.knosys.2018.10.034","url":"https://dblp.org/rec/journals/kbs/LongLC19"},
+"url":"URL#1187997"
+},
+{
+"@score":"2",
+"@id":"1215324",
+"info":{"authors":{"author":[{"@pid":"161/8340","text":"Haotian She"},{"@pid":"62/7320","text":"Jinying Zhu"},{"@pid":"32/5495-24","text":"Ye Tian 0024"},{"@pid":"58/5581","text":"Yanchao Wang"},{"@pid":"60/2885","text":"Hiroshi Yokoi"},{"@pid":"80/2732-2","text":"Qiang Huang 0002"}]},"title":"SEMG Feature Extraction Based on Stockwell Transform Improves Hand Movement Recognition Accuracy.","venue":"Sensors","volume":"19","number":"20","pages":"4457","year":"2019","type":"Journal Articles","access":"open","key":"journals/sensors/SheZTWYH19","doi":"10.3390/S19204457","ee":"https://doi.org/10.3390/s19204457","url":"https://dblp.org/rec/journals/sensors/SheZTWYH19"},
+"url":"URL#1215324"
+},
+{
+"@score":"2",
+"@id":"1258410",
+"info":{"authors":{"author":[{"@pid":"229/3308","text":"Yoojeong Song"},{"@pid":"92/3440","text":"Jongwoo Lee"}]},"title":"Design of stock price prediction model with various configuration of input features.","venue":"AIIPCC","pages":"3:1-3:5","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/aiipcc/SongL19","doi":"10.1145/3371425.3371432","ee":"https://doi.org/10.1145/3371425.3371432","url":"https://dblp.org/rec/conf/aiipcc/SongL19"},
+"url":"URL#1258410"
+},
+{
+"@score":"2",
+"@id":"1271053",
+"info":{"authors":{"author":[{"@pid":"253/7421","text":"David Suda"},{"@pid":"145/2259","text":"Luke Spiteri"}]},"title":"Comparing Market Phase Features for Cryptocurrency and Benchmark Stock Index Using HMM and HSMM Filtering.","venue":"BIS","pages":"195-207","year":"2019","type":"Conference and Workshop Papers","access":"closed","key":"conf/bis/SudaS19","doi":"10.1007/978-3-030-36691-9_17","ee":"https://doi.org/10.1007/978-3-030-36691-9_17","url":"https://dblp.org/rec/conf/bis/SudaS19"},
+"url":"URL#1271053"
+},
+{
+"@score":"2",
+"@id":"1457631",
+"info":{"authors":{"author":[{"@pid":"241/6088","text":"Shangeth Rajaa"},{"@pid":"245/7513","text":"Jajati Keshari Sahoo"}]},"title":"Convolutional Feature Extraction and Neural Arithmetic Logic Units for Stock Prediction.","venue":"CoRR","volume":"abs/1905.07581","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1905-07581","ee":"http://arxiv.org/abs/1905.07581","url":"https://dblp.org/rec/journals/corr/abs-1905-07581"},
+"url":"URL#1457631"
+},
+{
+"@score":"2",
+"@id":"1486661",
+"info":{"authors":{"author":[{"@pid":"166/0906","text":"B. Shravan Kumar"},{"@pid":"19/1273","text":"Vadlamani Ravi"},{"@pid":"254/2805","text":"Rishabh Miglani"}]},"title":"Predicting Indian stock market using the psycho-linguistic features of financial news.","venue":"CoRR","volume":"abs/1911.06193","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1911-06193","ee":"http://arxiv.org/abs/1911.06193","url":"https://dblp.org/rec/journals/corr/abs-1911-06193"},
+"url":"URL#1486661"
+},
+{
+"@score":"2",
+"@id":"1546945",
+"info":{"authors":{"author":[{"@pid":"215/9224","text":"Hani A. K. Ihlayyel"},{"@pid":"86/7614","text":"Nurfadhlina Mohd Sharef"},{"@pid":"215/9436","text":"Mohd Zakree Ahmed Nazri"},{"@pid":"44/4231","text":"Azuraliza Abu Bakar"}]},"title":"An enhanced feature representation based on linear regression model for stock market prediction.","venue":"Intell. Data Anal.","volume":"22","number":"1","pages":"45-76","year":"2018","type":"Journal Articles","access":"closed","key":"journals/ida/IhlayyelSNB18","doi":"10.3233/IDA-163316","ee":"https://doi.org/10.3233/IDA-163316","url":"https://dblp.org/rec/journals/ida/IhlayyelSNB18"},
+"url":"URL#1546945"
+},
+{
+"@score":"2",
+"@id":"1563541",
+"info":{"authors":{"author":[{"@pid":"174/4669","text":"Thuy-An Dinh"},{"@pid":"14/6276","text":"Yung-Keun Kwon"}]},"title":"An Empirical Study on Importance of Modeling Parameters and Trading Volume-Based Features in Daily Stock Trading Using Neural Networks.","venue":"Informatics","volume":"5","number":"3","pages":"36","year":"2018","type":"Journal Articles","access":"open","key":"journals/informatics/DinhK18","doi":"10.3390/INFORMATICS5030036","ee":"https://doi.org/10.3390/informatics5030036","url":"https://dblp.org/rec/journals/informatics/DinhK18"},
+"url":"URL#1563541"
+},
+{
+"@score":"2",
+"@id":"1593238",
+"info":{"authors":{"author":{"@pid":"75/3354-2","text":"Petr Hájek 0002"}},"title":"Combining bag-of-words and sentiment features of annual reports to predict abnormal stock returns.","venue":"Neural Comput. Appl.","volume":"29","number":"7","pages":"343-358","year":"2018","type":"Journal Articles","access":"closed","key":"journals/nca/Hajek18","doi":"10.1007/S00521-017-3194-2","ee":"https://doi.org/10.1007/s00521-017-3194-2","url":"https://dblp.org/rec/journals/nca/Hajek18"},
+"url":"URL#1593238"
+},
+{
+"@score":"2",
+"@id":"1692629",
+"info":{"authors":{"author":{"@pid":"246/8774","text":"Richard Stockwell"}},"title":"Free Relatives, Feature Recycling, and Reprojection in Minimalist Grammars.","venue":"ESSLLI Student Sessions","pages":"157-170","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/esslli/Stockwell18","doi":"10.1007/978-3-662-59620-3_10","ee":"https://doi.org/10.1007/978-3-662-59620-3_10","url":"https://dblp.org/rec/conf/esslli/Stockwell18"},
+"url":"URL#1692629"
+},
+{
+"@score":"2",
+"@id":"1710342",
+"info":{"authors":{"author":[{"@pid":"04/470","text":"Yi Wei"},{"@pid":"c/VipinChaudhary","text":"Vipin Chaudhary"}]},"title":"TST: An Effective Approach to Extract Trend Feature in Stock Time Series.","venue":"ICACCI","pages":"120-125","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/icacci/WeiC18","doi":"10.1109/ICACCI.2018.8554383","ee":"https://doi.org/10.1109/ICACCI.2018.8554383","url":"https://dblp.org/rec/conf/icacci/WeiC18"},
+"url":"URL#1710342"
+},
+{
+"@score":"2",
+"@id":"1730337",
+"info":{"authors":{"author":[{"@pid":"04/999","text":"Hui Yang"},{"@pid":"40/5552-1","text":"Yingying Zhu 0001"},{"@pid":"80/2732","text":"Qiang Huang"}]},"title":"A Multi-indicator Feature Selection for CNN-Driven Stock Index Prediction.","venue":"ICONIP","pages":"35-46","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/iconip/YangZH18","doi":"10.1007/978-3-030-04221-9_4","ee":"https://doi.org/10.1007/978-3-030-04221-9_4","url":"https://dblp.org/rec/conf/iconip/YangZH18"},
+"url":"URL#1730337"
+},
+{
+"@score":"2",
+"@id":"1762979",
+"info":{"authors":{"author":[{"@pid":"280/4742","text":"Ekapop Verasakulvong"},{"@pid":"59/3496","text":"Peerapon Vateekul"},{"@pid":"46/8280","text":"Apivadee Piyatumrong"},{"@pid":"77/5226","text":"Chatchawal Sangkeettrakarn"}]},"title":"Online Emerging Topic Detection on Twitter Using Random Forest with Stock Indicator Features.","venue":"JCSSE","pages":"1-6","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/jcsse/VerasakulvongVP18","doi":"10.1109/JCSSE.2018.8457349","ee":"https://doi.org/10.1109/JCSSE.2018.8457349","url":"https://dblp.org/rec/conf/jcsse/VerasakulvongVP18"},
+"url":"URL#1762979"
+},
+{
+"@score":"2",
+"@id":"1789285",
+"info":{"authors":{"author":[{"@pid":"90/4765","text":"Tian Xia"},{"@pid":"06/43","text":"Qibo Sun"},{"@pid":"123/6949-1","text":"Ao Zhou 0001"},{"@pid":"73/8637","text":"Shangguang Wang"},{"@pid":"231/7601","text":"Shilong Xiong"},{"@pid":"230/1937","text":"Siyi Gao"},{"@pid":"45/10335","text":"Jinglin Li"},{"@pid":"29/5782-4","text":"Quan Yuan 0004"}]},"title":"Improving the Performance of Stock Trend Prediction by Applying GA to Feature Selection.","venue":"SC²","pages":"122-126","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/sc2/XiaSZWXGL018","doi":"10.1109/SC2.2018.00025","ee":"https://doi.org/10.1109/SC2.2018.00025","url":"https://dblp.org/rec/conf/sc2/XiaSZWXGL018"},
+"url":"URL#1789285"
+},
+{
+"@score":"2",
+"@id":"1903350",
+"info":{"authors":{"author":[{"@pid":"160/4290","text":"Yingjun Chen"},{"@pid":"84/1467","text":"Yongtao Hao"}]},"title":"A feature weighted support vector machine and K-nearest neighbor algorithm for stock market indices prediction.","venue":"Expert Syst. Appl.","volume":"80","pages":"340-355","year":"2017","type":"Journal Articles","access":"closed","key":"journals/eswa/ChenH17","doi":"10.1016/J.ESWA.2017.02.044","ee":"https://doi.org/10.1016/j.eswa.2017.02.044","url":"https://dblp.org/rec/journals/eswa/ChenH17"},
+"url":"URL#1903350"
+},
+{
+"@score":"2",
+"@id":"1913018",
+"info":{"authors":{"author":[{"@pid":"214/1743","text":"Vaishali Arjun Ingle"},{"@pid":"214/1893","text":"Sachin Deshmukh"}]},"title":"Predictive mining for stock market based on live news TF-IDF features.","venue":"Int. J. Auton. Comput.","volume":"2","number":"4","pages":"341-365","year":"2017","type":"Journal Articles","access":"closed","key":"journals/ijauc/IngleD17","doi":"10.1504/IJAC.2017.10010803","ee":"https://doi.org/10.1504/IJAC.2017.10010803","url":"https://dblp.org/rec/journals/ijauc/IngleD17"},
+"url":"URL#1913018"
+},
+{
+"@score":"2",
+"@id":"2184655",
+"info":{"authors":{"author":[{"@pid":"150/6988","text":"Zeya Zhang"},{"@pid":"166/1745","text":"Weizheng Chen"},{"@pid":"86/1423","text":"Hongfei Yan"}]},"title":"Stock Prediction: a method based on extraction of news features and recurrent neural networks.","venue":"CoRR","volume":"abs/1707.07585","year":"2017","type":"Informal Publications","access":"open","key":"journals/corr/ZhangCY17","ee":"http://arxiv.org/abs/1707.07585","url":"https://dblp.org/rec/journals/corr/ZhangCY17"},
+"url":"URL#2184655"
+},
+{
+"@score":"2",
+"@id":"2239723",
+"info":{"authors":{"author":[{"@pid":"13/6380-1","text":"Xin Hu 0001"},{"@pid":"58/688","text":"Jiyong Jang"},{"@pid":"12/2633-6","text":"Ting Wang 0006"},{"@pid":"150/8728","text":"Zubair Ashraf"},{"@pid":"17/3707","text":"Marc Ph. Stoecklin"},{"@pid":"76/10638","text":"Dhilung Kirat"}]},"title":"Scalable malware classification with multifaceted content features and threat intelligence.","venue":"IBM J. Res. Dev.","volume":"60","number":"4","pages":"6","year":"2016","type":"Journal Articles","access":"closed","key":"journals/ibmrd/HuJWASK16","doi":"10.1147/JRD.2016.2559378","ee":"https://doi.org/10.1147/JRD.2016.2559378","url":"https://dblp.org/rec/journals/ibmrd/HuJWASK16"},
+"url":"URL#2239723"
+},
+{
+"@score":"2",
+"@id":"2251918",
+"info":{"authors":{"author":[{"@pid":"32/8345","text":"Chung-Ho Su"},{"@pid":"26/5983-1","text":"Ching-Hsue Cheng 0001"}]},"title":"A hybrid fuzzy time series model based on ANFIS and integrated nonlinear feature selection method for forecasting stock.","venue":"Neurocomputing","volume":"205","pages":"264-273","year":"2016","type":"Journal Articles","access":"closed","key":"journals/ijon/SuC16","doi":"10.1016/J.NEUCOM.2016.03.068","ee":"https://doi.org/10.1016/j.neucom.2016.03.068","url":"https://dblp.org/rec/journals/ijon/SuC16"},
+"url":"URL#2251918"
+},
+{
+"@score":"2",
+"@id":"2512521",
+"info":{"authors":{"author":{"@pid":"39/7825","text":"Haopeng Li"}},"title":"Feature-Based Image Processing for Rendering, Compression, and Visual Search.","year":"2015","type":"Books and Theses","access":"closed","key":"phd/basesearch/Li15a","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-177994","url":"https://dblp.org/rec/phd/basesearch/Li15a"},
+"url":"URL#2512521"
+},
+{
+"@score":"2",
+"@id":"2545296",
+"info":{"authors":{"author":[{"@pid":"127/8692","text":"Sasan Barak"},{"@pid":"55/9551","text":"Jalil Heidary Dahooie"},{"@pid":"85/1537","text":"Tomás Tichý"}]},"title":"Wrapper ANFIS-ICA method to do stock market timing and feature selection on the basis of Japanese Candlestick.","venue":"Expert Syst. Appl.","volume":"42","number":"23","pages":"9221-9235","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eswa/BarakDT15","doi":"10.1016/J.ESWA.2015.08.010","ee":"https://doi.org/10.1016/j.eswa.2015.08.010","url":"https://dblp.org/rec/journals/eswa/BarakDT15"},
+"url":"URL#2545296"
+},
+{
+"@score":"2",
+"@id":"2545297",
+"info":{"authors":{"author":[{"@pid":"127/8692","text":"Sasan Barak"},{"@pid":"36/2776","text":"Mohammad Modarres"}]},"title":"Developing an approach to evaluate stocks by forecasting effective features with data mining methods.","venue":"Expert Syst. Appl.","volume":"42","number":"3","pages":"1325-1339","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eswa/BarakM15","doi":"10.1016/J.ESWA.2014.09.026","ee":"https://doi.org/10.1016/j.eswa.2014.09.026","url":"https://dblp.org/rec/journals/eswa/BarakM15"},
+"url":"URL#2545297"
+},
+{
+"@score":"2",
+"@id":"2545984",
+"info":{"authors":{"author":{"@pid":"130/6534","text":"Kamil Zbikowski"}},"title":"Using Volume Weighted Support Vector Machines with walk forward testing and feature selection for the purpose of creating stock trading strategy.","venue":"Expert Syst. Appl.","volume":"42","number":"4","pages":"1797-1805","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eswa/Zbikowski15","doi":"10.1016/J.ESWA.2014.10.001","ee":"https://doi.org/10.1016/j.eswa.2014.10.001","url":"https://dblp.org/rec/journals/eswa/Zbikowski15"},
+"url":"URL#2545984"
+},
+{
+"@score":"2",
+"@id":"2546351",
+"info":{"authors":{"author":{"@pid":"144/3298","text":"Adel Aloraini"}},"title":"Penalized ensemble feature selection methods for hidden associations in time series environments case study: equities companies in Saudi Stock Exchange Market.","venue":"Evol. Syst.","volume":"6","number":"2","pages":"93-100","year":"2015","type":"Journal Articles","access":"closed","key":"journals/evs/Aloraini15","doi":"10.1007/S12530-014-9124-Y","ee":"https://doi.org/10.1007/s12530-014-9124-y","url":"https://dblp.org/rec/journals/evs/Aloraini15"},
+"url":"URL#2546351"
+},
+{
+"@score":"2",
+"@id":"2604831",
+"info":{"authors":{"author":[{"@pid":"28/2856","text":"Pei-Chann Chang"},{"@pid":"80/8204","text":"Jheng-Long Wu"}]},"title":"A critical feature extraction by kernel PCA in stock trading model.","venue":"Soft Comput.","volume":"19","number":"5","pages":"1393-1408","year":"2015","type":"Journal Articles","access":"closed","key":"journals/soco/ChangW15","doi":"10.1007/S00500-014-1350-5","ee":"https://doi.org/10.1007/s00500-014-1350-5","url":"https://dblp.org/rec/journals/soco/ChangW15"},
+"url":"URL#2604831"
+},
+{
+"@score":"2",
+"@id":"2623130",
+"info":{"authors":{"author":{"@pid":"162/5225","text":"Michael Meinild Nielsen"}},"title":"Remote sensing for urban planning and management: The use of window-independent context segmentation to extract urban features in Stockholm.","venue":"Comput. Environ. Urban Syst.","volume":"52","pages":"1-9","year":"2015","type":"Journal Articles","access":"closed","key":"journals/urban/Nielsen15","doi":"10.1016/J.COMPENVURBSYS.2015.02.002","ee":"https://doi.org/10.1016/j.compenvurbsys.2015.02.002","url":"https://dblp.org/rec/journals/urban/Nielsen15"},
+"url":"URL#2623130"
+},
+{
+"@score":"2",
+"@id":"2699025",
+"info":{"authors":{"author":[{"@pid":"74/10805","text":"Douglas Lee Schales"},{"@pid":"13/6380-1","text":"Xin Hu 0001"},{"@pid":"58/688","text":"Jiyong Jang"},{"@pid":"86/4992","text":"Reiner Sailer"},{"@pid":"17/3707","text":"Marc Ph. Stoecklin"},{"@pid":"12/2633-6","text":"Ting Wang 0006"}]},"title":"FCCE: Highly scalable distributed Feature Collection and Correlation Engine for low latency big data analytics.","venue":"ICDE","pages":"1316-1327","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/icde/SchalesHJSSW15","doi":"10.1109/ICDE.2015.7113379","ee":"https://doi.org/10.1109/ICDE.2015.7113379","url":"https://dblp.org/rec/conf/icde/SchalesHJSSW15"},
+"url":"URL#2699025"
+},
+{
+"@score":"2",
+"@id":"2703210",
+"info":{"authors":{"author":[{"@pid":"59/8136","text":"Zhibo Zhu"},{"@pid":"08/2357","text":"Qinke Peng"},{"@pid":"43/11206","text":"Shiquan Sun"},{"@pid":"43/3166","text":"Zhi Li"}]},"title":"Stock trend analysis based on feature rank by partial least squares.","venue":"ICIA","pages":"3003-3008","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/icinfa/ZhuPSL15","doi":"10.1109/ICINFA.2015.7279803","ee":"https://doi.org/10.1109/ICInfA.2015.7279803","url":"https://dblp.org/rec/conf/icinfa/ZhuPSL15"},
+"url":"URL#2703210"
+},
+{
+"@score":"2",
+"@id":"2709039",
+"info":{"authors":{"author":[{"@pid":"83/9268","text":"Danny R. Moates"},{"@pid":"37/9268","text":"Zinny S. Bond"},{"@pid":"11/9269","text":"Verna Stockmal"}]},"title":"Feature distance effects in a word reconstruction task.","venue":"ICPhS","year":"2015","type":"Conference and Workshop Papers","access":"open","key":"conf/icphs/MoatesBS15","ee":"https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0431.pdf","url":"https://dblp.org/rec/conf/icphs/MoatesBS15"},
+"url":"URL#2709039"
+},
+{
+"@score":"2",
+"@id":"2750663",
+"info":{"authors":{"author":[{"@pid":"172/0908","text":"Kin Gwn Lore"},{"@pid":"180/5772","text":"Daniel Stoecklein"},{"@pid":"54/7818","text":"Michael Davies"},{"@pid":"90/8130","text":"Baskar Ganapathysubramanian"},{"@pid":"33/7053","text":"Soumik Sarkar"}]},"title":"Hierarchical Feature Extraction for Efficient Design of Microfluidic Flow Patterns.","venue":"FE@NIPS","pages":"213-225","year":"2015","type":"Conference and Workshop Papers","access":"open","key":"conf/nips/LoreSDGS15","ee":"http://proceedings.mlr.press/v44/lore15.html","url":"https://dblp.org/rec/conf/nips/LoreSDGS15"},
+"url":"URL#2750663"
+},
+{
+"@score":"2",
+"@id":"2753429",
+"info":{"authors":{"author":[{"@pid":"70/5892","text":"Ponrudee Netisopakul"},{"@pid":"174/7489","text":"Apinan Chattupan"}]},"title":"Thai Stock News Sentiment Classification using Wordpair Features.","venue":"PACLIC","year":"2015","type":"Conference and Workshop Papers","access":"open","key":"conf/paclic/NetisopakulC15","ee":"https://aclanthology.org/Y15-1022/","url":"https://dblp.org/rec/conf/paclic/NetisopakulC15"},
+"url":"URL#2753429"
+},
+{
+"@score":"2",
+"@id":"2812189",
+"info":{"authors":{"author":{"@pid":"36/3080","text":"Heydar Maboudi Afkham"}},"title":"Improving Image Classification Performance using Joint Feature Selection.","year":"2014","type":"Books and Theses","access":"closed","key":"phd/basesearch/MaboudiAfkham14","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-144896","url":"https://dblp.org/rec/phd/basesearch/MaboudiAfkham14"},
+"url":"URL#2812189"
+},
+{
+"@score":"2",
+"@id":"2822575",
+"info":{"authors":{"author":[{"@pid":"80/8204","text":"Jheng-Long Wu"},{"@pid":"68/5894","text":"Liang-Chih Yu"},{"@pid":"28/2856","text":"Pei-Chann Chang"}]},"title":"An intelligent stock trading system using comprehensive features.","venue":"Appl. Soft Comput.","volume":"23","pages":"39-50","year":"2014","type":"Journal Articles","access":"closed","key":"journals/asc/WuYC14","doi":"10.1016/J.ASOC.2014.06.010","ee":"https://doi.org/10.1016/j.asoc.2014.06.010","url":"https://dblp.org/rec/journals/asc/WuYC14"},
+"url":"URL#2822575"
+},
+{
+"@score":"2",
+"@id":"2858906",
+"info":{"authors":{"author":[{"@pid":"67/6060","text":"Wing W. Y. Ng"},{"@pid":"16/10113","text":"Xue-Ling Liang"},{"@pid":"70/8480","text":"Jin-Cheng Li"},{"@pid":"36/896","text":"Daniel S. Yeung"},{"@pid":"38/3305","text":"Patrick P. K. Chan"}]},"title":"LG-Trader: Stock trading decision support based on feature selection by weighted localized generalization error model.","venue":"Neurocomputing","volume":"146","pages":"104-112","year":"2014","type":"Journal Articles","access":"closed","key":"journals/ijon/NgLLYC14","doi":"10.1016/J.NEUCOM.2014.04.066","ee":"https://doi.org/10.1016/j.neucom.2014.04.066","url":"https://dblp.org/rec/journals/ijon/NgLLYC14"},
+"url":"URL#2858906"
+},
+{
+"@score":"2",
+"@id":"2859248",
+"info":{"authors":{"author":[{"@pid":"28/11095","text":"Xiangzhou Zhang"},{"@pid":"49/2905-2","text":"Yong Hu 0002"},{"@pid":"79/397","text":"Kang Xie"},{"@pid":"45/1875","text":"Shouyang Wang"},{"@pid":"75/494","text":"E. W. T. Ngai"},{"@pid":"65/5195","text":"Mei Liu"}]},"title":"A causal feature selection algorithm for stock prediction modeling.","venue":"Neurocomputing","volume":"142","pages":"48-59","year":"2014","type":"Journal Articles","access":"closed","key":"journals/ijon/ZhangHXWNL14","doi":"10.1016/J.NEUCOM.2014.01.057","ee":"https://doi.org/10.1016/j.neucom.2014.01.057","url":"https://dblp.org/rec/journals/ijon/ZhangHXWNL14"},
+"url":"URL#2859248"
+},
+{
+"@score":"2",
+"@id":"2875679",
+"info":{"authors":{"author":{"@pid":"66/9850","text":"Salim Lahmiri"}},"title":"Wavelet low- and high-frequency components as features for predicting stock prices with backpropagation neural networks.","venue":"J. King Saud Univ. Comput. Inf. Sci.","volume":"26","number":"2","pages":"218-227","year":"2014","type":"Journal Articles","access":"closed","key":"journals/jksucis/Lahmiri14","doi":"10.1016/J.JKSUCI.2013.12.001","ee":"https://doi.org/10.1016/j.jksuci.2013.12.001","url":"https://dblp.org/rec/journals/jksucis/Lahmiri14"},
+"url":"URL#2875679"
+},
+{
+"@score":"2",
+"@id":"3035607",
+"info":{"authors":{"author":[{"@pid":"91/1388","text":"Jian Su"},{"@pid":"182/3477","text":"Zhoubo Li"},{"@pid":"41/1871","text":"Lifeng Yu"},{"@pid":"148/0060","text":"Joshua D. Warner"},{"@pid":"54/610","text":"Daniel J. Blezek"},{"@pid":"64/367","text":"Bradley J. Erickson"}]},"title":"CT image noise reduction using rotational-invariant feature in Stockwell transform.","venue":"Medical Imaging - Image Processing","pages":"903433","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/miip/SuLYWBE14","doi":"10.1117/12.2044360","ee":"https://doi.org/10.1117/12.2044360","url":"https://dblp.org/rec/conf/miip/SuLYWBE14"},
+"url":"URL#3035607"
+},
+{
+"@score":"2",
+"@id":"3052754",
+"info":{"authors":{"author":[{"@pid":"133/7744","text":"Michael Kamp"},{"@pid":"41/5449","text":"Mario Boley"},{"@pid":"72/6376","text":"Thomas Gärtner 0001"}]},"title":"Beating Human Analysts in Nowcasting Corporate Earnings by using Publicly Available Stock Price and Correlation Features.","venue":"SDM","pages":"641-649","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/sdm/KampBG14","doi":"10.1137/1.9781611973440.74","ee":"https://doi.org/10.1137/1.9781611973440.74","url":"https://dblp.org/rec/conf/sdm/KampBG14"},
+"url":"URL#3052754"
+},
+{
+"@score":"2",
+"@id":"3127412",
+"info":{"authors":{"author":[{"@pid":"94/10497","text":"Michael Hagenau"},{"@pid":"58/11055","text":"Michael Liebmann"},{"@pid":"90/1401","text":"Dirk Neumann 0001"}]},"title":"Automated news reading: Stock price prediction based on financial news using context-capturing features.","venue":"Decis. Support Syst.","volume":"55","number":"3","pages":"685-697","year":"2013","type":"Journal Articles","access":"closed","key":"journals/dss/HagenauLN13","doi":"10.1016/J.DSS.2013.02.006","ee":"https://doi.org/10.1016/j.dss.2013.02.006","url":"https://dblp.org/rec/journals/dss/HagenauLN13"},
+"url":"URL#3127412"
+},
+{
+"@score":"2",
+"@id":"3127437",
+"info":{"authors":{"author":[{"@pid":"30/8933","text":"Ling-Jing Kao"},{"@pid":"71/5862","text":"Chih-Chou Chiu"},{"@pid":"45/498","text":"Chi-Jie Lu"},{"@pid":"99/6898","text":"Chih-Hsiang Chang"}]},"title":"A hybrid approach by integrating wavelet-based feature extraction with MARS and SVR for stock index forecasting.","venue":"Decis. Support Syst.","volume":"54","number":"3","pages":"1228-1244","year":"2013","type":"Journal Articles","access":"closed","key":"journals/dss/KaoCLC13","doi":"10.1016/J.DSS.2012.11.012","ee":"https://doi.org/10.1016/j.dss.2012.11.012","url":"https://dblp.org/rec/journals/dss/KaoCLC13"},
+"url":"URL#3127437"
+},
+{
+"@score":"2",
+"@id":"3173227",
+"info":{"authors":{"author":[{"@pid":"98/8636","text":"Wensheng Dai"},{"@pid":"77/6436","text":"Yuehjen E. Shao"},{"@pid":"45/498","text":"Chi-Jie Lu"}]},"title":"Incorporating feature selection method into support vector regression for stock index forecasting.","venue":"Neural Comput. Appl.","volume":"23","number":"6","pages":"1551-1561","year":"2013","type":"Journal Articles","access":"closed","key":"journals/nca/DaiSL13","doi":"10.1007/S00521-012-1104-1","ee":"https://doi.org/10.1007/s00521-012-1104-1","url":"https://dblp.org/rec/journals/nca/DaiSL13"},
+"url":"URL#3173227"
+},
+{
+"@score":"2",
+"@id":"3173307",
+"info":{"authors":{"author":{"@pid":"18/2841","text":"Chih-Ming Hsu"}},"title":"A hybrid procedure with feature selection for resolving stock/futures price forecasting problems.","venue":"Neural Comput. Appl.","volume":"22","number":"3-4","pages":"651-671","year":"2013","type":"Journal Articles","access":"closed","key":"journals/nca/Hsu13","doi":"10.1007/S00521-011-0721-4","ee":"https://doi.org/10.1007/s00521-011-0721-4","url":"https://dblp.org/rec/journals/nca/Hsu13"},
+"url":"URL#3173307"
+},
+{
+"@score":"2",
+"@id":"3173385",
+"info":{"authors":{"author":[{"@pid":"l/JNKLiu","text":"James N. K. Liu"},{"@pid":"94/10113","text":"Yan-Xing Hu"}]},"title":"Application of feature-weighted Support Vector regression using grey correlation degree to stock price forecasting.","venue":"Neural Comput. Appl.","volume":"22","number":"Supplement-1","pages":"143-152","year":"2013","type":"Journal Articles","access":"closed","key":"journals/nca/LiuH13","doi":"10.1007/S00521-012-0969-3","ee":"https://doi.org/10.1007/s00521-012-0969-3","url":"https://dblp.org/rec/journals/nca/LiuH13"},
+"url":"URL#3173385"
+},
+{
+"@score":"2",
+"@id":"3276566",
+"info":{"authors":{"author":[{"@pid":"133/7744","text":"Michael Kamp"},{"@pid":"41/5449","text":"Mario Boley"},{"@pid":"72/6376","text":"Thomas Gärtner 0001"}]},"title":"Beating Human Analysts in Nowcasting Corporate Earnings by Using Publicly Available Stock Price and Correlation Features.","venue":"ICDM Workshops","pages":"384-390","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdm/KampBG13","doi":"10.1109/ICDMW.2013.115","ee":"https://doi.org/10.1109/ICDMW.2013.115","url":"https://dblp.org/rec/conf/icdm/KampBG13"},
+"url":"URL#3276566"
+},
+{
+"@score":"2",
+"@id":"3284683",
+"info":{"authors":{"author":[{"@pid":"136/9485","text":"Yuqinq He"},{"@pid":"136/9379","text":"Kamaladdin Fataliyev"},{"@pid":"56/1348","text":"Lipo Wang"}]},"title":"Feature Selection for Stock Market Analysis.","venue":"ICONIP","pages":"737-744","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/iconip/HeFW13","doi":"10.1007/978-3-642-42042-9_91","ee":"https://doi.org/10.1007/978-3-642-42042-9_91","url":"https://dblp.org/rec/conf/iconip/HeFW13"},
+"url":"URL#3284683"
+},
+{
+"@score":"2",
+"@id":"3529745",
+"info":{"authors":{"author":[{"@pid":"94/10497","text":"Michael Hagenau"},{"@pid":"58/11055","text":"Michael Liebmann"},{"@pid":"14/1387","text":"Markus Hedwig"},{"@pid":"90/1401","text":"Dirk Neumann 0001"}]},"title":"Automated News Reading: Stock Price Prediction Based on Financial News Using Context-Specific Features.","venue":"HICSS","pages":"1040-1049","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/hicss/HagenauLHN12","doi":"10.1109/HICSS.2012.129","ee":"https://doi.org/10.1109/HICSS.2012.129","url":"https://dblp.org/rec/conf/hicss/HagenauLHN12"},
+"url":"URL#3529745"
+},
+{
+"@score":"2",
+"@id":"3669143",
+"info":{"authors":{"author":[{"@pid":"133/3382","text":"Liping Ni"},{"@pid":"91/78","text":"Zhiwei Ni"},{"@pid":"42/7649","text":"Yazhuo Gao"}]},"title":"Stock trend prediction based on fractal feature selection and support vector machine.","venue":"Expert Syst. Appl.","volume":"38","number":"5","pages":"5569-5576","year":"2011","type":"Journal Articles","access":"closed","key":"journals/eswa/NiNG11","doi":"10.1016/J.ESWA.2010.10.079","ee":"https://doi.org/10.1016/j.eswa.2010.10.079","url":"https://dblp.org/rec/journals/eswa/NiNG11"},
+"url":"URL#3669143"
+},
+{
+"@score":"2",
+"@id":"3912165",
+"info":{"authors":{"author":[{"@pid":"69/6140","text":"Chih-Fong Tsai"},{"@pid":"78/8684","text":"Yu-Chieh Hsiao"}]},"title":"Combining multiple feature selection methods for stock prediction: Union, intersection, and multi-intersection approaches.","venue":"Decis. Support Syst.","volume":"50","number":"1","pages":"258-269","year":"2010","type":"Journal Articles","access":"closed","key":"journals/dss/TsaiH10","doi":"10.1016/J.DSS.2010.08.028","ee":"https://doi.org/10.1016/j.dss.2010.08.028","url":"https://dblp.org/rec/journals/dss/TsaiH10"},
+"url":"URL#3912165"
+},
+{
+"@score":"2",
+"@id":"4022629",
+"info":{"authors":{"author":[{"@pid":"98/10201","text":"Prompong Sugunnasil"},{"@pid":"43/6596","text":"Samerkae Somhom"}]},"title":"Feature Selection for Neural Network Based Stock Prediction.","venue":"IAIT","pages":"137-146","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/iait/SugunasilS10","doi":"10.1007/978-3-642-16699-0_15","ee":"https://doi.org/10.1007/978-3-642-16699-0_15","url":"https://dblp.org/rec/conf/iait/SugunasilS10"},
+"url":"URL#4022629"
+},
+{
+"@score":"2",
+"@id":"4143620",
+"info":{"authors":{"author":[{"@pid":"46/6419","text":"Cheng-Lung Huang"},{"@pid":"42/7410","text":"Cheng-Yi Tsai"}]},"title":"A hybrid SOFM-SVR with a filter-based feature selection for stock market forecasting.","venue":"Expert Syst. Appl.","volume":"36","number":"2","pages":"1529-1539","year":"2009","type":"Journal Articles","access":"closed","key":"journals/eswa/HuangT09","doi":"10.1016/J.ESWA.2007.11.062","ee":"https://doi.org/10.1016/j.eswa.2007.11.062","url":"https://dblp.org/rec/journals/eswa/HuangT09"},
+"url":"URL#4143620"
+},
+{
+"@score":"2",
+"@id":"4143756",
+"info":{"authors":{"author":{"@pid":"98/4092","text":"Ming-Chi Lee"}},"title":"Using support vector machine with a hybrid feature selection method to the stock trend prediction.","venue":"Expert Syst. Appl.","volume":"36","number":"8","pages":"10896-10904","year":"2009","type":"Journal Articles","access":"closed","key":"journals/eswa/Lee09","doi":"10.1016/J.ESWA.2009.02.038","ee":"https://doi.org/10.1016/j.eswa.2009.02.038","url":"https://dblp.org/rec/journals/eswa/Lee09"},
+"url":"URL#4143756"
+},
+{
+"@score":"2",
+"@id":"4268012",
+"info":{"authors":{"author":[{"@pid":"28/1945","text":"Hans Georg Stockmeier"},{"@pid":"01/3149","text":"Heidi Bäcker"},{"@pid":"73/6273","text":"Wolfgang Bäumler"},{"@pid":"18/6788","text":"Elmar Wolfgang Lang"}]},"title":"BSS-Based Feature Extraction for Skin Lesion Image Classification.","venue":"ICA","pages":"467-474","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/ida/StockmeierBBL09","doi":"10.1007/978-3-642-00599-2_59","ee":"https://doi.org/10.1007/978-3-642-00599-2_59","url":"https://dblp.org/rec/conf/ida/StockmeierBBL09"},
+"url":"URL#4268012"
+},
+{
+"@score":"2",
+"@id":"4363395",
+"info":{"authors":{"author":[{"@pid":"81/2108","text":"Shian-Chang Huang"},{"@pid":"21/379","text":"Tung-Kuang Wu"}]},"title":"Combining wavelet-based feature extractions with relevance vector machines for stock index forecasting.","venue":"Expert Syst. J. Knowl. Eng.","volume":"25","number":"2","pages":"133-149","year":"2008","type":"Journal Articles","access":"closed","key":"journals/es/HuangW08","doi":"10.1111/J.1468-0394.2008.00443.X","ee":"https://doi.org/10.1111/j.1468-0394.2008.00443.x","url":"https://dblp.org/rec/journals/es/HuangW08"},
+"url":"URL#4363395"
+},
+{
+"@score":"2",
+"@id":"4363659",
+"info":{"authors":{"author":[{"@pid":"81/2108","text":"Shian-Chang Huang"},{"@pid":"21/379","text":"Tung-Kuang Wu"}]},"title":"Integrating GA-based time-scale feature extractions with SVMs for stock index forecasting.","venue":"Expert Syst. Appl.","volume":"35","number":"4","pages":"2080-2088","year":"2008","type":"Journal Articles","access":"closed","key":"journals/eswa/HuangW08","doi":"10.1016/J.ESWA.2007.09.027","ee":"https://doi.org/10.1016/j.eswa.2007.09.027","url":"https://dblp.org/rec/journals/eswa/HuangW08"},
+"url":"URL#4363659"
+},
+{
+"@score":"2",
+"@id":"4499020",
+"info":{"authors":{"author":[{"@pid":"16/710","text":"Mausumi Acharyya"},{"@pid":"219/2069","text":"Dinesh M. Siddu"},{"@pid":"01/1641","text":"Alexandra Manevitch"},{"@pid":"22/1410","text":"Jonathan Stoeckel"}]},"title":"A novel method of partitioning regions in lungs and their usage in feature extraction for reducing false positives.","venue":"Medical Imaging - Computer-Aided Diagnosis","pages":"69150Z","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/micad/AcharyyaSMS08","doi":"10.1117/12.770603","ee":"https://doi.org/10.1117/12.770603","url":"https://dblp.org/rec/conf/micad/AcharyyaSMS08"},
+"url":"URL#4499020"
+},
+{
+"@score":"2",
+"@id":"4587260",
+"info":{"authors":{"author":[{"@pid":"02/271","text":"Glenn Fung"},{"@pid":"22/1410","text":"Jonathan Stoeckel"}]},"title":"SVM feature selection for classification of SPECT images of Alzheimer&apos;s disease using spatial information.","venue":"Knowl. Inf. Syst.","volume":"11","number":"2","pages":"243-258","year":"2007","type":"Journal Articles","access":"closed","key":"journals/kais/FungS07","doi":"10.1007/S10115-006-0043-5","ee":"https://doi.org/10.1007/s10115-006-0043-5","url":"https://dblp.org/rec/journals/kais/FungS07"},
+"url":"URL#4587260"
+},
+{
+"@score":"2",
+"@id":"4642684",
+"info":{"authors":{"author":[{"@pid":"80/1829","text":"Paulo Lobato Correia"},{"@pid":"28/7231","text":"Phooi Yee Lau"},{"@pid":"76/11530-3","text":"Paulo Fonseca 0003"},{"@pid":"169/0182","text":"Aida Campos"}]},"title":"Underwater video analysis for Norway lobster stock quantification using multiple visual attention features.","venue":"EUSIPCO","pages":"1764-1768","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/eusipco/CorreiaLFC07","ee":"https://ieeexplore.ieee.org/document/7099110/","url":"https://dblp.org/rec/conf/eusipco/CorreiaLFC07"},
+"url":"URL#4642684"
+},
+{
+"@score":"2",
+"@id":"4814378",
+"info":{"authors":{"author":{"@pid":"17/3707","text":"Marc Ph. Stoecklin"}},"title":"Anomaly detection by finding feature distribution outliers.","venue":"CoNEXT","pages":"32","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/conext/Stoecklin06","doi":"10.1145/1368436.1368476","ee":"https://doi.org/10.1145/1368436.1368476","url":"https://dblp.org/rec/conf/conext/Stoecklin06"},
+"url":"URL#4814378"
+},
+{
+"@score":"2",
+"@id":"4847809",
+"info":{"authors":{"author":[{"@pid":"81/2108","text":"Shian-Chang Huang"},{"@pid":"97/6352","text":"Hsing-Wen Wang"}]},"title":"Combining Time-Scale Feature Extractions with SVMs for Stock Index Forecasting.","venue":"ICONIP","pages":"390-399","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/iconip/HuangW06","doi":"10.1007/11893295_44","ee":"https://doi.org/10.1007/11893295_44","url":"https://dblp.org/rec/conf/iconip/HuangW06"},
+"url":"URL#4847809"
+},
+{
+"@score":"2",
+"@id":"4849065",
+"info":{"authors":{"author":[{"@pid":"55/2737","text":"Alfred Rinnhofer"},{"@pid":"56/6205","text":"Wanda Benesova"},{"@pid":"02/1968","text":"Gerhard Jakob"},{"@pid":"29/3610","text":"Manfred Stockinger"}]},"title":"Feature Extraction from Micrographs of Forged Nickel Based Alloy.","venue":"ICPR","pages":"391-394","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/icpr/RinnhoferBJS06","doi":"10.1109/ICPR.2006.554","ee":"https://doi.org/10.1109/ICPR.2006.554","url":"https://dblp.org/rec/conf/icpr/RinnhoferBJS06"},
+"url":"URL#4849065"
+},
+{
+"@score":"2",
+"@id":"5005020",
+"info":{"authors":{"author":[{"@pid":"22/1410","text":"Jonathan Stoeckel"},{"@pid":"02/271","text":"Glenn Fung"}]},"title":"SVM Feature Selection for Classification of SPECT Images of Alzheimer&apos;s Disease Using Spatial Information.","venue":"ICDM","pages":"410-417","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdm/StoeckelF05","doi":"10.1109/ICDM.2005.141","ee":"https://doi.org/10.1109/ICDM.2005.141","url":"https://dblp.org/rec/conf/icdm/StoeckelF05"},
+"url":"URL#5005020"
+},
+{
+"@score":"2",
+"@id":"5017665",
+"info":{"authors":{"author":[{"@pid":"83/9268","text":"Danny R. Moates"},{"@pid":"37/9268","text":"Zinny S. Bond"},{"@pid":"02/9269","text":"Russell Fox"},{"@pid":"11/9269","text":"Verna Stockmal"}]},"title":"The feature [sonorant] in lexical access.","venue":"INTERSPEECH","pages":"2869-2872","year":"2005","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/interspeech/MoatesBFS05","ee":"http://www.isca-speech.org/archive/interspeech_2005/i05_2869.html","url":"https://dblp.org/rec/conf/interspeech/MoatesBFS05"},
+"url":"URL#5017665"
+},
+{
+"@score":"2",
+"@id":"5061852",
+"info":{"authors":{"author":{"@pid":"41/1854","text":"Ivan Laptev"}},"title":"Local spatio-temporal image features for motion interpretation.","year":"2004","type":"Books and Theses","access":"closed","key":"phd/basesearch/Laptev04","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-3797","url":"https://dblp.org/rec/phd/basesearch/Laptev04"},
+"url":"URL#5061852"
+},
+{
+"@score":"2",
+"@id":"5084915",
+"info":{"authors":{"author":{"@pid":"36/9570","text":"Kyoung-Jae Kim"}},"title":"Artificial neural networks with feature transformation based on domain knowledge for the prediction of stock index futures.","venue":"Intell. Syst. Account. Finance Manag.","volume":"12","number":"3","pages":"167-176","year":"2004","type":"Journal Articles","access":"closed","key":"journals/isafm/Kim04","doi":"10.1002/ISAF.252","ee":"https://doi.org/10.1002/isaf.252","url":"https://dblp.org/rec/journals/isafm/Kim04"},
+"url":"URL#5084915"
+},
+{
+"@score":"2",
+"@id":"5095023",
+"info":{"authors":{"author":[{"@pid":"77/1988","text":"Kyoung-jae Kim"},{"@pid":"69/3940","text":"Won Boo Lee"}]},"title":"Stock market prediction using artificial neural networks with optimal feature transformation.","venue":"Neural Comput. Appl.","volume":"13","number":"3","pages":"255-260","year":"2004","type":"Journal Articles","access":"closed","key":"journals/nca/KimL04","doi":"10.1007/S00521-004-0428-X","ee":"https://doi.org/10.1007/s00521-004-0428-x","url":"https://dblp.org/rec/journals/nca/KimL04"},
+"url":"URL#5095023"
+},
+{
+"@score":"2",
+"@id":"5279305",
+"info":{"authors":{"author":[{"@pid":"52/7016","text":"E. U. Graubins"},{"@pid":"76/4832","text":"David Grossman"}]},"title":"Feature Selection for Predicting the Stock Market.","venue":"IKE","pages":"86-91","year":"2003","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/ike/GraubinsG03","url":"https://dblp.org/rec/conf/ike/GraubinsG03"},
+"url":"URL#5279305"
+},
+{
+"@score":"2",
+"@id":"5331362",
+"info":{"authors":{"author":[{"@pid":"97/4675","text":"YoungSu Lee"},{"@pid":"85/1809","text":"Jinwoo Kim"}]},"title":"From Design Features to Financial Performance: A Comprehensive Model of Design Principles for Online Stock Trading Sites.","venue":"J. Electron. Commer. Res.","volume":"3","number":"3","pages":"128-143","year":"2002","type":"Journal Articles","access":"closed","key":"journals/jecr/LeeK02","ee":"http://www.csulb.edu/web/journals/jecr/issues/20023/paper3.pdf","url":"https://dblp.org/rec/journals/jecr/LeeK02"},
+"url":"URL#5331362"
+},
+{
+"@score":"2",
+"@id":"5572085",
+"info":{"authors":{"author":{"@pid":"45/5445","text":"Lars Bretzner"}},"title":"Multi-scale feature tracking and motion estimation.","year":"1999","type":"Books and Theses","access":"closed","key":"phd/basesearch/Bretzner99","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-2856","url":"https://dblp.org/rec/phd/basesearch/Bretzner99"},
+"url":"URL#5572085"
+},
+{
+"@score":"2",
+"@id":"5628830",
+"info":{"authors":{"author":[{"@pid":"68/2499","text":"Arnaud Ribert"},{"@pid":"39/308","text":"Emmanuel Stocker"},{"@pid":"60/7443","text":"Abdel Ennaji"},{"@pid":"77/6868","text":"Yves Lecourtier"}]},"title":"Classification and Feature Selection by a Self-Organizing Neural Network.","venue":"IWANN","pages":"651-660","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/iwann/RibertSEL99","doi":"10.1007/BFB0098223","ee":"https://doi.org/10.1007/BFb0098223","url":"https://dblp.org/rec/conf/iwann/RibertSEL99"},
+"url":"URL#5628830"
+},
+{
+"@score":"2",
+"@id":"5648839",
+"info":{"authors":{"author":[{"@pid":"18/4842","text":"Jin-Long Chen"},{"@pid":"34/1428","text":"George C. Stockman"}]},"title":"3D Free-Form Object Recognition Using Indexing by Contour Features.","venue":"Comput. Vis. Image Underst.","volume":"71","number":"3","pages":"334-355","year":"1998","type":"Journal Articles","access":"closed","key":"journals/cviu/ChenS98","doi":"10.1006/CVIU.1997.0648","ee":"https://doi.org/10.1006/cviu.1997.0648","url":"https://dblp.org/rec/journals/cviu/ChenS98"},
+"url":"URL#5648839"
+},
+{
+"@score":"2",
+"@id":"5703221",
+"info":{"authors":{"author":[{"@pid":"118/3642","text":"Vera Bakic"},{"@pid":"34/1428","text":"George C. Stockman"}]},"title":"Real-time tracking of face features and gaze direction determination.","venue":"WACV","pages":"256-257","year":"1998","type":"Conference and Workshop Papers","access":"closed","key":"conf/wacv/BakicS98","doi":"10.1109/ACV.1998.732895","ee":"https://doi.org/10.1109/ACV.1998.732895","url":"https://dblp.org/rec/conf/wacv/BakicS98"},
+"url":"URL#5703221"
+},
+{
+"@score":"2",
+"@id":"5791881",
+"info":{"authors":{"author":[{"@pid":"18/4842","text":"Jin-Long Chen"},{"@pid":"34/1428","text":"George C. Stockman"}]},"title":"Indexing to 3D Model Aspects using 2D Contour Features.","venue":"CVPR","pages":"913-920","year":"1996","type":"Conference and Workshop Papers","access":"closed","key":"conf/cvpr/ChenS96","doi":"10.1109/CVPR.1996.517180","ee":"https://doi.org/10.1109/CVPR.1996.517180","url":"https://dblp.org/rec/conf/cvpr/ChenS96"},
+"url":"URL#5791881"
+},
+{
+"@score":"2",
+"@id":"5804034",
+"info":{"authors":{"author":[{"@pid":"11/9269","text":"Verna Stockmal"},{"@pid":"15/9340","text":"D. Muljani"},{"@pid":"37/9268","text":"Zinny S. Bond"}]},"title":"Perceptual features of unknown foreign languages as revealed by multi-dimensional scaling.","venue":"ICSLP","year":"1996","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/interspeech/StockmalMB96","ee":"http://www.isca-speech.org/archive/icslp_1996/i96_1748.html","url":"https://dblp.org/rec/conf/interspeech/StockmalMB96"},
+"url":"URL#5804034"
+}
+]
+}
+}
+}

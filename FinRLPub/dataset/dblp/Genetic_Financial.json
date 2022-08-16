@@ -1,0 +1,560 @@
+{
+"result":{
+"query":"genetic* financial*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"12.46"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"89",
+"@dc":"88",
+"@oc":"89",
+"@id":"46275674",
+"text":"financial"
+}
+},
+"hits":{
+"@total":"88",
+"@computed":"88",
+"@sent":"88",
+"@first":"0",
+"hit":[{
+"@score":"3",
+"@id":"2306812",
+"info":{"authors":{"author":[{"@pid":"86/7906","text":"Miranda Lakshmi Travis"},{"@pid":"151/4943","text":"Martin Aruldoss"},{"@pid":"34/1584","text":"V. Prasanna Venkatesan"}]},"title":"A Genetic Bankrupt Ratio Analysis Tool Using a Genetic Algorithm to Identify Influencing Financial Ratios.","venue":"IEEE Trans. Evol. Comput.","volume":"20","number":"1","pages":"38-51","year":"2016","type":"Journal Articles","access":"closed","key":"journals/tec/TravisAV16","doi":"10.1109/TEVC.2015.2424313","ee":"https://doi.org/10.1109/TEVC.2015.2424313","url":"https://dblp.org/rec/journals/tec/TravisAV16"},
+"url":"URL#2306812"
+},
+{
+"@score":"3",
+"@id":"4810376",
+"info":{"authors":{"author":[{"@pid":"48/1097","text":"Jin Li"},{"@pid":"144/3126","text":"Sope Taiwo"}]},"title":"Enhancing Financial Decision Making Using Multi-Objective Financial Genetic Programming.","venue":"IEEE Congress on Evolutionary Computation","pages":"2171-2178","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/LiT06","doi":"10.1109/CEC.2006.1688575","ee":"https://doi.org/10.1109/CEC.2006.1688575","url":"https://dblp.org/rec/conf/cec/LiT06"},
+"url":"URL#4810376"
+},
+{
+"@score":"2",
+"@id":"123948",
+"info":{"authors":{"author":[{"@pid":"320/9227","text":"Eva Christodoulaki"},{"@pid":"38/8509","text":"Michael Kampouridis"},{"@pid":"01/5157","text":"Panagiotis Kanellopoulos"}]},"title":"Technical and Sentiment Analysis in Financial Forecasting with Genetic Programming.","venue":"CIFEr","pages":"1-8","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/ChristodoulakiK22","doi":"10.1109/CIFER52523.2022.9776186","ee":"https://doi.org/10.1109/CIFEr52523.2022.9776186","url":"https://dblp.org/rec/conf/cifer/ChristodoulakiK22"},
+"url":"URL#123948"
+},
+{
+"@score":"2",
+"@id":"298334",
+"info":{"authors":{"author":[{"@pid":"22/9939","text":"Yusheng Huang"},{"@pid":"285/4572","text":"Yelin Gao"},{"@pid":"226/5007","text":"Yan Gan"},{"@pid":"36/2301-1","text":"Mao Ye 0001"}]},"title":"A new financial data forecasting model using genetic algorithm and long short-term memory network.","venue":"Neurocomputing","volume":"425","pages":"207-218","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ijon/HuangGG021","doi":"10.1016/J.NEUCOM.2020.04.086","ee":"https://doi.org/10.1016/j.neucom.2020.04.086","url":"https://dblp.org/rec/journals/ijon/HuangGG021"},
+"url":"URL#298334"
+},
+{
+"@score":"2",
+"@id":"374642",
+"info":{"authors":{"author":{"@pid":"42/4394","text":"Hua Peng"}},"title":"Research on Credit Evaluation of Financial Enterprises Based on the Genetic Backpropagation Neural Network.","venue":"Sci. Program.","volume":"2021","pages":"7745920:1-7745920:8","year":"2021","type":"Journal Articles","access":"open","key":"journals/sp/Peng21","doi":"10.1155/2021/7745920","ee":"https://doi.org/10.1155/2021/7745920","url":"https://dblp.org/rec/journals/sp/Peng21"},
+"url":"URL#374642"
+},
+{
+"@score":"2",
+"@id":"443035",
+"info":{"authors":{"author":[{"@pid":"298/8161","text":"Davut Ari"},{"@pid":"15/11190","text":"Baris Baykant Alagöz"}]},"title":"Modeling Daily Financial Market Data by Using Tree-Based Genetic Programming.","venue":"ICIT","pages":"382-386","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cit/AriA21a","doi":"10.1109/ICIT52682.2021.9491652","ee":"https://doi.org/10.1109/ICIT52682.2021.9491652","url":"https://dblp.org/rec/conf/cit/AriA21a"},
+"url":"URL#443035"
+},
+{
+"@score":"2",
+"@id":"529471",
+"info":{"authors":{"author":[{"@pid":"180/0854","text":"Juan Xia"},{"@pid":"70/5472","text":"Bo Song"}]},"title":"Problems and Countermeasures of Financial Management Specialty Based on Genetic Algorithm.","venue":"IWCMC","pages":"771-774","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/iwcmc/XiaS21","doi":"10.1109/IWCMC51323.2021.9498815","ee":"https://doi.org/10.1109/IWCMC51323.2021.9498815","url":"https://dblp.org/rec/conf/iwcmc/XiaS21"},
+"url":"URL#529471"
+},
+{
+"@score":"2",
+"@id":"533649",
+"info":{"authors":{"author":[{"@pid":"309/5478","text":"Marta V. Shkvaryliuk"},{"@pid":"281/2977","text":"Liliana T. Horal"},{"@pid":"281/2967","text":"Inesa M. Khvostina"},{"@pid":"281/2974","text":"Natalia I. Yashcheritsyna"},{"@pid":"309/5536","text":"Vira I. Shiyko"}]},"title":"The use of genetic algorithms for multicriteria optimization of the oil and gas enterprises financial stability.","venue":"M3E2-MLPEED","pages":"199-210","year":"2021","type":"Conference and Workshop Papers","access":"open","key":"conf/m3e2/ShkvaryliukHKYS21","ee":"http://ceur-ws.org/Vol-3048/paper13.pdf","url":"https://dblp.org/rec/conf/m3e2/ShkvaryliukHKYS21"},
+"url":"URL#533649"
+},
+{
+"@score":"2",
+"@id":"563215",
+"info":{"authors":{"author":{"@pid":"132/1861","text":"Michael Scott Brown"}},"title":"Dynamic- Radius Species-Conserving Genetic Algorithm for the Financial Forecasting of Cryptocurrencies.","venue":"SSCI","pages":"1-8","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/ssci/Brown21","doi":"10.1109/SSCI50451.2021.9660014","ee":"https://doi.org/10.1109/SSCI50451.2021.9660014","url":"https://dblp.org/rec/conf/ssci/Brown21"},
+"url":"URL#563215"
+},
+{
+"@score":"2",
+"@id":"576448",
+"info":{"authors":{"author":[{"@pid":"14/3485","text":"Haibing Li"},{"@pid":"72/2987","text":"Man-Leung Wong"}]},"title":"Grammar-Based Multi-objective Genetic Programming with Token Competition and Its Applications in Financial Fraud Detection.","venue":"Metaheuristics for Finding Multiple Solutions","pages":"259-285","year":"2021","type":"Parts in Books or Collections","access":"closed","key":"series/ncs/LiW21","doi":"10.1007/978-3-030-79553-5_11","ee":"https://doi.org/10.1007/978-3-030-79553-5_11","url":"https://dblp.org/rec/series/ncs/LiW21"},
+"url":"URL#576448"
+},
+{
+"@score":"2",
+"@id":"682288",
+"info":{"authors":{"author":[{"@pid":"283/1563","text":"Meenu Sreedharan"},{"@pid":"72/5176","text":"Ahmed M. Khedr"},{"@pid":"283/1883","text":"Magdi El Bannany"}]},"title":"A Multi-Layer Perceptron Approach to Financial Distress Prediction with Genetic Algorithm.","venue":"Autom. Control. Comput. Sci.","volume":"54","number":"6","pages":"475-482","year":"2020","type":"Journal Articles","access":"closed","key":"journals/accs/SreedharanKB20","doi":"10.3103/S0146411620060085","ee":"https://doi.org/10.3103/S0146411620060085","url":"https://dblp.org/rec/journals/accs/SreedharanKB20"},
+"url":"URL#682288"
+},
+{
+"@score":"2",
+"@id":"718639",
+"info":{"authors":{"author":[{"@pid":"260/6354","text":"Tiago Mousinho Martins"},{"@pid":"87/9882","text":"Rui Ferreira Neves"}]},"title":"Applying genetic algorithms with speciation for optimization of grid template pattern detection in financial markets.","venue":"Expert Syst. Appl.","volume":"147","pages":"113191","year":"2020","type":"Journal Articles","access":"closed","key":"journals/eswa/MartinsN20","doi":"10.1016/J.ESWA.2020.113191","ee":"https://doi.org/10.1016/j.eswa.2020.113191","url":"https://dblp.org/rec/journals/eswa/MartinsN20"},
+"url":"URL#718639"
+},
+{
+"@score":"2",
+"@id":"742615",
+"info":{"authors":{"author":{"@pid":"237/3779","text":"Gaofeng Xu"}},"title":"Optimise financial cost for smart agriculture based on genetic algorithm.","venue":"Int. J. Wirel. Mob. Comput.","volume":"19","number":"1","pages":"80-86","year":"2020","type":"Journal Articles","access":"closed","key":"journals/ijwmc/Xu20a","doi":"10.1504/IJWMC.2020.109272","ee":"https://doi.org/10.1504/IJWMC.2020.109272","url":"https://dblp.org/rec/journals/ijwmc/Xu20a"},
+"url":"URL#742615"
+},
+{
+"@score":"2",
+"@id":"748032",
+"info":{"authors":{"author":[{"@pid":"64/6025-140","text":"Wei Li 0140"},{"@pid":"280/8056","text":"Qiling Zhou"},{"@pid":"185/6050","text":"Junying Ren"},{"@pid":"280/8287","text":"Samantha Spector"}]},"title":"Data mining optimization model for financial management information system based on improved genetic algorithm.","venue":"Inf. Syst. E Bus. Manag.","volume":"18","number":"4","pages":"747-765","year":"2020","type":"Journal Articles","access":"closed","key":"journals/isem/LiZRS20","doi":"10.1007/S10257-018-00394-4","ee":"https://doi.org/10.1007/s10257-018-00394-4","url":"https://dblp.org/rec/journals/isem/LiZRS20"},
+"url":"URL#748032"
+},
+{
+"@score":"2",
+"@id":"751824",
+"info":{"authors":{"author":[{"@pid":"143/2734","text":"Eren Bas"},{"@pid":"35/4805","text":"Ufuk Yolcu"},{"@pid":"17/4747","text":"Erol Egrioglu"}]},"title":"Picture fuzzy regression functions approach for financial time series based on ridge regression and genetic algorithm.","venue":"J. Comput. Appl. Math.","volume":"370","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jcam/BasYE20","doi":"10.1016/J.CAM.2019.112656","ee":"https://doi.org/10.1016/j.cam.2019.112656","url":"https://dblp.org/rec/journals/jcam/BasYE20"},
+"url":"URL#751824"
+},
+{
+"@score":"2",
+"@id":"828783",
+"info":{"authors":{"author":[{"@pid":"49/7526","text":"Xiaojuan Wang"},{"@pid":"265/1406","text":"Lanshan Gan"},{"@pid":"77/266","text":"Songlin Liu"}]},"title":"Research on intelligence analysis technology of financial industry data based on genetic algorithm.","venue":"J. Supercomput.","volume":"76","number":"5","pages":"3391-3401","year":"2020","type":"Journal Articles","access":"closed","key":"journals/tjs/WangGL20","doi":"10.1007/S11227-018-2584-2","ee":"https://doi.org/10.1007/s11227-018-2584-2","url":"https://dblp.org/rec/journals/tjs/WangGL20"},
+"url":"URL#828783"
+},
+{
+"@score":"2",
+"@id":"1091618",
+"info":{"authors":{"author":[{"@pid":"31/1483","text":"Yuh-Jen Chen"},{"@pid":"247/8185","text":"Jou-An Lin"},{"@pid":"77/1777","text":"Yuh-Min Chen"},{"@pid":"189/5299","text":"Jyun-Han Wu"}]},"title":"Financial Forecasting With Multivariate Adaptive Regression Splines and Queen Genetic Algorithm-Support Vector Regression.","venue":"IEEE Access","volume":"7","pages":"112931-112938","year":"2019","type":"Journal Articles","access":"open","key":"journals/access/ChenLCW19a","doi":"10.1109/ACCESS.2019.2927277","ee":"https://doi.org/10.1109/ACCESS.2019.2927277","url":"https://dblp.org/rec/journals/access/ChenLCW19a"},
+"url":"URL#1091618"
+},
+{
+"@score":"2",
+"@id":"1154151",
+"info":{"authors":{"author":[{"@pid":"144/0853","text":"Viktor Manahov"},{"@pid":"234/8452","text":"Hanxiong Zhang"}]},"title":"Forecasting Financial Markets Using High-Frequency Trading Data: Examination with Strongly Typed Genetic Programming.","venue":"Int. J. Electron. Commer.","volume":"23","number":"1","pages":"12-32","year":"2019","type":"Journal Articles","access":"closed","key":"journals/ijecommerce/ManahovZ19","doi":"10.1080/10864415.2018.1512271","ee":"https://doi.org/10.1080/10864415.2018.1512271","url":"https://dblp.org/rec/journals/ijecommerce/ManahovZ19"},
+"url":"URL#1154151"
+},
+{
+"@score":"2",
+"@id":"1220213",
+"info":{"authors":{"author":[{"@pid":"202/6347","text":"Shengdong Mu"},{"@pid":"254/9891","text":"Zhengxian Xiong"}]},"title":"Internet financial interest rate risk measure based on genetic rough set reduction.","venue":"Serv. Oriented Comput. Appl.","volume":"13","number":"4","pages":"309-321","year":"2019","type":"Journal Articles","access":"closed","key":"journals/soca/MuX19","doi":"10.1007/S11761-019-00274-W","ee":"https://doi.org/10.1007/s11761-019-00274-w","url":"https://dblp.org/rec/journals/soca/MuX19"},
+"url":"URL#1220213"
+},
+{
+"@score":"2",
+"@id":"1530178",
+"info":{"authors":{"author":[{"@pid":"54/10848","text":"Chun Yan"},{"@pid":"17/6729","text":"Lin Wang"},{"@pid":"49/3283-51","text":"Wei Liu 0051"},{"@pid":"17/3518","text":"Man Qi"}]},"title":"Financial early warning of non-life insurance company based on RBF neural network optimized by genetic algorithm.","venue":"Concurr. Comput. Pract. Exp.","volume":"30","number":"23","year":"2018","type":"Journal Articles","access":"closed","key":"journals/concurrency/YanWLQ18","doi":"10.1002/CPE.4343","ee":"https://doi.org/10.1002/cpe.4343","url":"https://dblp.org/rec/journals/concurrency/YanWLQ18"},
+"url":"URL#1530178"
+},
+{
+"@score":"2",
+"@id":"1745085",
+"info":{"authors":{"author":[{"@pid":"227/2894","text":"Norberto Ritzmann Junior"},{"@pid":"62/6863","text":"Júlio César Nievola"}]},"title":"A generalized financial time series forecasting model based on automatic feature engineering using genetic algorithms and support vector machine.","venue":"IJCNN","pages":"1-8","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/JuniorN18","doi":"10.1109/IJCNN.2018.8489034","ee":"https://doi.org/10.1109/IJCNN.2018.8489034","url":"https://dblp.org/rec/conf/ijcnn/JuniorN18"},
+"url":"URL#1745085"
+},
+{
+"@score":"2",
+"@id":"1802930",
+"info":{"authors":{"author":[{"@pid":"198/1621","text":"Thambo Nyathi"},{"@pid":"70/814","text":"Nelishia Pillay"}]},"title":"Automated Design of Genetic Programming Classification Algorithms for Financial Forecasting Using Evolutionary Algorithms.","venue":"TPNC","pages":"201-214","year":"2018","type":"Conference and Workshop Papers","access":"closed","key":"conf/tpnc/NyathiP18","doi":"10.1007/978-3-030-04070-3_16","ee":"https://doi.org/10.1007/978-3-030-04070-3_16","url":"https://dblp.org/rec/conf/tpnc/NyathiP18"},
+"url":"URL#1802930"
+},
+{
+"@score":"2",
+"@id":"1850696",
+"info":{"authors":{"author":[{"@pid":"227/2894","text":"Norberto Ritzmann Junior"},{"@pid":"62/6863","text":"Júlio César Nievola"}]},"title":"A generalized financial time series forecasting model based on automatic feature engineering using genetic algorithms and support vector machine.","venue":"CoRR","volume":"abs/1809.06775","year":"2018","type":"Informal Publications","access":"open","key":"journals/corr/abs-1809-06775","ee":"http://arxiv.org/abs/1809.06775","url":"https://dblp.org/rec/journals/corr/abs-1809-06775"},
+"url":"URL#1850696"
+},
+{
+"@score":"2",
+"@id":"1923722",
+"info":{"authors":{"author":[{"@pid":"204/0959","text":"Tunahan Altintop"},{"@pid":"y/RonaldRYager","text":"Ronald R. Yager"},{"@pid":"74/4272","text":"Diyar Akay"},{"@pid":"26/5419","text":"Fatih Emre Boran"},{"@pid":"118/6569","text":"Muhammet Ünal"}]},"title":"Fuzzy Linguistic Summarization with Genetic Algorithm: An Application with Operational and Financial Healthcare Data.","venue":"Int. J. Uncertain. Fuzziness Knowl. Based Syst.","volume":"25","number":"4","pages":"599-620","year":"2017","type":"Journal Articles","access":"closed","key":"journals/ijufks/AltintopYABU17","doi":"10.1142/S021848851750026X","ee":"https://doi.org/10.1142/S021848851750026X","url":"https://dblp.org/rec/journals/ijufks/AltintopYABU17"},
+"url":"URL#1923722"
+},
+{
+"@score":"2",
+"@id":"1971685",
+"info":{"authors":{"author":[{"@pid":"38/8509","text":"Michael Kampouridis"},{"@pid":"45/4508","text":"Fernando E. B. Otero"}]},"title":"Heuristic procedures for improving the predictability of a genetic programming financial forecasting algorithm.","venue":"Soft Comput.","volume":"21","number":"2","pages":"295-310","year":"2017","type":"Journal Articles","access":"closed","key":"journals/soco/KampouridisO17","doi":"10.1007/S00500-015-1614-8","ee":"https://doi.org/10.1007/s00500-015-1614-8","url":"https://dblp.org/rec/journals/soco/KampouridisO17"},
+"url":"URL#1971685"
+},
+{
+"@score":"2",
+"@id":"2051514",
+"info":{"authors":{"author":{"@pid":"117/7579","text":"Yacine Kessaci"}},"title":"A multi-objective continuous genetic algorithm for financial portfolio optimization problem.","venue":"GECCO","pages":"151-152","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/Kessaci17","doi":"10.1145/3067695.3075977","ee":"https://doi.org/10.1145/3067695.3075977","url":"https://dblp.org/rec/conf/gecco/Kessaci17"},
+"url":"URL#2051514"
+},
+{
+"@score":"2",
+"@id":"2055177",
+"info":{"authors":{"author":[{"@pid":"184/9362","text":"Ga Ching Lui"},{"@pid":"201/2006","text":"Chun Yin Yip"},{"@pid":"s/KwokYipSzeto","text":"Kwok Yip Szeto"}]},"title":"Topological Evolution of Financial Network: A Genetic Algorithmic Approach.","venue":"HAIS","pages":"113-124","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/hais/LuiYS17","doi":"10.1007/978-3-319-59650-1_10","ee":"https://doi.org/10.1007/978-3-319-59650-1_10","url":"https://dblp.org/rec/conf/hais/LuiYS17"},
+"url":"URL#2055177"
+},
+{
+"@score":"2",
+"@id":"2147350",
+"info":{"authors":{"author":[{"@pid":"214/3418","text":"Henning Kvalsund"},{"@pid":"72/4326","text":"Kazi Shah Nawaz Ripon"}]},"title":"Assessing the impact of self-organizing map on genetic fuzzy set hybrid intelligent systems for financial prediction.","venue":"SSCI","pages":"1-8","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/ssci/KvalsundR17","doi":"10.1109/SSCI.2017.8285172","ee":"https://doi.org/10.1109/SSCI.2017.8285172","url":"https://dblp.org/rec/conf/ssci/KvalsundR17"},
+"url":"URL#2147350"
+},
+{
+"@score":"2",
+"@id":"2156939",
+"info":{"authors":{"author":[{"@pid":"09/3495-2","text":"Juntao Wang 0002"},{"@pid":"198/1598","text":"Wenshuo Guo"},{"@pid":"s/KwokYipSzeto","text":"Kwok Yip Szeto"}]},"title":"Optimization of financial network stability by genetic algorithm.","venue":"WI","pages":"517-524","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/webi/WangGS17","doi":"10.1145/3106426.3106524","ee":"https://doi.org/10.1145/3106426.3106524","url":"https://dblp.org/rec/conf/webi/WangGS17"},
+"url":"URL#2156939"
+},
+{
+"@score":"2",
+"@id":"2369983",
+"info":{"authors":{"author":[{"@pid":"23/2997","text":"Alexandros Agapitos"},{"@pid":"76/829","text":"Anthony Brabazon"},{"@pid":"61/6483-1","text":"Michael O&apos;Neill 0001"}]},"title":"Genetic Programming with Memory For Financial Trading.","venue":"EvoApplications","pages":"19-34","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/evoW/AgapitosBO16","doi":"10.1007/978-3-319-31204-0_2","ee":"https://doi.org/10.1007/978-3-319-31204-0_2","url":"https://dblp.org/rec/conf/evoW/AgapitosBO16"},
+"url":"URL#2369983"
+},
+{
+"@score":"2",
+"@id":"2374309",
+"info":{"authors":{"author":[{"@pid":"168/0718","text":"Sam Cramer"},{"@pid":"38/8509","text":"Michael Kampouridis"},{"@pid":"f/AlexAlvesFreitas","text":"Alex Alves Freitas"}]},"title":"A Genetic Decomposition Algorithm for Predicting Rainfall within Financial Weather Derivatives.","venue":"GECCO","pages":"885-892","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/CramerKF16","doi":"10.1145/2908812.2908894","ee":"https://doi.org/10.1145/2908812.2908894","url":"https://dblp.org/rec/conf/gecco/CramerKF16"},
+"url":"URL#2374309"
+},
+{
+"@score":"2",
+"@id":"2545235",
+"info":{"authors":{"author":[{"@pid":"137/4929","text":"Rubén Aguilar-Rivera"},{"@pid":"46/1124","text":"Manuel Valenzuela-Rendón"},{"@pid":"137/4836","text":"José Rodríguez-Ortiz"}]},"title":"Genetic algorithms and Darwinian approaches in financial applications: A survey.","venue":"Expert Syst. Appl.","volume":"42","number":"21","pages":"7684-7697","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eswa/Aguilar-RiveraV15","doi":"10.1016/J.ESWA.2015.06.001","ee":"https://doi.org/10.1016/j.eswa.2015.06.001","url":"https://dblp.org/rec/journals/eswa/Aguilar-RiveraV15"},
+"url":"URL#2545235"
+},
+{
+"@score":"2",
+"@id":"2642291",
+"info":{"authors":{"author":{"@pid":"173/9184","text":"Luna M. Zhang"}},"title":"Genetic deep neural networks using different activation functions for financial data mining.","venue":"IEEE BigData","pages":"2849-2851","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bigdataconf/Zhang15","doi":"10.1109/BIGDATA.2015.7364099","ee":"https://doi.org/10.1109/BigData.2015.7364099","url":"https://dblp.org/rec/conf/bigdataconf/Zhang15"},
+"url":"URL#2642291"
+},
+{
+"@score":"2",
+"@id":"2649129",
+"info":{"authors":{"author":[{"@pid":"14/3485","text":"Haibing Li"},{"@pid":"72/2987","text":"Man-Leung Wong"}]},"title":"Financial Fraud Detection by using Grammar-based Multi-objective Genetic Programming with ensemble learning.","venue":"CEC","pages":"1113-1120","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/LiW15","doi":"10.1109/CEC.2015.7257014","ee":"https://doi.org/10.1109/CEC.2015.7257014","url":"https://dblp.org/rec/conf/cec/LiW15"},
+"url":"URL#2649129"
+},
+{
+"@score":"2",
+"@id":"2722612",
+"info":{"authors":{"author":[{"@pid":"169/5127","text":"Manal Alghieth"},{"@pid":"96/171","text":"Yingjie Yang"},{"@pid":"51/6914","text":"Francisco Chiclana"}]},"title":"Development of 2D curve-fitting genetic/gene-expression programming technique for efficient time-series financial forecasting.","venue":"INISTA","pages":"1-8","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/inista/AlghiethYC15","doi":"10.1109/INISTA.2015.7276734","ee":"https://doi.org/10.1109/INISTA.2015.7276734","url":"https://dblp.org/rec/conf/inista/AlghiethYC15"},
+"url":"URL#2722612"
+},
+{
+"@score":"2",
+"@id":"2968904",
+"info":{"authors":{"author":[{"@pid":"45/3475","text":"James McDermott"},{"@pid":"23/2997","text":"Alexandros Agapitos"},{"@pid":"76/829","text":"Anthony Brabazon"},{"@pid":"61/6483-1","text":"Michael O&apos;Neill 0001"}]},"title":"Geometric Semantic Genetic Programming for Financial Data.","venue":"EvoApplications","pages":"215-226","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/evoW/McDermottABO14","doi":"10.1007/978-3-662-45523-4_18","ee":"https://doi.org/10.1007/978-3-662-45523-4_18","url":"https://dblp.org/rec/conf/evoW/McDermottABO14"},
+"url":"URL#2968904"
+},
+{
+"@score":"2",
+"@id":"2973412",
+"info":{"authors":{"author":[{"@pid":"148/1164","text":"James Brookhouse"},{"@pid":"45/4508","text":"Fernando E. B. Otero"},{"@pid":"38/8509","text":"Michael Kampouridis"}]},"title":"Working with OpenCL to speed up a genetic programming financial forecasting algorithm: initial results.","venue":"GECCO","pages":"1117-1124","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/BrookhouseOK14","doi":"10.1145/2598394.2605689","ee":"https://doi.org/10.1145/2598394.2605689","url":"https://dblp.org/rec/conf/gecco/BrookhouseOK14"},
+"url":"URL#2973412"
+},
+{
+"@score":"2",
+"@id":"3186719",
+"info":{"authors":{"author":[{"@pid":"117/1627","text":"Dario Bernardo"},{"@pid":"86/6357","text":"Hani Hagras"},{"@pid":"18/3625","text":"Edward P. K. Tsang"}]},"title":"A genetic type-2 fuzzy logic based system for the generation of summarised linguistic predictive models for financial applications.","venue":"Soft Comput.","volume":"17","number":"12","pages":"2185-2201","year":"2013","type":"Journal Articles","access":"closed","key":"journals/soco/BernardoHT13","doi":"10.1007/S00500-013-1102-Y","ee":"https://doi.org/10.1007/s00500-013-1102-y","url":"https://dblp.org/rec/journals/soco/BernardoHT13"},
+"url":"URL#3186719"
+},
+{
+"@score":"2",
+"@id":"3255954",
+"info":{"authors":{"author":[{"@pid":"117/1627","text":"Dario Bernardo"},{"@pid":"86/6357","text":"Hani Hagras"},{"@pid":"18/3625","text":"Edward P. K. Tsang"}]},"title":"A Genetic Type-2 fuzzy logic based system for financial applications modelling and prediction.","venue":"FUZZ-IEEE","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/fuzzIEEE/BernardoHT13","doi":"10.1109/FUZZ-IEEE.2013.6622310","ee":"https://doi.org/10.1109/FUZZ-IEEE.2013.6622310","url":"https://dblp.org/rec/conf/fuzzIEEE/BernardoHT13"},
+"url":"URL#3255954"
+},
+{
+"@score":"2",
+"@id":"3318484",
+"info":{"authors":{"author":[{"@pid":"132/1861","text":"Michael Scott Brown"},{"@pid":"132/1906","text":"Michael J. Pelosi"},{"@pid":"132/1950","text":"Henry Dirska"}]},"title":"Dynamic-Radius Species-Conserving Genetic Algorithm for the Financial Forecasting of Dow Jones Index Stocks.","venue":"MLDM","pages":"27-41","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/mldm/BrownPD13","doi":"10.1007/978-3-642-39712-7_3","ee":"https://doi.org/10.1007/978-3-642-39712-7_3","url":"https://dblp.org/rec/conf/mldm/BrownPD13"},
+"url":"URL#3318484"
+},
+{
+"@score":"2",
+"@id":"3388066",
+"info":{"authors":{"author":{"@pid":"92/7602","text":"Wen-Tsao Pan"}},"title":"The use of genetic programming for the construction of a financial management model in an enterprise.","venue":"Appl. Intell.","volume":"36","number":"2","pages":"271-279","year":"2012","type":"Journal Articles","access":"closed","key":"journals/apin/Pan12","doi":"10.1007/S10489-010-0259-7","ee":"https://doi.org/10.1007/s10489-010-0259-7","url":"https://dblp.org/rec/journals/apin/Pan12"},
+"url":"URL#3388066"
+},
+{
+"@score":"2",
+"@id":"3411557",
+"info":{"authors":{"author":{"@pid":"35/1055","text":"Blake LeBaron"}},"title":"Alma Lilia Garcia Almanza, and Edward Tsang: Evolutionary applications for financial prediction: classification methods to gather patterns using genetic programming - VDM Verlag Dr. Müller, 2011, ISBN: 978-3639307672.","venue":"Genet. Program. Evolvable Mach.","volume":"13","number":"4","pages":"537-538","year":"2012","type":"Journal Articles","access":"closed","key":"journals/gpem/LeBaron12","doi":"10.1007/S10710-012-9168-3","ee":"https://doi.org/10.1007/s10710-012-9168-3","url":"https://dblp.org/rec/journals/gpem/LeBaron12"},
+"url":"URL#3411557"
+},
+{
+"@score":"2",
+"@id":"3501633",
+"info":{"authors":{"author":[{"@pid":"74/6131","text":"Jie Du"},{"@pid":"r/RoyRada","text":"Roy Rada"}]},"title":"Knowledge-guided genetic algorithm for financial forecasting.","venue":"CIFEr","pages":"1-8","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/DuR12","doi":"10.1109/CIFER.2012.6327814","ee":"https://doi.org/10.1109/CIFEr.2012.6327814","url":"https://dblp.org/rec/conf/cifer/DuR12"},
+"url":"URL#3501633"
+},
+{
+"@score":"2",
+"@id":"3643230",
+"info":{"authors":{"author":{"@pid":"38/8509","text":"Michael Kampouridis"}},"title":"Computational intelligence in financial forecasting and agent-based modeling: applications of genetic programming and self-organizing maps.","year":"2011","type":"Books and Theses","access":"closed","key":"phd/ethos/Kampouridis11","ee":"https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.548594","url":"https://dblp.org/rec/phd/ethos/Kampouridis11"},
+"url":"URL#3643230"
+},
+{
+"@score":"2",
+"@id":"3669252",
+"info":{"authors":{"author":[{"@pid":"161/5988","text":"Farimah Mokhatab Rafiei"},{"@pid":"76/9410","text":"S. M. Manzari"},{"@pid":"62/9410","text":"S. Bostanian"}]},"title":"Financial health prediction models using artificial neural networks, genetic algorithm and multivariate discriminant analysis: Iranian evidence.","venue":"Expert Syst. Appl.","volume":"38","number":"8","pages":"10210-10217","year":"2011","type":"Journal Articles","access":"closed","key":"journals/eswa/RafieiMB11","doi":"10.1016/J.ESWA.2011.02.082","ee":"https://doi.org/10.1016/j.eswa.2011.02.082","url":"https://dblp.org/rec/journals/eswa/RafieiMB11"},
+"url":"URL#3669252"
+},
+{
+"@score":"2",
+"@id":"3701239",
+"info":{"authors":{"author":[{"@pid":"54/5330-2","text":"Jie Sun 0002"},{"@pid":"94/9853","text":"Kai-Yu He"},{"@pid":"66/3387-1","text":"Hui Li 0001"}]},"title":"SFFS-PC-NN optimized by genetic algorithm for dynamic prediction of financial distress with longitudinal data streams.","venue":"Knowl. Based Syst.","volume":"24","number":"7","pages":"1013-1023","year":"2011","type":"Journal Articles","access":"closed","key":"journals/kbs/SunHL11","doi":"10.1016/J.KNOSYS.2011.04.013","ee":"https://doi.org/10.1016/j.knosys.2011.04.013","url":"https://dblp.org/rec/journals/kbs/SunHL11"},
+"url":"URL#3701239"
+},
+{
+"@score":"2",
+"@id":"3799629",
+"info":{"authors":{"author":[{"@pid":"68/9686","text":"Anupam Tarsauliya"},{"@pid":"15/1141","text":"Ritu Tiwari"},{"@pid":"13/3129","text":"Anupam Shukla"}]},"title":"Financial Time Series Forecast using Simulated Annealing and Threshold Acceptance Genetic BPA Neural Network.","venue":"ICEIS","pages":"172-177","year":"2011","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/iceis/TarsauliyaTS11","url":"https://dblp.org/rec/conf/iceis/TarsauliyaTS11"},
+"url":"URL#3799629"
+},
+{
+"@score":"2",
+"@id":"3892019",
+"info":{"authors":{"author":{"@pid":"52/3584","text":"Ghada Nasr Aly Hassan"}},"title":"Multiobjective genetic programming for financial portfolio management in dynamic environments.","year":"2010","type":"Books and Theses","access":"closed","key":"phd/ethos/Hassan10","ee":"http://discovery.ucl.ac.uk/20456/","url":"https://dblp.org/rec/phd/ethos/Hassan10"},
+"url":"URL#3892019"
+},
+{
+"@score":"2",
+"@id":"3994560",
+"info":{"authors":{"author":[{"@pid":"67/5807","text":"Fang Liu"},{"@pid":"98/1044","text":"Antoaneta Serguieva"},{"@pid":"58/884","text":"Paresh Date"}]},"title":"A mixed-game and co-evolutionary genetic programming agent-based model of financial contagion.","venue":"IEEE Congress on Evolutionary Computation","pages":"1-7","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/LiuSD10","doi":"10.1109/CEC.2010.5586243","ee":"https://doi.org/10.1109/CEC.2010.5586243","url":"https://dblp.org/rec/conf/cec/LiuSD10"},
+"url":"URL#3994560"
+},
+{
+"@score":"2",
+"@id":"4016506",
+"info":{"authors":{"author":[{"@pid":"38/8284","text":"Paulo Parracho"},{"@pid":"87/9882","text":"Rui Ferreira Neves"},{"@pid":"40/6389","text":"Nuno Horta"}]},"title":"Trading in financial markets using pattern recognition optimized by genetic algorithms.","venue":"GECCO","pages":"2105-2106","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/ParrachoNH10","doi":"10.1145/1830761.1830884","ee":"https://doi.org/10.1145/1830761.1830884","url":"https://dblp.org/rec/conf/gecco/ParrachoNH10"},
+"url":"URL#4016506"
+},
+{
+"@score":"2",
+"@id":"4088698",
+"info":{"authors":{"author":[{"@pid":"34/8742","text":"Victor Parque"},{"@pid":"94/4892","text":"Shingo Mabu"},{"@pid":"65/4910","text":"Kotaro Hirasawa"}]},"title":"Asset selection in global financial markets using Genetic Network Programming.","venue":"SMC","pages":"677-683","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/smc/ParqueMH10","doi":"10.1109/ICSMC.2010.5641828","ee":"https://doi.org/10.1109/ICSMC.2010.5641828","url":"https://dblp.org/rec/conf/smc/ParqueMH10"},
+"url":"URL#4088698"
+},
+{
+"@score":"2",
+"@id":"4109782",
+"info":{"authors":{"author":[{"@pid":"145/8035","text":"Judith Wiesinger"},{"@pid":"06/613","text":"Didier Sornette"},{"@pid":"145/7986","text":"Jeffrey Satinover"}]},"title":"Reverse Engineering Financial Markets with Majority and Minority Games using Genetic Algorithms","venue":"CoRR","volume":"abs/1002.2171","year":"2010","type":"Informal Publications","access":"open","key":"journals/corr/abs-1002-2171","ee":"http://arxiv.org/abs/1002.2171","url":"https://dblp.org/rec/journals/corr/abs-1002-2171"},
+"url":"URL#4109782"
+},
+{
+"@score":"2",
+"@id":"4152347",
+"info":{"authors":{"author":{"@pid":"00/5590","text":"Zhibin Xiong"}},"title":"Research on Financial Distress Prediction with Adaptive Genetic Fuzzy Neural Networks on Listed Corporations of China.","venue":"Int. J. Commun. Netw. Syst. Sci.","volume":"2","number":"5","pages":"385-391","year":"2009","type":"Journal Articles","access":"open","key":"journals/ijcns/Xiong09","doi":"10.4236/IJCNS.2009.25043","ee":"https://doi.org/10.4236/ijcns.2009.25043","url":"https://dblp.org/rec/journals/ijcns/Xiong09"},
+"url":"URL#4152347"
+},
+{
+"@score":"2",
+"@id":"4204466",
+"info":{"authors":{"author":[{"@pid":"92/4404","text":"Matthew Butler 0001"},{"@pid":"32/5995","text":"Vlado Keselj"}]},"title":"Optimizing a Pseudo Financial Factor Model with Support Vector Machines and Genetic Programming.","venue":"Canadian Conference on AI","pages":"191-194","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/ai/ButlerK09a","doi":"10.1007/978-3-642-01818-3_21","ee":"https://doi.org/10.1007/978-3-642-01818-3_21","url":"https://dblp.org/rec/conf/ai/ButlerK09a"},
+"url":"URL#4204466"
+},
+{
+"@score":"2",
+"@id":"4240570",
+"info":{"authors":{"author":[{"@pid":"79/5796-3","text":"Yuhua Li 0003"},{"@pid":"34/7537","text":"Dongsheng Duan"},{"@pid":"53/7820","text":"Guanghao Hu"},{"@pid":"78/1354","text":"Zhengding Lu"}]},"title":"Discovering Hidden Group in Financial Transaction Network Using Hidden Markov Model and Genetic Algorithm.","venue":"FSKD","pages":"253-258","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/fskd/LiDHL09","doi":"10.1109/FSKD.2009.592","ee":"https://doi.org/10.1109/FSKD.2009.592","url":"https://dblp.org/rec/conf/fskd/LiDHL09"},
+"url":"URL#4240570"
+},
+{
+"@score":"2",
+"@id":"4439571",
+"info":{"authors":{"author":{"@pid":"00/5590","text":"Zhibin Xiong"}},"title":"Financial Distress Prediction Study with Adaptive Genetic Fuzzy Neural Networks on Listed Corporations of China.","venue":"CSSE","pages":"898-901","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/csse/Xiong08","doi":"10.1109/CSSE.2008.715","ee":"https://doi.org/10.1109/CSSE.2008.715","url":"https://dblp.org/rec/conf/csse/Xiong08"},
+"url":"URL#4439571"
+},
+{
+"@score":"2",
+"@id":"4577043",
+"info":{"authors":{"author":[{"@pid":"09/9569","text":"Bethany Hoogs"},{"@pid":"55/9568","text":"Thomas Kiehl"},{"@pid":"09/1481","text":"Christina LaComb"},{"@pid":"55/9569","text":"Deniz Senturk"}]},"title":"A genetic algorithm approach to detecting temporal patterns indicative of financial statement fraud.","venue":"Intell. Syst. Account. Finance Manag.","volume":"15","number":"1-2","pages":"41-56","year":"2007","type":"Journal Articles","access":"closed","key":"journals/isafm/HoogsKLS07","doi":"10.1002/ISAF.284","ee":"https://doi.org/10.1002/isaf.284","url":"https://dblp.org/rec/journals/isafm/HoogsKLS07"},
+"url":"URL#4577043"
+},
+{
+"@score":"2",
+"@id":"4599439",
+"info":{"authors":{"author":[{"@pid":"71/3321","text":"Mu-Yen Chen"},{"@pid":"05/1334","text":"Kuang-Ku Chen"},{"@pid":"21/1776","text":"Heien-Kun Chiang"},{"@pid":"19/90","text":"Hwa-Shan Huang"},{"@pid":"28/5498","text":"Mu-Jung Huang"}]},"title":"Comparing extended classifier system and genetic programming for financial forecasting: an empirical study.","venue":"Soft Comput.","volume":"11","number":"12","pages":"1173-1183","year":"2007","type":"Journal Articles","access":"closed","key":"journals/soco/ChenCCHH07","doi":"10.1007/S00500-007-0161-3","ee":"https://doi.org/10.1007/s00500-007-0161-3","url":"https://dblp.org/rec/journals/soco/ChenCCHH07"},
+"url":"URL#4599439"
+},
+{
+"@score":"2",
+"@id":"4710564",
+"info":{"authors":{"author":[{"@pid":"09/1056","text":"Yanxia Jiang"},{"@pid":"91/1412","text":"Dagang Ke"},{"@pid":"74/1097","text":"Yongjun Wang"},{"@pid":"70/2433","text":"Lida Xu"}]},"title":"Using genetic algorithms to predict financial performance --Evidence from China.","venue":"SMC","pages":"3225-3229","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/smc/JiangKWX07","doi":"10.1109/ICSMC.2007.4413654","ee":"https://doi.org/10.1109/ICSMC.2007.4413654","url":"https://dblp.org/rec/conf/smc/JiangKWX07"},
+"url":"URL#4710564"
+},
+{
+"@score":"2",
+"@id":"4723426",
+"info":{"authors":{"author":[{"@pid":"12/748","text":"Masaru Tezuka"},{"@pid":"54/4269","text":"Masaharu Munetomo"},{"@pid":"24/2165","text":"Kiyoshi Akama"}]},"title":"Genetic Algorithm to Optimize Fitness Function with Sampling Error and its Application to Financial Optimization Problem.","venue":"Evolutionary Computation in Dynamic and Uncertain Environments","pages":"417-434","year":"2007","type":"Parts in Books or Collections","access":"closed","key":"series/sci/TezukaMA07","doi":"10.1007/978-3-540-49774-5_18","ee":"https://doi.org/10.1007/978-3-540-49774-5_18","url":"https://dblp.org/rec/series/sci/TezukaMA07"},
+"url":"URL#4723426"
+},
+{
+"@score":"2",
+"@id":"4810538",
+"info":{"authors":{"author":[{"@pid":"12/748","text":"Masaru Tezuka"},{"@pid":"54/4269","text":"Masaharu Munetomo"},{"@pid":"24/2165","text":"Kiyoshi Akama"},{"@pid":"76/6014","text":"Masahiro Hiji"}]},"title":"Genetic Algorithm to Optimize Fitness Function with Sampling Error and its Application to Financial Optimization Problem.","venue":"IEEE Congress on Evolutionary Computation","pages":"81-87","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/TezukaMAH06","doi":"10.1109/CEC.2006.1688293","ee":"https://doi.org/10.1109/CEC.2006.1688293","url":"https://dblp.org/rec/conf/cec/TezukaMAH06"},
+"url":"URL#4810538"
+},
+{
+"@score":"2",
+"@id":"4812425",
+"info":{"authors":{"author":[{"@pid":"51/4069","text":"Rongjun Li"},{"@pid":"00/5590","text":"Zhibin Xiong"}]},"title":"A Modified Genetic Fuzzy Neural Network with Application to Financial Distress Analysis.","venue":"CIMCA/IAWTIC","pages":"120","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/cimca/LiX06","doi":"10.1109/CIMCA.2006.16","ee":"https://doi.org/10.1109/CIMCA.2006.16","url":"https://dblp.org/rec/conf/cimca/LiX06"},
+"url":"URL#4812425"
+},
+{
+"@score":"2",
+"@id":"4825328",
+"info":{"authors":{"author":[{"@pid":"29/5853","text":"César Estébanez"},{"@pid":"48/4402","text":"José María Valls"},{"@pid":"69/6723","text":"Ricardo Aler"}]},"title":"Projecting Financial Data Using Genetic Programming in Classification and Regression Tasks.","venue":"EuroGP","pages":"202-212","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/eurogp/EstebanezVA06","doi":"10.1007/11729976_18","ee":"https://doi.org/10.1007/11729976_18","url":"https://dblp.org/rec/conf/eurogp/EstebanezVA06"},
+"url":"URL#4825328"
+},
+{
+"@score":"2",
+"@id":"4843921",
+"info":{"authors":{"author":[{"@pid":"91/5300","text":"Jih-Chang Hsieh"},{"@pid":"28/2856","text":"Pei-Chann Chang"},{"@pid":"29/1328","text":"Shih-Hsin Chen"}]},"title":"Integration of Genetic Algorithm and Neural Network for Financial Early Warning System: An Example of Taiwanese Banking Industry.","venue":"ICICIC","pages":"562-565","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/icicic/HsiehCC06","doi":"10.1109/ICICIC.2006.103","ee":"https://doi.org/10.1109/ICICIC.2006.103","url":"https://dblp.org/rec/conf/icicic/HsiehCC06"},
+"url":"URL#4843921"
+},
+{
+"@score":"2",
+"@id":"4884281",
+"info":{"authors":{"author":{"@pid":"72/3603","text":"Serge Hayward"}},"title":"Genetically Optimized Artificial Neural Network for Financial Time Series Data Mining.","venue":"SEAL","pages":"703-717","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/seal/Hayward06","doi":"10.1007/11903697_89","ee":"https://doi.org/10.1007/11903697_89","url":"https://dblp.org/rec/conf/seal/Hayward06"},
+"url":"URL#4884281"
+},
+{
+"@score":"2",
+"@id":"4888559",
+"info":{"authors":{"author":[{"@pid":"30/556","text":"Pei-Wen Huang"},{"@pid":"23/2735","text":"Chao-Lin Liu"}]},"title":"Using Genetic Algorithms for Feature Selection in Predicting Financial Distresses with Support Vector Machines.","venue":"SMC","pages":"4892-4897","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/smc/HuangL06","doi":"10.1109/ICSMC.2006.385080","ee":"https://doi.org/10.1109/ICSMC.2006.385080","url":"https://dblp.org/rec/conf/smc/HuangL06"},
+"url":"URL#4888559"
+},
+{
+"@score":"2",
+"@id":"4997913",
+"info":{"authors":{"author":[{"@pid":"38/4000-10","text":"Li Lin 0010"},{"@pid":"14/2589","text":"Longbing Cao"},{"@pid":"71/964","text":"Chengqi Zhang"}]},"title":"Genetic Algorithms for Robust Optimization in Financial Applications.","venue":"Computational Intelligence","pages":"387-391","year":"2005","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/iastedCI/LinCZ05","url":"https://dblp.org/rec/conf/iastedCI/LinCZ05"},
+"url":"URL#4997913"
+},
+{
+"@score":"2",
+"@id":"5120292",
+"info":{"authors":{"author":[{"@pid":"k/StevenOrlaKimbrough","text":"Steven O. Kimbrough"},{"@pid":"15/5997","text":"Ming Lu"},{"@pid":"144/6763","text":"Soofi M. Safavi"}]},"title":"Exploring a financial product model with a two-population genetic algorithm.","venue":"IEEE Congress on Evolutionary Computation","pages":"855-862","year":"2004","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/KimbroughLS04","doi":"10.1109/CEC.2004.1330950","ee":"https://doi.org/10.1109/CEC.2004.1330950","url":"https://dblp.org/rec/conf/cec/KimbroughLS04"},
+"url":"URL#5120292"
+},
+{
+"@score":"2",
+"@id":"5138622",
+"info":{"authors":{"author":[{"@pid":"58/6757","text":"Cyril Schoreels"},{"@pid":"81/6813","text":"Brian Logan 0001"},{"@pid":"97/4637","text":"Jonathan M. Garibaldi"}]},"title":"Agent based Genetic Algorithm Employing Financial Technical Analysis for Making Trading Decisions Using Historical Equity Market Data.","venue":"IAT","pages":"421-424","year":"2004","type":"Conference and Workshop Papers","access":"closed","key":"conf/iat/SchoreelsLG04","doi":"10.1109/IAT.2004.1342986","ee":"https://doi.org/10.1109/IAT.2004.1342986","url":"https://dblp.org/rec/conf/iat/SchoreelsLG04"},
+"url":"URL#5138622"
+},
+{
+"@score":"2",
+"@id":"5139463",
+"info":{"authors":{"author":{"@pid":"07/3280","text":"Karthik Vasudevan"}},"title":"A novel Genetic ARIMA (G-ARIMA) model applied to the financial problem.","venue":"IC-AI","pages":"1160-1166","year":"2004","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/icai/Vasudevan04","url":"https://dblp.org/rec/conf/icai/Vasudevan04"},
+"url":"URL#5139463"
+},
+{
+"@score":"2",
+"@id":"5153540",
+"info":{"authors":{"author":[{"@pid":"s/KwokYipSzeto","text":"Kwok Yip Szeto"},{"@pid":"35/6636","text":"Man Hon Lo"}]},"title":"An Application of Adaptive Genetic Algorithm in Financial Knapsack Problem.","venue":"IEA/AIE","pages":"1220-1228","year":"2004","type":"Conference and Workshop Papers","access":"closed","key":"conf/ieaaie/SzetoL04","doi":"10.1007/978-3-540-24677-0_125","ee":"https://doi.org/10.1007/978-3-540-24677-0_125","url":"https://dblp.org/rec/conf/ieaaie/SzetoL04"},
+"url":"URL#5153540"
+},
+{
+"@score":"2",
+"@id":"5357062",
+"info":{"authors":{"author":[{"@pid":"10/3853","text":"Roberto Kawakami Harrop Galvão"},{"@pid":"01/504","text":"Victor M. Becerra"},{"@pid":"81/5263","text":"Magda Abou-Seada"}]},"title":"Variable selection for financial distress classification using a genetic algorithm.","venue":"IEEE Congress on Evolutionary Computation","pages":"2000-2005","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/GalvaoBA02","doi":"10.1109/CEC.2002.1004550","ee":"https://doi.org/10.1109/CEC.2002.1004550","url":"https://dblp.org/rec/conf/cec/GalvaoBA02"},
+"url":"URL#5357062"
+},
+{
+"@score":"2",
+"@id":"5456194",
+"info":{"authors":{"author":[{"@pid":"211/5270","text":"Massimo Santini"},{"@pid":"t/AndreaTettamanzi","text":"Andrea Tettamanzi"}]},"title":"Genetic Programming for Financial Time Series Prediction.","venue":"EuroGP","pages":"361-370","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/eurogp/SantiniT01","doi":"10.1007/3-540-45355-5_29","ee":"https://doi.org/10.1007/3-540-45355-5_29","url":"https://dblp.org/rec/conf/eurogp/SantiniT01"},
+"url":"URL#5456194"
+},
+{
+"@score":"2",
+"@id":"5549705",
+"info":{"authors":{"author":[{"@pid":"18/3625","text":"Edward P. K. Tsang"},{"@pid":"48/1097","text":"Jin Li"}]},"title":"Combining Ordinal Financial Predictions with Genetic Programming.","venue":"IDEAL","pages":"532-537","year":"2000","type":"Conference and Workshop Papers","access":"closed","key":"conf/ideal/TsangL00","doi":"10.1007/3-540-44491-2_77","ee":"https://doi.org/10.1007/3-540-44491-2_77","url":"https://dblp.org/rec/conf/ideal/TsangL00"},
+"url":"URL#5549705"
+},
+{
+"@score":"2",
+"@id":"5606105",
+"info":{"authors":{"author":[{"@pid":"58/2239","text":"Hitoshi Iba"},{"@pid":"55/6901","text":"Takashi Sasaki"}]},"title":"Using genetic programming to predict financial data.","venue":"CEC","pages":"244-251","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/IbaS99","doi":"10.1109/CEC.1999.781932","ee":"https://doi.org/10.1109/CEC.1999.781932","url":"https://dblp.org/rec/conf/cec/IbaS99"},
+"url":"URL#5606105"
+},
+{
+"@score":"2",
+"@id":"5606163",
+"info":{"authors":{"author":[{"@pid":"93/6190","text":"Kumar Mehta"},{"@pid":"22/3484","text":"Siddhartha Bhattacharyya"}]},"title":"Combining rules learnt using genetic algorithms for financial forecasting.","venue":"CEC","pages":"1245-1252","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/cec/MehtaB99","doi":"10.1109/CEC.1999.782581","ee":"https://doi.org/10.1109/CEC.1999.782581","url":"https://dblp.org/rec/conf/cec/MehtaB99"},
+"url":"URL#5606163"
+},
+{
+"@score":"2",
+"@id":"5606746",
+"info":{"authors":{"author":{"@pid":"147/6172","text":"Joaquin R. Trigueros"}},"title":"Extracting earnings information from financial statements via genetic algorithms.","venue":"CIFEr","pages":"281-296","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/Trigueros99","doi":"10.1109/CIFER.1999.771130","ee":"https://doi.org/10.1109/CIFER.1999.771130","url":"https://dblp.org/rec/conf/cifer/Trigueros99"},
+"url":"URL#5606746"
+},
+{
+"@score":"2",
+"@id":"5614100",
+"info":{"authors":{"author":[{"@pid":"87/1647","text":"Shu-Heng Chen"},{"@pid":"31/5552","text":"Tzu-Wen Kuo"}]},"title":"Towards an Agent-Based Foundation of Financial Econometrics: An Approach Based on Genetic-Programming Artificial Markets.","venue":"GECCO","pages":"966","year":"1999","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/gecco/ChenK99","url":"https://dblp.org/rec/conf/gecco/ChenK99"},
+"url":"URL#5614100"
+},
+{
+"@score":"2",
+"@id":"5674986",
+"info":{"authors":{"author":[{"@pid":"14/5404","text":"Roger M. Stein"},{"@pid":"147/7539","text":"Robert N. Bernard"}]},"title":"Data mining the future: genetic discovery of good trading rules in agent-based financial market simulations.","venue":"CIFEr","pages":"171-179","year":"1998","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/SteinB98","doi":"10.1109/CIFER.1998.690081","ee":"https://doi.org/10.1109/CIFER.1998.690081","url":"https://dblp.org/rec/conf/cifer/SteinB98"},
+"url":"URL#5674986"
+},
+{
+"@score":"2",
+"@id":"5695524",
+"info":{"authors":{"author":[{"@pid":"15/4034","text":"Martin Kührer"},{"@pid":"91/2039","text":"Walter Reinisch"}]},"title":"Forecasting Financial Markets Utilizing Artificial Neural Networks and Genetic Algorithms.","venue":"NC","pages":"347-350","year":"1998","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/nc/KuhrerR98","url":"https://dblp.org/rec/conf/nc/KuhrerR98"},
+"url":"URL#5695524"
+},
+{
+"@score":"2",
+"@id":"5736102",
+"info":{"authors":{"author":[{"@pid":"87/1647","text":"Shu-Heng Chen"},{"@pid":"79/4881","text":"Chia-Hsuan Yeh"}]},"title":"Speculative trades and financial regulations: simulations based on genetic programming.","venue":"CIFEr","pages":"123-129","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/ChenY97","doi":"10.1109/CIFER.1997.618924","ee":"https://doi.org/10.1109/CIFER.1997.618924","url":"https://dblp.org/rec/conf/cifer/ChenY97"},
+"url":"URL#5736102"
+},
+{
+"@score":"2",
+"@id":"5743182",
+"info":{"authors":{"author":[{"@pid":"87/1647","text":"Shu-Heng Chen"},{"@pid":"99/108","text":"Chih-Chi Ni"}]},"title":"Evolutionary Artificial Neural Networks and Genetic Programming: A Comparative Study Based on Financial Data.","venue":"ICANNGA","pages":"397-400","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/icannga/ChenN97","doi":"10.1007/978-3-7091-6492-1_87","ee":"https://doi.org/10.1007/978-3-7091-6492-1_87","url":"https://dblp.org/rec/conf/icannga/ChenN97"},
+"url":"URL#5743182"
+},
+{
+"@score":"2",
+"@id":"5764234",
+"info":{"authors":{"author":[{"@pid":"09/3884","text":"Sam Mahfoud"},{"@pid":"22/2894","text":"Ganesh Mani"}]},"title":"Financial Forecasting Using Genetic Algorithms.","venue":"Appl. Artif. Intell.","volume":"10","number":"6","pages":"543-566","year":"1996","type":"Journal Articles","access":"closed","key":"journals/aai/MahfoudM96","doi":"10.1080/088395196118425","ee":"https://doi.org/10.1080/088395196118425","url":"https://dblp.org/rec/journals/aai/MahfoudM96"},
+"url":"URL#5764234"
+},
+{
+"@score":"2",
+"@id":"5788927",
+"info":{"authors":{"author":[{"@pid":"45/4709","text":"Mark Kingham"},{"@pid":"06/1381","text":"Masoud Mohammadian"}]},"title":"Financial modelling and prediction of interest rate using fuzzy logic and genetic algorithms.","venue":"ANZIIS","pages":"233-236","year":"1996","type":"Conference and Workshop Papers","access":"closed","key":"conf/anziis/KinghamM96","doi":"10.1109/ANZIIS.1996.573943","ee":"https://doi.org/10.1109/ANZIIS.1996.573943","url":"https://dblp.org/rec/conf/anziis/KinghamM96"},
+"url":"URL#5788927"
+},
+{
+"@score":"2",
+"@id":"5790500",
+"info":{"authors":{"author":[{"@pid":"k/HillolKargupta","text":"Hillol Kargupta"},{"@pid":"48/274","text":"Kevin Buescher"}]},"title":"The gene expression messy genetic algorithm for financial applications.","venue":"CIFEr","pages":"155-161","year":"1996","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/KarguptaB96","doi":"10.1109/CIFER.1996.501840","ee":"https://doi.org/10.1109/CIFER.1996.501840","url":"https://dblp.org/rec/conf/cifer/KarguptaB96"},
+"url":"URL#5790500"
+},
+{
+"@score":"2",
+"@id":"5790511",
+"info":{"authors":{"author":[{"@pid":"36/5036","text":"Teresa Rubinson"},{"@pid":"y/RonaldRYager","text":"Ronald R. Yager"}]},"title":"Fuzzy logic and genetic algorithms for financial risk management.","venue":"CIFEr","pages":"90-95","year":"1996","type":"Conference and Workshop Papers","access":"closed","key":"conf/cifer/RubinsonY96","doi":"10.1109/CIFER.1996.501829","ee":"https://doi.org/10.1109/CIFER.1996.501829","url":"https://dblp.org/rec/conf/cifer/RubinsonY96"},
+"url":"URL#5790511"
+},
+{
+"@score":"2",
+"@id":"5900298",
+"info":{"authors":{"author":[{"@pid":"30/6282","text":"Suran Goonatilake"},{"@pid":"25/3161","text":"John A. Campbell"},{"@pid":"49/2239","text":"Nesar Ahmad"}]},"title":"Genetic-Fuzzy Systems for Financial Decision Making.","venue":"IEEE/Nagoya-University World Wisepersons Workshop","pages":"202-223","year":"1994","type":"Conference and Workshop Papers","access":"closed","key":"conf/nagoya/GoonatilakeCA94","doi":"10.1007/3-540-60607-6_14","ee":"https://doi.org/10.1007/3-540-60607-6_14","url":"https://dblp.org/rec/conf/nagoya/GoonatilakeCA94"},
+"url":"URL#5900298"
+},
+{
+"@score":"2",
+"@id":"5968070",
+"info":{"authors":{"author":{"@pid":"93/2164","text":"Sergio Margarita"}},"title":"Genetic Neural Networks for Financial Markets: Some Results.","venue":"ECAI","pages":"211-213","year":"1992","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/ecai/Margarita92","url":"https://dblp.org/rec/conf/ecai/Margarita92"},
+"url":"URL#5968070"
+}
+]
+}
+}
+}

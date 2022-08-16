@@ -1,0 +1,153 @@
+{
+"result":{
+"query":"spiking* trading*|stock*|finance*|financial*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"1.89"
+},
+"completions":{
+"@total":"6",
+"@computed":"6",
+"@sent":"6",
+"c":[
+{
+"@sc":"8",
+"@dc":"8",
+"@oc":"8",
+"@id":"47131932",
+"text":"stöckel"
+},
+{
+"@sc":"2",
+"@dc":"2",
+"@oc":"2",
+"@id":"46275674",
+"text":"financial"
+},
+{
+"@sc":"2",
+"@dc":"1",
+"@oc":"2",
+"@id":"47124803",
+"text":"stockton"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47131936",
+"text":"stöcker"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47131941",
+"text":"stöckl"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47204991",
+"text":"trading"
+}
+]
+},
+"hits":{
+"@total":"14",
+"@computed":"14",
+"@sent":"14",
+"@first":"0",
+"hit":[{
+"@score":"3",
+"@id":"2286819",
+"info":{"authors":{"author":[{"@pid":"155/3480","text":"Wondimu Teka"},{"@pid":"194/6238","text":"David B. Stockton"},{"@pid":"36/2211","text":"Fidel Santamaría"}]},"title":"Power-Law Dynamics of Membrane Conductances Increase Spiking Diversity in a Hodgkin-Huxley Model.","venue":"PLoS Comput. Biol.","volume":"12","number":"3","year":"2016","type":"Journal Articles","access":"open","key":"journals/ploscb/TekaSS16","doi":"10.1371/JOURNAL.PCBI.1004776","ee":"https://doi.org/10.1371/journal.pcbi.1004776","url":"https://dblp.org/rec/journals/ploscb/TekaSS16"},
+"url":"URL#2286819"
+},
+{
+"@score":"2",
+"@id":"338227",
+"info":{"authors":{"author":[{"@pid":"256/0922","text":"Christoph Stöckl"},{"@pid":"m/WolfgangMaass","text":"Wolfgang Maass 0001"}]},"title":"Optimized spiking neurons can classify images with high accuracy through temporal coding with two spikes.","venue":"Nat. Mach. Intell.","volume":"3","number":"3","pages":"230-238","year":"2021","type":"Journal Articles","access":"closed","key":"journals/natmi/StocklM21","doi":"10.1038/S42256-021-00311-4","ee":"https://doi.org/10.1038/s42256-021-00311-4","url":"https://dblp.org/rec/journals/natmi/StocklM21"},
+"url":"URL#338227"
+},
+{
+"@score":"2",
+"@id":"339501",
+"info":{"authors":{"author":[{"@pid":"206/1877","text":"Andreas Stöckel"},{"@pid":"68/8","text":"Chris Eliasmith"}]},"title":"Passive Nonlinear Dendritic Interactions as a Computational Resource in Spiking Neural Networks.","venue":"Neural Comput.","volume":"33","number":"1","pages":"96-128","year":"2021","type":"Journal Articles","access":"closed","key":"journals/neco/StockelE21","doi":"10.1162/NECO_A_01338","ee":"https://doi.org/10.1162/neco_a_01338","url":"https://dblp.org/rec/journals/neco/StockelE21"},
+"url":"URL#339501"
+},
+{
+"@score":"2",
+"@id":"531392",
+"info":{"authors":{"author":[{"@pid":"280/2749","text":"Karolina Matenczuk"},{"@pid":"259/5560","text":"Agata Kozina"},{"@pid":"306/9747","text":"Aleksandra Markowska"},{"@pid":"205/0714","text":"Kateryna Czerniachowska"},{"@pid":"277/8649","text":"Klaudia Kaczmarczyk"},{"@pid":"280/2687","text":"Pawel Golec"},{"@pid":"71/331","text":"Marcin Hernes"},{"@pid":"305/8921","text":"Krzysztof Lutoslawski"},{"@pid":"70/1285","text":"Adrianna Kozierkiewicz"},{"@pid":"20/9479","text":"Marcin Pietranik"},{"@pid":"37/2594","text":"Artur Rot"},{"@pid":"75/10477","text":"Mykola Dyvak"}]},"title":"Financial Time Series Forecasting: Comparison of Traditional and Spiking Neural Networks.","venue":"KES","pages":"5023-5029","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kes/MatenczukKMCKGH21","doi":"10.1016/J.PROCS.2021.09.280","ee":"https://doi.org/10.1016/j.procs.2021.09.280","url":"https://dblp.org/rec/conf/kes/MatenczukKMCKGH21"},
+"url":"URL#531392"
+},
+{
+"@score":"2",
+"@id":"872461",
+"info":{"authors":{"author":[{"@pid":"206/1877","text":"Andreas Stöckel"},{"@pid":"57/9201","text":"Terrence C. Stewart"},{"@pid":"68/8","text":"Chris Eliasmith"}]},"title":"A Biologically Plausible Spiking Neural Model of Eyeblink Conditioning in the Cerebellum.","venue":"CogSci","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/cogsci/StockelSE20","ee":"https://cogsci.mindmodeling.org/2020/papers/0348/index.html","url":"https://dblp.org/rec/conf/cogsci/StockelSE20"},
+"url":"URL#872461"
+},
+{
+"@score":"2",
+"@id":"932779",
+"info":{"authors":{"author":[{"@pid":"07/3005","text":"James S. Plank"},{"@pid":"43/8843","text":"Jiajia Zhao"},{"@pid":"251/2999","text":"Brent Hurst"}]},"title":"Reducing the Size of Spiking Convolutional Neural Networks by Trading Time for Space.","venue":"ICRC","pages":"116-125","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/icrc/PlankZH20","doi":"10.1109/ICRC2020.2020.00010","ee":"https://doi.org/10.1109/ICRC2020.2020.00010","url":"https://dblp.org/rec/conf/icrc/PlankZH20"},
+"url":"URL#932779"
+},
+{
+"@score":"2",
+"@id":"950870",
+"info":{"authors":{"author":[{"@pid":"163/2157","text":"Sebastian Billaudelle"},{"@pid":"218/5859","text":"Yannik Stradmann"},{"@pid":"230/3824","text":"Korbinian Schreiber"},{"@pid":"249/2918","text":"Benjamin Cramer"},{"@pid":"223/4752","text":"Andreas Baumbach"},{"@pid":"223/4351","text":"Dominik Dold"},{"@pid":"255/5961","text":"Julian Göltz"},{"@pid":"223/4397","text":"Ákos Ferenc Kungl"},{"@pid":"230/3882","text":"Timo C. Wunderlich"},{"@pid":"137/3090","text":"Andreas Hartel"},{"@pid":"89/8924","text":"Eric Müller 0001"},{"@pid":"73/9749","text":"Oliver Breitwieser"},{"@pid":"198/0807","text":"Christian Mauch"},{"@pid":"198/1031","text":"Mitja Kleider"},{"@pid":"64/6929","text":"Andreas Grübl"},{"@pid":"198/0833","text":"David Stöckel"},{"@pid":"218/5637","text":"Christian Pehle"},{"@pid":"230/3934","text":"Arthur Heimbrecht"},{"@pid":"255/7446","text":"Philipp Spilger"},{"@pid":"218/5594","text":"Gerd Kiene"},{"@pid":"198/0426","text":"Vitali Karasenko"},{"@pid":"68/304","text":"Walter Senn"},{"@pid":"85/9749","text":"Mihai A. Petrovici"},{"@pid":"93/4866","text":"Johannes Schemmel"},{"@pid":"81/5772","text":"Karlheinz Meier"}]},"title":"Versatile Emulation of Spiking Neural Networks on an Accelerated Neuromorphic Substrate.","venue":"ISCAS","pages":"1-5","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/iscas/BillaudelleSSCB20","doi":"10.1109/ISCAS45731.2020.9180741","ee":"https://doi.org/10.1109/ISCAS45731.2020.9180741","url":"https://dblp.org/rec/conf/iscas/BillaudelleSSCB20"},
+"url":"URL#950870"
+},
+{
+"@score":"2",
+"@id":"950871",
+"info":{"authors":{"author":[{"@pid":"163/2157","text":"Sebastian Billaudelle"},{"@pid":"218/5859","text":"Yannik Stradmann"},{"@pid":"230/3824","text":"Korbinian Schreiber"},{"@pid":"249/2918","text":"Benjamin Cramer"},{"@pid":"223/4752","text":"Andreas Baumbach"},{"@pid":"223/4351","text":"Dominik Dold"},{"@pid":"255/5961","text":"Julian Göltz"},{"@pid":"223/4397","text":"Ákos Ferenc Kungl"},{"@pid":"230/3882","text":"Timo C. Wunderlich"},{"@pid":"137/3090","text":"Andreas Hartel"},{"@pid":"89/8924","text":"Eric Müller 0001"},{"@pid":"73/9749","text":"Oliver Breitwieser"},{"@pid":"198/0807","text":"Christian Mauch"},{"@pid":"198/1031","text":"Mitja Kleider"},{"@pid":"64/6929","text":"Andreas Grübl"},{"@pid":"198/0833","text":"David Stöckel"},{"@pid":"218/5637","text":"Christian Pehle"},{"@pid":"230/3934","text":"Arthur Heimbrecht"},{"@pid":"255/7446","text":"Philipp Spilger"},{"@pid":"218/5594","text":"Gerd Kiene"},{"@pid":"198/0426","text":"Vitali Karasenko"},{"@pid":"68/304","text":"Walter Senn"},{"@pid":"85/9749","text":"Mihai A. Petrovici"},{"@pid":"93/4866","text":"Johannes Schemmel"},{"@pid":"81/5772","text":"Karlheinz Meier"}]},"title":"Live Demonstration: Versatile Emulation of Spiking Neural Networks on an Accelerated Neuromorphic Substrate.","venue":"ISCAS","pages":"1","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/iscas/BillaudelleSSCB20a","doi":"10.1109/ISCAS45731.2020.9180960","ee":"https://doi.org/10.1109/ISCAS45731.2020.9180960","url":"https://dblp.org/rec/conf/iscas/BillaudelleSSCB20a"},
+"url":"URL#950871"
+},
+{
+"@score":"2",
+"@id":"1454515",
+"info":{"authors":{"author":[{"@pid":"206/1877","text":"Andreas Stöckel"},{"@pid":"68/8","text":"Chris Eliasmith"}]},"title":"Passive nonlinear dendritic interactions as a general computational resource in functional spiking neural networks.","venue":"CoRR","volume":"abs/1904.11713","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1904-11713","ee":"http://arxiv.org/abs/1904.11713","url":"https://dblp.org/rec/journals/corr/abs-1904-11713"},
+"url":"URL#1454515"
+},
+{
+"@score":"2",
+"@id":"1476946",
+"info":{"authors":{"author":[{"@pid":"249/2918","text":"Benjamin Cramer"},{"@pid":"198/0833","text":"David Stöckel"},{"@pid":"249/2801","text":"Markus Kreft"},{"@pid":"93/4866","text":"Johannes Schemmel"},{"@pid":"81/5772","text":"Karlheinz Meier"},{"@pid":"155/2207","text":"Viola Priesemann"}]},"title":"Control of criticality and computation in spiking neuromorphic networks with plasticity.","venue":"CoRR","volume":"abs/1909.08418","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1909-08418","ee":"http://arxiv.org/abs/1909.08418","url":"https://dblp.org/rec/journals/corr/abs-1909-08418"},
+"url":"URL#1476946"
+},
+{
+"@score":"2",
+"@id":"1493785",
+"info":{"authors":{"author":[{"@pid":"163/2157","text":"Sebastian Billaudelle"},{"@pid":"218/5859","text":"Yannik Stradmann"},{"@pid":"230/3824","text":"Korbinian Schreiber"},{"@pid":"249/2918","text":"Benjamin Cramer"},{"@pid":"223/4752","text":"Andreas Baumbach"},{"@pid":"223/4351","text":"Dominik Dold"},{"@pid":"255/5961","text":"Julian Göltz"},{"@pid":"223/4397","text":"Ákos F. Kungl"},{"@pid":"230/3882","text":"Timo C. Wunderlich"},{"@pid":"137/3090","text":"Andreas Hartel"},{"@pid":"89/8924","text":"Eric Müller 0001"},{"@pid":"73/9749","text":"Oliver Breitwieser"},{"@pid":"198/0807","text":"Christian Mauch"},{"@pid":"198/1031","text":"Mitja Kleider"},{"@pid":"64/6929","text":"Andreas Grübl"},{"@pid":"198/0833","text":"David Stöckel"},{"@pid":"218/5637","text":"Christian Pehle"},{"@pid":"230/3934","text":"Arthur Heimbrecht"},{"@pid":"255/7446","text":"Philipp Spilger"},{"@pid":"218/5594","text":"Gerd Kiene"},{"@pid":"198/0426","text":"Vitali Karasenko"},{"@pid":"68/304","text":"Walter Senn"},{"@pid":"85/9749","text":"Mihai A. Petrovici"},{"@pid":"93/4866","text":"Johannes Schemmel"},{"@pid":"81/5772","text":"Karlheinz Meier"}]},"title":"Versatile emulation of spiking neural networks on an accelerated neuromorphic substrate.","venue":"CoRR","volume":"abs/1912.12980","year":"2019","type":"Informal Publications","access":"open","key":"journals/corr/abs-1912-12980","ee":"http://arxiv.org/abs/1912.12980","url":"https://dblp.org/rec/journals/corr/abs-1912-12980"},
+"url":"URL#1493785"
+},
+{
+"@score":"2",
+"@id":"1905202",
+"info":{"authors":{"author":[{"@pid":"206/1877","text":"Andreas Stöckel"},{"@pid":"262/3693","text":"Christoph Jenzen"},{"@pid":"64/2055","text":"Michael Thies"},{"@pid":"36/3893-1","text":"Ulrich Rückert 0001"}]},"title":"Binary Associative Memories as a Benchmark for Spiking Neuromorphic Hardware.","venue":"Frontiers Comput. Neurosci.","volume":"11","pages":"71","year":"2017","type":"Journal Articles","access":"open","key":"journals/ficn/StockelJT017","doi":"10.3389/FNCOM.2017.00071","ee":"https://doi.org/10.3389/fncom.2017.00071","url":"https://dblp.org/rec/journals/ficn/StockelJT017"},
+"url":"URL#1905202"
+},
+{
+"@score":"2",
+"@id":"3296082",
+"info":{"authors":{"author":[{"@pid":"23/3140","text":"David Reid"},{"@pid":"34/4701","text":"Abir Jaafar Hussain"},{"@pid":"01/6981","text":"Hissam Tawfik"}]},"title":"Spiking neural networks for financial data prediction.","venue":"IJCNN","pages":"1-10","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/ijcnn/ReidHT13","doi":"10.1109/IJCNN.2013.6707140","ee":"https://doi.org/10.1109/IJCNN.2013.6707140","url":"https://dblp.org/rec/conf/ijcnn/ReidHT13"},
+"url":"URL#3296082"
+},
+{
+"@score":"2",
+"@id":"5772370",
+"info":{"authors":{"author":[{"@pid":"81/3483","text":"Michael Stöcker"},{"@pid":"84/1176","text":"Herbert J. Reitboeck"}]},"title":"A Neural Network for Position Invariant Pattern Recognition Combining Spiking Neurons with the Fourier-Transform.","venue":"Int. J. Neural Syst.","volume":"7","number":"6","pages":"727-734","year":"1996","type":"Journal Articles","access":"closed","key":"journals/ijns/StoeckerR96","ee":"http://ejournals.wspc.com.sg/ijns/07/0706/boeck.html","url":"https://dblp.org/rec/journals/ijns/StoeckerR96"},
+"url":"URL#5772370"
+}
+]
+}
+}
+}

@@ -1,0 +1,110 @@
+{
+"result":{
+"query":"transformer* financial*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"1.65"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"46275674",
+"text":"financial"
+}
+},
+"hits":{
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"2",
+"@id":"69709",
+"info":{"authors":{"author":[{"@pid":"66/7952-1","text":"Masanori Hirano 0001"},{"@pid":"10/3765","text":"Kiyoshi Izumi"},{"@pid":"66/835","text":"Hiroki Sakaji"}]},"title":"STBM+: Advanced Stochastic Trading Behavior Model for Financial Markets using Residual Blocks or Transformers.","venue":"New Gener. Comput.","volume":"40","number":"1","pages":"7-24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/ngc/HiranoIS22","doi":"10.1007/S00354-021-00145-Z","ee":"https://doi.org/10.1007/s00354-021-00145-z","url":"https://dblp.org/rec/journals/ngc/HiranoIS22"},
+"url":"URL#69709"
+},
+{
+"@score":"2",
+"@id":"116053",
+"info":{"authors":{"author":[{"@pid":"218/8007","text":"Linyi Yang"},{"@pid":"155/6074-2","text":"Jiazheng Li 0002"},{"@pid":"94/11082","text":"Ruihai Dong"},{"@pid":"47/722","text":"Yue Zhang"},{"@pid":"s/BarrySmyth","text":"Barry Smyth"}]},"title":"NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-Task Financial Forecasting.","venue":"AAAI","pages":"11604-11612","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/aaai/Yang0DZS22","ee":"https://ojs.aaai.org/index.php/AAAI/article/view/21414","url":"https://dblp.org/rec/conf/aaai/Yang0DZS22"},
+"url":"URL#116053"
+},
+{
+"@score":"2",
+"@id":"131982",
+"info":{"authors":{"author":[{"@pid":"324/0889","text":"Samuel López-Ruiz"},{"@pid":"235/1649","text":"Carlos Ignacio Hernández Castellanos"},{"@pid":"19/2065","text":"Katya Rodríguez-Vázquez"}]},"title":"Multi-objective framework for quantile forecasting in financial time series using transformers.","venue":"GECCO","pages":"395-403","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/Lopez-RuizCR22","doi":"10.1145/3512290.3528740","ee":"https://doi.org/10.1145/3512290.3528740","url":"https://dblp.org/rec/conf/gecco/Lopez-RuizCR22"},
+"url":"URL#131982"
+},
+{
+"@score":"2",
+"@id":"171146",
+"info":{"authors":{"author":[{"@pid":"218/8007","text":"Linyi Yang"},{"@pid":"155/6074-2","text":"Jiazheng Li 0002"},{"@pid":"94/11082","text":"Ruihai Dong"},{"@pid":"47/722","text":"Yue Zhang"},{"@pid":"s/BarrySmyth","text":"Barry Smyth"}]},"title":"NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting.","venue":"CoRR","volume":"abs/2201.01770","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2201-01770","ee":"https://arxiv.org/abs/2201.01770","url":"https://dblp.org/rec/journals/corr/abs-2201-01770"},
+"url":"URL#171146"
+},
+{
+"@score":"2",
+"@id":"279668",
+"info":{"authors":{"author":[{"@pid":"13/5044","text":"Shi Yu"},{"@pid":"11/5123","text":"Yuxin Chen"},{"@pid":"260/7102","text":"Hussain Zaidi"}]},"title":"AVA: A Financial Service Chatbot Based on Deep Bidirectional Transformers.","venue":"Frontiers Appl. Math. Stat.","volume":"7","pages":"604842","year":"2021","type":"Journal Articles","access":"open","key":"journals/fams/YuCZ21","doi":"10.3389/FAMS.2021.604842","ee":"https://doi.org/10.3389/fams.2021.604842","url":"https://dblp.org/rec/journals/fams/YuCZ21"},
+"url":"URL#279668"
+},
+{
+"@score":"2",
+"@id":"547705",
+"info":{"authors":{"author":[{"@pid":"316/1562","text":"Huije Lee"},{"@pid":"204/2973","text":"Wonsuk Yang"},{"@pid":"286/1449","text":"Chaehun Park"},{"@pid":"256/3610","text":"Hoyun Song"},{"@pid":"294/0262","text":"Eugene Jang"},{"@pid":"73/5376","text":"Jong C. Park"}]},"title":"Optimizing Domain Specificity of Transformer-based Language Models for Extractive Summarization of Financial News Articles in Korean.","venue":"PACLIC","pages":"611-621","year":"2021","type":"Conference and Workshop Papers","access":"open","key":"conf/paclic/LeeYPSJP21","ee":"https://aclanthology.org/2021.paclic-1.64","url":"https://dblp.org/rec/conf/paclic/LeeYPSJP21"},
+"url":"URL#547705"
+},
+{
+"@score":"2",
+"@id":"561372",
+"info":{"authors":{"author":[{"@pid":"10/3523","text":"Shilei Zhang"},{"@pid":"99/844","text":"Toyotaro Suzumura"},{"@pid":"89/5992","text":"Li Zhang"}]},"title":"DynGraphTrans: Dynamic Graph Embedding via Modified Universal Transformer Networks for Financial Transaction Data.","venue":"SMDS","pages":"184-191","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/smds/ZhangSZ21","doi":"10.1109/SMDS53860.2021.00032","ee":"https://doi.org/10.1109/SMDS53860.2021.00032","url":"https://dblp.org/rec/conf/smds/ZhangSZ21"},
+"url":"URL#561372"
+},
+{
+"@score":"2",
+"@id":"575129",
+"info":{"authors":{"author":[{"@pid":"183/6610","text":"Emmanuele Chersoni"},{"@pid":"49/1619","text":"Chu-Ren Huang"}]},"title":"PolyU-CBS at the FinSim-2 Task: Combining Distributional, String-Based and Transformers-Based Features for Hypernymy Detection in the Financial Domain.","venue":"WWW","pages":"316-319","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/www/ChersoniH21","doi":"10.1145/3442442.3451387","ee":"https://doi.org/10.1145/3442442.3451387","url":"https://dblp.org/rec/conf/www/ChersoniH21"},
+"url":"URL#575129"
+},
+{
+"@score":"2",
+"@id":"575176",
+"info":{"authors":{"author":[{"@pid":"83/3591","text":"Tushar Goel"},{"@pid":"294/1009","text":"Vipul Chauhan"},{"@pid":"130/8145","text":"Ishan Verma"},{"@pid":"72/36","text":"Tirthankar Dasgupta"},{"@pid":"09/3737","text":"Lipika Dey"}]},"title":"TCS_WITM_2021 @FinSim-2: Transformer based Models for Automatic Classification of Financial Terms.","venue":"WWW","pages":"311-315","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/www/GoelCVDD21","doi":"10.1145/3442442.3451386","ee":"https://doi.org/10.1145/3442442.3451386","url":"https://dblp.org/rec/conf/www/GoelCVDD21"},
+"url":"URL#575176"
+},
+{
+"@score":"2",
+"@id":"575316",
+"info":{"authors":{"author":[{"@pid":"278/5040","text":"Nhu Khoa Nguyen"},{"@pid":"96/8781","text":"Emanuela Boros"},{"@pid":"92/8851","text":"Gaël Lejeune"},{"@pid":"86/1691","text":"Antoine Doucet"},{"@pid":"294/1184","text":"Thierry Delahaut"}]},"title":"L3i_LBPAM at the FinSim-2 task: Learning Financial Semantic Similarities with Siamese Transformers.","venue":"WWW","pages":"302-306","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/www/NguyenBLDD21","doi":"10.1145/3442442.3451384","ee":"https://doi.org/10.1145/3442442.3451384","url":"https://dblp.org/rec/conf/www/NguyenBLDD21"},
+"url":"URL#575316"
+},
+{
+"@score":"2",
+"@id":"873419",
+"info":{"authors":{"author":[{"@pid":"218/8007","text":"Linyi Yang"},{"@pid":"241/5906","text":"Eoin M. Kenny"},{"@pid":"218/7979","text":"Tin Lok James Ng"},{"@pid":"33/4854","text":"Yi Yang"},{"@pid":"s/BarrySmyth","text":"Barry Smyth"},{"@pid":"94/11082","text":"Ruihai Dong"}]},"title":"Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification.","venue":"COLING","pages":"6150-6160","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/coling/YangKNYSD20","doi":"10.18653/V1/2020.COLING-MAIN.541","ee":"https://doi.org/10.18653/v1/2020.coling-main.541","url":"https://dblp.org/rec/conf/coling/YangKNYSD20"},
+"url":"URL#873419"
+},
+{
+"@score":"2",
+"@id":"1023137",
+"info":{"authors":{"author":[{"@pid":"13/5044","text":"Shi Yu"},{"@pid":"11/5123","text":"Yuxin Chen"},{"@pid":"260/7102","text":"Hussain Zaidi"}]},"title":"A Financial Service Chatbot based on Deep Bidirectional Transformers.","venue":"CoRR","volume":"abs/2003.04987","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2003-04987","ee":"https://arxiv.org/abs/2003.04987","url":"https://dblp.org/rec/journals/corr/abs-2003-04987"},
+"url":"URL#1023137"
+},
+{
+"@score":"2",
+"@id":"1068625",
+"info":{"authors":{"author":[{"@pid":"218/8007","text":"Linyi Yang"},{"@pid":"241/5906","text":"Eoin M. Kenny"},{"@pid":"218/7979","text":"Tin Lok James Ng"},{"@pid":"33/4854","text":"Yi Yang"},{"@pid":"s/BarrySmyth","text":"Barry Smyth"},{"@pid":"94/11082","text":"Ruihai Dong"}]},"title":"Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification.","venue":"CoRR","volume":"abs/2010.12512","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2010-12512","ee":"https://arxiv.org/abs/2010.12512","url":"https://dblp.org/rec/journals/corr/abs-2010-12512"},
+"url":"URL#1068625"
+}
+]
+}
+}
+}

@@ -1,0 +1,523 @@
+{
+"result":{
+"query":"data* mining* stock*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"13.36"
+},
+"completions":{
+"@total":"10",
+"@computed":"10",
+"@sent":"10",
+"c":[
+{
+"@sc":"60",
+"@dc":"58",
+"@oc":"60",
+"@id":"47124640",
+"text":"stock"
+},
+{
+"@sc":"5",
+"@dc":"5",
+"@oc":"5",
+"@id":"47124792",
+"text":"stocks"
+},
+{
+"@sc":"3",
+"@dc":"3",
+"@oc":"3",
+"@id":"47124716",
+"text":"stockholm"
+},
+{
+"@sc":"2",
+"@dc":"1",
+"@oc":"2",
+"@id":"47124809",
+"text":"stockwell"
+},
+{
+"@sc":"2",
+"@dc":"1",
+"@oc":"2",
+"@id":"47124800",
+"text":"stockt"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47124788",
+"text":"stockprof"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47124861",
+"text":"stoeckert"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47124684",
+"text":"stocker"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47124868",
+"text":"stoecklin"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47124805",
+"text":"stocktwits"
+}
+]
+},
+"hits":{
+"@total":"71",
+"@computed":"71",
+"@sent":"71",
+"@first":"0",
+"hit":[{
+"@score":"6",
+"@id":"4818957",
+"info":{"authors":{"author":[{"@pid":"71/4490","text":"Jidong Long"},{"@pid":"14/6919","text":"Daniel G. Schwartz"},{"@pid":"44/781","text":"Sara Stoecklin"}]},"title":"Distinguishing false from true alerts in Snort by data mining patterns of alerts.","venue":"Data Mining, Intrusion Detection, Information Assurance, and Data Networks Security","pages":"62410B","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/dmkdttt/LongSS06","doi":"10.1117/12.665211","ee":"https://doi.org/10.1117/12.665211","url":"https://dblp.org/rec/conf/dmkdttt/LongSS06"},
+"url":"URL#4818957"
+},
+{
+"@score":"6",
+"@id":"4899430",
+"info":{"authors":{"author":[{"@pid":"14/6479","text":"Gil Rachlin"},{"@pid":"84/2603","text":"Mark Last"}]},"title":"Predicting Stock Trends with Time Series Data Mining and Web Content Mining.","venue":"Advances in Web Intelligence and Data Mining","pages":"181-190","year":"2006","type":"Parts in Books or Collections","access":"closed","key":"series/sci/RachlinL06","doi":"10.1007/3-540-33880-2_19","ee":"https://doi.org/10.1007/3-540-33880-2_19","url":"https://dblp.org/rec/series/sci/RachlinL06"},
+"url":"URL#4899430"
+},
+{
+"@score":"6",
+"@id":"4984875",
+"info":{"authors":{"author":[{"@pid":"08/1353","text":"Rashid Hafeez Khokhar"},{"@pid":"03/4425","text":"Mohd. Noor Md. Sap"}]},"title":"Predictive fuzzy reasoning method for time series stock market data mining.","venue":"Data Mining, Intrusion Detection, Information Assurance, and Data Networks Security","pages":"243-254","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/dmkdttt/KhokharS05","doi":"10.1117/12.603089","ee":"https://doi.org/10.1117/12.603089","url":"https://dblp.org/rec/conf/dmkdttt/KhokharS05"},
+"url":"URL#4984875"
+},
+{
+"@score":"5",
+"@id":"5060252",
+"info":{"authors":{"author":{"@pid":"25/234","text":"David R. B. Stockwell"}},"title":"Improving ecological niche models by data mining large environmental datasets for surrogate models","venue":"CoRR","volume":"abs/q-bio/0511046","year":"2005","type":"Informal Publications","access":"open","key":"journals/corr/abs-q-bio-0511046","ee":"http://arxiv.org/abs/q-bio/0511046","url":"https://dblp.org/rec/journals/corr/abs-q-bio-0511046"},
+"url":"URL#5060252"
+},
+{
+"@score":"4",
+"@id":"597690",
+"info":{"authors":{"author":[{"@pid":"289/1083","text":"Mukul Jaggi"},{"@pid":"216/3678","text":"Priyanka Mandal"},{"@pid":"289/0684","text":"Shreya Narang"},{"@pid":"253/6972","text":"Usman Naseem"},{"@pid":"212/0065","text":"Matloob Khushi"}]},"title":"Text Mining of Stocktwits Data for Predicting Stock Prices.","venue":"CoRR","volume":"abs/2103.16388","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2103-16388","ee":"https://arxiv.org/abs/2103.16388","url":"https://dblp.org/rec/journals/corr/abs-2103-16388"},
+"url":"URL#597690"
+},
+{
+"@score":"4",
+"@id":"1497340",
+"info":{"authors":{"author":{"@pid":"153/2846","text":"Muhammad Anis Uddin Nasir"}},"title":"Mining Big and Fast Data: Algorithms and Optimizations for Real-Time Data Processing.","year":"2018","type":"Books and Theses","access":"closed","key":"phd/basesearch/Nasir18","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-225487","url":"https://dblp.org/rec/phd/basesearch/Nasir18"},
+"url":"URL#1497340"
+},
+{
+"@score":"4",
+"@id":"1533519",
+"info":{"authors":{"author":[{"@pid":"165/9245","text":"Manik Sharma"},{"@pid":"244/1805","text":"Samriti Sharma"},{"@pid":"71/6695","text":"Gurvinder Singh"}]},"title":"Performance Analysis of Statistical and Supervised Learning Techniques in Stock Data Mining.","venue":"Data","volume":"3","number":"4","pages":"54","year":"2018","type":"Journal Articles","access":"open","key":"journals/data/SharmaSS18","doi":"10.3390/DATA3040054","ee":"https://doi.org/10.3390/data3040054","url":"https://dblp.org/rec/journals/data/SharmaSS18"},
+"url":"URL#1533519"
+},
+{
+"@score":"4",
+"@id":"1927574",
+"info":{"authors":{"author":[{"@pid":"82/7644","text":"Keng Hoong Ng"},{"@pid":"18/125","text":"Kok-Chin Khor"}]},"title":"StockProF: a stock profiling framework using data mining approaches.","venue":"Inf. Syst. E Bus. Manag.","volume":"15","number":"1","pages":"139-158","year":"2017","type":"Journal Articles","access":"closed","key":"journals/isem/NgK17","doi":"10.1007/S10257-016-0313-Z","ee":"https://doi.org/10.1007/s10257-016-0313-z","url":"https://dblp.org/rec/journals/isem/NgK17"},
+"url":"URL#1927574"
+},
+{
+"@score":"4",
+"@id":"1952314",
+"info":{"authors":{"author":[{"@pid":"202/2996","text":"Debashish Das"},{"@pid":"137/5184","text":"Ali Safa Sadiq"},{"@pid":"202/2922","text":"Noraziah Binti Ahmad"},{"@pid":"l/JaimeLloret","text":"Jaime Lloret 0001"}]},"title":"Stock Market Prediction with Big Data Through Hybridization of Data Mining and Optimized Neural Network Techniques.","venue":"J. Multiple Valued Log. Soft Comput.","volume":"29","number":"1-2","pages":"157-181","year":"2017","type":"Journal Articles","access":"closed","key":"journals/mvl/DasSAL17","ee":"http://www.oldcitypublishing.com/journals/mvlsc-home/mvlsc-issue-contents/mvlsc-volume-29-number-1-2-2017/mvlsc-29-1-2-p-157-181/","url":"https://dblp.org/rec/journals/mvl/DasSAL17"},
+"url":"URL#1952314"
+},
+{
+"@score":"4",
+"@id":"2066910",
+"info":{"authors":{"author":[{"@pid":"205/9390","text":"Syeda Shabnam Hasan"},{"@pid":"205/9160","text":"Rashida Rahman"},{"@pid":"205/9413","text":"Noel Mannan"},{"@pid":"205/9399","text":"Haymontee Khan"},{"@pid":"205/9264","text":"Jebun Nahar Moni"},{"@pid":"69/6511","text":"Rashedur M. Rahman"}]},"title":"Improved Stock Price Prediction by Integrating Data Mining Algorithms and Technical Indicators: A Case Study on Dhaka Stock Exchange.","venue":"ICCCI","pages":"288-297","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccci/HasanRMKMR17","doi":"10.1007/978-3-319-67074-4_28","ee":"https://doi.org/10.1007/978-3-319-67074-4_28","url":"https://dblp.org/rec/conf/iccci/HasanRMKMR17"},
+"url":"URL#2066910"
+},
+{
+"@score":"4",
+"@id":"2785706",
+"info":{"authors":{"author":[{"@pid":"157/1209","text":"Stefan van der Stockt"},{"@pid":"83/3876","text":"Aaron K. Baughman"},{"@pid":"196/9040","text":"Michael Perlitz"}]},"title":"Large-Scale Biometric Multimedia Processing.","venue":"Multimedia Data Mining and Analytics","pages":"177-204","year":"2015","type":"Parts in Books or Collections","access":"closed","key":"books/sp/15/StocktBP15","doi":"10.1007/978-3-319-14998-1_8","ee":"https://doi.org/10.1007/978-3-319-14998-1_8","url":"https://dblp.org/rec/books/sp/15/StocktBP15"},
+"url":"URL#2785706"
+},
+{
+"@score":"4",
+"@id":"3421748",
+"info":{"authors":{"author":[{"@pid":"11/11462","text":"Asadullah Al Galib"},{"@pid":"37/3906","text":"Mahbub Alam"},{"@pid":"03/11463","text":"Nowshad Hossain"},{"@pid":"69/6511","text":"Rashedur M. Rahman"}]},"title":"Study of temporal data mining technique on Dhaka Stock Exchange.","venue":"Int. J. Knowl. Eng. Data Min.","volume":"2","number":"1","pages":"1-13","year":"2012","type":"Journal Articles","access":"closed","key":"journals/ijkedm/GalibAHR12","doi":"10.1504/IJKEDM.2012.044698","ee":"https://doi.org/10.1504/IJKEDM.2012.044698","url":"https://dblp.org/rec/journals/ijkedm/GalibAHR12"},
+"url":"URL#3421748"
+},
+{
+"@score":"4",
+"@id":"4230185",
+"info":{"authors":{"author":{"@pid":"182/0681","text":"Vahid R. Riasati"}},"title":"Adaptation of the projection-slice theorem for stock valuation estimation using random Markov fields.","venue":"Data Mining, Intrusion Detection, Information Security and Assurance, and Data Networks Security","pages":"73440E","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/dmkdttt/Riasati09","doi":"10.1117/12.820420","ee":"https://doi.org/10.1117/12.820420","url":"https://dblp.org/rec/conf/dmkdttt/Riasati09"},
+"url":"URL#4230185"
+},
+{
+"@score":"4",
+"@id":"4617310",
+"info":{"authors":{"author":[{"@pid":"47/4141","text":"Lay-Ki Soon"},{"@pid":"80/4296","text":"Sang Ho Lee"}]},"title":"Explorative Data Mining on Stock Data - Experimental Results and Findings.","venue":"ADMA","pages":"562-569","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/adma/SoonL07","doi":"10.1007/978-3-540-73871-8_53","ee":"https://doi.org/10.1007/978-3-540-73871-8_53","url":"https://dblp.org/rec/conf/adma/SoonL07"},
+"url":"URL#4617310"
+},
+{
+"@score":"4",
+"@id":"4731076",
+"info":{"authors":{"author":{"@pid":"15/4965","text":"Urska Demsar"}},"title":"Data mining of geospatial data: combining visual and automatic methods.","year":"2006","type":"Books and Theses","access":"closed","key":"phd/basesearch/Demsar06","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-3892","url":"https://dblp.org/rec/phd/basesearch/Demsar06"},
+"url":"URL#4731076"
+},
+{
+"@score":"4",
+"@id":"4818927",
+"info":{"authors":{"author":[{"@pid":"45/270","text":"Jo Ting"},{"@pid":"01/5300","text":"Tak-Chung Fu"},{"@pid":"c/KFLChung","text":"Fu-Lai Chung"}]},"title":"Mining of Stock Data: Intra- and Inter-Stock Pattern Associative Classification.","venue":"DMIN","pages":"30-36","year":"2006","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/dmin/TingFC06","url":"https://dblp.org/rec/conf/dmin/TingFC06"},
+"url":"URL#4818927"
+},
+{
+"@score":"4",
+"@id":"4869799",
+"info":{"authors":{"author":[{"@pid":"19/2437","text":"Satoru Takahashi"},{"@pid":"91/472","text":"Masakazu Takahashi"},{"@pid":"54/2994","text":"Hiroshi Takahashi"},{"@pid":"10/2526","text":"Kazuhiko Tsuda"}]},"title":"Analysis of Stock Price Return Using Textual Data and Numerical Data Through Text Mining.","venue":"KES","pages":"310-316","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/kes/TakahashiTTT06","doi":"10.1007/11893004_40","ee":"https://doi.org/10.1007/11893004_40","url":"https://dblp.org/rec/conf/kes/TakahashiTTT06"},
+"url":"URL#4869799"
+},
+{
+"@score":"4",
+"@id":"5210950",
+"info":{"authors":{"author":{"@pid":"09/530","text":"Alan M. Safer"}},"title":"A comparison of two data mining techniques to predict abnormal stock market returns.","venue":"Intell. Data Anal.","volume":"7","number":"1","pages":"3-13","year":"2003","type":"Journal Articles","access":"closed","key":"journals/ida/Safer03","ee":"http://content.iospress.com/articles/intelligent-data-analysis/ida00113","url":"https://dblp.org/rec/journals/ida/Safer03"},
+"url":"URL#5210950"
+},
+{
+"@score":"4",
+"@id":"5326110",
+"info":{"authors":{"author":[{"@pid":"91/757","text":"Joseph Tremba"},{"@pid":"l/TsauYoungLin","text":"Tsau Young Lin"}]},"title":"Attribute transformations for data mining II: Applications to economic and stock market data.","venue":"Int. J. Intell. Syst.","volume":"17","number":"2","pages":"223-233","year":"2002","type":"Journal Articles","access":"closed","key":"journals/ijis/TrembaL02","doi":"10.1002/INT.10018","ee":"https://doi.org/10.1002/int.10018","url":"https://dblp.org/rec/journals/ijis/TrembaL02"},
+"url":"URL#5326110"
+},
+{
+"@score":"4",
+"@id":"5681529",
+"info":{"authors":{"author":[{"@pid":"59/1442","text":"Peter Chamoni"},{"@pid":"31/6766","text":"Steffen Stock"}]},"title":"Modellierung temporaler multidimensionaler Daten in Analytischen Informationssystemen.","venue":"Workshop Data Mining und Data Warehousing","pages":"93-106","year":"1998","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/gi/ChamoniS98","url":"https://dblp.org/rec/conf/gi/ChamoniS98"},
+"url":"URL#5681529"
+},
+{
+"@score":"3",
+"@id":"240768",
+"info":{"authors":{"author":[{"@pid":"32/2457","text":"John B. Guerard Jr."},{"@pid":"03/11297","text":"Ganlin Xu"},{"@pid":"30/6585","text":"Harry M. Markowitz"}]},"title":"A further analysis of robust regression modeling and data mining corrections testing in global stocks.","venue":"Ann. Oper. Res.","volume":"303","number":"1","pages":"175-195","year":"2021","type":"Journal Articles","access":"closed","key":"journals/anor/GuerardXM21","doi":"10.1007/S10479-020-03521-Y","ee":"https://doi.org/10.1007/s10479-020-03521-y","url":"https://dblp.org/rec/journals/anor/GuerardXM21"},
+"url":"URL#240768"
+},
+{
+"@score":"3",
+"@id":"242973",
+"info":{"authors":{"author":[{"@pid":"44/378","text":"Hui-Chih Hung"},{"@pid":"292/8364","text":"Yu-Jen Chuang"},{"@pid":"50/4032","text":"Muh-Cherng Wu"}]},"title":"Customizable and committee data mining framework for stock trading.","venue":"Appl. Soft Comput.","volume":"105","pages":"107277","year":"2021","type":"Journal Articles","access":"closed","key":"journals/asc/HungCW21","doi":"10.1016/J.ASOC.2021.107277","ee":"https://doi.org/10.1016/j.asoc.2021.107277","url":"https://dblp.org/rec/journals/asc/HungCW21"},
+"url":"URL#242973"
+},
+{
+"@score":"3",
+"@id":"477632",
+"info":{"authors":{"author":[{"@pid":"229/6250","text":"Yichen He"},{"@pid":"137/0506","text":"Yijun Mao"},{"@pid":"213/2710","text":"Xianfen Xie"},{"@pid":"150/8597","text":"Wanrong Gu"},{"@pid":"152/1325","text":"Ziye Zhang"}]},"title":"Multi-factor Data Mining Analysis of Stock Index Volatility.","venue":"ICAIIS","pages":"31:1-31:9","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaiis/HeMXGZ21","doi":"10.1145/3469213.3470231","ee":"https://doi.org/10.1145/3469213.3470231","url":"https://dblp.org/rec/conf/icaiis/HeMXGZ21"},
+"url":"URL#477632"
+},
+{
+"@score":"3",
+"@id":"759097",
+"info":{"authors":{"author":[{"@pid":"277/5009","text":"Guangtong Wang"},{"@pid":"277/5368","text":"Jianchun Miao"}]},"title":"Design of data mining algorithm based on rough entropy for us stock market abnormality.","venue":"J. Intell. Fuzzy Syst.","volume":"39","number":"4","pages":"5213-5221","year":"2020","type":"Journal Articles","access":"closed","key":"journals/jifs/WangM20","doi":"10.3233/JIFS-189006","ee":"https://doi.org/10.3233/JIFS-189006","url":"https://dblp.org/rec/journals/jifs/WangM20"},
+"url":"URL#759097"
+},
+{
+"@score":"3",
+"@id":"828824",
+"info":{"authors":{"author":[{"@pid":"26/7732","text":"Jinfei Yang"},{"@pid":"89/9032","text":"Jiajia Li"},{"@pid":"30/3361","text":"Shouqiang Liu"}]},"title":"A new algorithm of stock data mining in Internet of Multimedia Things.","venue":"J. Supercomput.","volume":"76","number":"4","pages":"2374-2389","year":"2020","type":"Journal Articles","access":"closed","key":"journals/tjs/YangLL20","doi":"10.1007/S11227-017-2195-3","ee":"https://doi.org/10.1007/s11227-017-2195-3","url":"https://dblp.org/rec/journals/tjs/YangLL20"},
+"url":"URL#828824"
+},
+{
+"@score":"3",
+"@id":"1151438",
+"info":{"authors":{"author":[{"@pid":"243/6432","text":"Rahmat Houshdar Mahjoub"},{"@pid":"41/1431","text":"Amir Afsar"}]},"title":"A hybrid model for customer credit scoring in stock brokerages using data mining approach.","venue":"Int. J. Bus. Inf. Syst.","volume":"31","number":"2","pages":"195-214","year":"2019","type":"Journal Articles","access":"closed","key":"journals/ijbis/MahjoubA19","doi":"10.1504/IJBIS.2019.10022044","ee":"https://doi.org/10.1504/IJBIS.2019.10022044","url":"https://dblp.org/rec/journals/ijbis/MahjoubA19"},
+"url":"URL#1151438"
+},
+{
+"@score":"3",
+"@id":"1163796",
+"info":{"authors":{"author":[{"@pid":"66/7952-1","text":"Masanori Hirano 0001"},{"@pid":"66/835","text":"Hiroki Sakaji"},{"@pid":"215/2565","text":"Shoko Kimura"},{"@pid":"10/3765","text":"Kiyoshi Izumi"},{"@pid":"17/7595","text":"Hiroyasu Matsushima"},{"@pid":"235/6948","text":"Shintaro Nagao"},{"@pid":"39/4735","text":"Atsuo Kato"}]},"title":"Related Stocks Selection with Data Collaboration Using Text Mining.","venue":"Inf.","volume":"10","number":"3","pages":"102","year":"2019","type":"Journal Articles","access":"open","key":"journals/information/HiranoSKIMNK19","doi":"10.3390/INFO10030102","ee":"https://doi.org/10.3390/info10030102","url":"https://dblp.org/rec/journals/information/HiranoSKIMNK19"},
+"url":"URL#1163796"
+},
+{
+"@score":"3",
+"@id":"1555156",
+"info":{"authors":{"author":[{"@pid":"26/7732","text":"Jinfei Yang"},{"@pid":"89/9032","text":"Jiajia Li"},{"@pid":"51/5786","text":"Qingzhen Xu"}]},"title":"A Highly Efficient Big Data Mining Algorithm Based on Stock Market.","venue":"Int. J. Grid High Perform. Comput.","volume":"10","number":"2","pages":"14-33","year":"2018","type":"Journal Articles","access":"closed","key":"journals/ijghpc/YangLX18","doi":"10.4018/IJGHPC.2018040102","ee":"https://doi.org/10.4018/IJGHPC.2018040102","url":"https://dblp.org/rec/journals/ijghpc/YangLX18"},
+"url":"URL#1555156"
+},
+{
+"@score":"3",
+"@id":"1564735",
+"info":{"authors":{"author":[{"@pid":"32/2457","text":"John B. Guerard Jr."},{"@pid":"217/7665","text":"Robert A. Gillam"},{"@pid":"30/6585","text":"Harry M. Markowitz"},{"@pid":"03/11297","text":"Ganlin Xu"},{"@pid":"145/6670","text":"Shijie Deng"},{"@pid":"217/7753","text":"Ziwei (Elaine) Wang"}]},"title":"Data Mining Corrections Testing in Chinese Stocks.","venue":"Interfaces","volume":"48","number":"2","pages":"108-120","year":"2018","type":"Journal Articles","access":"closed","key":"journals/interfaces/GuerardGMXDW18","doi":"10.1287/INTE.2017.0908","ee":"https://doi.org/10.1287/inte.2017.0908","url":"https://dblp.org/rec/journals/interfaces/GuerardGMXDW18"},
+"url":"URL#1564735"
+},
+{
+"@score":"3",
+"@id":"1592822",
+"info":{"authors":{"author":[{"@pid":"213/6930","text":"Francislon S. Oliveira"},{"@pid":"00/4334","text":"John Brestelli"},{"@pid":"124/1234","text":"Shon Cade"},{"@pid":"94/190-1","text":"Jie Zheng 0001"},{"@pid":"29/5130","text":"John Iodice"},{"@pid":"96/3386","text":"Steve Fischer"},{"@pid":"96/1904","text":"Cristina Aurrecoechea"},{"@pid":"k/JessicaCKissinger","text":"Jessica C. Kissinger"},{"@pid":"81/6528","text":"Brian P. Brunk"},{"@pid":"10/6166","text":"Christian J. Stoeckert Jr."},{"@pid":"196/5210","text":"Gabriel R. Fernandes"},{"@pid":"46/3812","text":"David S. Roos"},{"@pid":"213/6985","text":"Daniel P. Beiting"}]},"title":"MicrobiomeDB: a systems biology platform for integrating, mining and analyzing microbiome experiments.","venue":"Nucleic Acids Res.","volume":"46","number":"Database-Issue","pages":"D684-D691","year":"2018","type":"Journal Articles","access":"open","key":"journals/nar/OliveiraBCZIFAK18","doi":"10.1093/NAR/GKX1027","ee":"https://doi.org/10.1093/nar/gkx1027","url":"https://dblp.org/rec/journals/nar/OliveiraBCZIFAK18"},
+"url":"URL#1592822"
+},
+{
+"@score":"3",
+"@id":"1624079",
+"info":{"authors":{"author":[{"@pid":"146/3879","text":"Pei-Yuan Zhou"},{"@pid":"71/6513","text":"Keith C. C. Chan"},{"@pid":"24/2262","text":"Carol Xiaojuan Ou"}]},"title":"Corporate Communication Network and Stock Price Movements: Insights From Data Mining.","venue":"IEEE Trans. Comput. Soc. Syst.","volume":"5","number":"2","pages":"391-402","year":"2018","type":"Journal Articles","access":"closed","key":"journals/tcss/ZhouCO18","doi":"10.1109/TCSS.2018.2812703","ee":"https://doi.org/10.1109/TCSS.2018.2812703","url":"https://dblp.org/rec/journals/tcss/ZhouCO18"},
+"url":"URL#1624079"
+},
+{
+"@score":"3",
+"@id":"1907575",
+"info":{"authors":{"author":[{"@pid":"200/1568","text":"Raoul Könsgen"},{"@pid":"31/6766","text":"Steffen Stock"},{"@pid":"38/9604","text":"Mario Schaarschmidt"}]},"title":"Fraud-Detection im Gesundheitswesen: Data-Mining zur Aufdeckung von Abrechnungsbetrug.","venue":"HMD Prax. Wirtsch.","volume":"54","number":"1","pages":"146-155","year":"2017","type":"Journal Articles","access":"closed","key":"journals/hmd/KonsgenSS17","doi":"10.1365/S40702-016-0278-X","ee":"https://doi.org/10.1365/s40702-016-0278-x","url":"https://dblp.org/rec/journals/hmd/KonsgenSS17"},
+"url":"URL#1907575"
+},
+{
+"@score":"3",
+"@id":"1909007",
+"info":{"authors":{"author":[{"@pid":"31/1762","text":"Chun-Hao Chen"},{"@pid":"67/883","text":"Chao-Chun Chen"},{"@pid":"49/753","text":"Yusuke Nojima"}]},"title":"An efficient and effective approach for mining a group stock portfolio using mapreduce.","venue":"Intell. Data Anal.","volume":"21","number":"S1","pages":"S217-S232","year":"2017","type":"Journal Articles","access":"closed","key":"journals/ida/ChenCN17","doi":"10.3233/IDA-170879","ee":"https://doi.org/10.3233/IDA-170879","url":"https://dblp.org/rec/journals/ida/ChenCN17"},
+"url":"URL#1909007"
+},
+{
+"@score":"3",
+"@id":"2011753",
+"info":{"authors":{"author":{"@pid":"35/7661","text":"Mirela Danubianu"}},"title":"Data Mining - A Tool for Migration Stock Prediction.","venue":"BDAS","pages":"102-114","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/bdas/Danubianu17","doi":"10.1007/978-3-319-58274-0_9","ee":"https://doi.org/10.1007/978-3-319-58274-0_9","url":"https://dblp.org/rec/conf/bdas/Danubianu17"},
+"url":"URL#2011753"
+},
+{
+"@score":"3",
+"@id":"2246701",
+"info":{"authors":{"author":[{"@pid":"25/5221","text":"S. Prasanna"},{"@pid":"177/7561","text":"Devarasan Ezhilmaran"}]},"title":"Association rule mining using enhanced apriori with modified GA for stock prediction.","venue":"Int. J. Data Min. Model. Manag.","volume":"8","number":"2","pages":"195-207","year":"2016","type":"Journal Articles","access":"closed","key":"journals/ijdmmm/PrasannaE16","doi":"10.1504/IJDMMM.2016.077162","ee":"https://doi.org/10.1504/IJDMMM.2016.077162","url":"https://dblp.org/rec/journals/ijdmmm/PrasannaE16"},
+"url":"URL#2246701"
+},
+{
+"@score":"3",
+"@id":"2437811",
+"info":{"authors":{"author":{"@pid":"61/6327","text":"Andrew Huang"}},"title":"Data Mining Twitter to Model Stock Price Movement.","venue":"MISNC","pages":"32","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/misnc/Huang16","doi":"10.1145/2955129.2955177","ee":"https://doi.org/10.1145/2955129.2955177","url":"https://dblp.org/rec/conf/misnc/Huang16"},
+"url":"URL#2437811"
+},
+{
+"@score":"3",
+"@id":"2545297",
+"info":{"authors":{"author":[{"@pid":"127/8692","text":"Sasan Barak"},{"@pid":"36/2776","text":"Mohammad Modarres"}]},"title":"Developing an approach to evaluate stocks by forecasting effective features with data mining methods.","venue":"Expert Syst. Appl.","volume":"42","number":"3","pages":"1325-1339","year":"2015","type":"Journal Articles","access":"closed","key":"journals/eswa/BarakM15","doi":"10.1016/J.ESWA.2014.09.026","ee":"https://doi.org/10.1016/j.eswa.2014.09.026","url":"https://dblp.org/rec/journals/eswa/BarakM15"},
+"url":"URL#2545297"
+},
+{
+"@score":"3",
+"@id":"2581537",
+"info":{"authors":{"author":[{"@pid":"45/2570","text":"Sha Yang"},{"@pid":"82/2790-9","text":"Wei Yu 0009"},{"@pid":"15/4924","text":"Shijun Li"},{"@pid":"19/10393","text":"Jingjing Cao"},{"@pid":"72/2590","text":"Jing Liu"}]},"title":"基于Web大数据挖掘的证券价格波动实时影响研究 (Research on Stock Price Real-time Fluctuation Influence Based on Web Big Data Mining).","venue":"计算机科学","volume":"42","number":"4","pages":"166-171","year":"2015","type":"Journal Articles","access":"open","key":"journals/jsjkx/Yang0LCL18","doi":"10.11896/J.ISSN.1002-137X.2015.04.033","ee":"https://doi.org/10.11896/j.issn.1002-137X.2015.04.033","url":"https://dblp.org/rec/journals/jsjkx/Yang0LCL18"},
+"url":"URL#2581537"
+},
+{
+"@score":"3",
+"@id":"2640986",
+"info":{"authors":{"author":[{"@pid":"87/734","text":"Lei Zhao"},{"@pid":"17/6729","text":"Lin Wang"}]},"title":"Price Trend Prediction of Stock Market Using Outlier Data Mining Algorithm.","venue":"BDCloud","pages":"93-98","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bdcloud/ZhaoW15","doi":"10.1109/BDCLOUD.2015.19","ee":"https://doi.org/10.1109/BDCloud.2015.19","url":"https://dblp.org/rec/conf/bdcloud/ZhaoW15"},
+"url":"URL#2640986"
+},
+{
+"@score":"3",
+"@id":"2783158",
+"info":{"authors":{"author":[{"@pid":"175/2959","text":"Luciana Lima"},{"@pid":"98/8607","text":"Filipe Portela"},{"@pid":"87/1936","text":"Manuel Filipe Santos"},{"@pid":"02/3618","text":"António Abelha"},{"@pid":"44/1990-1","text":"José Machado 0001"}]},"title":"Big Data for Stock Market by Means of Mining Techniques.","venue":"WorldCIST","pages":"679-688","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/worldcist/LimaPSA015","doi":"10.1007/978-3-319-16486-1_67","ee":"https://doi.org/10.1007/978-3-319-16486-1_67","url":"https://dblp.org/rec/conf/worldcist/LimaPSA015"},
+"url":"URL#2783158"
+},
+{
+"@score":"3",
+"@id":"2865578",
+"info":{"authors":{"author":[{"@pid":"145/1198","text":"Hoang T. P. Thanh"},{"@pid":"49/5080","text":"Phayung Meesad"}]},"title":"Stock Market Trend Prediction Based on Text Mining of Corporate Web and Time Series Data.","venue":"J. Adv. Comput. Intell. Intell. Informatics","volume":"18","number":"1","pages":"22-31","year":"2014","type":"Journal Articles","access":"open","key":"journals/jaciii/ThanhM14","doi":"10.20965/JACIII.2014.P0022","ee":"https://doi.org/10.20965/jaciii.2014.p0022","url":"https://dblp.org/rec/journals/jaciii/ThanhM14"},
+"url":"URL#2865578"
+},
+{
+"@score":"3",
+"@id":"3131670",
+"info":{"authors":{"author":[{"@pid":"11/6206-1","text":"Shu-Hsien Liao 0001"},{"@pid":"124/9883","text":"Shan-Yuan Chou"}]},"title":"Data mining investigation of co-movements on the Taiwan and China stock markets for future investment portfolio.","venue":"Expert Syst. Appl.","volume":"40","number":"5","pages":"1542-1554","year":"2013","type":"Journal Articles","access":"closed","key":"journals/eswa/LiaoC13","doi":"10.1016/J.ESWA.2012.08.075","ee":"https://doi.org/10.1016/j.eswa.2012.08.075","url":"https://dblp.org/rec/journals/eswa/LiaoC13"},
+"url":"URL#3131670"
+},
+{
+"@score":"3",
+"@id":"3267155",
+"info":{"authors":{"author":{"@pid":"25/7293","text":"Sung-Dong Kim"}},"title":"Data Mining Tool for Decision Support in Stock Market.","venue":"ICAART","pages":"473-477","year":"2013","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/icaart/Kim13","url":"https://dblp.org/rec/conf/icaart/Kim13"},
+"url":"URL#3267155"
+},
+{
+"@score":"3",
+"@id":"3353257",
+"info":{"authors":{"author":[{"@pid":"49/2905-2","text":"Yong Hu 0002"},{"@pid":"04/4053","text":"Bin Feng"},{"@pid":"28/11095","text":"Xiangzhou Zhang"},{"@pid":"55/653","text":"Xin Ying Qiu"},{"@pid":"147/7538","text":"Risong Li"},{"@pid":"79/397","text":"Kang Xie"}]},"title":"A Prediction Model for Stock Market: A Comparison of The World&apos;s Top Investors with Data Mining Method.","venue":"WHICEB","pages":"107","year":"2013","type":"Conference and Workshop Papers","access":"closed","key":"conf/whiceb/HuFZQLX13","ee":"http://aisel.aisnet.org/whiceb2013/107","url":"https://dblp.org/rec/conf/whiceb/HuFZQLX13"},
+"url":"URL#3353257"
+},
+{
+"@score":"3",
+"@id":"3448405",
+"info":{"authors":{"author":[{"@pid":"27/2563","text":"Chien-Jen Huang"},{"@pid":"51/6708","text":"Peng-Wen Chen"},{"@pid":"92/7602","text":"Wen-Tsao Pan"}]},"title":"Using multi-stage data mining technique to build forecast model for Taiwan stocks.","venue":"Neural Comput. Appl.","volume":"21","number":"8","pages":"2057-2063","year":"2012","type":"Journal Articles","access":"closed","key":"journals/nca/HuangCP12","doi":"10.1007/S00521-011-0628-0","ee":"https://doi.org/10.1007/s00521-011-0628-0","url":"https://dblp.org/rec/journals/nca/HuangCP12"},
+"url":"URL#3448405"
+},
+{
+"@score":"3",
+"@id":"3809359",
+"info":{"authors":{"author":{"@pid":"58/10002","text":"Thomas Stocker"}},"title":"Data Flow-Oriented Process Mining to Support Security Audits.","venue":"ICSOC Workshops","pages":"171-176","year":"2011","type":"Conference and Workshop Papers","access":"open","key":"conf/icsoc/Stocker11","doi":"10.1007/978-3-642-31875-7_18","ee":"https://doi.org/10.1007/978-3-642-31875-7_18","url":"https://dblp.org/rec/conf/icsoc/Stocker11"},
+"url":"URL#3809359"
+},
+{
+"@score":"3",
+"@id":"3946548",
+"info":{"authors":{"author":[{"@pid":"65/7429","text":"Ya-Wen Chang Chien"},{"@pid":"42/180","text":"Yen-Liang Chen"}]},"title":"Mining associative classification rules with stock trading data - A GA-based method.","venue":"Knowl. Based Syst.","volume":"23","number":"6","pages":"605-614","year":"2010","type":"Journal Articles","access":"closed","key":"journals/kbs/ChienC10","doi":"10.1016/J.KNOSYS.2010.04.007","ee":"https://doi.org/10.1016/j.knosys.2010.04.007","url":"https://dblp.org/rec/journals/kbs/ChienC10"},
+"url":"URL#3946548"
+},
+{
+"@score":"3",
+"@id":"3981344",
+"info":{"authors":{"author":[{"@pid":"15/3770","text":"Ying Ma"},{"@pid":"38/8385","text":"Guanyi Li"},{"@pid":"37/8385","text":"Yingsai Dong"},{"@pid":"05/1860","text":"Zengchang Qin"}]},"title":"Minority Game Data Mining for Stock Market Predictions.","venue":"ADMI","pages":"178-189","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/admi/MaLDQ10","doi":"10.1007/978-3-642-15420-1_15","ee":"https://doi.org/10.1007/978-3-642-15420-1_15","url":"https://dblp.org/rec/conf/admi/MaLDQ10"},
+"url":"URL#3981344"
+},
+{
+"@score":"3",
+"@id":"3984809",
+"info":{"authors":{"author":[{"@pid":"146/9211","text":"Mona Mohamed Zaki Ali"},{"@pid":"50/760","text":"David Diaz"},{"@pid":"23/5644","text":"Babis Theodoulidis"}]},"title":"Using Text Mining to Analyze Quality Aspects of Unstructured Data: A Case Study for &quot;stock-touting&quot; Spam Emails.","venue":"AMCIS","pages":"364","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/amcis/ZakiDT10","ee":"http://aisel.aisnet.org/amcis2010/364","url":"https://dblp.org/rec/conf/amcis/ZakiDT10"},
+"url":"URL#3984809"
+},
+{
+"@score":"3",
+"@id":"4031348",
+"info":{"authors":{"author":[{"@pid":"26/1642","text":"Zhihua Leng"},{"@pid":"77/238","text":"Changjian Fu"},{"@pid":"22/8598","text":"Xinjun Gu"}]},"title":"Stock Price Index Prediction Based on Mobile Data Mining.","venue":"ICEE","pages":"4533-4536","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/icee/LengFG10","doi":"10.1109/ICEE.2010.1138","ee":"https://doi.org/10.1109/ICEE.2010.1138","url":"https://dblp.org/rec/conf/icee/LengFG10"},
+"url":"URL#4031348"
+},
+{
+"@score":"3",
+"@id":"4045663",
+"info":{"authors":{"author":[{"@pid":"89/1731","text":"Manolis Maragoudakis"},{"@pid":"47/331","text":"Dimitrios N. Serpanos"}]},"title":"Towards Stock Market Data Mining Using Enriched Random Forests from Textual Resources and Technical Indicators.","venue":"AIAI","pages":"278-286","year":"2010","type":"Conference and Workshop Papers","access":"open","key":"conf/ifip12/MaragoudakisS10","doi":"10.1007/978-3-642-16239-8_37","ee":"https://doi.org/10.1007/978-3-642-16239-8_37","url":"https://dblp.org/rec/conf/ifip12/MaragoudakisS10"},
+"url":"URL#4045663"
+},
+{
+"@score":"3",
+"@id":"4075681",
+"info":{"authors":{"author":[{"@pid":"62/4503","text":"Gabriel Fiol-Roig"},{"@pid":"61/19","text":"Margaret Miró-Julià"},{"@pid":"37/6626","text":"Andreu Pere Isern-Deyà"}]},"title":"Applying Data Mining Techniques to Stock Market Analysis.","venue":"PAAMS","pages":"519-527","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/paams/Fiol-RoigMI10","doi":"10.1007/978-3-642-12433-4_61","ee":"https://doi.org/10.1007/978-3-642-12433-4_61","url":"https://dblp.org/rec/conf/paams/Fiol-RoigMI10"},
+"url":"URL#4075681"
+},
+{
+"@score":"3",
+"@id":"4143925",
+"info":{"authors":{"author":[{"@pid":"26/7429","text":"Chi-Lin Lu"},{"@pid":"65/3011","text":"Ta-Cheng Chen"}]},"title":"A study of applying data mining approach to the information disclosure for Taiwan&apos;s stock market investors.","venue":"Expert Syst. Appl.","volume":"36","number":"2","pages":"3536-3542","year":"2009","type":"Journal Articles","access":"closed","key":"journals/eswa/LuC09","doi":"10.1016/J.ESWA.2008.02.007","ee":"https://doi.org/10.1016/j.eswa.2008.02.007","url":"https://dblp.org/rec/journals/eswa/LuC09"},
+"url":"URL#4143925"
+},
+{
+"@score":"3",
+"@id":"4181879",
+"info":{"authors":{"author":[{"@pid":"48/3801","text":"Kelvin Sim"},{"@pid":"247/9049-1","text":"Jinyan Li 0001"},{"@pid":"72/3859","text":"Vivekanand Gopalkrishnan"},{"@pid":"59/3378","text":"Guimei Liu"}]},"title":"Mining maximal quasi-bicliques: Novel algorithm and applications in the stock market and protein networks.","venue":"Stat. Anal. Data Min.","volume":"2","number":"4","pages":"255-273","year":"2009","type":"Journal Articles","access":"closed","key":"journals/sadm/SimLGL09","doi":"10.1002/SAM.10051","ee":"https://doi.org/10.1002/sam.10051","url":"https://dblp.org/rec/journals/sadm/SimLGL09"},
+"url":"URL#4181879"
+},
+{
+"@score":"3",
+"@id":"4204180",
+"info":{"authors":{"author":[{"@pid":"87/7421","text":"Anthony C. Chrysopoulos"},{"@pid":"01/2872","text":"Andreas L. Symeonidis"},{"@pid":"79/1157","text":"Pericles A. Mitkas"}]},"title":"Improving Agent Bidding in Power Stock Markets through a Data Mining Enhanced Agent Platform.","venue":"ADMI","pages":"111-125","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/admi/ChrysopoulosSM09","doi":"10.1007/978-3-642-03603-3_9","ee":"https://doi.org/10.1007/978-3-642-03603-3_9","url":"https://dblp.org/rec/conf/admi/ChrysopoulosSM09"},
+"url":"URL#4204180"
+},
+{
+"@score":"3",
+"@id":"4256693",
+"info":{"authors":{"author":[{"@pid":"45/7098","text":"Jianfei Wu"},{"@pid":"28/278","text":"Anne Denton"},{"@pid":"55/6826","text":"Omar el Ariss"},{"@pid":"11/5481","text":"Dianxiang Xu"}]},"title":"Mining for Core Patterns in Stock Market Data.","venue":"ICDM Workshops","pages":"558-563","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdm/WuDEX09","doi":"10.1109/ICDMW.2009.115","ee":"https://doi.org/10.1109/ICDMW.2009.115","url":"https://dblp.org/rec/conf/icdm/WuDEX09"},
+"url":"URL#4256693"
+},
+{
+"@score":"3",
+"@id":"4458960",
+"info":{"authors":{"author":[{"@pid":"28/5093","text":"Andrew Wong"},{"@pid":"c/NickCercone","text":"Nick Cercone"}]},"title":"A Distributed Multi-agent System implementation of the Human-Friendly MAS for Mining Stock Data.","venue":"Web Intelligence/IAT Workshops","pages":"621-625","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/iat/WongC08","doi":"10.1109/WIIAT.2008.422","ee":"https://doi.org/10.1109/WIIAT.2008.422","url":"https://dblp.org/rec/conf/iat/WongC08"},
+"url":"URL#4458960"
+},
+{
+"@score":"3",
+"@id":"4506104",
+"info":{"authors":{"author":[{"@pid":"45/5025","text":"Xiaowei Lin"},{"@pid":"63/51","text":"Zehong Yang"},{"@pid":"90/913","text":"Yixu Song"}]},"title":"The Application of Echo State Network in Stock Data Mining.","venue":"PAKDD","pages":"932-937","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/pakdd/LinYS08","doi":"10.1007/978-3-540-68125-0_95","ee":"https://doi.org/10.1007/978-3-540-68125-0_95","url":"https://dblp.org/rec/conf/pakdd/LinYS08"},
+"url":"URL#4506104"
+},
+{
+"@score":"3",
+"@id":"4508705",
+"info":{"authors":{"author":[{"@pid":"46/6375","text":"Chao Luo"},{"@pid":"24/2112","text":"Yanchang Zhao"},{"@pid":"14/2589","text":"Longbing Cao"},{"@pid":"28/3568","text":"Yuming Ou"},{"@pid":"33/4528-33","text":"Li Liu 0033"}]},"title":"Outlier Mining on Multiple Time Series Data in Stock Market.","venue":"PRICAI","pages":"1010-1015","year":"2008","type":"Conference and Workshop Papers","access":"closed","key":"conf/pricai/LuoZCOL08","doi":"10.1007/978-3-540-89197-0_99","ee":"https://doi.org/10.1007/978-3-540-89197-0_99","url":"https://dblp.org/rec/conf/pricai/LuoZCOL08"},
+"url":"URL#4508705"
+},
+{
+"@score":"3",
+"@id":"4531363",
+"info":{"authors":{"author":[{"@pid":"58/1584","text":"Francisco Araque"},{"@pid":"94/706","text":"Alberto Salguero"},{"@pid":"22/3366","text":"Ramón Alberto Carrasco"},{"@pid":"17/8681","text":"Luis Martínez-López"}]},"title":"Using Fuzzy Multi-attribute Data Mining in Stock Market Analysis for Supporting Investment Decisions.","venue":"Fuzzy Engineering Economics with Applications","pages":"289-306","year":"2008","type":"Parts in Books or Collections","access":"closed","key":"series/sfsc/AraqueSCM08","doi":"10.1007/978-3-540-70810-0_16","ee":"https://doi.org/10.1007/978-3-540-70810-0_16","url":"https://dblp.org/rec/series/sfsc/AraqueSCM08"},
+"url":"URL#4531363"
+},
+{
+"@score":"3",
+"@id":"4585367",
+"info":{"authors":{"author":{"@pid":"64/1610","text":"Douglas Lyon"}},"title":"Data Mining Historic Stock Quotes in Java.","venue":"J. Object Technol.","volume":"6","number":"10","pages":"17-23","year":"2007","type":"Journal Articles","access":"open","key":"journals/jot/Lyon07b","doi":"10.5381/JOT.2007.6.10.C2","ee":"https://doi.org/10.5381/jot.2007.6.10.c2","url":"https://dblp.org/rec/journals/jot/Lyon07b"},
+"url":"URL#4585367"
+},
+{
+"@score":"3",
+"@id":"4703443",
+"info":{"authors":{"author":[{"@pid":"94/2689","text":"Hiromitsu Watanabe"},{"@pid":"33/330","text":"Basabi Chakraborty"},{"@pid":"93/4760","text":"Goutam Chakraborty"}]},"title":"Rough Neuro Voting System for Data Mining: Application to Stock Price Prediction.","venue":"RSKT","pages":"558-565","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/rskt/WatanabeCC07","doi":"10.1007/978-3-540-72458-2_69","ee":"https://doi.org/10.1007/978-3-540-72458-2_69","url":"https://dblp.org/rec/conf/rskt/WatanabeCC07"},
+"url":"URL#4703443"
+},
+{
+"@score":"3",
+"@id":"4834368",
+"info":{"authors":{"author":[{"@pid":"84/6839","text":"Jiarui Ni"},{"@pid":"71/964","text":"Chengqi Zhang"}]},"title":"A Human-Friendly MAS for Mining Stock Data.","venue":"IAT Workshops","pages":"19-22","year":"2006","type":"Conference and Workshop Papers","access":"closed","key":"conf/iat/NiZ06","doi":"10.1109/WI-IATW.2006.12","ee":"https://doi.org/10.1109/WI-IATW.2006.12","url":"https://dblp.org/rec/conf/iat/NiZ06"},
+"url":"URL#4834368"
+},
+{
+"@score":"3",
+"@id":"4868443",
+"info":{"authors":{"author":[{"@pid":"14/2589","text":"Longbing Cao"},{"@pid":"46/6375","text":"Chao Luo"},{"@pid":"84/6839","text":"Jiarui Ni"},{"@pid":"03/142-1","text":"Dan Luo 0001"},{"@pid":"71/964","text":"Chengqi Zhang"}]},"title":"Stock Data Mining through Fuzzy Genetic Algorithms.","venue":"JCIS","year":"2006","type":"Conference and Workshop Papers","access":"open","key":"conf/jcis/CaoLNLZ06","doi":"10.2991/JCIS.2006.129","ee":"https://doi.org/10.2991/jcis.2006.129","url":"https://dblp.org/rec/conf/jcis/CaoLNLZ06"},
+"url":"URL#4868443"
+},
+{
+"@score":"3",
+"@id":"4868762",
+"info":{"authors":{"author":[{"@pid":"85/5885","text":"Don-Lin Yang"},{"@pid":"16/2439","text":"Yuh-Long Hsieh"},{"@pid":"62/479","text":"Jungpin Wu"}]},"title":"Using Data Mining to Study Upstream and Downstream Causal Relationship in Stock Market.","venue":"JCIS","year":"2006","type":"Conference and Workshop Papers","access":"open","key":"conf/jcis/YangHW06","doi":"10.2991/JCIS.2006.191","ee":"https://doi.org/10.2991/jcis.2006.191","url":"https://dblp.org/rec/conf/jcis/YangHW06"},
+"url":"URL#4868762"
+},
+{
+"@score":"3",
+"@id":"4922292",
+"info":{"authors":{"author":[{"@pid":"25/5857","text":"David Enke"},{"@pid":"92/4165","text":"Suraphan Thawornwong"}]},"title":"The use of data mining and neural networks for forecasting stock market returns.","venue":"Expert Syst. Appl.","volume":"29","number":"4","pages":"927-940","year":"2005","type":"Journal Articles","access":"closed","key":"journals/eswa/EnkeT05","doi":"10.1016/J.ESWA.2005.06.024","ee":"https://doi.org/10.1016/j.eswa.2005.06.024","url":"https://dblp.org/rec/journals/eswa/EnkeT05"},
+"url":"URL#4922292"
+},
+{
+"@score":"3",
+"@id":"4965139",
+"info":{"authors":{"author":[{"@pid":"71/964","text":"Chengqi Zhang"},{"@pid":"z/ShichaoZhang","text":"Shichao Zhang"}]},"title":"In-Depth Data Mining and Its Application in Stock Market.","venue":"ADMA","pages":"13","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/adma/ZhangZ05","doi":"10.1007/11527503_3","ee":"https://doi.org/10.1007/11527503_3","url":"https://dblp.org/rec/conf/adma/ZhangZ05"},
+"url":"URL#4965139"
+},
+{
+"@score":"3",
+"@id":"4992934",
+"info":{"authors":{"author":[{"@pid":"08/1317","text":"Yo-Ping Huang"},{"@pid":"18/354","text":"Li-Jen Kao"}]},"title":"A Novel Approach to Mining Inter-Transaction Fuzzy Association Rules from Stock Price Variation Data.","venue":"FUZZ-IEEE","pages":"791-796","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/fuzzIEEE/HuangK05","doi":"10.1109/FUZZY.2005.1452495","ee":"https://doi.org/10.1109/FUZZY.2005.1452495","url":"https://dblp.org/rec/conf/fuzzIEEE/HuangK05"},
+"url":"URL#4992934"
+},
+{
+"@score":"3",
+"@id":"4996221",
+"info":{"authors":{"author":[{"@pid":"k/MYKiang","text":"Melody Y. Kiang"},{"@pid":"93/5995","text":"Dorothy M. Fisher"},{"@pid":"92/6285","text":"Steve A. Fisher"},{"@pid":"95/2112","text":"Robert T. H. Chi"}]},"title":"Understand Corporate Rationales for Engaging in Reverse Stock Splits - A Data Mining Application.","venue":"HICSS","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/hicss/KiangFFC05","doi":"10.1109/HICSS.2005.646","ee":"https://doi.org/10.1109/HICSS.2005.646","url":"https://dblp.org/rec/conf/hicss/KiangFFC05"},
+"url":"URL#4996221"
+},
+{
+"@score":"3",
+"@id":"5195229",
+"info":{"authors":{"author":{"@pid":"37/5554","text":"Roland Orre"}},"title":"On Data Mining and Classification Using a Bayesian Confidence Propagation Neural Network.","year":"2003","type":"Books and Theses","access":"closed","key":"phd/basesearch/Orre03","ee":"https://nbn-resolving.org/urn:nbn:se:kth:diva-3592","url":"https://dblp.org/rec/phd/basesearch/Orre03"},
+"url":"URL#5195229"
+},
+{
+"@score":"3",
+"@id":"5374371",
+"info":{"authors":{"author":[{"@pid":"c/KFLChung","text":"Korris Fu-Lai Chung"},{"@pid":"01/5300","text":"Tak-Chung Fu"},{"@pid":"l/RobertWingPongLuk","text":"Robert W. P. Luk"},{"@pid":"n/VTYNg","text":"Vincent Ng 0002"}]},"title":"Evolutionary Time Series Segmentation for Stock Data Mining.","venue":"ICDM","pages":"83-90","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdm/ChungFLN02","doi":"10.1109/ICDM.2002.1183889","ee":"https://doi.org/10.1109/ICDM.2002.1183889","url":"https://dblp.org/rec/conf/icdm/ChungFLN02"},
+"url":"URL#5374371"
+}
+]
+}
+}
+}

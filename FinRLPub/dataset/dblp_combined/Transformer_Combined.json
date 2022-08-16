@@ -1,0 +1,243 @@
+{
+"result":{
+"query":"transformer* trading*|stock*|finance*|financial*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"3.37"
+},
+"completions":{
+"@total":"6",
+"@computed":"6",
+"@sent":"6",
+"c":[
+{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"46275674",
+"text":"financial"
+},
+{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"47124640",
+"text":"stock"
+},
+{
+"@sc":"3",
+"@dc":"3",
+"@oc":"3",
+"@id":"47204991",
+"text":"trading"
+},
+{
+"@sc":"2",
+"@dc":"2",
+"@oc":"2",
+"@id":"47124729",
+"text":"stockinger"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"46275665",
+"text":"finance"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"47124805",
+"text":"stocktwits"
+}
+]
+},
+"hits":{
+"@total":"29",
+"@computed":"29",
+"@sent":"29",
+"@first":"0",
+"hit":[{
+"@score":"3",
+"@id":"69709",
+"info":{"authors":{"author":[{"@pid":"66/7952-1","text":"Masanori Hirano 0001"},{"@pid":"10/3765","text":"Kiyoshi Izumi"},{"@pid":"66/835","text":"Hiroki Sakaji"}]},"title":"STBM+: Advanced Stochastic Trading Behavior Model for Financial Markets using Residual Blocks or Transformers.","venue":"New Gener. Comput.","volume":"40","number":"1","pages":"7-24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/ngc/HiranoIS22","doi":"10.1007/S00354-021-00145-Z","ee":"https://doi.org/10.1007/s00354-021-00145-z","url":"https://dblp.org/rec/journals/ngc/HiranoIS22"},
+"url":"URL#69709"
+},
+{
+"@score":"2",
+"@id":"34372",
+"info":{"authors":{"author":[{"@pid":"228/6491","text":"Qiuyue Zhang"},{"@pid":"66/3363","text":"Chao Qin"},{"@pid":"98/3049","text":"Yunfeng Zhang"},{"@pid":"12/2309","text":"Fangxun Bao"},{"@pid":"12/1053","text":"Caiming Zhang"},{"@pid":"91/5865","text":"Peide Liu"}]},"title":"Transformer-based attention network for stock movement prediction.","venue":"Expert Syst. Appl.","volume":"202","pages":"117239","year":"2022","type":"Journal Articles","access":"closed","key":"journals/eswa/ZhangQZBZL22","doi":"10.1016/J.ESWA.2022.117239","ee":"https://doi.org/10.1016/j.eswa.2022.117239","url":"https://dblp.org/rec/journals/eswa/ZhangQZBZL22"},
+"url":"URL#34372"
+},
+{
+"@score":"2",
+"@id":"116053",
+"info":{"authors":{"author":[{"@pid":"218/8007","text":"Linyi Yang"},{"@pid":"155/6074-2","text":"Jiazheng Li 0002"},{"@pid":"94/11082","text":"Ruihai Dong"},{"@pid":"47/722","text":"Yue Zhang"},{"@pid":"s/BarrySmyth","text":"Barry Smyth"}]},"title":"NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-Task Financial Forecasting.","venue":"AAAI","pages":"11604-11612","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/aaai/Yang0DZS22","ee":"https://ojs.aaai.org/index.php/AAAI/article/view/21414","url":"https://dblp.org/rec/conf/aaai/Yang0DZS22"},
+"url":"URL#116053"
+},
+{
+"@score":"2",
+"@id":"131982",
+"info":{"authors":{"author":[{"@pid":"324/0889","text":"Samuel López-Ruiz"},{"@pid":"235/1649","text":"Carlos Ignacio Hernández Castellanos"},{"@pid":"19/2065","text":"Katya Rodríguez-Vázquez"}]},"title":"Multi-objective framework for quantile forecasting in financial time series using transformers.","venue":"GECCO","pages":"395-403","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/gecco/Lopez-RuizCR22","doi":"10.1145/3512290.3528740","ee":"https://doi.org/10.1145/3512290.3528740","url":"https://dblp.org/rec/conf/gecco/Lopez-RuizCR22"},
+"url":"URL#131982"
+},
+{
+"@score":"2",
+"@id":"147697",
+"info":{"authors":{"author":[{"@pid":"118/7237","text":"Heyuan Wang"},{"@pid":"39/1084-3","text":"Tengjiao Wang 0003"},{"@pid":"12/5028","text":"Shun Li"},{"@pid":"243/2336","text":"Jiayi Zheng"},{"@pid":"268/2231","text":"Shijie Guan"},{"@pid":"c/WeiChen21","text":"Wei Chen 0021"}]},"title":"Adaptive Long-Short Pattern Transformer for Stock Investment Selection.","venue":"IJCAI","pages":"3970-3977","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/ijcai/Wang0LZG022","doi":"10.24963/IJCAI.2022/551","ee":"https://doi.org/10.24963/ijcai.2022/551","url":"https://dblp.org/rec/conf/ijcai/Wang0LZG022"},
+"url":"URL#147697"
+},
+{
+"@score":"2",
+"@id":"153252",
+"info":{"authors":{"author":[{"@pid":"325/7066","text":"Pongsatorn Harnmetta"},{"@pid":"160/0021","text":"Taweesak Samanchuen"}]},"title":"Sentiment Analysis of Thai Stock Reviews Using Transformer Models.","venue":"JCSSE","pages":"1-6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/jcsse/HarnmettaS22","doi":"10.1109/JCSSE54890.2022.9836278","ee":"https://doi.org/10.1109/JCSSE54890.2022.9836278","url":"https://dblp.org/rec/conf/jcsse/HarnmettaS22"},
+"url":"URL#153252"
+},
+{
+"@score":"2",
+"@id":"171146",
+"info":{"authors":{"author":[{"@pid":"218/8007","text":"Linyi Yang"},{"@pid":"155/6074-2","text":"Jiazheng Li 0002"},{"@pid":"94/11082","text":"Ruihai Dong"},{"@pid":"47/722","text":"Yue Zhang"},{"@pid":"s/BarrySmyth","text":"Barry Smyth"}]},"title":"NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting.","venue":"CoRR","volume":"abs/2201.01770","year":"2022","type":"Informal Publications","access":"open","key":"journals/corr/abs-2201-01770","ee":"https://arxiv.org/abs/2201.01770","url":"https://dblp.org/rec/journals/corr/abs-2201-01770"},
+"url":"URL#171146"
+},
+{
+"@score":"2",
+"@id":"279668",
+"info":{"authors":{"author":[{"@pid":"13/5044","text":"Shi Yu"},{"@pid":"11/5123","text":"Yuxin Chen"},{"@pid":"260/7102","text":"Hussain Zaidi"}]},"title":"AVA: A Financial Service Chatbot Based on Deep Bidirectional Transformers.","venue":"Frontiers Appl. Math. Stat.","volume":"7","pages":"604842","year":"2021","type":"Journal Articles","access":"open","key":"journals/fams/YuCZ21","doi":"10.3389/FAMS.2021.604842","ee":"https://doi.org/10.3389/fams.2021.604842","url":"https://dblp.org/rec/journals/fams/YuCZ21"},
+"url":"URL#279668"
+},
+{
+"@score":"2",
+"@id":"291887",
+"info":{"authors":{"author":{"@pid":"254/1057","text":"Jincheng Hu"}},"title":"Local-constraint transformer network for stock movement prediction.","venue":"Int. J. Comput. Sci. Eng.","volume":"24","number":"4","pages":"429-437","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ijcse/Hu21","doi":"10.1504/IJCSE.2021.117030","ee":"https://doi.org/10.1504/IJCSE.2021.117030","url":"https://dblp.org/rec/journals/ijcse/Hu21"},
+"url":"URL#291887"
+},
+{
+"@score":"2",
+"@id":"479224",
+"info":{"authors":{"author":[{"@pid":"220/3092","text":"Divyanshu Daiya"},{"@pid":"66/4850","text":"Che Lin"}]},"title":"Stock Movement Prediction and Portfolio Management via Multimodal Learning with Transformer.","venue":"ICASSP","pages":"3305-3309","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icassp/DaiyaL21","doi":"10.1109/ICASSP39728.2021.9414893","ee":"https://doi.org/10.1109/ICASSP39728.2021.9414893","url":"https://dblp.org/rec/conf/icassp/DaiyaL21"},
+"url":"URL#479224"
+},
+{
+"@score":"2",
+"@id":"487161",
+"info":{"authors":{"author":[{"@pid":"133/8631","text":"Benjamin Graham"},{"@pid":"215/4993","text":"Alaaeldin El-Nouby"},{"@pid":"243/3492","text":"Hugo Touvron"},{"@pid":"210/2208","text":"Pierre Stock"},{"@pid":"68/8653","text":"Armand Joulin"},{"@pid":"19/2115","text":"Hervé Jégou"},{"@pid":"64/5801","text":"Matthijs Douze"}]},"title":"LeViT: a Vision Transformer in ConvNet&apos;s Clothing for Faster Inference.","venue":"ICCV","pages":"12239-12249","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/iccv/GrahamETSJJD21","doi":"10.1109/ICCV48922.2021.01204","ee":"https://doi.org/10.1109/ICCV48922.2021.01204","url":"https://dblp.org/rec/conf/iccv/GrahamETSJJD21"},
+"url":"URL#487161"
+},
+{
+"@score":"2",
+"@id":"498807",
+"info":{"authors":{"author":[{"@pid":"123/4093","text":"Aysun Bozanta"},{"@pid":"312/6264","text":"Sabrina Angco"},{"@pid":"130/5636","text":"Mucahit Cevik"},{"@pid":"55/2997","text":"Ayse Basar"}]},"title":"Sentiment Analysis of StockTwits Using Transformer Models.","venue":"ICMLA","pages":"1253-1258","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icmla/BozantaACB21","doi":"10.1109/ICMLA52953.2021.00204","ee":"https://doi.org/10.1109/ICMLA52953.2021.00204","url":"https://dblp.org/rec/conf/icmla/BozantaACB21"},
+"url":"URL#498807"
+},
+{
+"@score":"2",
+"@id":"531029",
+"info":{"authors":{"author":[{"@pid":"211/2843","text":"Jaemin Yoo"},{"@pid":"299/4948","text":"Yejun Soun"},{"@pid":"274/1605","text":"Yong-chan Park"},{"@pid":"13/7122","text":"U Kang"}]},"title":"Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts.","venue":"KDD","pages":"2037-2045","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kdd/YooSPK21","doi":"10.1145/3447548.3467297","ee":"https://doi.org/10.1145/3447548.3467297","url":"https://dblp.org/rec/conf/kdd/YooSPK21"},
+"url":"URL#531029"
+},
+{
+"@score":"2",
+"@id":"541741",
+"info":{"authors":{"author":[{"@pid":"26/7840","text":"Hongfei Xu"},{"@pid":"82/3447","text":"Josef van Genabith"},{"@pid":"211/9473","text":"Qiuhui Liu"},{"@pid":"55/6548","text":"Deyi Xiong"}]},"title":"Probing Word Translations in the Transformer and Trading Decoder for Encoder Layers.","venue":"NAACL-HLT","pages":"74-85","year":"2021","type":"Conference and Workshop Papers","access":"open","key":"conf/naacl/XuGLX21","doi":"10.18653/V1/2021.NAACL-MAIN.7","ee":"https://doi.org/10.18653/v1/2021.naacl-main.7","url":"https://dblp.org/rec/conf/naacl/XuGLX21"},
+"url":"URL#541741"
+},
+{
+"@score":"2",
+"@id":"547705",
+"info":{"authors":{"author":[{"@pid":"316/1562","text":"Huije Lee"},{"@pid":"204/2973","text":"Wonsuk Yang"},{"@pid":"286/1449","text":"Chaehun Park"},{"@pid":"256/3610","text":"Hoyun Song"},{"@pid":"294/0262","text":"Eugene Jang"},{"@pid":"73/5376","text":"Jong C. Park"}]},"title":"Optimizing Domain Specificity of Transformer-based Language Models for Extractive Summarization of Financial News Articles in Korean.","venue":"PACLIC","pages":"611-621","year":"2021","type":"Conference and Workshop Papers","access":"open","key":"conf/paclic/LeeYPSJP21","ee":"https://aclanthology.org/2021.paclic-1.64","url":"https://dblp.org/rec/conf/paclic/LeeYPSJP21"},
+"url":"URL#547705"
+},
+{
+"@score":"2",
+"@id":"561372",
+"info":{"authors":{"author":[{"@pid":"10/3523","text":"Shilei Zhang"},{"@pid":"99/844","text":"Toyotaro Suzumura"},{"@pid":"89/5992","text":"Li Zhang"}]},"title":"DynGraphTrans: Dynamic Graph Embedding via Modified Universal Transformer Networks for Financial Transaction Data.","venue":"SMDS","pages":"184-191","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/smds/ZhangSZ21","doi":"10.1109/SMDS53860.2021.00032","ee":"https://doi.org/10.1109/SMDS53860.2021.00032","url":"https://dblp.org/rec/conf/smds/ZhangSZ21"},
+"url":"URL#561372"
+},
+{
+"@score":"2",
+"@id":"575129",
+"info":{"authors":{"author":[{"@pid":"183/6610","text":"Emmanuele Chersoni"},{"@pid":"49/1619","text":"Chu-Ren Huang"}]},"title":"PolyU-CBS at the FinSim-2 Task: Combining Distributional, String-Based and Transformers-Based Features for Hypernymy Detection in the Financial Domain.","venue":"WWW","pages":"316-319","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/www/ChersoniH21","doi":"10.1145/3442442.3451387","ee":"https://doi.org/10.1145/3442442.3451387","url":"https://dblp.org/rec/conf/www/ChersoniH21"},
+"url":"URL#575129"
+},
+{
+"@score":"2",
+"@id":"575176",
+"info":{"authors":{"author":[{"@pid":"83/3591","text":"Tushar Goel"},{"@pid":"294/1009","text":"Vipul Chauhan"},{"@pid":"130/8145","text":"Ishan Verma"},{"@pid":"72/36","text":"Tirthankar Dasgupta"},{"@pid":"09/3737","text":"Lipika Dey"}]},"title":"TCS_WITM_2021 @FinSim-2: Transformer based Models for Automatic Classification of Financial Terms.","venue":"WWW","pages":"311-315","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/www/GoelCVDD21","doi":"10.1145/3442442.3451386","ee":"https://doi.org/10.1145/3442442.3451386","url":"https://dblp.org/rec/conf/www/GoelCVDD21"},
+"url":"URL#575176"
+},
+{
+"@score":"2",
+"@id":"575316",
+"info":{"authors":{"author":[{"@pid":"278/5040","text":"Nhu Khoa Nguyen"},{"@pid":"96/8781","text":"Emanuela Boros"},{"@pid":"92/8851","text":"Gaël Lejeune"},{"@pid":"86/1691","text":"Antoine Doucet"},{"@pid":"294/1184","text":"Thierry Delahaut"}]},"title":"L3i_LBPAM at the FinSim-2 task: Learning Financial Semantic Similarities with Siamese Transformers.","venue":"WWW","pages":"302-306","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/www/NguyenBLDD21","doi":"10.1145/3442442.3451384","ee":"https://doi.org/10.1145/3442442.3451384","url":"https://dblp.org/rec/conf/www/NguyenBLDD21"},
+"url":"URL#575316"
+},
+{
+"@score":"2",
+"@id":"598554",
+"info":{"authors":{"author":[{"@pid":"133/8631","text":"Benjamin Graham"},{"@pid":"215/4993","text":"Alaaeldin El-Nouby"},{"@pid":"243/3492","text":"Hugo Touvron"},{"@pid":"210/2208","text":"Pierre Stock"},{"@pid":"68/8653","text":"Armand Joulin"},{"@pid":"19/2115","text":"Hervé Jégou"},{"@pid":"64/5801","text":"Matthijs Douze"}]},"title":"LeViT: a Vision Transformer in ConvNet&apos;s Clothing for Faster Inference.","venue":"CoRR","volume":"abs/2104.01136","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2104-01136","ee":"https://arxiv.org/abs/2104.01136","url":"https://dblp.org/rec/journals/corr/abs-2104-01136"},
+"url":"URL#598554"
+},
+{
+"@score":"2",
+"@id":"654344",
+"info":{"authors":{"author":[{"@pid":"229/7037","text":"Kieran Wood"},{"@pid":"309/5781","text":"Sven Giegerich"},{"@pid":"64/1485","text":"Stephen J. Roberts"},{"@pid":"217/3236","text":"Stefan Zohren"}]},"title":"Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture.","venue":"CoRR","volume":"abs/2112.08534","year":"2021","type":"Informal Publications","access":"open","key":"journals/corr/abs-2112-08534","ee":"https://arxiv.org/abs/2112.08534","url":"https://dblp.org/rec/journals/corr/abs-2112-08534"},
+"url":"URL#654344"
+},
+{
+"@score":"2",
+"@id":"674020",
+"info":{"authors":{"author":[{"@pid":"198/3702","text":"Kostadin Mishev"},{"@pid":"153/5139","text":"Ana Gjorgjevikj"},{"@pid":"137/8552","text":"Irena Vodenska"},{"@pid":"14/1033","text":"Lubomir T. Chitkushev"},{"@pid":"66/6484","text":"Dimitar Trajanov"}]},"title":"Evaluation of Sentiment Analysis in Finance: From Lexicons to Transformers.","venue":"IEEE Access","volume":"8","pages":"131662-131682","year":"2020","type":"Journal Articles","access":"open","key":"journals/access/MishevGVCT20","doi":"10.1109/ACCESS.2020.3009626","ee":"https://doi.org/10.1109/ACCESS.2020.3009626","url":"https://dblp.org/rec/journals/access/MishevGVCT20"},
+"url":"URL#674020"
+},
+{
+"@score":"2",
+"@id":"858954",
+"info":{"authors":{"author":[{"@pid":"216/6008","text":"Matthew Caron"},{"@pid":"43/6309","text":"Oliver Müller"}]},"title":"Hardening Soft Information: A Transformer-Based Approach to Forecasting Stock Return Volatility.","venue":"IEEE BigData","pages":"4383-4391","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/bigdataconf/CaronM20","doi":"10.1109/BIGDATA50022.2020.9378134","ee":"https://doi.org/10.1109/BigData50022.2020.9378134","url":"https://dblp.org/rec/conf/bigdataconf/CaronM20"},
+"url":"URL#858954"
+},
+{
+"@score":"2",
+"@id":"873419",
+"info":{"authors":{"author":[{"@pid":"218/8007","text":"Linyi Yang"},{"@pid":"241/5906","text":"Eoin M. Kenny"},{"@pid":"218/7979","text":"Tin Lok James Ng"},{"@pid":"33/4854","text":"Yi Yang"},{"@pid":"s/BarrySmyth","text":"Barry Smyth"},{"@pid":"94/11082","text":"Ruihai Dong"}]},"title":"Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification.","venue":"COLING","pages":"6150-6160","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/coling/YangKNYSD20","doi":"10.18653/V1/2020.COLING-MAIN.541","ee":"https://doi.org/10.18653/v1/2020.coling-main.541","url":"https://dblp.org/rec/conf/coling/YangKNYSD20"},
+"url":"URL#873419"
+},
+{
+"@score":"2",
+"@id":"887516",
+"info":{"authors":{"author":[{"@pid":"246/8500","text":"Ursin Brunner"},{"@pid":"38/5145","text":"Kurt Stockinger"}]},"title":"Entity Matching with Transformer Architectures - A Step Forward in Data Integration.","venue":"EDBT","pages":"463-473","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/edbt/BrunnerS20","doi":"10.5441/002/EDBT.2020.58","ee":"https://doi.org/10.5441/002/edbt.2020.58","url":"https://dblp.org/rec/conf/edbt/BrunnerS20"},
+"url":"URL#887516"
+},
+{
+"@score":"2",
+"@id":"942267",
+"info":{"authors":{"author":[{"@pid":"247/1295","text":"Qianggang Ding"},{"@pid":"229/5832","text":"Sifan Wu"},{"@pid":"82/2248","text":"Hao Sun"},{"@pid":"230/8562","text":"Jiadong Guo"},{"@pid":"96/2596","text":"Jian Guo"}]},"title":"Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction.","venue":"IJCAI","pages":"4640-4646","year":"2020","type":"Conference and Workshop Papers","access":"open","key":"conf/ijcai/DingWSGG20","doi":"10.24963/IJCAI.2020/640","ee":"https://doi.org/10.24963/ijcai.2020/640","url":"https://dblp.org/rec/conf/ijcai/DingWSGG20"},
+"url":"URL#942267"
+},
+{
+"@score":"2",
+"@id":"1023137",
+"info":{"authors":{"author":[{"@pid":"13/5044","text":"Shi Yu"},{"@pid":"11/5123","text":"Yuxin Chen"},{"@pid":"260/7102","text":"Hussain Zaidi"}]},"title":"A Financial Service Chatbot based on Deep Bidirectional Transformers.","venue":"CoRR","volume":"abs/2003.04987","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2003-04987","ee":"https://arxiv.org/abs/2003.04987","url":"https://dblp.org/rec/journals/corr/abs-2003-04987"},
+"url":"URL#1023137"
+},
+{
+"@score":"2",
+"@id":"1068625",
+"info":{"authors":{"author":[{"@pid":"218/8007","text":"Linyi Yang"},{"@pid":"241/5906","text":"Eoin M. Kenny"},{"@pid":"218/7979","text":"Tin Lok James Ng"},{"@pid":"33/4854","text":"Yi Yang"},{"@pid":"s/BarrySmyth","text":"Barry Smyth"},{"@pid":"94/11082","text":"Ruihai Dong"}]},"title":"Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification.","venue":"CoRR","volume":"abs/2010.12512","year":"2020","type":"Informal Publications","access":"open","key":"journals/corr/abs-2010-12512","ee":"https://arxiv.org/abs/2010.12512","url":"https://dblp.org/rec/journals/corr/abs-2010-12512"},
+"url":"URL#1068625"
+},
+{
+"@score":"2",
+"@id":"2444371",
+"info":{"authors":{"author":[{"@pid":"195/7643","text":"Robert Kostack"},{"@pid":"159/4164","text":"Christoph Tzschoppe"},{"@pid":"195/7822","text":"Herbert Stockinger"},{"@pid":"187/1116","text":"Udo Jörges"},{"@pid":"49/1035","text":"Frank Ellinger"}]},"title":"A 2 GHz low noise amplifier with transformer input matching in 28 nm CMOS.","venue":"NORCAS","pages":"1-6","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/norchip/KostackTSJE16","doi":"10.1109/NORCHIP.2016.7792903","ee":"https://doi.org/10.1109/NORCHIP.2016.7792903","url":"https://dblp.org/rec/conf/norchip/KostackTSJE16"},
+"url":"URL#2444371"
+}
+]
+}
+}
+}

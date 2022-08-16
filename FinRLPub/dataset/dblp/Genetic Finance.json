@@ -1,0 +1,158 @@
+{
+"result":{
+"query":"genetic* finance*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"19.92"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"21",
+"@dc":"21",
+"@oc":"21",
+"@id":"46275665",
+"text":"finance"
+}
+},
+"hits":{
+"@total":"21",
+"@computed":"21",
+"@sent":"21",
+"@first":"0",
+"hit":[{
+"@score":"3",
+"@id":"5086492",
+"info":{"authors":{"author":{"@pid":"35/2561","text":"Edmund Chattoe"}},"title":"Genetic Algorithms and Genetic Programming in Computational Finance by Shu-Heng Chen (ed.).","venue":"J. Artif. Soc. Soc. Simul.","volume":"7","number":"4","year":"2004","type":"Journal Articles","access":"open","key":"journals/jasss/Chen04","ee":"http://jasss.soc.surrey.ac.uk/7/4/reviews/chattoe.html","url":"https://dblp.org/rec/journals/jasss/Chen04"},
+"url":"URL#5086492"
+},
+{
+"@score":"2",
+"@id":"312821",
+"info":{"authors":{"author":{"@pid":"277/5159","text":"Bin Sang"}},"title":"Application of genetic algorithm and BP neural network in supply chain finance under information sharing.","venue":"J. Comput. Appl. Math.","volume":"384","pages":"113170","year":"2021","type":"Journal Articles","access":"closed","key":"journals/jcam/Sang21","doi":"10.1016/J.CAM.2020.113170","ee":"https://doi.org/10.1016/j.cam.2020.113170","url":"https://dblp.org/rec/journals/jcam/Sang21"},
+"url":"URL#312821"
+},
+{
+"@score":"2",
+"@id":"723508",
+"info":{"authors":{"author":[{"@pid":"76/829","text":"Anthony Brabazon"},{"@pid":"38/8509","text":"Michael Kampouridis"},{"@pid":"61/6483-1","text":"Michael O&apos;Neill 0001"}]},"title":"Applications of genetic programming to finance and economics: past, present, future.","venue":"Genet. Program. Evolvable Mach.","volume":"21","number":"1-2","pages":"33-53","year":"2020","type":"Journal Articles","access":"closed","key":"journals/gpem/BrabazonKO20","doi":"10.1007/S10710-019-09359-Z","ee":"https://doi.org/10.1007/s10710-019-09359-z","url":"https://dblp.org/rec/journals/gpem/BrabazonKO20"},
+"url":"URL#723508"
+},
+{
+"@score":"2",
+"@id":"747038",
+"info":{"authors":{"author":{"@pid":"66/9850","text":"Salim Lahmiri"}},"title":"A predictive system integrating intrinsic mode functions, artificial neural networks, and genetic algorithms for forecasting S&amp;P500 intra-day data.","venue":"Intell. Syst. Account. Finance Manag.","volume":"27","number":"2","pages":"55-65","year":"2020","type":"Journal Articles","access":"closed","key":"journals/isafm/Lahmiri20","doi":"10.1002/ISAF.1470","ee":"https://doi.org/10.1002/isaf.1470","url":"https://dblp.org/rec/journals/isafm/Lahmiri20"},
+"url":"URL#747038"
+},
+{
+"@score":"2",
+"@id":"1166768",
+"info":{"authors":{"author":[{"@pid":"147/3649","text":"Jason F. Nicholls"},{"@pid":"54/4063","text":"Andries P. Engelbrecht"}]},"title":"Co-evolved genetic programs for stock market trading.","venue":"Intell. Syst. Account. Finance Manag.","volume":"26","number":"3","pages":"117-136","year":"2019","type":"Journal Articles","access":"closed","key":"journals/isafm/NichollsE19","doi":"10.1002/ISAF.1458","ee":"https://doi.org/10.1002/isaf.1458","url":"https://dblp.org/rec/journals/isafm/NichollsE19"},
+"url":"URL#1166768"
+},
+{
+"@score":"2",
+"@id":"2863208",
+"info":{"authors":{"author":[{"@pid":"69/739","text":"Sergio Davalos"},{"@pid":"151/2787","text":"Fei Leng"},{"@pid":"150/6931","text":"Ehsan H. Feroz"},{"@pid":"151/2780","text":"Zhiyan Cao"}]},"title":"Designing an if-then Rules-Based Ensemble of Heterogeneous bankruptcy Classifiers: a Genetic Algorithm Approach.","venue":"Intell. Syst. Account. Finance Manag.","volume":"21","number":"3","pages":"129-153","year":"2014","type":"Journal Articles","access":"closed","key":"journals/isafm/DavalosLFC14","doi":"10.1002/ISAF.1354","ee":"https://doi.org/10.1002/isaf.1354","url":"https://dblp.org/rec/journals/isafm/DavalosLFC14"},
+"url":"URL#2863208"
+},
+{
+"@score":"2",
+"@id":"2984094",
+"info":{"authors":{"author":[{"@pid":"154/8344","text":"Indhu Nair"},{"@pid":"154/8369","text":"Anasraj Robert"}]},"title":"Hybrid Genetic Particle Swarm tuned sliding mode controller for chaotic finance system.","venue":"ICACCI","pages":"1290-1295","year":"2014","type":"Conference and Workshop Papers","access":"closed","key":"conf/icacci/NairR14","doi":"10.1109/ICACCI.2014.6968261","ee":"https://doi.org/10.1109/ICACCI.2014.6968261","url":"https://dblp.org/rec/conf/icacci/NairR14"},
+"url":"URL#2984094"
+},
+{
+"@score":"2",
+"@id":"3533734",
+"info":{"authors":{"author":[{"@pid":"00/2132","text":"Ramasubramanian Sundararajan"},{"@pid":"82/1865","text":"Tarun Bhaskar"},{"@pid":"41/8285","text":"Padmini Rajagopalan"}]},"title":"A Parallel Genetic Algorithm for Propensity Modeling in Consumer Finance.","venue":"ICAISC","pages":"377-385","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/icaisc/SundararajanBR12","doi":"10.1007/978-3-642-29353-5_44","ee":"https://doi.org/10.1007/978-3-642-29353-5_44","url":"https://dblp.org/rec/conf/icaisc/SundararajanBR12"},
+"url":"URL#3533734"
+},
+{
+"@score":"2",
+"@id":"3686980",
+"info":{"authors":{"author":[{"@pid":"93/8982","text":"Peter Sarlin"},{"@pid":"27/4729","text":"Dorina Marghescu"}]},"title":"Neuro-Genetic Predictions of Currency crises.","venue":"Intell. Syst. Account. Finance Manag.","volume":"18","number":"4","pages":"145-160","year":"2011","type":"Journal Articles","access":"closed","key":"journals/isafm/SarlinM11a","doi":"10.1002/ISAF.328","ee":"https://doi.org/10.1002/isaf.328","url":"https://dblp.org/rec/journals/isafm/SarlinM11a"},
+"url":"URL#3686980"
+},
+{
+"@score":"2",
+"@id":"4530663",
+"info":{"authors":{"author":[{"@pid":"37/3419","text":"Eva Alfaro-Cid"},{"@pid":"84/1172","text":"Alberto Cuesta-Cañada"},{"@pid":"35/3531","text":"Ken Sharman"},{"@pid":"14/3715","text":"Anna Esparcia-Alcázar"}]},"title":"Strong Typing, Variable Reduction and Bloat Control for Solving the Bankruptcy Prediction Problem Using Genetic Programming.","venue":"Natural Computing in Computational Finance","pages":"161-185","year":"2008","type":"Parts in Books or Collections","access":"closed","key":"series/sci/Alfaro-CidCSE08","doi":"10.1007/978-3-540-77477-8_9","ee":"https://doi.org/10.1007/978-3-540-77477-8_9","url":"https://dblp.org/rec/series/sci/Alfaro-CidCSE08"},
+"url":"URL#4530663"
+},
+{
+"@score":"2",
+"@id":"4577043",
+"info":{"authors":{"author":[{"@pid":"09/9569","text":"Bethany Hoogs"},{"@pid":"55/9568","text":"Thomas Kiehl"},{"@pid":"09/1481","text":"Christina LaComb"},{"@pid":"55/9569","text":"Deniz Senturk"}]},"title":"A genetic algorithm approach to detecting temporal patterns indicative of financial statement fraud.","venue":"Intell. Syst. Account. Finance Manag.","volume":"15","number":"1-2","pages":"41-56","year":"2007","type":"Journal Articles","access":"closed","key":"journals/isafm/HoogsKLS07","doi":"10.1002/ISAF.284","ee":"https://doi.org/10.1002/isaf.284","url":"https://dblp.org/rec/journals/isafm/HoogsKLS07"},
+"url":"URL#4577043"
+},
+{
+"@score":"2",
+"@id":"4761936",
+"info":{"authors":{"author":[{"@pid":"75/9569","text":"R. H. Berry"},{"@pid":"82/9568","text":"D. H. F. Manongga"}]},"title":"Integrating genetic algorithms and spreadsheets: a capital budgeting application.","venue":"Intell. Syst. Account. Finance Manag.","volume":"14","number":"3","pages":"87-97","year":"2006","type":"Journal Articles","access":"closed","key":"journals/isafm/BerryM06","doi":"10.1002/ISAF.278","ee":"https://doi.org/10.1002/isaf.278","url":"https://dblp.org/rec/journals/isafm/BerryM06"},
+"url":"URL#4761936"
+},
+{
+"@score":"2",
+"@id":"4761940",
+"info":{"authors":{"author":{"@pid":"86/9569","text":"Anna Lawrynowicz"}},"title":"Hybrid approach with an expert system and a genetic algorithm to production management in the supply net.","venue":"Intell. Syst. Account. Finance Manag.","volume":"14","number":"1-2","pages":"59-76","year":"2006","type":"Journal Articles","access":"closed","key":"journals/isafm/Lawrynowicz06","doi":"10.1002/ISAF.272","ee":"https://doi.org/10.1002/isaf.272","url":"https://dblp.org/rec/journals/isafm/Lawrynowicz06"},
+"url":"URL#4761940"
+},
+{
+"@score":"2",
+"@id":"5010000",
+"info":{"authors":{"author":{"@pid":"72/3603","text":"Serge Hayward"}},"title":"Applications of Genetic Algorithm for Artificial Neural Network Model Discovery and Performance Surface Optimization in Finance.","venue":"ICNC","pages":"1214-1223","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/icnc/Hayward05","doi":"10.1007/11539087_161","ee":"https://doi.org/10.1007/11539087_161","url":"https://dblp.org/rec/conf/icnc/Hayward05"},
+"url":"URL#5010000"
+},
+{
+"@score":"2",
+"@id":"5084916",
+"info":{"authors":{"author":[{"@pid":"07/520","text":"Myoung-Jong Kim"},{"@pid":"77/30","text":"Ingoo Han"},{"@pid":"79/674","text":"Kun Chang Lee"}]},"title":"Hybrid knowledge integration using the fuzzy genetic algorithm: prediction of the Korea stock price index.","venue":"Intell. Syst. Account. Finance Manag.","volume":"12","number":"1","pages":"43-60","year":"2004","type":"Journal Articles","access":"closed","key":"journals/isafm/KimHL04","doi":"10.1002/ISAF.240","ee":"https://doi.org/10.1002/isaf.240","url":"https://dblp.org/rec/journals/isafm/KimHL04"},
+"url":"URL#5084916"
+},
+{
+"@score":"2",
+"@id":"5423969",
+"info":{"authors":{"author":[{"@pid":"72/4986","text":"Randall S. Sexton"},{"@pid":"67/3915","text":"Naheel A. Sikander"}]},"title":"Data mining using a genetic algorithm-trained neural network.","venue":"Intell. Syst. Account. Finance Manag.","volume":"10","number":"4","pages":"201-210","year":"2001","type":"Journal Articles","access":"closed","key":"journals/isafm/SextonS01","doi":"10.1002/ISAF.205","ee":"https://doi.org/10.1002/isaf.205","url":"https://dblp.org/rec/journals/isafm/SextonS01"},
+"url":"URL#5423969"
+},
+{
+"@score":"2",
+"@id":"5586167",
+"info":{"authors":{"author":[{"@pid":"87/1647","text":"Shu-Heng Chen"},{"@pid":"31/4444","text":"Wo-Chiang Lee"},{"@pid":"79/4881","text":"Chia-Hsuan Yeh"}]},"title":"Hedging derivative securities with genetic programming.","venue":"Intell. Syst. Account. Finance Manag.","volume":"8","number":"4","pages":"237-251","year":"1999","type":"Journal Articles","access":"closed","key":"journals/isafm/ChenLY99","doi":"10.1002/(SICI)1099-1174(199912)8:4&lt;237::AID-ISAF174&gt;3.0.CO;2-J","ee":"https://doi.org/10.1002/(SICI)1099-1174(199912)8:4&lt;237::AID-ISAF174&gt;3.0.CO;2-J","url":"https://dblp.org/rec/journals/isafm/ChenLY99"},
+"url":"URL#5586167"
+},
+{
+"@score":"2",
+"@id":"5619208",
+"info":{"authors":{"author":{"@pid":"65/5797","text":"Jérôme Habrant"}},"title":"Structure Learning of Bayesian Networks from Databases by Genetic Algorithms-Application to Time Series Prediction in Finance.","venue":"ICEIS","pages":"225-231","year":"1999","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/iceis/Habrant99","url":"https://dblp.org/rec/conf/iceis/Habrant99"},
+"url":"URL#5619208"
+},
+{
+"@score":"2",
+"@id":"5655187",
+"info":{"authors":{"author":{"@pid":"48/3560","text":"James V. Hansen"}},"title":"Comparative performance of backpropagation networks designed by genetic algorithms and heuristics.","venue":"Intell. Syst. Account. Finance Manag.","volume":"7","number":"2","pages":"69-79","year":"1998","type":"Journal Articles","access":"closed","key":"journals/isafm/Hansen98","doi":"10.1002/(SICI)1099-1174(199806)7:2&lt;69::AID-ISAF143&gt;3.0.CO;2-2","ee":"https://doi.org/10.1002/(SICI)1099-1174(199806)7:2&lt;69::AID-ISAF143&gt;3.0.CO;2-2","url":"https://dblp.org/rec/journals/isafm/Hansen98"},
+"url":"URL#5655187"
+},
+{
+"@score":"2",
+"@id":"5655200",
+"info":{"authors":{"author":[{"@pid":"51/9573","text":"Orion J. Welch"},{"@pid":"06/6579","text":"Thomas E. Reeves"},{"@pid":"03/9573","text":"Sandra T. Welch"}]},"title":"Using a genetic algorithm-based classifier system for modeling auditor decision behavior in a fraud setting.","venue":"Intell. Syst. Account. Finance Manag.","volume":"7","number":"3","pages":"173-186","year":"1998","type":"Journal Articles","access":"closed","key":"journals/isafm/WelchRW98","doi":"10.1002/(SICI)1099-1174(199809)7:3&lt;173::AID-ISAF147&gt;3.0.CO;2-5","ee":"https://doi.org/10.1002/(SICI)1099-1174(199809)7:3&lt;173::AID-ISAF147&gt;3.0.CO;2-5","url":"https://dblp.org/rec/journals/isafm/WelchRW98"},
+"url":"URL#5655200"
+},
+{
+"@score":"2",
+"@id":"5773692",
+"info":{"authors":{"author":[{"@pid":"25/9575","text":"Alan S. Levitan"},{"@pid":"92/9574","text":"Mahesh Gupta"}]},"title":"Using Genetic Algorithms to Optimize the Selection of Cost Drivers in Activity-based Costing.","venue":"Intell. Syst. Account. Finance Manag.","volume":"5","number":"3","pages":"129-145","year":"1996","type":"Journal Articles","access":"closed","key":"journals/isafm/LevitanG96","doi":"10.1002/(SICI)1099-1174(199609)5:3&lt;129::AID-ISAF105&gt;3.0.CO;2-S","ee":"https://doi.org/10.1002/(SICI)1099-1174(199609)5:3&lt;129::AID-ISAF105&gt;3.0.CO;2-S","url":"https://dblp.org/rec/journals/isafm/LevitanG96"},
+"url":"URL#5773692"
+}
+]
+}
+}
+}
